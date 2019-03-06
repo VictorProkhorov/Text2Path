@@ -1,0 +1,13 @@
+PATO:0002401	random pattern characterised unidentifiable pattern	<SOS> v2 v1 v32 v58 <EOS>
+PATO:0002409	fluid-filled bounded structure filled fluid	<SOS> v2 v6 v2 v20 <EOS>
+PATO:0000758	unbalanced balance quality inhering bearer virtue bearer 's lacking balance	<SOS> v2 v9 v4 v1 <EOS>
+PATO:0001945	ochre moderate yellow-orange orange color	<SOS> v2 v1 v9 v3 v1 v4 v11 v2 <EOS>
+PATO:0001437	sessile sensu zoology attachment quality inhering bearer virtue bearer 's inability move	<SOS> v2 v6 v2 v59 <EOS>
+PATO:0001792	left side spatial quality inhering bearer virtue bearer 's located left side another entity	<SOS> v2 v1 v32 <EOS>
+PATO:0002241	trilobed lobed quality inhering bearer virtue bearer 's divided three lobes	<SOS> v2 v6 v8 v12 <EOS>
+PATO:0001686	non-magnetic magnetic quality inhering bearer virtue bearer 's inability exert magnitism	<SOS> v2 v1 v39 <EOS>
+PATO:0015010	increased humidity increase humidity humid	<SOS> v2 v8 <EOS>
+PATO:0001796	decreased coiling coiling relatively low low coiling	<SOS> v2 v6 v8 v29 v1 <EOS>
+PATO:0001843	decreased acidity acidity relatively low low acidity	<SOS> v2 v12 v12 v6 <EOS>
+PATO:0005019	curved lingually curvature quality inhering bearer virtue bearer 's curved towards tongue	<SOS> v2 v6 v8 v76 v1 <EOS>
+PATO:0002441	ornamented surface feature shape bearer 's surface highly topographical ridges pits rugosity surface structures	<SOS> v2 v6 v8 v40 v10 <EOS>

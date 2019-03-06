@@ -1,0 +1,263 @@
+biped.n.01 biped animal two feet
+stocker.n.01 stocker domestic animal especially young steer heifer kept stock fattened matured suitable breeding establishment
+gastrula.n.01 gastrula double-walled stage embryo resulting invagination blastula outer layer cells ectoderm inner layer differentiates mesoderm endoderm
+hellgrammiate.n.01 hellgrammiate large brown aquatic larva dobsonfly used fishing bait
+leptocephalus.n.01 leptocephalus slender transparent larva eels certain fishes
+wireworm.n.01 wireworm wormlike larva various elaterid beetles feeds roots many crop plants
+by-catch.n.01 by-catch unwanted marine creatures caught nets fishing another species
+vermin.n.02 vermin various small animals insects pests e.g cockroaches rats
+steeplechaser.n.01 steeplechaser horse trained run steeplechases
+great_pyrenees.n.01 great pyrenees bred large heavy-coated white dogs resembling newfoundland
+blastocyst.n.01 blastocyst blastula placental mammal differentiation cells occurred
+trilobite.n.01 trilobite extinct arthropod abundant paleozoic times exoskeleton divided three parts
+helminth.n.01 helminth worm parasitic intestines vertebrates especially roundworms tapeworms flukes
+tussock_caterpillar.n.01 tussock caterpillar larva tussock moth
+leatherjacket.n.03 leatherjacket tough-skinned larva certain crane flies
+cygnet.n.01 cygnet young swan
+fledgling.n.02 fledgling young bird fledged become capable flying
+caecilian.n.01 caecilian small slender limbless burrowing wormlike amphibians order gymnophiona inhabit moist soil tropical regions
+sinornis.n.01 sinornis sparrow-sized fossil bird jurassic period cretaceous period keeled breastbone vestigial tail found china considered possibly second primitive birds
+pariah_dog.n.01 pariah dog ownerless half-wild mongrel dog common around asian villages especially india
+japanese_spaniel.n.01 japanese spaniel breed toy dogs originating japan silky black-and-white red-and-white coat
+harvestman.n.01 harvestman spiderlike arachnid small rounded body long thin legs
+piddock.n.01 piddock marine bivalve bores rock clay wood means saw-like shells
+physa.n.01 physa member genus physa
+persian_lamb.n.02 persian lamb karakul lamb
+midwife_toad.n.01 midwife toad similar habit alytes obstetricians
+rough_fish.n.01 rough fish fish useless food sport even bait
+secretary_bird.n.01 secretary bird large long-legged african bird prey feeds reptiles
+frogmouth.n.01 frogmouth insectivorous bird australia southeastern asia wide frog-like mouth
+tody.n.01 tody tiny insectivorous west indian bird red-and-green plumage long straight bill
+macaw.n.01 macaw long-tailed brilliantly colored parrot central america south america among largest showiest parrots
+ostrich.n.02 ostrich fast-running african flightless bird two-toed feet largest living bird
+livestock.n.01 livestock animals kept use profit
+harrier.n.02 harrier hound resembles foxhound smaller used hunt rabbits
+redbone.n.01 redbone speedy red red-and-tan american hound
+border_terrier.n.01 border terrier small rough-coated terrier british origin
+norwich_terrier.n.01 norwich terrier english breed small short-legged terrier straight wiry red grey black-and-tan coat erect ears
+yorkshire_terrier.n.01 yorkshire terrier small breed long glossy coat bluish-grey tan
+greater_swiss_mountain_dog.n.01 greater swiss mountain dog largest four swiss breeds
+rottweiler.n.01 rottweiler german breed large vigorous short-haired cattle dogs
+siberian_husky.n.01 siberian husky breed sled dog developed northeastern siberia resemble larger alaskan malamutes
+attack_dog.n.01 attack dog watchdog trained attack command
+black_and_gold_garden_spider.n.01 black and gold garden spider widely distributed north american garden spider
+black_widow.n.01 black widow venomous new world spider female black hourglass-shaped red mark underside abdomen
+comb-footed_spider.n.01 comb-footed spider spider comb-like row bristles hind foot
+water_beetle.n.01 water beetle numerous aquatic beetles usually smooth oval body flattened hind legs swimming
+head_louse.n.01 head louse infests head body humans
+mastotermes_electromexicus.n.01 mastotermes electromexicus extinct termite found amber southern mexico
+japanese_oyster.n.01 japanese oyster large oyster native japan introduced along pacific coast united states candidate introduction chesapeake bay
+horseleech.n.01 horseleech several large freshwater leeches
+african_clawed_frog.n.01 african clawed frog tongueless frog native africa established united states result release laboratory aquarium animals
+chameleon_tree_frog.n.01 chameleon tree frog form tree toad
+bullfrog.n.01 bullfrog largest north american frog highly aquatic deep-pitched voice
+wood-frog.n.01 wood-frog wide-ranging light-brown frog moist north american woodlands especially spruce
+myxinikela_siroka.n.01 myxinikela siroka fossil hagfish pennsylvanian period c. 300 million years ago resembled modern hagfishes
+whooper.n.02 whooper common old world swan noted whooping call
+plain_wanderer.n.01 plain wanderer small australian bird related button quail classified wading bird inhabits plains
+sparrow_hawk.n.02 sparrow hawk small hawk eurasia northern africa
+jungle_cock.n.01 jungle cock male jungle fowl
+budgerigar.n.01 budgerigar small australian parakeet usually light green black yellow markings wild bred many colors
+pitta.n.01 pitta bird genus pitta brilliantly colored chiefly terrestrial birds short wings tail stout bills
+redheaded_woodpecker.n.01 redheaded woodpecker black-and-white north american woodpecker red head neck
+anomalopteryx.n.01 anomalopteryx smallest moa slender moa size large turkey
+mara.n.02 mara hare-like rodent pampas argentina
+mole_rat.n.01 mole rat african rodent resembling mole habits appearance
+muskrat.n.02 muskrat beaver-like aquatic rodent north america dark glossy brown fur
+irish_setter.n.01 irish setter irish breed chestnut-brown mahogany-red coat
+staffordshire_bullterrier.n.01 staffordshire bullterrier english breed strong stocky dog broad skull smooth coat
+peahen.n.01 peahen female peafowl
+king_crab.n.03 king crab large edible crab northern pacific waters especially along coasts alaska japan
+click_beetle.n.01 click beetle able right back flipping air clicking sound
+colorado_potato_beetle.n.01 colorado potato beetle black-and-yellow beetle feeds adult larval stages potato leaves originally eastern rocky mountains worldwide
+boll_weevil.n.01 boll weevil greyish weevil lays eggs cotton bolls destroying cotton
+sand_fly.n.01 sand fly various small dipterous flies bloodsucking females transmit sandfly fever leishmaniasis
+anopheline.n.01 anopheline mosquito genus anopheles
+common_mosquito.n.01 common mosquito common house mosquito
+citrus_whitefly.n.01 citrus whitefly whitefly attacks citrus trees
+sea_feather.n.01 sea feather corals forming featherlike colonies
+northern_cricket_frog.n.01 northern cricket frog cricket frog eastern central united states
+shrimpfish.n.01 shrimpfish slender tropical shallow-water east indian fish covered transparent plates
+chum_salmon.n.01 chum salmon large pacific salmon small spots back important food fish
+allice_shad.n.01 allice shad european shad
+grey_snapper.n.01 grey snapper found shallow waters coast florida
+rocky_mountain_whitefish.n.01 rocky mountain whitefish whitefish western united states canada
+auklet.n.01 auklet several small auks northern pacific coasts
+little_auk.n.01 little auk small short-billed auk abundant arctic regions
+boatbill.n.01 boatbill tropical american heron related night herons
+brazilian_trumpeter.n.01 brazilian trumpeter trumpeter brazil guiana often kept protect poultry brazil
+montagu's_harrier.n.01 montagu's harrier brownish european harrier
+bearded_vulture.n.01 bearded vulture largest eurasian bird prey black feathers hanging around bill
+wood_pigeon.n.01 wood pigeon eurasian pigeon white patches wings neck
+dominique.n.01 dominique american breed chicken barred grey plumage raised meat brown eggs
+currawong.n.01 currawong bluish black fruit-eating bird bell-like call
+piping_crow.n.01 piping crow crow-sized black-and-white bird good mimic often caged
+raven.n.01 raven large black bird straight bill long wedge-shaped tail
+purple_finch.n.01 purple finch north american finch raspberry-red head breast rump
+rock_wren.n.01 rock wren short-tailed bird resembling wren
+golden_oriole.n.01 golden oriole bright yellow songbird black wings
+loggerhead_shrike.n.01 loggerhead shrike common shrike southeastern united states black bands around eyes
+common_starling.n.01 common starling gregarious bird plumage dark metallic gloss builds nests around dwellings structures naturalized worldwide
+missel_thrush.n.01 missel thrush large european thrush feeds mistletoe berries
+wood_thrush.n.01 wood thrush large thrush common eastern american woodlands noted melodious song
+spotted_antbird.n.01 spotted antbird kind antbird
+koala.n.01 koala sluggish tailless australian arboreal marsupial grey furry ears coat feeds eucalyptus leaves bark
+ice_bear.n.01 ice bear white bear arctic regions
+kinkajou.n.01 kinkajou arboreal fruit-eating mammal tropical america long prehensile tail
+genet.n.03 genet agile old world viverrine spotted coat long ringed tail
+apar.n.01 apar south american armadillo three bands bony plates
+indri.n.01 indri large short-tailed lemur madagascar thick silky fur black white fawn
+tarsius_glis.n.01 tarsius glis variety tarsier
+whitetail_prairie_dog.n.01 whitetail prairie dog tail white tipped
+chinese_alligator.n.01 chinese alligator small alligator yangtze valley china unwebbed digits
+african_crocodile.n.01 african crocodile dangerous crocodile widely distributed africa
+black-headed_snake.n.01 black-headed snake small secretive ground-living snake found central united states argentina
+english_springer.n.01 english springer breed typically black-and-white coat
+toy_manchester.n.01 toy manchester breed small manchester terrier
+harvest_mite.n.01 harvest mite larval mite sucks blood vertebrates including human beings causing intense irritation
+wood_tick.n.01 wood tick common tick transmit rocky mountain spotted fever tularemia
+pea_weevil.n.01 pea weevil larvae live feed seeds pea plant
+bluebottle.n.02 bluebottle blowfly iridescent blue body makes loud buzzing noise flight
+four-lined_plant_bug.n.01 four-lined plant bug yellow orange leaf bug four black stripes back widespread central eastern north america
+common_pond-skater.n.01 common pond-skater variety water strider
+common_wasp.n.01 common wasp variety vespid wasp
+potter_wasp.n.01 potter wasp various solitary wasps construct vase-shaped cells mud eggs
+mourning_cloak.n.01 mourning cloak temperate regions dark purple wings yellow borders
+painted_beauty.n.01 painted beauty american butterfly dark brown wings white golden orange spots
+almond_moth.n.01 almond moth moth whose larvae feed mat together webbing various stored products vegetable origin
+goldeneye.n.01 goldeneye variety green lacewing
+boarfish.n.01 boarfish fish large eyes long snouts
+flashlight_fish.n.01 flashlight fish fish deep dark waters light organ eye
+sand_lance.n.01 sand lance small silvery eellike schooling fishes burrow sandy beaches
+red_goatfish.n.01 red goatfish body bright scarlet 2 yellow reddish strips side
+yellow_goatfish.n.01 yellow goatfish schooling goatfish greyish yellow stripe
+electric_ray.n.01 electric ray sluggish bottom-dwelling ray order torpediniformes rounded body electric organs side head capable emitting strong electric discharges
+cat_shark.n.01 cat shark small bottom-dwelling sharks cat-like eyes found along continental slopes
+sea_trout.n.03 sea trout silvery marine variety brown trout migrates fresh water spawn
+black-footed_albatross.n.01 black-footed albatross variety albatross black feet
+solan.n.01 solan large white gannet black wing tips
+red-necked_grebe.n.01 red-necked grebe large stocky grebe circumpolar regions dark neck
+king_penguin.n.01 king penguin large penguin islands bordering antarctic circle
+european_bittern.n.01 european bittern kind bittern
+snowy_egret.n.01 snowy egret small new world egret
+black_duck.n.01 black duck dusky duck northeastern united states canada
+diving_duck.n.01 diving duck various ducks especially bays estuaries dive food
+mallard.n.01 mallard wild dabbling duck domestic ducks descended widely distributed
+muscovy_duck.n.01 muscovy duck large crested wild duck central america south america widely domesticated
+redhead.n.02 redhead north american diving duck grey-and-black body reddish-brown head
+shoveler.n.02 shoveler freshwater duck northern hemisphere broad flat bill
+falcon-gentle.n.01 falcon-gentle female falcon especially female peregrine falcon
+fairy_swallow.n.01 fairy swallow fancy domestic pigeon blue-and-white plumage heavily muffed feet
+roller.n.07 roller pigeon executes backward somersaults flight ground
+evening_grosbeak.n.01 evening grosbeak north american grosbeak
+hawfinch.n.01 hawfinch common large finch eurasia
+white-throated_sparrow.n.01 white-throated sparrow common north american finch white patch throat black-and-white striped crown
+black-fronted_bush_shrike.n.01 black-fronted bush shrike kind bush shrike
+potoroo.n.01 potoroo australian rat kangaroos
+pademelon.n.01 pademelon small reddish-brown wallabies scrubby areas australia new guinea
+rock_wallaby.n.01 rock wallaby slender long-legged australian wallabies living caves rocky areas
+spouter.n.03 spouter spouting whale
+pocketed_bat.n.01 pocketed bat small brown bat california northern mexico
+hognose_bat.n.01 hognose bat small-eared mexican bat long slender nose
+desmodus_rotundus.n.01 desmodus rotundus mouse-sized bat tropical central america south america sharp incisor canine teeth feeds blood birds mammals
+frosted_bat.n.01 frosted bat common eurasian bat white-tipped hairs coat
+brood_bitch.n.01 brood bitch bitch used breeding
+grey_fox.n.01 grey fox dark grey american fox central america southern united states
+white_wolf.n.01 white wolf wolf arctic north america white fur black-tipped tail
+stone_marten.n.01 stone marten eurasian marten brown coat pale breast throat
+river_otter.n.01 river otter sociable aquatic animal widely distributed along streams lake borders north america
+fanaloka.n.01 fanaloka civet madagascar
+ichneumon.n.01 ichneumon northern african mongoose ancient times thought devour crocodile eggs
+european_water_shrew.n.01 european water shrew widely distributed old world water shrew
+mediterranean_water_shrew.n.01 mediterranean water shrew type water shrew
+leveret.n.01 leveret young hare especially one first year
+bunny.n.02 bunny usually informal especially young rabbit
+australopithecus_robustus.n.01 australopithecus robustus large-toothed hominid southern africa 1.5 2 million years ago formerly paranthropus
+zinjanthropus.n.01 zinjanthropus genus australopithecus boisei formerly assigned
+rhodesian_man.n.01 rhodesian man primitive hominid resembling neanderthal man living africa
+proboscis_monkey.n.01 proboscis monkey borneo monkey long bulbous nose
+european_wood_mouse.n.01 european wood mouse nocturnal yellowish-brown mouse inhabiting woods fields gardens
+cactus_mouse.n.01 cactus mouse burrowing mouse desert areas southwestern united states
+canada_porcupine.n.01 canada porcupine porcupine northeastern north america barbed spines concealed coarse fur often gnaws buildings salt grease
+suslik.n.01 suslik rather large central eurasian ground squirrel
+babirusa.n.01 babirusa indonesian wild pig enormous curved canine teeth
+malayan_tapir.n.01 malayan tapir tapir found malaya sumatra
+giant_tortoise.n.01 giant tortoise large tortoises galapagos seychelles islands
+komodo_dragon.n.01 komodo dragon largest lizard world 10 feet found indonesian islands
+caiman_lizard.n.01 caiman lizard crocodile-like lizard south america powerful jaws crushing snails mussels
+gopher_snake.n.02 gopher snake bull snake western north america invades rodent burrows
+ribbon_snake.n.01 ribbon snake slender yellow-striped north american garter snake prefers wet places
+western_ribbon_snake.n.01 western ribbon snake yellow- reddish-striped snake temperate woodlands grasslands tropics
+corn_snake.n.01 corn snake large harmless snake southeastern united states often farms
+boa_constrictor.n.01 boa constrictor large boa tropical america west indies
+banded_krait.n.01 banded krait sluggish krait banded black yellow
+strymon_melinus.n.01 strymon melinus larvae pests various economic plants
+angoumois_moth.n.01 angoumois moth small moth whose larvae feed kernels stored grains
+red_underwing.n.01 red underwing moth dull forewings red-marked hind wings
+conger.n.01 conger large dark-colored scaleless marine eel found temperate tropical coastal waters used food
+shovelhead.n.01 shovelhead small harmless hammerhead spade-shaped head abundant bays estuaries
+basking_shark.n.01 basking shark large harmless plankton-eating northern shark often swims slowly floats sea surface
+porbeagle.n.01 porbeagle voracious pointed-nose shark northern atlantic pacific
+lemon_shark.n.01 lemon shark common shallow-water schooling shark atlantic north carolina brazil west africa dangerous
+lesser_yellowlegs.n.01 lesser yellowlegs variety yellowlegs
+greenwing.n.01 greenwing common teal eurasia north america
+streptopelia_turtur.n.01 streptopelia turtur common european wild dove noted plaintive cooing
+bearded_seal.n.01 bearded seal medium-sized greyish yellow seal bristles side muzzle arctic ocean
+bengal_tiger.n.01 bengal tiger southern short-haired tiger
+tiger_cat.n.01 tiger cat medium-sized wildcat central america south america dark-striped coat
+zoril.n.01 zoril muishond northern africa
+eastern_cottontail.n.01 eastern cottontail widely distributed united states except northwest far west regions
+southeastern_pocket_gopher.n.01 southeastern pocket gopher gopher alabama georgia florida
+ord_kangaroo_rat.n.01 ord kangaroo rat widely distributed kangaroo rat plains mountain areas central western united states
+hispid_pocket_mouse.n.01 hispid pocket mouse large stiff-haired rodent shortgrass prairies united states
+fallow_deer.n.01 fallow deer small eurasian deer
+okapi.n.01 okapi similar giraffe smaller much shorter neck stripe legs
+jennet.n.01 jennet female donkey
+megalosaur.n.01 megalosaur gigantic carnivorous bipedal dinosaur jurassic early cretaceous europe
+rock_python.n.01 rock python large python tropical southern africa
+horned_pout.n.01 horned pout catfish common eastern united states
+gudgeon.n.02 gudgeon small slender european freshwater fish often used bait anglers
+minnow.n.01 minnow small european freshwater fish common gravelly streams
+roach.n.05 roach european freshwater food fish greenish back
+rudd.n.01 rudd european freshwater fish resembling roach
+guppy.n.01 guppy small freshwater fish south america west indies often kept aquariums
+winter_flounder.n.02 winter flounder important american food fish winter
+yellowtail_flounder.n.02 yellowtail flounder american flounder yellowish tail
+angelfish.n.01 angelfish butterfly fish genus pomacanthus
+margate.n.01 margate grunt red mouth found florida brazil
+pigfish.n.02 pigfish found long island southward
+european_perch.n.01 european perch perch native europe
+black_bream.n.01 black bream important dark-colored edible food game fish australia
+bluehead.n.01 bluehead small atlantic wrasse male brilliant blue head
+tautog.n.01 tautog large dark-colored food fish atlantic coast north america
+leatherjacket.n.01 leatherjacket several brightly colored tropical filefishes
+sharptail_mola.n.01 sharptail mola caudal fin central projection
+shortfin_mako.n.01 shortfin mako swift active bluish shark found worldwide warm waters important game fish
+finback.n.01 finback large flat-headed whalebone whale deep furrows along throat atlantic pacific
+south_american_sea_lion.n.01 south american sea lion southern coast south america
+eastern_chimpanzee.n.01 eastern chimpanzee long-haired chimpanzees east-central africa closely related central chimpanzees
+bongo.n.02 bongo large forest antelope central africa reddish-brown coat white stripes spiral horns
+billy.n.02 billy male goat
+barren_ground_caribou.n.01 barren ground caribou tundra northern canada classifications included species rangifer tarandus
+burro.n.01 burro small donkey used pack animal
+mudder.n.01 mudder racehorse runs well muddy racetrack
+pony.n.02 pony informal term racehorse
+two-year-old_horse.n.01 two-year-old horse racehorse two years old
+appaloosa.n.01 appaloosa hardy breed saddle horse developed western north america characteristically spotted rump
+grey.n.07 grey horse light gray whitish color
+edmontonia.n.01 edmontonia heavily armored highly spiked dinosaur semi-upright posture
+canebrake_rattlesnake.n.01 canebrake rattlesnake southern variety
+flagfish.n.01 flagfish fish dark-blue back whitish sides red stripes found swamps streams florida
+yellowtail.n.02 yellowtail game fish southern california mexico yellow tail fin
+florida_pompano.n.01 florida pompano found coastal waters new england brazil except clear waters west indies
+spotted_weakfish.n.01 spotted weakfish weakfish southern atlantic gulf coasts united states
+common_mackerel.n.01 common mackerel important food fish northern atlantic mediterranean body greenish-blue dark bars small scales
+european_bream.n.01 european bream european freshwater fish flattened body silvery scales little value food
+spotted_sunfish.n.01 spotted sunfish inhabits streams south carolina florida esteemed panfish
+harbor_porpoise.n.01 harbor porpoise common porpoise northern atlantic pacific
+bushbuck.n.01 bushbuck antelope white markings like harness twisted horns
+exmoor.n.01 exmoor horned sheep devon valued mutton
+lincoln.n.03 lincoln long-wooled mutton sheep originally lincolnshire
+charger.n.01 charger formerly strong swift horse ridden battle
+carthorse.n.01 carthorse draft horse kept pulling carts
+durham.n.02 durham english breed short-horned cattle

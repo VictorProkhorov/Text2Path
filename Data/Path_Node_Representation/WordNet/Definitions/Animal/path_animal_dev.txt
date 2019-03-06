@@ -1,0 +1,30 @@
+sergeant_major.n.02 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 damselfish.n.01 <EOS>
+creepy-crawly.n.01 <SOS> <EOS>
+cornish.n.02 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 gallinaceous_bird.n.01 domestic_fowl.n.01 <EOS>
+cardigan.n.02 <SOS> domestic_animal.n.01 dog.n.01 corgi.n.01 <EOS>
+peeper.n.03 <SOS> <EOS>
+neandertal_man.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 primate.n.02 hominid.n.01 homo.n.02 <EOS>
+aurochs.n.02 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 bovid.n.01 bovine.n.01 ox.n.02 <EOS>
+loxostege_similalis.n.02 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 lepidopterous_insect.n.01 moth.n.01 lasiocampid.n.01 webworm_moth.n.01 <EOS>
+hairy-legged_vampire_bat.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 bat.n.01 carnivorous_bat.n.01 vampire_bat.n.01 <EOS>
+hawk_owl.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 bird_of_prey.n.01 owl.n.01 <EOS>
+mourning_dove.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 gallinaceous_bird.n.01 columbiform_bird.n.01 pigeon.n.01 dove.n.01 <EOS>
+armyworm.n.01 <SOS> larva.n.01 caterpillar.n.01 <EOS>
+gallfly.n.03 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 <EOS>
+talapoin.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 primate.n.02 monkey.n.01 old_world_monkey.n.01 guenon.n.01 <EOS>
+european_nuthatch.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 nuthatch.n.01 <EOS>
+greater_kudu.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 bovid.n.01 antelope.n.01 kudu.n.01 <EOS>
+ungulata.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 <EOS>
+ferret_badger.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 musteline_mammal.n.01 badger.n.02 <EOS>
+serow.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 bovid.n.01 goat_antelope.n.01 <EOS>
+sidewinder.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 snake.n.01 viper.n.01 pit_viper.n.01 rattlesnake.n.01 <EOS>
+woolly_apple_aphid.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 homopterous_insect.n.01 plant_louse.n.01 aphid.n.01 woolly_aphid.n.01 <EOS>
+human_botfly.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 dipterous_insect.n.01 fly.n.01 gadfly.n.02 botfly.n.01 <EOS>
+american_chameleon.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 saurian.n.01 lizard.n.01 iguanid.n.01 <EOS>
+american_mastodon.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 proboscidean.n.01 mastodon.n.01 <EOS>
+woolly_mammoth.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 pachyderm.n.01 elephant.n.01 mammoth.n.01 <EOS>
+carolina_chickadee.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 titmouse.n.01 chickadee.n.01 <EOS>
+mamo.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 finch.n.01 honeycreeper.n.01 <EOS>
+audubon's_caracara.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 bird_of_prey.n.01 hawk.n.01 falcon.n.01 caracara.n.01 <EOS>
+tiger_shark.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 cartilaginous_fish.n.01 elasmobranch.n.01 shark.n.01 requiem_shark.n.01 <EOS>
+blackcap.n.04 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 warbler.n.02 old_world_warbler.n.01 <EOS>

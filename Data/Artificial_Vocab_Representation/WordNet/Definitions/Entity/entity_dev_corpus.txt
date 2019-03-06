@@ -1,0 +1,577 @@
+accounting_data.n.01	accounting data data ledgers journals spreadsheets support financial statement hard copy machine readable	<SOS> v2 v1 v14 v11 <EOS>
+activated_carbon.n.01	activated carbon powdered granular carbon used purifying adsorption given orally slurry antidote kinds poisons	<SOS> v3 v4 v14 v16 v5 <EOS>
+vein.n.05	vein one horny ribs stiffen support wing insect	<SOS> v3 v3 v6 v13 v20 v44 <EOS>
+mat.n.04	mat mass densely tangled interwoven	<SOS> v3 v2 v36 v2 v8 v3 <EOS>
+winker.n.02	winker blind consisting leather eyepatch sewn side halter prevents horse seeing something either side	<SOS> v3 v2 v36 v7 v19 v22 v34 <EOS>
+hakim.n.02	hakim muslim physician	<SOS> v3 v1 v4 v250 v5 <EOS>
+headmistress.n.01	headmistress woman headmaster	<SOS> v3 v1 v4 v108 v6 v7 v1 <EOS>
+mebendazole.n.01	mebendazole anthelmintic used treat hookworm pinworm roundworm infestations	<SOS> v3 v1 v12 v11 v29 v81 <EOS>
+street_smarts.n.01	street smarts shrewd ability survive dangerous urban environment	<SOS> v2 v6 v3 v3 v1 v8 <EOS>
+cornice.n.03	cornice topmost projecting part entablature	<SOS> v3 v2 v36 v7 v15 v43 <EOS>
+cuckoopint.n.01	cuckoopint common european arum lanceolate spathe short purple spadix emerges early spring source starch called arum	<SOS> v3 v2 v36 v1 v1 v25 v27 v14 v95 <EOS>
+carpenter_bee.n.01	carpenter bee large solitary bee lays eggs tunnels bored wood plant stems	<SOS> v3 v2 v36 v1 v1 v39 v31 v14 v15 v24 v3 <EOS>
+flax_rust.n.01	flax rust fungus causing flax rust	<SOS> v3 v2 v36 v1 v1 v19 v22 <EOS>
+isoproterenol.n.01	isoproterenol drug trade name isuprel used treat bronchial asthma stimulate heart	<SOS> v3 v1 v12 v11 v29 <EOS>
+lycopodium.n.01	lycopodium type sole genus lycopodiaceae erect creeping evergreen plants often used christmas decorations	<SOS> v2 v1 v24 v5 v23 v18 <EOS>
+pluteus_magnus.n.01	pluteus magnus edible agaric found piles hardwood sawdust caps black coarsely wrinkled	<SOS> v3 v2 v36 v1 v1 v19 v59 v3 <EOS>
+stage_name.n.01	stage name pseudonym actor	<SOS> v2 v4 v14 v7 v5 v5 <EOS>
+highness.n.02	highness quality high lofty	<SOS> v2 v8 v10 v11 v12 v5 <EOS>
+crossbow.n.01	crossbow bow fixed transversely wooden stock grooved direct arrow quarrel	<SOS> v3 v2 v36 v7 v16 v8 v114 v4 v3 <EOS>
+j_particle.n.01	j particle neutral meson large mass	<SOS> v3 v2 v36 v2 v8 v4 v9 v2 <EOS>
+half-century.n.01	half-century period 50 years	<SOS> v2 v3 v7 v4 <EOS>
+telecaster.n.01	telecaster television broadcaster	<SOS> v3 v1 v4 v185 v29 <EOS>
+probe.n.03	probe exploratory action expedition	<SOS> v2 v6 v1 v10 v13 v66 v5 <EOS>
+pulmonary_valve.n.01	pulmonary valve semilunar valve right ventricle pulmonary artery prevents blood flowing artery back heart	<SOS> v3 v3 v6 v13 v20 v42 v1 v1 <EOS>
+absenteeism.n.01	absenteeism habitual absence work	<SOS> v2 v6 v1 v6 v4 v3 <EOS>
+gymnogyps.n.01	gymnogyps containing solely california condor	<SOS> v2 v1 v24 v5 v23 v8 <EOS>
+bettongia.n.01	bettongia jerboa kangaroo	<SOS> v2 v1 v24 v5 v23 v16 <EOS>
+drugstore.n.01	drugstore retail shop medicine articles sold	<SOS> v3 v2 v36 v7 v15 v61 v2 v3 v5 <EOS>
+spur_blight.n.01	spur blight disease raspberries	<SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v18 v5 <EOS>
+orgy.n.03	orgy wild gathering involving excessive drinking promiscuity	<SOS> v2 v6 v1 v10 v13 v59 v2 v7 v2 <EOS>
+hunting_license.n.01	hunting license license authorizing bearer kill certain type animal specified period time	<SOS> v2 v5 v17 v6 v1 v16 v8 <EOS>
+stove.n.02	stove heating apparatus	<SOS> v3 v2 v36 v7 v16 v8 v100 <EOS>
+petrochemical.n.01	petrochemical compound obtained petroleum natural gas	<SOS> v3 v4 v14 v4 v2 v15 v76 <EOS>
+varied_lorikeet.n.01	varied lorikeet lorikeet colorful coat	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v25 v10 v1 <EOS>
+music_school.n.02	music school school specializing music	<SOS> v3 v2 v36 v7 v15 v41 v45 v2 <EOS>
+cardiac_plexus.n.01	cardiac plexus plexus nerves supplying heart nearby structures	<SOS> v3 v3 v6 v13 v20 v45 v5 <EOS>
+hand.n.14	hand physical assistance	<SOS> v2 v6 v1 v10 v13 v31 <EOS>
+rivulet.n.01	rivulet small stream	<SOS> v3 v3 v3 v5 <EOS>
+hand.n.12	hand round applause signify approval	<SOS> v2 v5 v4 v4 v9 <EOS>
+clip_joint.n.01	clip joint place entertainment high prices charged poor entertainment	<SOS> v3 v2 v36 v7 v15 v61 v2 v4 <EOS>
+tellima.n.01	tellima genus hardy perennials palmately lobed leaves long racemes small nodding five-petaled flowers western north america	<SOS> v2 v1 v24 v5 v23 v13 v217 <EOS>
+carob.n.02	carob evergreen mediterranean tree edible pods biblical carob	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v127 <EOS>
+hopi.n.01	hopi member shoshonean people northeastern arizona	<SOS> v3 v1 v4 v220 v4 v20 <EOS>
+trachoma.n.01	trachoma chronic contagious viral disease marked inflammation conjunctiva cornea eye formation scar tissue	<SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v27 <EOS>
+view_angle.n.01	view angle angle included photographic lens	<SOS> v3 v2 v10 v3 v9 <EOS>
+address.n.04	address manner speaking another individual	<SOS> v2 v5 v18 v26 <EOS>
+moroseness.n.01	moroseness gloomy ill-tempered feeling	<SOS> v2 v8 v8 v63 v36 v3 v1 <EOS>
+wave_front.n.01	wave front points reached wave propagates	<SOS> v3 v5 v17 v6 v1 v18 <EOS>
+better.n.03	better superior person claim precedence	<SOS> v3 v1 v4 v76 v41 <EOS>
+periwinkle.n.04	periwinkle edible marine gastropod	<SOS> v3 v2 v36 v1 v1 v39 v31 v8 v5 v4 <EOS>
+water_hole.n.01	water hole natural hole hollow containing water	<SOS> v3 v3 v3 v17 v1 <EOS>
+anklet.n.02	anklet sock reaches ankle	<SOS> v3 v2 v36 v7 v19 v36 v25 v1 v2 <EOS>
+tlingit.n.02	tlingit na-dene language spoken tlingit	<SOS> v2 v5 v1 v11 v20 v8 <EOS>
+gastronomy.n.02	gastronomy art practice choosing preparing eating good food	<SOS> v2 v6 v1 v10 v13 v18 v1 <EOS>
+qin.n.01	qin chinese dynasty 246 bc 206 bc established first centralized imperial government built much great wall	<SOS> v2 v1 v12 v12 v6 v1 v2 v5 <EOS>
+body.n.09	body main mass thing	<SOS> v2 v3 v7 v2 <EOS>
+bottomland.n.01	bottomland low-lying alluvial land near river	<SOS> v3 v2 v29 <EOS>
+helotiaceae.n.01	helotiaceae fungus family order helotiales	<SOS> v2 v1 v24 v5 v9 v22 <EOS>
+yellow_bells.n.01	yellow bells viscid herb arid desert habitats southwestern united states pendulous yellow flowers	<SOS> v3 v2 v36 v1 v1 v25 v27 v14 <EOS>
+tolypeutes.n.01	tolypeutes genus dasypodidae	<SOS> v2 v1 v24 v5 v23 v16 <EOS>
+headword.n.02	headword word placed beginning line paragraph dictionary entry	<SOS> v2 v4 v14 v7 v8 <EOS>
+right_of_way.n.01	right of way privilege someone pass land belonging someone else	<SOS> v2 v6 v3 v11 v9 v10 v7 v2 v14 v2 <EOS>
+head.n.10	head tip abscess pus accumulates	<SOS> v2 v8 v11 v8 v4 v4 <EOS>
+averrhoa.n.01	averrhoa trees native east indies pinnate leaves carambolas	<SOS> v2 v1 v24 v5 v23 v13 v217 <EOS>
+thrombus.n.01	thrombus blood clot formed within blood vessel remaining attached place origin	<SOS> v2 v1 v14 v15 v1 v3 <EOS>
+european_hornbeam.n.01	european hornbeam medium-sized old world tree smooth grey bark leaves like beech turn yellow-orange autumn	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v119 <EOS>
+calliophis.n.01	calliophis asian coral snakes	<SOS> v2 v1 v24 v5 v23 v17 <EOS>
+ionian.n.02	ionian ancient greek inhabitants attica related regions ionia	<SOS> v2 v1 v5 <EOS>
+pollen_count.n.01	pollen count number pollen grains usually ragweed standard volume air twenty-four hour period specified time place	<SOS> v2 v3 v2 v7 v28 <EOS>
+pungency.n.01	pungency wit sharp caustic quality	<SOS> v2 v5 v4 v19 <EOS>
+interior_live_oak.n.01	interior live oak small shrubby evergreen tree western north america similar coast live oak occurring chiefly foothills mountain ranges removed coast important part chaparral	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v164 v14 <EOS>
+manpad.n.01	manpad man-portable surface-to-air missile	<SOS> v3 v2 v36 v7 v16 v12 v13 v4 v3 v3 v4 <EOS>
+track_meet.n.01	track meet track field competition two teams	<SOS> v2 v6 v1 v4 v3 v16 v1 <EOS>
+monad.n.03	monad biology single-celled microorganism especially flagellate protozoan	<SOS> v3 v2 v36 v1 v1 v40 <EOS>
+menyanthaceae.n.01	menyanthaceae dicotyledonous family marsh plants order gentianales	<SOS> v2 v1 v24 v5 v9 v1 <EOS>
+rosemaling.n.01	rosemaling scandinavian style carved painted decoration furniture walls dinnerware consisting floral motifs	<SOS> v3 v2 v36 v7 v26 <EOS>
+cartload.n.01	cartload quantity cart holds	<SOS> v2 v3 v9 v16 <EOS>
+calender.n.01	calender machine smooths glazes paper cloth pressing plates passing rollers	<SOS> v3 v2 v36 v7 v16 v8 v34 <EOS>
+crosshead.n.02	crosshead metal block connects piston slides parallel guides moves connecting rod back forth	<SOS> v3 v2 v36 v7 v3 <EOS>
+nuclear_fuel.n.01	nuclear fuel fuel uranium used nuclear reactors source electricity	<SOS> v3 v4 v15 v17 <EOS>
+applejack.n.01	applejack distilled hard cider	<SOS> v3 v1 v12 v11 v31 v1 v4 v13 <EOS>
+bioweapon.n.01	bioweapon weapon usable biological warfare	<SOS> v3 v2 v36 v7 v16 v8 v114 v4 v16 <EOS>
+argusianus.n.01	argusianus argus pheasants	<SOS> v2 v1 v24 v5 v23 v8 <EOS>
+figurehead.n.02	figurehead figure bow sailing vessels	<SOS> v3 v2 v36 v7 v7 v5 v10 v4 <EOS>
+grid.n.04	grid electrode placed cathode anode vacuum tube control flow electrons tube	<SOS> v3 v2 v36 v7 v16 v8 v25 v5 <EOS>
+monilia.n.01	monilia yeastlike imperfect fungi genus monilia	<SOS> v3 v2 v36 v1 v1 v19 <EOS>
+poison.n.02	poison anything harms destroys	<SOS> v2 v8 v2 v55 <EOS>
+dipper.n.01	dipper ladle cup long handle	<SOS> v3 v2 v36 v7 v16 v11 v46 v9 <EOS>
+schizotypal_personality.n.01	schizotypal personality characterized symptoms similar less severe schizophrenia	<SOS> v2 v8 v8 v27 v23 v45 v33 v5 <EOS>
+topside.n.01	topside usually plural weather deck part ship 's hull waterline	<SOS> v3 v2 v36 v7 v12 v7 v1 v7 v5 v3 <EOS>
+knit.n.03	knit needlework created interlacing yarn series connected loops using straight eyeless needles machine	<SOS> v3 v2 v36 v7 v7 v6 <EOS>
+non-resistant.n.01	non-resistant reformer believes passive resistance	<SOS> v3 v1 v4 v253 v9 <EOS>
+aspiration_pneumonia.n.01	aspiration pneumonia inflammation lungs caused inhaling choking vomitus may occur unconsciousness anesthesia drunkenness seizure cardiac arrest	<SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v20 v2 v3 <EOS>
+dog_breeding.n.01	dog breeding breeding dogs	<SOS> v2 v6 v1 v6 v20 v4 v9 v10 v2 v7 <EOS>
+alkalinity.n.01	alkalinity ph values 7	<SOS> v2 v8 v10 v40 v2 v1 <EOS>
+survivors_insurance.n.01	survivors insurance insurance paid surviving spouses	<SOS> v2 v4 v7 v6 v4 v3 v6 v6 v2 v2 <EOS>
+descending_aorta.n.01	descending aorta descending part aorta branches thoracic abdominal aortae	<SOS> v3 v3 v6 v13 v20 v49 v3 v1 v1 v18 <EOS>
+spritzer.n.01	spritzer mixed drink made wine mixed sparkling water	<SOS> v3 v1 v12 v11 v31 v1 v1 <EOS>
+amphipoda.n.01	amphipoda small flat-bodied semiterrestrial crustaceans whale lice sand-hoppers skeleton shrimp	<SOS> v2 v1 v24 v5 v3 v1 <EOS>
+dislodgment.n.01	dislodgment forced removal position advantage	<SOS> v2 v6 v1 v10 v27 v8 v34 v10 v9 <EOS>
+shittah.n.01	shittah source wood mentioned frequently bible probably species genus acacia	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v67 <EOS>
+male_chauvinist.n.01	male chauvinist man chauvinistic belief inferiority women	<SOS> v3 v1 v4 v7 v1 v1 v5 <EOS>
+kishke.n.01	kishke judaism roasted fowl intestines seasoned filling matzo meal suet	<SOS> v3 v4 v15 v12 v15 v9 <EOS>
+united_states_cabinet.n.01	united states cabinet board advise president members secretaries executive departments united states constitution provide cabinet	<SOS> v2 v1 v12 v2 v21 v13 v6 v7 v9 v1 <EOS>
+stultification.n.01	stultification derision someone something foolish absurd inconsistent	<SOS> v2 v5 v4 v6 v4 <EOS>
+dram.n.01	dram unit apothecary weight equal eighth ounce 60 grains	<SOS> v2 v3 v2 v9 v21 v7 <EOS>
+escapement.n.01	escapement mechanical device regulates movement	<SOS> v3 v2 v36 v7 v16 v8 v68 v17 <EOS>
+cigarette_burn.n.01	cigarette burn burn mark left smoldering cigarette	<SOS> v2 v8 v2 v11 v25 v13 <EOS>
+stereospondyli.n.01	stereospondyli formerly suborder stegocephalia amphibia vertebrae whose component elements fused single piece	<SOS> v2 v1 v24 v5 v3 v1 <EOS>
+mutual_savings_bank.n.01	mutual savings bank state-chartered savings bank owned depositors managed board trustees	<SOS> v2 v1 v12 v2 v9 v5 v4 v5 v2 <EOS>
+trachinotus.n.01	trachinotus genus carangidae	<SOS> v2 v1 v24 v5 v23 v21 <EOS>
+jackass_bat.n.01	jackass bat large bat southwestern united states spots enormous ears	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v7 v1 v4 <EOS>
+tabasco.n.03	tabasco hot red peppers usually long thin small	<SOS> v3 v4 v6 v1 v16 v3 v6 v1 v2 <EOS>
+bookend.n.01	bookend support placed end row books keep upright shelf table	<SOS> v3 v2 v36 v7 v16 v8 v16 <EOS>
+bummer.n.02	bummer bad reaction hallucinogenic drug	<SOS> v2 v6 v3 v6 v4 v4 v46 <EOS>
+dell.n.01	dell small wooded hollow	<SOS> v3 v2 v33 v21 v1 v3 <EOS>
+colchicine.n.01	colchicine analgesic drug derived saffron plant used treat gout	<SOS> v3 v1 v12 v11 v29 v64 <EOS>
+sway.n.01	sway controlling influence	<SOS> v2 v8 v2 v65 <EOS>
+mononeuropathy.n.01	mononeuropathy neuropathy single nerve trunk	<SOS> v2 v8 v8 v27 v23 v4 v1 v5 v32 <EOS>
+winter_cress.n.02	winter cress cress cultivated winter salads	<SOS> v3 v4 v6 v1 v16 v3 v23 v4 v3 <EOS>
+anglo-saxon.n.02	anglo-saxon person anglo-saxon especially british descent whose native tongue english whose culture strongly influenced english culture wasp `white anglo-saxon protestant	<SOS> v3 v1 v4 v360 v4 v8 v1 <EOS>
+icteria.n.01	icteria new world chats	<SOS> v2 v1 v24 v5 v23 v8 <EOS>
+streptomyces_griseus.n.01	streptomyces griseus source antibiotic streptomycin	<SOS> v3 v2 v36 v1 v1 v40 v4 v4 v4 v1 <EOS>
+elephantopus.n.01	elephantopus perennial american herb	<SOS> v2 v1 v24 v5 v23 v13 v67 <EOS>
+finale.n.03	finale concluding part performance	<SOS> v2 v6 v1 v10 v27 v8 v28 v8 v17 v7 <EOS>
+freemasonry.n.02	freemasonry freemasons collectively	<SOS> v2 v1 v12 v2 v29 v16 <EOS>
+talent_agent.n.01	talent agent agent represents performers	<SOS> v3 v1 v4 v185 v31 v6 v8 <EOS>
+dacite.n.01	dacite grey volcanic rock containing plagioclase quartz crystalline minerals	<SOS> v3 v4 v14 v4 v23 v22 v5 <EOS>
+magnetomotive_force.n.01	magnetomotive force force produces magnetic flux	<SOS> v3 v5 v17 v6 v1 v21 <EOS>
+blade.n.02	blade dashing young man	<SOS> v3 v1 v4 v181 v2 <EOS>
+ceftazidime.n.01	ceftazidime parenteral cephalosporin trade names fortaz tazicef used treat moderate infections	<SOS> v3 v1 v12 v11 v29 v46 v3 v4 <EOS>
+american_staffordshire_terrier.n.01	american staffordshire terrier american breed muscular terriers short close-lying stiff coat	<SOS> v3 v2 v36 v1 v1 v39 v7 v1 v18 v1 v20 <EOS>
+hygrophorus_purpurascens.n.01	hygrophorus purpurascens fungus viscid purplish red cap stalk found spruce conifers	<SOS> v3 v2 v36 v1 v1 v19 v59 v3 v27 <EOS>
+charterhouse.n.01	charterhouse carthusian monastery	<SOS> v3 v2 v36 v7 v15 v41 v37 v27 v3 v3 <EOS>
+pearl_fishery.n.01	pearl fishery fishery fish pearl oysters	<SOS> v3 v2 v10 v18 v29 v3 v14 <EOS>
+drainage_ditch.n.01	drainage ditch ditch carrying excess water sewage	<SOS> v3 v2 v36 v7 v36 v8 <EOS>
+italian_region.n.01	italian region italy divided 20 regions administrative purposes	<SOS> v3 v2 v10 v14 v15 v10 v1 <EOS>
+depredation.n.01	depredation act plundering pillaging marauding	<SOS> v2 v6 v1 v10 v27 v31 v2 <EOS>
+systematism.n.01	systematism habitual practice systematization classification	<SOS> v2 v6 v1 v10 v13 v27 <EOS>
+revetment.n.02	revetment facing usually masonry supports embankment	<SOS> v3 v2 v36 v7 v19 v22 v27 <EOS>
+overdraft.n.01	overdraft draft excess credit balance	<SOS> v2 v5 v17 v6 v1 v16 v23 v1 <EOS>
+gooseberry.n.01	gooseberry spiny eurasian shrub greenish purple-tinged flowers ovoid yellow-green red-purple berries	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v12 <EOS>
+kingwood.n.02	kingwood brazilian tree yielding handsome cabinet wood	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 <EOS>
+libyan_dinar.n.01	libyan dinar basic unit money libya	<SOS> v2 v3 v2 v9 v29 v30 <EOS>
+spinal_cord.n.01	spinal cord major part central nervous system conducts sensory motor nerve impulses brain long tubelike structure extending base brain vertebral canal upper lumbar region	<SOS> v3 v3 v6 v13 v20 v10 <EOS>
+raisin_cookie.n.01	raisin cookie cookie containing raisins	<SOS> v3 v4 v6 v1 v18 v1 v7 <EOS>
+inanity.n.01	inanity total lack meaning ideas	<SOS> v2 v8 v2 v115 v4 v1 v2 v2 <EOS>
+smarta.n.01	smarta one group brahmans uphold nonsectarian orthodoxy according vedanta school hinduism	<SOS> v3 v1 v4 v360 v19 v3 v5 <EOS>
+european_parsley_fern.n.01	european parsley fern fern europe asia minor short slender rhizome densely tufted bright green fronds resembling parsley	<SOS> v3 v2 v36 v1 v1 v25 v27 v9 v2 v40 <EOS>
+modal_auxiliary_verb.n.01	modal auxiliary verb auxiliary verb `can `will used express modality	<SOS> v2 v1 v14 v10 v7 v7 v1 v3 v4 <EOS>
+tip.n.03	tip indication potential opportunity	<SOS> v2 v5 v4 v2 <EOS>
+transit_instrument.n.01	transit instrument telescope mounted axis running east west used time transit celestial body across meridian	<SOS> v3 v2 v36 v7 v16 v8 v114 v10 v3 v1 <EOS>
+carat.n.01	carat unit weight precious stones 200 mg	<SOS> v2 v3 v2 v9 v25 v2 <EOS>
+co-discoverer.n.01	co-discoverer someone first two people discover something	<SOS> v3 v1 v4 v20 v2 <EOS>
+abutment.n.02	abutment masonry support touches directly receives thrust pressure arch bridge	<SOS> v3 v2 v36 v7 v15 v56 v2 <EOS>
+shasta_salamander.n.01	shasta salamander primarily cave dweller mount shasta area	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v3 v3 v6 <EOS>
+open_university.n.01	open university british university open people without formal academic qualifications teaching correspondence broadcasting summer school	<SOS> v2 v1 v12 v2 v9 v4 v5 <EOS>
+venter.n.01	venter speaker expresses gives vent personal opinion grievance	<SOS> v3 v1 v4 v185 v18 v1 <EOS>
+salamandra.n.01	salamandra type genus salamandridae	<SOS> v2 v1 v24 v5 v23 v5 <EOS>
+hot-air_balloon.n.01	hot-air balloon balloon travel air basket suspended large bag heated air	<SOS> v3 v2 v36 v7 v16 v12 v13 v6 v1 v3 v2 <EOS>
+glottis.n.01	glottis vocal apparatus larynx true vocal folds space voice tone generated	<SOS> v3 v3 v6 v13 v49 v10 <EOS>
+square_shooter.n.01	square shooter frank honest person	<SOS> v3 v1 v4 v56 <EOS>
+animal_leg.n.01	animal leg leg animal	<SOS> v3 v3 v6 v13 v2 v9 v8 v3 <EOS>
+iron_maiden.n.01	iron maiden instrument torture consisting hollow iron frame shaped like human body lined spikes impale victim	<SOS> v3 v2 v36 v7 v16 v8 v114 v3 v6 <EOS>
+trainband.n.01	trainband company militia england america 16th century 18th century	<SOS> v2 v1 v12 v2 v21 v17 v7 <EOS>
+breach_of_trust_with_fraudulent_intent.n.01	breach of trust with fraudulent intent larceny trust rather unlawful taking	<SOS> v2 v6 v1 v10 v13 v20 v21 v10 v17 v6 <EOS>
+minuteness.n.02	minuteness great precision painstaking attention details	<SOS> v2 v8 v2 v46 v2 <EOS>
+ball.n.12	ball pitch strike zone	<SOS> v2 v6 v1 v10 v21 v1 v8 <EOS>
+buxaceae.n.01	buxaceae widely distributed evergreen shrubs trees	<SOS> v2 v1 v24 v5 v9 v1 <EOS>
+musculus_adductor_longus.n.01	musculus adductor longus long adductor muscle thigh	<SOS> v3 v3 v6 v13 v49 v17 v1 v9 v23 <EOS>
+old-man-of-the-woods.n.01	old-man-of-the-woods edible mild-tasting mushroom found coniferous woodlands eastern north america	<SOS> v3 v2 v36 v1 v1 v19 v65 <EOS>
+inaudibility.n.01	inaudibility quality perceptible ear	<SOS> v2 v8 v10 v20 <EOS>
+striated_muscle_cell.n.01	striated muscle cell elongated contractile cell striated muscle tissue	<SOS> v3 v2 v36 v1 v4 v3 v1 <EOS>
+coincidence.n.02	coincidence quality occupying position area space	<SOS> v2 v4 v11 <EOS>
+trimming.n.01	trimming act adding decoration	<SOS> v2 v6 v1 v10 v27 v8 v28 v14 <EOS>
+gefilte_fish.n.01	gefilte fish well-seasoned balls ground fish eggs crushed crumbs simmered fish stock	<SOS> v3 v4 v15 v12 v15 v9 <EOS>
+cytoplast.n.01	cytoplast intact cytoplasmic content cell	<SOS> v3 v4 v14 v2 v2 <EOS>
+spark_transmitter.n.01	spark transmitter early radio transmitter using discharge across spark gap source power	<SOS> v3 v2 v36 v7 v16 v4 v23 v18 v1 v4 <EOS>
+condensation_pump.n.01	condensation pump vacuum pump used obtain high vacuum	<SOS> v3 v2 v36 v7 v16 v8 v68 v17 v11 v5 <EOS>
+booster.n.06	booster additional dose makes sure first dose effective	<SOS> v3 v1 v12 v11 v29 v76 <EOS>
+paperhanger.n.02	paperhanger one whose occupation decorating walls wallpaper	<SOS> v3 v1 v4 v166 v47 v23 <EOS>
+weimar_republic.n.01	weimar republic german republic founded weimar 1919	<SOS> v2 v1 v12 v23 v13 <EOS>
+blackburn.n.01	blackburn black-and-white north american wood warbler orange-and-black head throat	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v10 v1 v3 v2 <EOS>
+logwood.n.01	logwood hard brown brownish-red heartwood logwood tree used preparing purplish red dye	<SOS> v3 v4 v14 v4 v29 v4 <EOS>
+lunette.n.01	lunette temporary fortification like detached bastion	<SOS> v3 v2 v36 v7 v15 v58 v1 <EOS>
+ostraciidae.n.01	ostraciidae boxfishes	<SOS> v2 v1 v24 v5 v9 v14 <EOS>
+home_economics.n.01	home economics theory practice homemaking	<SOS> v2 v6 v3 v11 v7 v3 v11 v12 <EOS>
+horseplay.n.01	horseplay rowdy boisterous play	<SOS> v2 v6 v1 v10 v13 v59 v7 <EOS>
+isostasy.n.01	isostasy geology general equilibrium forces tending elevate depress earth 's crust	<SOS> v2 v8 v8 v41 v2 <EOS>
+secretary_of_state.n.01	secretary of state person holds secretaryship department state	<SOS> v3 v1 v4 v76 v7 v9 <EOS>
+delirium_tremens.n.01	delirium tremens acute delirium caused alcohol poisoning	<SOS> v2 v8 v8 v27 v100 v11 v2 <EOS>
+german_ivy.n.01	german ivy south african succulent evergreen twining climber yellow flowers grown primarily houseplant foliage sometimes placed genus senecio	<SOS> v3 v2 v36 v1 v1 v25 v27 v15 <EOS>
+buttonhole.n.01	buttonhole hole buttons pushed	<SOS> v3 v2 v36 v7 v8 v13 <EOS>
+criminalization.n.01	criminalization legislation makes something illegal	<SOS> v2 v6 v1 v6 v18 v6 v1 <EOS>
+producer.n.03	producer something produces	<SOS> v2 v6 v1 v2 v38 v5 v3 <EOS>
+lexical_meaning.n.01	lexical meaning meaning content word depends nonlinguistic concepts used express	<SOS> v2 v5 v4 v27 <EOS>
+sclerodermatales.n.01	sclerodermatales order fungi peridium surrounding gleba sometimes placed subclass homobasidiomycetes	<SOS> v2 v1 v24 v5 v3 v4 <EOS>
+distaff.n.02	distaff staff wool flax wound spinning	<SOS> v3 v2 v36 v7 v16 v6 v3 v6 <EOS>
+cavern.n.02	cavern large cave large chamber cave	<SOS> v3 v2 v33 v28 <EOS>
+deathbed.n.01	deathbed last hours death	<SOS> v2 v3 v7 v4 v61 <EOS>
+streptodornase.n.01	streptodornase enzyme produced hemolytic strains streptococcus dissolves fibrinous secretions infections used medicinally often combination streptokinase	<SOS> v3 v4 v14 v3 v2 v3 <EOS>
+conchfish.n.01	conchfish found west indies lives mantle cavity living conch	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v2 v1 v12 v1 v1 v2 v8 <EOS>
+sapodilla.n.01	sapodilla large tropical american evergreen yielding chicle gum edible fruit sometimes placed genus achras	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v152 v56 <EOS>
+radio_announcer.n.01	radio announcer announcer whose voice broadcast radio	<SOS> v3 v1 v4 v185 v29 v2 <EOS>
+scimitar.n.01	scimitar curved oriental saber edge convex side blade	<SOS> v3 v2 v36 v7 v16 v8 v114 v4 v5 v5 <EOS>
+enantiomorph.n.01	enantiomorph either one pair compounds crystals molecules mirror images identical	<SOS> v3 v4 v14 v4 v2 v15 <EOS>
+schnitzel.n.01	schnitzel deep-fried breaded veal cutlets	<SOS> v3 v4 v15 v12 v15 v9 <EOS>
+interdict.n.02	interdict court order prohibiting party certain activity	<SOS> v2 v5 v17 v6 v1 v16 v6 v6 <EOS>
+overdrive.n.01	overdrive state high excessive activity productivity concentration	<SOS> v2 v8 v8 v44 <EOS>
+reverence.n.02	reverence reverent mental attitude	<SOS> v2 v6 v3 v7 <EOS>
+repentance.n.01	repentance remorse past conduct	<SOS> v2 v8 v8 v63 v21 v3 v1 <EOS>
+ephippiorhynchus.n.01	ephippiorhynchus saddlebills	<SOS> v2 v1 v24 v5 v23 v8 <EOS>
+body_bag.n.01	body bag bag body dead soldier placed	<SOS> v3 v2 v36 v7 v16 v11 v21 <EOS>
+plasma_physics.n.01	plasma physics branch physics concerned matter plasma phase	<SOS> v2 v6 v3 v11 v7 v3 v11 v8 v2 <EOS>
+putt.n.01	putt hitting golf ball green using putter n't sink single putt three feet	<SOS> v2 v6 v1 v10 v27 v8 v23 v9 v12 v1 <EOS>
+mare.n.02	mare dark region considerable extent surface moon	<SOS> v3 v2 v10 v13 <EOS>
+nyctaginia.n.01	nyctaginia caryophyllaceous genus family nyctaginaceae one species	<SOS> v2 v1 v24 v5 v23 v13 v173 <EOS>
+kronecker_delta.n.01	kronecker delta function two variables j equals 1 i=j equals 0 otherwise	<SOS> v2 v4 v21 v2 <EOS>
+labrador_retriever.n.01	labrador retriever breed originally labrador short black golden-brown coat	<SOS> v3 v2 v36 v1 v1 v39 v7 v1 v18 v3 v7 <EOS>
+pipridae.n.01	pipridae manakins	<SOS> v2 v1 v24 v5 v9 v20 <EOS>
+goner.n.01	goner person desperate straits someone doomed	<SOS> v3 v1 v4 v16 v4 <EOS>
+front_projector.n.01	front projector projector digital input	<SOS> v3 v2 v36 v7 v16 v8 v114 v12 v1 <EOS>
+doggerel.n.01	doggerel comic verse irregular measure	<SOS> v2 v5 v17 v6 v25 v2 v7 <EOS>
+serfdom.n.01	serfdom state serf	<SOS> v2 v8 v8 v2 v5 v6 <EOS>
+irish_terrier.n.01	irish terrier medium-sized breed wiry brown coat developed ireland	<SOS> v3 v2 v36 v1 v1 v39 v7 v1 v18 v1 <EOS>
+revenuer.n.01	revenuer government agent responsible collecting revenue especially one responsible stopping bootlegging	<SOS> v3 v1 v4 v185 v31 v6 v8 v3 <EOS>
+marsala.n.01	marsala dark sweet semisweet dessert wine sicily	<SOS> v3 v1 v12 v11 v31 v1 v6 v21 <EOS>
+tailless_tenrec.n.01	tailless tenrec prolific animal feeds chiefly earthworms	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v20 v3 <EOS>
+pillar_box.n.01	pillar box red pillar-shaped letter box	<SOS> v3 v2 v36 v7 v35 v10 v6 v1 v1 <EOS>
+deerstalker.n.01	deerstalker tight-fitting hat visors front back formerly worn hunters	<SOS> v3 v2 v36 v7 v19 v36 v17 v5 <EOS>
+distress.n.04	distress seizure holding property security payment debt satisfaction claim	<SOS> v2 v6 v1 v10 v17 v2 v4 <EOS>
+low-pass_filter.n.01	low-pass filter filter passes frequencies certain value attenuates frequencies value	<SOS> v3 v2 v36 v7 v16 v8 v120 v26 <EOS>
+formica_fusca.n.01	formica fusca ant frequently enslaved	<SOS> v3 v2 v36 v1 v1 v39 v31 v14 v15 v24 v4 v9 <EOS>
+scoop.n.01	scoop quantity scoop hold	<SOS> v2 v3 v9 v16 <EOS>
+birr.n.01	birr basic unit money ethiopia equal 100 cents	<SOS> v2 v3 v2 v9 v29 v65 <EOS>
+botanical.n.01	botanical drug made part plant bark root leaves	<SOS> v3 v1 v12 v11 <EOS>
+argyreia.n.01	argyreia woody climbers tropical asia australia	<SOS> v2 v1 v24 v5 v23 v13 <EOS>
+duplex_apartment.n.01	duplex apartment apartment rooms two floors connected staircase	<SOS> v3 v2 v36 v7 v15 v55 v14 <EOS>
+echinus.n.01	echinus ovolo molding shaft abacus doric column	<SOS> v3 v2 v36 v7 v26 v28 v10 <EOS>
+nux_vomica.n.01	nux vomica medicine made seeds asiatic tree contains strychnine brucine formerly used stimulant	<SOS> v3 v1 v12 v11 v29 <EOS>
+realism.n.03	realism philosophy philosophical doctrine physical objects continue exist perceived	<SOS> v2 v6 v3 v11 v18 v28 v18 <EOS>
+escapee.n.01	escapee someone escapes	<SOS> v3 v1 v4 v373 v3 v20 v1 v12 <EOS>
+undershrub.n.01	undershrub low shrub	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v12 <EOS>
+materialist.n.02	materialist someone thinks nothing exists physical matter	<SOS> v3 v1 v4 v245 v4 <EOS>
+trinidadian.n.01	trinidadian inhabitant native trinidad	<SOS> v3 v1 v4 v360 <EOS>
+autotype.n.01	autotype process producing permanent prints carbon pigment	<SOS> v3 v5 v4 <EOS>
+aid.n.01	aid resource	<SOS> v2 v8 v2 v30 v1 <EOS>
+lugsail.n.01	lugsail sail four corners hoisted yard oblique mast	<SOS> v3 v2 v14 v21 v1 v5 v2 <EOS>
+linsey-woolsey.n.01	linsey-woolsey rough fabric linen warp wool cotton woof	<SOS> v3 v2 v36 v7 v20 <EOS>
+googly.n.01	googly cricket ball bowled break one way actually breaks opposite way	<SOS> v2 v6 v1 v10 v21 v1 v3 <EOS>
+tattoo.n.03	tattoo practice making design skin pricking staining	<SOS> v2 v6 v1 v10 v27 v8 v28 v14 <EOS>
+starboard.n.01	starboard right side ship aircraft someone aboard facing bow nose	<SOS> v3 v2 v36 v7 v12 v15 <EOS>
+whirl.n.02	whirl shape something rotating rapidly	<SOS> v2 v8 v11 v6 <EOS>
+leiomyoma.n.01	leiomyoma benign tumor smooth muscle usually uterus digestive tract	<SOS> v2 v8 v8 v27 v23 v4 v1 v4 v5 v3 v6 v4 <EOS>
+western_tanager.n.01	western tanager western north america male black yellow orange-red	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v10 v1 v17 <EOS>
+indigestion.n.01	indigestion disorder digestive function characterized discomfort heartburn nausea	<SOS> v2 v6 v3 v6 v4 v4 <EOS>
+chinese_cork_oak.n.01	chinese cork oak medium large deciduous tree china japan korea thick corky bark	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v164 <EOS>
+conversation_piece.n.01	conversation piece something interesting stimulates conversation	<SOS> v2 v6 v3 v11 v4 v6 <EOS>
+blighia.n.01	blighia small genus western african evergreen trees shrubs bearing fleshy capsular three-seeded fruits edible neither unripe overripe	<SOS> v2 v1 v24 v5 v23 v13 <EOS>
+solidarity.n.01	solidarity union interests purposes sympathies among members group	<SOS> v2 v8 v2 v67 v1 <EOS>
+mason_bee.n.01	mason bee numerous solitary bees build nests hardened mud sand	<SOS> v3 v2 v36 v1 v1 v39 v31 v14 v15 v24 v3 <EOS>
+race_problem.n.01	race problem social political problem caused conflict races occupying adjacent regions	<SOS> v2 v8 v8 v27 v74 v3 <EOS>
+myxoma.n.01	myxoma benign tumor connective tissue containing jellylike material	<SOS> v2 v8 v8 v27 v23 v4 v1 v4 v5 v3 v6 <EOS>
+phase.n.03	phase particular point time cycle measured arbitrary zero expressed angle	<SOS> v2 v3 v1 <EOS>
+profligacy.n.02	profligacy dissolute indulgence sensual pleasure	<SOS> v2 v6 v1 v10 v27 v8 v4 v1 v4 v1 <EOS>
+machete.n.01	machete large heavy knife used central south america weapon cutting vegetation	<SOS> v3 v2 v36 v7 v16 v8 v114 v4 v8 <EOS>
+next_of_kin.n.01	next of kin person persons closely related given person	<SOS> v3 v1 v4 v398 <EOS>
+mourning.n.01	mourning state sorrow death departure loved one	<SOS> v2 v8 v8 v63 v1 v5 v1 v2 <EOS>
+cairn.n.02	cairn small rough-haired breed terrier scotland	<SOS> v3 v2 v36 v1 v1 v39 v7 v1 v18 v1 <EOS>
+portable_circular_saw.n.01	portable circular saw circular saw portable operated hand grip	<SOS> v3 v2 v36 v7 v16 v8 v34 v15 v6 v4 <EOS>
+clupea.n.01	clupea type genus clupeidae typical herrings	<SOS> v2 v1 v24 v5 v23 v21 <EOS>
+ayapana.n.01	ayapana low spreading tropical american shrub long slender leaves used make mildly stimulating drink resembling tea sometimes placed genus eupatorium	<SOS> v3 v2 v36 v1 v1 v25 v27 v14 <EOS>
+witch_elm.n.01	witch elm eurasian elm often planted shade tree	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v56 <EOS>
+peanut_bar.n.01	peanut bar bar peanuts taffy	<SOS> v3 v4 v15 v12 v15 v2 v1 v7 <EOS>
+california_sagebrush.n.01	california sagebrush low ashy-grey california shrub	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v12 v6 v47 <EOS>
+boswellia_carteri.n.01	boswellia carteri tree yielding aromatic gum resin burned incense	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v115 <EOS>
+channels.n.01	channels official routes communication	<SOS> v2 v6 v1 v10 v4 v12 <EOS>
+staff_sergeant.n.01	staff sergeant noncommissioned officer ranking corporal sergeant first class army marines airman 1st class air force	<SOS> v3 v1 v4 v166 v47 v40 v6 v1 v3 <EOS>
+obsoleteness.n.01	obsoleteness property date current	<SOS> v2 v8 v10 v2 v6 <EOS>
+glove_anesthesia.n.01	glove anesthesia mental disorder involving loss sensitivity hand wrist	<SOS> v2 v8 v8 v27 v23 v45 v33 v6 <EOS>
+galantine.n.01	galantine boned poultry stuffed cooked covered aspic served cold	<SOS> v3 v4 v15 v12 v15 v9 <EOS>
+half_rest.n.01	half rest musical rest time value half whole rest equal duration two beats common time	<SOS> v2 v5 v17 v5 v3 v3 v17 <EOS>
+night_watchman.n.01	night watchman watchman works night	<SOS> v3 v1 v4 v299 v1 v2 v3 <EOS>
+stowage.n.03	stowage act packing storing away	<SOS> v2 v6 v1 v6 v20 v4 v9 v11 <EOS>
+confirmation.n.04	confirmation ceremony held synagogue usually pentecost admit adult members jewish community young men women successfully completed course study judaism	<SOS> v2 v6 v1 v10 v13 v13 v4 <EOS>
+national_debt_ceiling.n.01	national debt ceiling limit set congress beyond national debt rise periodically raised congress	<SOS> v2 v4 v7 v4 v2 v3 <EOS>
+transgressor.n.01	transgressor someone transgresses someone violates law command	<SOS> v3 v1 v4 v373 v3 <EOS>
+dacrycarpus.n.01	dacrycarpus evergreen coniferous shrubs trees new zealand malaysia philippines	<SOS> v2 v1 v24 v5 v23 v24 <EOS>
+bank_card.n.01	bank card credit card issued bank	<SOS> v2 v5 v13 v2 v4 v9 v7 <EOS>
+stock.n.14	stock lumber used construction something	<SOS> v3 v2 v36 v7 v24 v4 <EOS>
+pale_ale.n.01	pale ale amber colored ale brewed pale malts similar bitter drier lighter	<SOS> v3 v1 v12 v11 v31 v1 v13 v1 v3 <EOS>
+genus_nephthytis.n.01	genus nephthytis small genus tropical western african creeping twining herbs	<SOS> v2 v1 v24 v5 v23 v4 <EOS>
+recognition.n.05	recognition biology ability one molecule attach another molecule complementary shape	<SOS> v3 v5 v17 v6 v4 <EOS>
+pitting.n.01	pitting formation small pits surface consequence corrosion	<SOS> v3 v5 v23 v28 v24 <EOS>
+humerus.n.01	humerus bone extending shoulder elbow	<SOS> v3 v3 v6 v13 v16 v2 v9 v7 v12 v4 <EOS>
+bel_esprit.n.01	bel esprit witty clever person fine mind	<SOS> v3 v1 v4 v376 <EOS>
+auxiliary_operation.n.01	auxiliary operation operation performed off-line equipment control central processing unit	<SOS> v3 v5 v7 v2 v5 <EOS>
+sihasapa.n.01	sihasapa member group siouan people constituted division teton sioux	<SOS> v3 v1 v4 v220 v4 v5 v3 v3 <EOS>
+pettiness.n.01	pettiness narrowness mind ideas views	<SOS> v2 v6 v3 v7 v3 v1 <EOS>
+turmeric.n.02	turmeric ground dried rhizome turmeric plant used seasoning	<SOS> v3 v4 v15 v12 v4 v15 v2 <EOS>
+european_white_lily.n.01	european white lily water lily white flowers	<SOS> v3 v2 v36 v1 v1 v25 v27 v19 v23 <EOS>
+stretcher.n.01	stretcher wooden framework canvas stretched fixed oil painting	<SOS> v3 v2 v36 v7 v15 v56 v3 <EOS>
+french_marigold.n.01	french marigold strong-scented bushy annual orange yellow flower heads marked red mexico guatemala	<SOS> v3 v2 v36 v1 v1 v25 v27 v7 v2 v1 v121 <EOS>
+case.n.09	case statement facts reasons used support argument	<SOS> v2 v5 v13 v2 v7 <EOS>
+mucopolysaccharidosis.n.01	mucopolysaccharidosis group genetic disorders involving defect metabolism mucopolysaccharides resulting greater normal levels mucopolysaccharides tissues	<SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v9 <EOS>
+alphavirus.n.01	alphavirus arbovirus family togaviridae cause variety encephalitis horses	<SOS> v3 v1 v10 v1 v1 v7 <EOS>
+lunar_day.n.01	lunar day period time taken moon make one full rotation axis 27.3 sidereal days	<SOS> v2 v3 v7 v4 v43 <EOS>
+shuffleboard.n.01	shuffleboard game players use long sticks shove wooden disks onto scoring area marked smooth surface	<SOS> v2 v6 v1 v10 v13 v38 v2 v4 <EOS>
+simulative_electronic_deception.n.01	simulative electronic deception actions represent friendly notional actual capabilities mislead hostile forces	<SOS> v2 v6 v1 v6 v26 v10 v2 v1 <EOS>
+drink.n.04	drink large deep body water	<SOS> v3 v3 v3 <EOS>
+beach_erosion.n.01	beach erosion erosion beaches	<SOS> v3 v5 v23 v64 v1 <EOS>
+isocyanate.n.01	isocyanate salt ester isocyanic acid	<SOS> v3 v4 v14 v4 v2 v15 v36 <EOS>
+oatmeal.n.02	oatmeal meal made rolled ground oats	<SOS> v3 v4 v15 v12 v4 v22 <EOS>
+medal_play.n.01	medal play golf scoring total strokes taken	<SOS> v2 v6 v1 v10 v13 v38 v2 v4 v7 <EOS>
+conviviality.n.01	conviviality jovial nature	<SOS> v2 v8 v4 v34 v4 v1 <EOS>
+castile_soap.n.01	castile soap good hard soap made olive oil sodium hydroxide	<SOS> v3 v4 v14 v4 v2 v15 v8 v1 v2 <EOS>
+spray.n.01	spray pesticide suspension solution intended spraying	<SOS> v3 v4 v14 v4 v2 v17 <EOS>
+caffein_addiction.n.01	caffein addiction addiction caffein	<SOS> v2 v8 v8 v27 v23 v19 v1 <EOS>
+slider.n.03	slider freshwater turtle united states south america frequently raised commercially young sold pets	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v9 v2 v1 v1 <EOS>
+juggle.n.01	juggle act rearranging things give misleading impression	<SOS> v2 v6 v1 v10 v13 v18 v7 v8 v1 v1 <EOS>
+security_blanket.n.01	security blanket anything adult person uses reduce anxiety	<SOS> v1 <EOS>
+knight-errant.n.01	knight-errant wandering knight travelling search adventure	<SOS> v3 v1 v4 v76 v32 v6 v1 <EOS>
+winesap.n.01	winesap crisp apple dark red skin	<SOS> v3 v4 v6 v1 v16 v1 v15 v3 <EOS>
+pottle.n.01	pottle pot holds 2 quarts	<SOS> v3 v2 v36 v7 v16 v11 v46 v12 <EOS>
+drafting_table.n.01	drafting table worktable adjustable top	<SOS> v3 v2 v36 v7 v16 v7 v3 v6 v10 <EOS>
+genus_schizopetalon.n.01	genus schizopetalon small genus south american herbs grown flowers	<SOS> v2 v1 v24 v5 v23 v13 v25 <EOS>
+cabalist.n.02	cabalist expert highly skilled obscure difficult esoteric matters	<SOS> v3 v1 v4 v337 <EOS>
+sorbian.n.01	sorbian speaker sorbian	<SOS> v3 v1 v4 v343 <EOS>
+elaphe.n.01	elaphe north american rat snakes	<SOS> v2 v1 v24 v5 v23 v17 <EOS>
+follow-up.n.02	follow-up activity continues something already begun repeats something already done	<SOS> v2 v6 v1 v10 v13 <EOS>
+cenobite.n.01	cenobite member religious order living common	<SOS> v3 v1 v4 v250 v15 <EOS>
+eggplant.n.01	eggplant egg-shaped vegetable shiny skin typically dark purple occasionally white yellow	<SOS> v3 v4 v6 v1 v16 v3 v6 <EOS>
+skylark.n.01	skylark brown-speckled european lark noted singing hovering great height	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v10 v1 v13 <EOS>
+quarter_pound.n.01	quarter pound 4 ounces avoirdupois	<SOS> v2 v3 v2 v9 v25 v4 <EOS>
+brutalization.n.02	brutalization activity treating someone savagely viciously	<SOS> v2 v6 v1 v10 v13 v20 <EOS>
+leptotene.n.01	leptotene first stage prophase meiosis	<SOS> v2 v3 v7 v4 v77 <EOS>
+external_nasal_vein.n.01	external nasal vein one veins drain external nose empty angular facial vein	<SOS> v3 v3 v6 v13 v20 v49 v3 v1 v3 <EOS>
+false_pretense.n.01	false pretense law offense involving intent defraud false representation obtaining property result misrepresentation	<SOS> v2 v6 v1 v10 v13 v20 v21 v10 v4 <EOS>
+homily.n.01	homily sermon moral religious topic	<SOS> v2 v6 v1 v10 v26 v4 v1 <EOS>
+pterodactyl.n.01	pterodactyl extinct flying reptile	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v9 v4 v5 v3 <EOS>
+magma.n.01	magma molten rock earth 's crust	<SOS> v3 v4 v14 v4 v23 <EOS>
+french_sorrel.n.02	french sorrel greens small tart oval pointed leaves preferred common sorrel salads	<SOS> v3 v4 v6 v1 v16 v3 v23 <EOS>
+pentoxide.n.01	pentoxide oxide containing five atoms oxygen molecule	<SOS> v3 v4 v14 v4 v2 v15 v48 <EOS>
+portulacaceae.n.01	portulacaceae family usually succulent herbs cosmopolitan distribution especially americas	<SOS> v2 v1 v24 v5 v9 v1 v46 <EOS>
+sea_mile.n.01	sea mile former british unit length used navigation equivalent 6,000 feet 1828.8 meters	<SOS> v2 v3 v2 v9 v8 v10 <EOS>
+wild_boar.n.01	wild boar old world wild swine narrow body prominent tusks domestic swine come introduced united states	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v24 v3 v3 <EOS>
+ophiuroidea.n.01	ophiuroidea brittle stars basket stars	<SOS> v2 v1 v24 v5 v10 <EOS>
+push_broom.n.01	push broom wide broom pushed ahead sweeper	<SOS> v3 v2 v36 v7 v16 v6 v6 v5 <EOS>
+welsh_pony.n.01	welsh pony breed small ponies originally wales	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v24 v1 v3 v1 v7 <EOS>
+six-spot.n.01	six-spot playing card domino die whose upward face shows six pips	<SOS> v3 v2 v36 v7 v3 v1 <EOS>
+genus_allosaurus.n.01	genus allosaurus carnivorous dinosaur north america late jurassic	<SOS> v2 v1 v24 v5 v23 v17 <EOS>
+honeycomb.n.02	honeycomb framework hexagonal cells resembling honeycomb built bees	<SOS> v3 v2 v36 v7 v15 v56 v3 <EOS>
+tail.n.03	tail projection resembles tail animal	<SOS> v2 v8 v11 v8 v4 v7 <EOS>
+forge.n.02	forge workplace metal worked heating hammering	<SOS> v3 v2 v10 v18 v29 v3 <EOS>
+miscue.n.01	miscue faulty shot billiards cue tip slips cue ball	<SOS> v2 v6 v1 v10 v27 v8 v23 v9 v12 <EOS>
+herrerasaur.n.01	herrerasaur kind theropod dinosaur found argentina	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v9 v4 v5 v5 v3 v2 <EOS>
+double_cross.n.01	double cross act betrayal	<SOS> v2 v6 v1 v10 v13 v20 v20 v3 <EOS>
+flickertail.n.01	flickertail sagebrush grassland areas western united states canada	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v27 v4 v1 <EOS>
+marseille.n.02	marseille strong cotton fabric raised pattern used bedspreads	<SOS> v3 v2 v36 v7 v20 <EOS>
+chamaecyparis.n.01	chamaecyparis genus chamaecyparis	<SOS> v2 v1 v24 v5 v23 v24 <EOS>
+post_hoc.n.01	post hoc logical fallacy believing temporal succession implies causal relation	<SOS> v2 v6 v3 v11 v9 v17 v3 v3 <EOS>
+jeer.n.01	jeer showing contempt derision	<SOS> v2 v5 v4 v6 v4 <EOS>
+ostensive_definition.n.01	ostensive definition definition points exhibits instances term defined	<SOS> v2 v5 v4 v5 v4 v5 <EOS>
+sterling_silver.n.01	sterling silver silver alloy 7.5 copper	<SOS> v3 v4 v14 v6 v1 <EOS>
+arm_guard.n.01	arm guard pad worn football players hockey goalkeepers	<SOS> v3 v2 v36 v7 v19 v36 v9 <EOS>
+widower.n.01	widower man whose wife dead especially one remarried	<SOS> v3 v1 v4 v108 v22 <EOS>
+antimatter.n.01	antimatter matter consisting elementary particles antiparticles making normal substances	<SOS> v3 v4 <EOS>
+graft.n.03	graft act grafting something onto something else	<SOS> v2 v6 v1 v10 v27 v8 v34 v4 v3 <EOS>
+world.n.08	world living human inhabitants earth	<SOS> v2 v1 <EOS>
+paleogeography.n.01	paleogeography study geography ancient times ancient epochs	<SOS> v2 v6 v3 v11 v7 v3 v11 v12 v6 v2 <EOS>
+paper_clip.n.01	paper clip wire plastic clip holding sheets paper together	<SOS> v3 v2 v36 v7 v16 v8 v10 v8 v21 <EOS>
+antipruritic.n.01	antipruritic substance relieves prevents itching	<SOS> v3 v1 v12 v11 v21 v2 <EOS>
+blast_trauma.n.01	blast trauma injury caused explosion bomb especially enclosed spaces	<SOS> v2 v8 v8 v27 v23 v4 v1 v2 <EOS>
+plagal_cadence.n.01	plagal cadence cadence frequently ending church music chord subdominant precedes chord tonic	<SOS> v2 v5 v3 v4 v11 v21 v7 <EOS>
+judas_tree.n.01	judas tree small tree eastern mediterranean abundant purplish-red flowers growing old wood directly stems appearing leaves widely cultivated mild regions wood valuable veneers	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v152 <EOS>
+chiffonier.n.01	chiffonier tall elegant chest drawers	<SOS> v3 v2 v36 v7 v16 v7 v3 v24 <EOS>
+cent.n.01	cent fractional monetary unit several countries	<SOS> v2 v3 v2 v9 v29 v102 <EOS>
+blastogenesis.n.02	blastogenesis theory inherited characteristics transmitted germ plasm	<SOS> v2 v6 v3 v18 v1 v6 v7 v5 <EOS>
+quintuplet.n.02	quintuplet one five children born time pregnancy	<SOS> v3 v1 v4 v398 v9 <EOS>
+sweatbox.n.02	sweatbox device causes tobacco leaves fruit hides sweat	<SOS> v3 v2 v36 v7 v16 v8 <EOS>
+exon.n.01	exon sequence gene 's dna transcribes protein structures	<SOS> v3 v4 v14 v4 v2 v15 v45 v2 <EOS>
+bonyness.n.01	bonyness extreme leanness usually caused starvation disease	<SOS> v2 v8 v10 v18 v6 <EOS>
+kitsch.n.01	kitsch excessively garish sentimental art usually considered bad taste	<SOS> v3 v2 v36 v7 v7 v1 <EOS>
+subscription.n.02	subscription agreement expressed expressed signing name	<SOS> v2 v6 v1 v10 v26 v18 <EOS>
+stealth_bomber.n.01	stealth bomber bomber difficult detect radar	<SOS> v3 v2 v36 v7 v16 v12 v13 v6 v1 v4 <EOS>
+testifier.n.01	testifier person testifies gives deposition	<SOS> v3 v1 v4 v20 v9 <EOS>
+septobasidium.n.01	septobasidium type genus septobasidiaceae smooth shelf fungi usually well-developed sometimes thick-walled hypobasidium	<SOS> v2 v1 v24 v5 v23 v3 <EOS>
+scarlet_fever.n.01	scarlet fever acute communicable disease usually children characterized fever red rash	<SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v36 v2 <EOS>
+activity.n.04	activity chemistry capacity substance take part chemical reaction	<SOS> v2 v8 v8 v27 v30 v2 <EOS>
+ultramicroscope.n.01	ultramicroscope light microscope uses scattered light show particles small see ordinary microscopes	<SOS> v3 v2 v36 v7 v16 v8 v114 v10 v3 v2 v3 <EOS>
+armet.n.01	armet medieval helmet visor neck guard	<SOS> v3 v2 v36 v7 v19 v22 v16 v4 v3 v7 <EOS>
+feverroot.n.01	feverroot coarse weedy american perennial herb large usually perfoliate leaves purple dull red flowers	<SOS> v3 v2 v36 v1 v1 v25 v27 v14 <EOS>
+permutability.n.01	permutability ability change sequence	<SOS> v2 v8 v2 v117 v7 <EOS>
+exponentiation.n.01	exponentiation process raising quantity assigned power	<SOS> v2 v6 v1 v10 v13 v10 v5 v3 <EOS>
+absence.n.03	absence time interval something somebody away	<SOS> v2 v3 v6 <EOS>
+slattern.n.02	slattern dirty untidy woman	<SOS> v3 v1 v4 v301 v1 v18 v1 <EOS>
+alienation_of_affection.n.01	alienation of affection tort based willful malicious interference marriage relation third party without justification excuse	<SOS> v2 v6 v1 v10 v13 v20 v7 <EOS>
+subpoena.n.01	subpoena writ issued court authority compel attendance witness judicial proceeding disobedience may punishable contempt court	<SOS> v2 v5 v17 v6 v1 v16 v6 <EOS>
+plutocracy.n.01	plutocracy political system governed wealthy people	<SOS> v2 v1 v12 v23 <EOS>
+mortification.n.04	mortification christianity act mortifying lusts flesh self-denial privation especially bodily pain discomfort inflicted	<SOS> v2 v6 v1 v10 v13 v2 v17 <EOS>
+doctor_of_arts.n.01	doctor of arts honorary arts degree	<SOS> v2 v5 v5 v6 v17 v6 v7 <EOS>
+alpha_brass.n.01	alpha brass alloy brass zinc used mainly cold working	<SOS> v3 v4 v14 v6 v1 v19 v1 <EOS>
+reformism.n.01	reformism doctrine reform	<SOS> v2 v6 v3 v11 v18 v28 <EOS>
+intermaxillary_suture.n.01	intermaxillary suture suture two maxillae upper jawbone	<SOS> v3 v3 v6 v13 v1 v3 <EOS>
+kilometers_per_hour.n.01	kilometers per hour ratio distance traveled kilometers time spent traveling hours	<SOS> v2 v4 v1 v1 <EOS>
+moneybag.n.01	moneybag drawstring bag holding money	<SOS> v3 v2 v36 v7 v16 v11 v21 v20 <EOS>
+electric.n.01	electric car powered electricity	<SOS> v3 v2 v36 v7 v16 v11 v36 v5 v9 v9 <EOS>
+rock_cornish.n.01	rock cornish small plump hybrid developed crossbreeding plymouth rock cornish fowl	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v24 v1 <EOS>
+toast.n.02	toast celebrity receives much acclaim attention	<SOS> v3 v1 v4 v108 v14 v9 <EOS>
+lumpsucker.n.01	lumpsucker several small lumpfishes	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v2 v1 v12 v1 v1 v15 v2 <EOS>
+isogamy.n.01	isogamy biology reproduction union fusion gametes size structure	<SOS> v3 v5 v16 v35 v1 <EOS>
+shambles.n.01	shambles condition great disorder	<SOS> v2 v8 v8 v27 v56 <EOS>
+bus_traffic.n.01	bus traffic buses coming going	<SOS> v2 v1 v14 v3 v3 <EOS>
+ready_cash.n.01	ready cash money form cash readily available	<SOS> v2 v3 v4 v3 v2 v1 v3 <EOS>
+papyrus.n.03	papyrus document written papyrus	<SOS> v2 v5 v17 v6 v1 <EOS>
+case_study.n.02	case study detailed analysis person group social psychological medical point view	<SOS> v2 v6 v1 v10 v13 v40 v3 v4 <EOS>
+bachelorhood.n.01	bachelorhood time man 's life prior marriage	<SOS> v2 v3 v7 v4 v61 <EOS>
+contempt_of_congress.n.01	contempt of congress deliberate obstruction operation federal legislative branch	<SOS> v2 v6 v1 v6 v22 v6 v1 v2 <EOS>
+thyme-leaved_speedwell.n.01	thyme-leaved speedwell perennial decumbent herb small opposite leaves racemes blue flowers throughout eurasia new world	<SOS> v3 v2 v36 v1 v1 v25 v27 v7 v2 v1 v39 <EOS>
+state-sponsored_terrorism.n.01	state-sponsored terrorism terrorism practiced government people support international terrorism	<SOS> v2 v6 v1 v6 v18 v1 v2 v1 v1 <EOS>
+pseudechis.n.01	pseudechis venomous australian blacksnakes	<SOS> v2 v1 v24 v5 v23 v17 <EOS>
+conclusion.n.05	conclusion proposition arrived logical reasoning proposition must follow major minor premises syllogism	<SOS> v2 v5 v4 v5 v33 <EOS>
+lastex.n.01	lastex yarn elastic core wound around cotton silk nylon rayon threads	<SOS> v3 v2 v36 v7 v44 v5 v24 <EOS>
+tai_dam.n.01	tai dam branch tai languages	<SOS> v2 v5 v1 v11 v11 v2 v1 <EOS>
+bobble.n.01	bobble momentary juggling batted thrown baseball	<SOS> v2 v6 v1 v10 v39 v3 v11 <EOS>
+childhood.n.02	childhood state child infancy adolescence	<SOS> v2 v8 v8 v37 <EOS>
+indication.n.03	indication medicine reason prescribe drug perform procedure	<SOS> v2 v6 v3 v6 v6 v7 <EOS>
+exhaust_pipe.n.01	exhaust pipe pipe burned gases travel exhaust manifold muffler	<SOS> v3 v2 v36 v7 v33 v5 v4 v1 v19 <EOS>
+bitter.n.01	bitter english term dry sharp-tasting ale strong flavor hops usually draft	<SOS> v3 v1 v12 v11 v31 v1 v13 v1 v3 <EOS>
+trinity_sunday.n.01	trinity sunday eighth sunday easter	<SOS> v2 v3 v7 v4 v47 v2 v5 v4 v4 <EOS>
+meadow_mushroom.n.01	meadow mushroom common edible mushroom found naturally moist open soil cultivated mushroom commerce	<SOS> v3 v2 v36 v1 v1 v19 v59 v3 <EOS>
+rock.n.07	rock pitching dangerously one side	<SOS> v2 v6 v1 v10 v27 v8 v5 v7 <EOS>
+millivoltmeter.n.01	millivoltmeter sensitive voltmeter measure voltage millivolts	<SOS> v3 v2 v36 v7 v16 v8 v114 v15 v76 v15 <EOS>
+blanket_stitch.n.01	blanket stitch strong reinforcing stitch edges blanket thick material similar buttonhole stitch	<SOS> v3 v2 v36 v7 v7 v6 v2 v6 v1 <EOS>
+boxing_day.n.01	boxing day first weekday christmas	<SOS> v2 v3 v7 v4 v47 v2 v5 v3 <EOS>
+mistletoe.n.03	mistletoe shrub central southeastern europe partially parasitic beeches chestnuts oaks	<SOS> v3 v2 v36 v1 v1 v38 v3 <EOS>
+father-in-law.n.01	father-in-law father spouse	<SOS> v3 v1 v4 v398 v6 <EOS>
+honey_buzzard.n.01	honey buzzard old world hawk feeds bee larvae small rodents reptiles	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v20 v3 <EOS>
+beak.n.04	beak informal terms nose	<SOS> v3 v3 v6 v13 v49 v19 v9 v3 <EOS>
+oedogoniales.n.01	oedogoniales simple branched filamentous freshwater green algae	<SOS> v2 v1 v24 v5 v3 v3 <EOS>
+own_goal.n.01	own goal soccer goal results player inadvertently knocks ball goal defending	<SOS> v2 v6 v1 v10 v27 v14 v2 v1 v10 v8 <EOS>
+lassa_virus.n.01	lassa virus rna virus causes lassa fever	<SOS> v3 v1 v10 v1 v1 v7 v12 <EOS>
+stream.n.02	stream dominant course suggestive running water successive events ideas	<SOS> v2 v1 v11 v11 v2 v11 <EOS>
+haemodorum.n.01	haemodorum type genus family haemodoraceae	<SOS> v2 v1 v24 v5 v23 v4 <EOS>
+squeeze.n.04	squeeze slang person 's girlfriend boyfriend	<SOS> v3 v1 v4 v42 <EOS>
+relief.n.08	relief aid aged indigent handicapped	<SOS> v2 v4 v7 v6 v4 v3 v6 v6 <EOS>
+formulary.n.01	formulary pharmacology book containing compilation pharmaceutical products formulas methods preparation	<SOS> v3 v2 v36 v7 v7 v10 v11 v12 v8 <EOS>
+lectin.n.01	lectin several plant glycoproteins act like specific antibodies antibodies evoked antigenic stimulus	<SOS> v3 v3 v2 v2 v5 v2 v9 v1 <EOS>
+fountain.n.03	fountain artificially produced flow water	<SOS> v2 v6 v1 v2 v44 v14 v9 <EOS>
+vali.n.01	vali norse mythology one aesir avenger balder son odin	<SOS> v2 v6 v3 v11 v18 v24 v3 v15 <EOS>
+borage.n.01	borage hairy blue-flowered european annual herb long used herbal medicine eaten raw salad greens cooked like spinach	<SOS> v3 v2 v36 v1 v1 v25 v27 v14 <EOS>
+carcinoid.n.01	carcinoid small tumor benign malignant arising mucosa gastrointestinal tract usually associated excessive secretion serotonin	<SOS> v2 v8 v8 v27 v23 v4 v1 v4 v5 v3 <EOS>
+plain_wanderer.n.01	plain wanderer small australian bird related button quail classified wading bird inhabits plains	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v9 v1 <EOS>
+rupturewort.n.01	rupturewort common prostrate old world herb often used ground cover formerly reputed cure ruptures	<SOS> v2 v1 v14 v73 v7 <EOS>
+winter_currant.n.01	winter currant flowering shrub	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v12 v197 <EOS>
+khimar.n.01	khimar headscarf worn observant muslim women hangs waist	<SOS> v3 v2 v36 v7 v19 v36 v19 v3 v3 v2 <EOS>
+coach_horse.n.01	coach horse strong draft horse drawing coaches	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v24 v1 v3 v1 v3 v3 <EOS>
+boundary_layer.n.01	boundary layer layer slower flow fluid past surface	<SOS> v3 v5 v17 v6 v1 <EOS>
+connection.n.08	connection shifting one form transportation another	<SOS> v2 v6 v1 v10 v27 v8 v19 v1 <EOS>
+modern.n.02	modern typeface based 18th century design gianbattista bodoni distinguished regular shape hairline serifs heavy downstrokes	<SOS> v2 v5 v5 v6 v9 v3 v4 v1 v5 <EOS>
+magnetization.n.03	magnetization physical property magnetic	<SOS> v2 v8 v10 v20 <EOS>
+news_bulletin.n.01	news bulletin short news announcement concerning on-going news story	<SOS> v2 v5 v4 v24 v12 v3 v4 <EOS>
+prednisone.n.01	prednisone dehydrogenated analogue cortisol trade names orasone deltasone liquid pred meticorten used anti-inflammatory drug treatment arthritis immunosuppressant	<SOS> v3 v1 v12 v11 v29 v71 <EOS>
+hydnoraceae.n.01	hydnoraceae family flowering plants africa argentina parasitic roots plants	<SOS> v2 v1 v24 v5 v9 v1 <EOS>
+slopseller.n.01	slopseller dealer cheap ready-made clothing	<SOS> v3 v1 v4 v270 v7 v9 v2 <EOS>
+bilingual.n.01	bilingual person speaks two languages fluently	<SOS> v3 v1 v4 v93 <EOS>
+electric_guitar.n.01	electric guitar guitar whose sound amplified electrical means	<SOS> v3 v2 v36 v7 v16 v8 v33 v1 v7 <EOS>
+myofibril.n.01	myofibril one many contractile filaments make striated muscle fiber	<SOS> v3 v4 v14 v4 v6 v14 <EOS>
+camelina.n.01	camelina annual biennial herbs mediterranean central asia	<SOS> v2 v1 v24 v5 v23 v13 v25 <EOS>
+bricklayer.n.01	bricklayer craftsman skilled building bricks	<SOS> v3 v1 v4 v166 v47 v23 <EOS>
+dickeybird.n.01	dickeybird small bird adults talking children sometimes use words refer small birds	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 <EOS>
+dudeen.n.01	dudeen clay pipe short stem	<SOS> v3 v2 v36 v7 v33 v5 v4 v1 v20 v3 <EOS>
+check_register.n.01	check register register checks issued usually numeric order	<SOS> v2 v5 v13 v2 v2 v3 v15 <EOS>
+diastrophism.n.01	diastrophism process deformation produces continents ocean basins earth 's crust	<SOS> v3 v5 v23 v64 <EOS>
+white_crappie.n.01	white crappie crappie white	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v2 v1 v12 v1 v1 v2 v40 v5 <EOS>
+oldie.n.01	oldie song formerly popular	<SOS> v2 v5 v3 v4 v11 v29 <EOS>
+commutability.n.02	commutability quality commutable	<SOS> v2 v8 v2 v117 <EOS>
+counterrevolutionist.n.01	counterrevolutionist revolutionary whose aim reverse changes introduced earlier revolution	<SOS> v3 v1 v4 v265 v8 <EOS>
+garden_webworm.n.01	garden webworm variety webworm	<SOS> v3 v2 v36 v1 v1 v39 v15 v1 v9 <EOS>
+floating-point_notation.n.01	floating-point notation radix numeration system location decimal point indicated exponent radix floating-point representation system 0.0012 represented 0.12-2 -2 exponent	<SOS> v2 v5 v17 v5 v3 v4 <EOS>
+hermit_thrush.n.01	hermit thrush north american thrush noted complex appealing song	<SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v10 v1 v10 <EOS>
+lemon_meringue_pie.n.01	lemon meringue pie pie containing lemon custard topped meringue	<SOS> v3 v4 v6 v1 v18 v2 v1 <EOS>
+prednisolone.n.01	prednisolone glucocorticoid trade names pediapred prelone used treat inflammatory conditions	<SOS> v3 v1 v12 v11 v29 v71 <EOS>
+wampum.n.02	wampum small cylindrical beads made polished shells fashioned strings belts used certain native american peoples jewelry currency	<SOS> v2 v1 v14 v62 v1 <EOS>
+urge_incontinence.n.01	urge incontinence urinary incontinence generally attributable involuntary contracts bladder muscle resulting urgent need urinate accompanied sudden loss urine common people 60 years age	<SOS> v3 v5 v16 v82 v3 v2 v2 v1 <EOS>
+witches'_butter.n.01	witches' butter yellow jelly fungus	<SOS> v3 v2 v36 v1 v1 v19 v45 <EOS>
+provitamin_a.n.01	provitamin a orange isomer unsaturated hydrocarbon found many plants converted vitamin liver	<SOS> v3 v4 v14 v4 v2 v15 v76 v20 v3 <EOS>
+rotary_club.n.01	rotary club group businessmen town organized service club promote world peace	<SOS> v2 v1 v12 v2 v29 v5 v4 <EOS>
+tucker.n.04	tucker detachable yoke linen lace worn breast low-cut dress	<SOS> v3 v2 v36 v7 v20 v117 <EOS>
+freight.n.02	freight transporting goods commercially rates cheaper express rates	<SOS> v2 v6 v1 v6 v20 v4 v9 v9 <EOS>
+withholding.n.03	withholding act holding back keeping within possession control	<SOS> v2 v6 v1 v10 v13 v2 v19 v1 <EOS>
+jeep.n.01	jeep car suitable traveling rough terrain	<SOS> v3 v2 v36 v7 v16 v11 v36 v5 v9 v9 <EOS>
+king.n.09	king one four playing cards deck bearing picture king	<SOS> v3 v4 v14 v4 v50 v3 v2 v18 <EOS>
+port.n.02	port sweet dark-red dessert wine originally portugal	<SOS> v3 v1 v12 v11 v31 v1 v6 v21 <EOS>
+iowa.n.03	iowa dialect chiwere language spoken iowa	<SOS> v2 v5 v1 v11 v20 v11 v3 <EOS>
+celtis.n.01	celtis large genus trees shrubs berrylike fruit	<SOS> v2 v1 v24 v5 v23 v13 <EOS>
+external_jugular_vein.n.01	external jugular vein formed junction posterior auricular retromandibular veins empties subclavian vein	<SOS> v3 v3 v6 v13 v20 v49 v3 v1 v3 v55 <EOS>
+campsite.n.01	campsite site people holiday pitch tent	<SOS> v3 v2 v10 v14 v12 v4 v13 <EOS>
+kentish.n.01	kentish one major dialects old english	<SOS> v2 v5 v1 v11 v21 v9 v5 v5 v4 <EOS>
+ewing's_sarcoma.n.01	ewing's sarcoma malignant tumor bone marrow usually pelvis long bones	<SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v16 v1 v6 v4 <EOS>
+christella.n.01	christella several tropical ferns genus christella thin brittle fronds	<SOS> v3 v2 v36 v1 v1 v25 v27 v9 v2 <EOS>
+long_trousers.n.01	long trousers trousers reaching foot	<SOS> v3 v2 v36 v7 v19 v36 v19 v26 <EOS>
+kordofanian.n.01	kordofanian group languages spoken relatively small kordofan area south sudan	<SOS> v2 v5 v1 v11 v16 <EOS>
+millime.n.01	millime 1,000 millimes equal 1 dinar tunisia	<SOS> v2 v3 v2 v9 v29 v107 <EOS>
+directivity.n.01	directivity property microphone antenna sensitive one direction another	<SOS> v2 v8 v10 v33 v1 v2 <EOS>
+megaspore.n.01	megaspore larger two types spore produced heterosporous plants develops ovule female gametophyte	<SOS> v3 v2 v36 v2 v4 v24 v2 v7 v1 <EOS>
+deflation.n.02	deflation contraction economic activity resulting decline prices	<SOS> v3 v5 v3 <EOS>
+floating_dock.n.01	floating dock dry dock submerged vessel raised	<SOS> v3 v2 v36 v7 v15 v52 v1 v2 <EOS>
+allyl_alcohol.n.01	allyl alcohol unsaturated primary alcohol present wood spirit use make resins plasticizers pharmaceuticals	<SOS> v3 v4 v14 v9 v3 v1 <EOS>
+spider_orchid.n.03	spider orchid south american orchid spiderlike pale-yellow pale-green flowers	<SOS> v3 v2 v36 v1 v1 v25 v27 v7 v2 v1 v71 <EOS>
+wick.n.01	wick piece cord conveys liquid capillary action	<SOS> v3 v2 v36 v7 v44 v5 <EOS>
+genus_iris.n.01	genus iris large genus perennials develop bulbs rhizomes	<SOS> v2 v1 v24 v5 v23 v4 v44 <EOS>
+anastomosis.n.01	anastomosis natural surgical joining parts branches tubular structures make become continuous	<SOS> v2 v8 v8 v60 v1 <EOS>
+subtropics.n.01	subtropics regions adjacent tropics	<SOS> v3 v2 v10 v14 v12 v2 v2 <EOS>
+shrug.n.01	shrug gesture involving shoulders	<SOS> v2 v5 v14 v9 <EOS>
+water-shield.n.01	water-shield aquatic plant floating oval leaves purple flowers lakes slow-moving streams suitable aquariums	<SOS> v3 v2 v36 v1 v1 v25 v27 v19 v23 <EOS>
+convention.n.03	convention diplomacy international agreement	<SOS> v2 v5 v4 v5 v25 v10 v7 <EOS>
+eysenck_personality_inventory.n.01	eysenck personality inventory self-report personality inventory based hans eysenck 's factor analysis personality assumes three basic factors two important extraversion introversion neuroticism	<SOS> v2 v5 v17 v6 v1 v7 v2 v1 v1 <EOS>
+automat.n.01	automat vending machine get food	<SOS> v3 v2 v36 v7 v16 v8 v34 v10 v2 <EOS>
+iron_trap.n.01	iron trap trap escape	<SOS> v2 v6 v3 v14 v2 v10 v4 <EOS>
+warfarin.n.01	warfarin anticoagulant trade name coumadin use prevent treat thrombus embolus	<SOS> v3 v1 v12 v11 v29 v7 <EOS>
+frittata.n.01	frittata italian omelet diced vegetables meats cooked bottom set inverted another pan cook top	<SOS> v3 v4 v15 v12 v15 v9 <EOS>
+shellflower.n.01	shellflower showy perennial marshlands eastern central north america waxy lanceolate leaves flower lower part creamy white upper parts pale pink deep purple	<SOS> v3 v2 v36 v1 v1 v25 v27 v19 v13 <EOS>
+planation.n.01	planation process erosion whereby level surface produced	<SOS> v3 v5 v23 v64 v1 <EOS>
+applesauce.n.01	applesauce puree stewed apples usually sweetened spiced	<SOS> v3 v4 v15 v12 v15 v9 <EOS>
+lifeline.n.03	lifeline line raises lowers deep-sea diver	<SOS> v3 v2 v36 v7 v44 <EOS>
+branchiobdellidae.n.01	branchiobdellidae small annelid worms posterior end modified adhesive sucker especially formerly regarded modified leeches	<SOS> v2 v1 v24 v5 v9 v25 <EOS>
+rydberg's_penstemon.n.01	rydberg's penstemon plant whorls small dark blue-violet flowers washington wyoming south california colorado	<SOS> v3 v2 v36 v1 v1 v25 v10 v1 <EOS>
+rapeseed.n.01	rapeseed seed rape plants source edible oil	<SOS> v3 v2 v36 v2 v4 v24 v2 v13 v26 v4 <EOS>
+public.n.02	public body people sharing common interest	<SOS> v2 v1 v12 v14 <EOS>
+brake_pad.n.01	brake pad one pads apply friction sides brake disk	<SOS> v3 v2 v36 v7 v16 v8 v10 <EOS>
+retractor.n.01	retractor surgical instrument holds back edges surgical incision	<SOS> v3 v2 v36 v7 v16 v8 v114 v13 v20 <EOS>
+genus_zoysia.n.01	genus zoysia lawn grasses native southeastern asia new zealand grown especially warm regions	<SOS> v2 v1 v24 v5 v23 v4 <EOS>
+bromus.n.01	bromus genus grasses family gramineae	<SOS> v2 v1 v24 v5 v23 v4 <EOS>
+effluent.n.01	effluent water mixed waste matter	<SOS> v3 v4 v14 v4 v47 <EOS>
+harpulla.n.01	harpulla fast-growing tree india east indies yielding wood used especially building	<SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v49 v2 <EOS>
+purification.n.04	purification act purging sin guilt moral spiritual cleansing	<SOS> v2 v6 v1 v10 v27 v14 v6 v7 v2 <EOS>
+bifurcation.n.01	bifurcation bifurcating branch one	<SOS> v2 v8 v11 v16 v6 v3 <EOS>
+slapper.n.01	slapper hitter slaps usually another person open hand	<SOS> v3 v1 v4 v327 v21 v2 <EOS>
+abyssal_zone.n.01	abyssal zone deep sea 2000 meters light	<SOS> v3 v2 v33 v21 v7 v1 <EOS>
+herbage.n.01	herbage succulent herbaceous vegetation pasture land	<SOS> v3 v2 v36 v1 v1 v25 v27 v14 <EOS>
+anapest.n.01	anapest metrical unit unstressed-unstressed-stressed syllables	<SOS> v2 v5 v18 v29 v4 v1 v1 v1 v2 <EOS>
+amygdaloid.n.01	amygdaloid volcanic rock rounded cavities formed expanding gas subsequently become filled mineral deposits	<SOS> v3 v4 v14 v4 v23 v22 v5 <EOS>
+rejoicing.n.01	rejoicing feeling great happiness	<SOS> v2 v8 v8 v63 v38 <EOS>
+united_arab_emirate_dirham.n.01	united arab emirate dirham basic unit money united arab emirates equal 1,000 fils	<SOS> v2 v3 v2 v9 v29 v86 <EOS>
+nymphomania.n.01	nymphomania abnormally intense sexual desire women	<SOS> v2 v8 v8 v63 v15 v1 <EOS>
+cladorhyncus.n.01	cladorhyncus one two genera stilts similar avocets straight bills	<SOS> v2 v1 v24 v5 v23 v8 <EOS>
+throe.n.02	throe hard painful trouble struggle	<SOS> v2 v8 v8 v28 v15 v2 v4 v5 <EOS>
+lymphogranuloma_venereum.n.01	lymphogranuloma venereum infectious disease caused species chlamydia bacterium transmitted sexual contact characterized genital lesions swelling lymph nodes groin	<SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v36 v2 v6 <EOS>
+agonic_line.n.01	agonic line imaginary line connecting points earth 's surface magnetic declination zero	<SOS> v3 v2 v10 v22 <EOS>
+punching_bag.n.01	punching bag person another person vents anger	<SOS> v3 v1 v4 v16 v9 <EOS>
+minoxidil.n.01	minoxidil vasodilator trade name loniten used treat severe hypertension one side effect hirsutism also sold trade name rogaine treatment male-patterned baldness	<SOS> v3 v1 v12 v11 v28 v1 <EOS>
+short.n.01	short location baseball field shortstop stationed	<SOS> v3 v2 v10 v14 v12 v4 <EOS>
+nitrification.n.01	nitrification chemical process nitro group added organic compound substituted another group organic compound	<SOS> v3 v5 v23 v28 <EOS>
+cirripedia.n.01	cirripedia barnacles	<SOS> v2 v1 v24 v5 v10 <EOS>
+schizothymia.n.01	schizothymia resembling schizophrenia remaining within bounds normality	<SOS> v2 v8 v8 v27 v23 v45 v33 <EOS>
+ogee.n.01	ogee molding section shape convex part concave part	<SOS> v3 v2 v36 v7 v26 v28 v13 <EOS>
+eptesicus.n.01	eptesicus genus vespertilionidae	<SOS> v2 v1 v24 v5 v23 v16 <EOS>
+stenopelmatidae.n.01	stenopelmatidae long-horned grasshoppers	<SOS> v2 v1 v24 v5 v9 v19 <EOS>
+biology_department.n.01	biology department academic department responsible teaching research biology	<SOS> v2 v1 v12 v2 v21 v13 v8 v2 v5 <EOS>
+glyptography.n.02	glyptography carving engraving especially stones	<SOS> v2 v6 v1 v10 v13 v18 v1 <EOS>
+side-glance.n.01	side-glance glance sideways	<SOS> v2 v6 v1 v10 v13 v16 v1 v5 v7 <EOS>
+union_shop.n.01	union shop company allowed hire nonunion workers condition join union within specified time	<SOS> v2 v1 v12 v2 v9 v6 <EOS>
+tiller.n.03	tiller lever used turn rudder boat	<SOS> v3 v2 v36 v7 v16 v6 v24 v3 <EOS>
+terrain_flight.n.01	terrain flight flight low altitudes	<SOS> v2 v6 v1 v10 v27 v8 v23 v4 v4 v1 <EOS>
+experimenter_bias.n.01	experimenter bias psychology bias introduced experimenter whose expectations outcome experiment subtly communicated participants experiment	<SOS> v2 v6 v3 v7 v4 v14 v3 <EOS>
+inguinal_hernia.n.01	inguinal hernia hernia loop intestine enters inguinal canal common type hernia males	<SOS> v2 v8 v8 v27 v23 v4 v1 v2 v1 v1 <EOS>
+gyneolatry.n.01	gyneolatry worship women	<SOS> v2 v6 v1 v10 v13 v54 v12 <EOS>
+menhir.n.01	menhir tall upright megalith found primarily england northern france	<SOS> v3 v2 v36 v7 v15 v60 v2 <EOS>
+heteromyidae.n.01	heteromyidae small new world burrowing mouselike rodents fur-lined cheek pouches hind limbs tail adapted leaping adapted desert conditions pocket mice kangaroo mice kangaroo rats	<SOS> v2 v1 v24 v5 v9 v9 <EOS>
+wrath.n.02	wrath belligerence aroused real supposed wrong personified one deadly sins	<SOS> v2 v6 v1 v10 v13 v20 v21 v5 v2 <EOS>
+patriarch.n.02	patriarch male head family tribe	<SOS> v3 v1 v4 v108 v22 <EOS>
+desk_phone.n.01	desk phone telephone set sits desk table	<SOS> v3 v2 v36 v7 v16 v4 v23 v6 <EOS>
+gorget.n.01	gorget armor plate protects neck	<SOS> v3 v2 v36 v7 v19 v22 v16 v4 v3 <EOS>
+shepherd's_pie.n.01	shepherd's pie pie hash covered mashed potatoes browned oven	<SOS> v3 v4 v6 v1 v18 v2 v1 v10 <EOS>
+imaginative_comparison.n.01	imaginative comparison kind mental comparison expressed similes metaphors allegories	<SOS> v2 v4 v19 <EOS>
+white_water.n.01	white water frothy water rapids waterfalls	<SOS> v2 v8 v11 v6 v8 v1 v9 v1 v1 <EOS>

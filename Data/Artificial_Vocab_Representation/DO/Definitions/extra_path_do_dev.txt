@@ -1,0 +1,70 @@
+<SOS> v3 v1 v1 v4 v7 v1 <EOS>
+<SOS> v3 v9 v10 v18 v11 v3 v3 v1 <EOS>
+<SOS> v8 v1 v2 v5 v4 v6 v4 v1 <EOS>
+<SOS> v8 v1 v2 v8 v1 v3 v4 <EOS>
+<SOS> v6 v1 v3 <EOS>
+<SOS> v7 v39 v1 v4 <EOS>
+<SOS> v3 v1 v1 v4 v3 v26 <EOS>
+<SOS> v4 v1 v15 v16 <EOS>
+<SOS> v3 v9 v9 v1 v6 v2 v13 <EOS>
+<SOS> v3 v12 v6 v1 v3 <EOS>
+<SOS> v8 v1 v2 v11 v6 v6 v3 <EOS>
+<SOS> v8 v1 v2 v5 v4 v4 v9 <EOS>
+<SOS> v3 v11 v3 v4 v11 v10 <EOS>
+<SOS> v3 v1 v1 v1 v6 <EOS>
+<SOS> v3 v12 v8 v12 v7 v1 <EOS>
+<SOS> v3 v11 v1 v2 v1 v18 <EOS>
+<SOS> v3 v3 v2 v14 v1 <EOS>
+<SOS> v7 v6 <EOS>
+<SOS> v3 v12 v5 v15 v1 <EOS>
+<SOS> v8 v1 v2 v5 v4 v6 v14 v4 v2 <EOS>
+<SOS> v5 v2 v3 v2 v5 <EOS>
+<SOS> v6 v4 v2 v33 <EOS>
+<SOS> v5 v2 v4 v1 v1 <EOS>
+<SOS> v4 v1 v2 v6 v119 v3 <EOS>
+<SOS> v3 v9 v10 v11 v3 <EOS>
+<SOS> v3 v11 v1 v2 v1 v4 <EOS>
+<SOS> v3 v9 v10 v18 v1 v1 v7 <EOS>
+<SOS> v4 v1 v4 v3 v3 <EOS>
+<SOS> v3 v9 v9 v2 v3 v1 v5 v1 <EOS>
+<SOS> v4 v1 v2 v6 v155 <EOS>
+<SOS> v8 v1 v2 v11 v3 v3 <EOS>
+<SOS> v3 v2 v6 v8 v6 <EOS>
+<SOS> v8 v1 v2 v13 v1 v4 v3 v1 v6 <EOS>
+<SOS> v3 v1 v1 v1 v1 <EOS>
+<SOS> v8 v1 v1 v7 v20 <EOS>
+<SOS> v3 v12 v5 v30 v5 v3 <EOS>
+<SOS> v2 v5 v2 v2 v3 <EOS>
+<SOS> v3 v8 v6 v1 v3 <EOS>
+<SOS> v3 v9 v9 v2 v2 v2 v8 v2 <EOS>
+<SOS> v3 v1 v1 v4 v3 v32 <EOS>
+<SOS> v8 v3 v2 v3 v1 v14 v1 v2 <EOS>
+<SOS> v3 v9 v9 v2 v3 v38 v1 v2 v1 v1 <EOS>
+<SOS> v2 v5 v2 v2 v1 <EOS>
+<SOS> v6 v4 v2 v34 v11 <EOS>
+<SOS> v3 v9 v9 v2 v2 v1 v2 v3 <EOS>
+<SOS> v3 v9 v10 v11 v5 v1 <EOS>
+<SOS> v3 v6 v3 v5 v3 v1 v6 <EOS>
+<SOS> v3 v10 v3 v4 v2 <EOS>
+<SOS> v3 v8 v4 v2 v9 <EOS>
+<SOS> v3 v11 v3 v4 v6 v7 v2 <EOS>
+<SOS> v3 v5 v3 v1 v1 <EOS>
+<SOS> v2 v5 v1 v1 v3 v18 <EOS>
+<SOS> v8 v1 v2 v12 v1 v1 <EOS>
+<SOS> v4 v1 v2 v6 v157 <EOS>
+<SOS> v2 v12 v2 v1 <EOS>
+<SOS> v5 v2 v13 v11 v5 v2 <EOS>
+<SOS> v8 v1 v1 v7 v34 v5 v2 <EOS>
+<SOS> v3 v9 v9 v2 v3 v16 v1 v4 <EOS>
+<SOS> v3 v9 v9 v1 v6 v1 v51 <EOS>
+<SOS> v8 v3 v2 v6 v7 v3 <EOS>
+<SOS> v3 v10 v3 v6 v1 v2 v1 v1 <EOS>
+<SOS> v3 v9 v9 v1 v6 v2 v70 <EOS>
+<SOS> v8 v1 v1 v7 v34 v29 v5 <EOS>
+<SOS> v3 v2 v8 v11 v5 <EOS>
+<SOS> v8 v1 v2 v1 v1 v7 v2 <EOS>
+<SOS> v7 v39 v2 v30 <EOS>
+<SOS> v3 v9 v9 v2 v3 v2 v1 <EOS>
+<SOS> v8 v1 v1 v7 v29 v2 v2 v7 <EOS>
+<SOS> v3 v6 v2 v2 v25 <EOS>
+<SOS> v3 v6 v2 v2 v26 <EOS>

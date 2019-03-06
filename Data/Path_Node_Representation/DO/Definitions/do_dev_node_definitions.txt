@@ -1,0 +1,70 @@
+DOID:0040010 mepivacaine allergy drug allergy has_allergic_trigger mepivacaine carbocaine allergy polocaine allergy
+DOID:0040019 d-mannitol allergy drug allergy has_allergic_trigger d-mannitol mannitol allergy
+DOID:0040061 remazole black respiratory allergy respiratory allergy has_allergic_trigger remazole black-gr respiratory allergy reactive black 5
+DOID:0050035 african tick-bite fever spotted fever has_material_basis_in rickettsia africae transmitted_by ticks amblyomma hebraeum amblyomma variegatum infection has_symptom fever has_symptom eschar has_symptom maculopapular rash rickettsia africae spotted fever south african tick-bite fever
+DOID:0050432 asperger syndrome autism spectrum disorder characterized significant difficulties social interaction along restricted repetitive patterns behavior interests differs autism spectrum disorders relative preservation linguistic cognitive development
+DOID:0050449 pachyonychia congenita autosomal dominant disease characterized hypertrophic nails hyperkeratosis hands feet has_material_basis gene mutations result changes keratin jackson-lawler type pachyonychia congenita jadassohn-lewandowsky syndrome pachyonychia congenita type 1 pachyonychia congenita jadassohn-lewandowsky type
+DOID:0050468 yellow nail syndrome syndrome characterized accumulation protein-rich fluid lymph soft layers tissue skin resulting pleural effusions lymphedema due lymphatic hypoplasia yellow dystrophic nails hat lack cuticle grow slowly loose detached
+DOID:0050487 bacterial exanthem exanthem characterized diffuse reddened blanchable finely papular sandpaper like rash due infection group streptococcus production erythrogenic toxin
+DOID:0060042 atypical autism autism spectrum disorder involves autistic symptoms occuring age 3 abscence traits necessary diagnosis autism pdd
+DOID:0060149 social emotional agnosia agnosia loss ability perceive facial expression body language intonation rendering unable non-verbally perceive people 's emotions limiting aspect social interaction expressive agnosia
+DOID:0060204 amyotrophic lateral sclerosis type 13 amyotrophic lateral sclerosis mutation material basis atxn2 gene chromosome 12 contributes suscepitbility als13 amyotrophic lateral sclerosis 13
+DOID:0060550 ablepharon macrostomia syndrome syndrome characterized ablepharon macrostomia abnormal external ears syndactyly hands feet dry coarse skin redundant folds skin absent sparse hair genital malformations developmental delay has_material_basis_in heterozygous mutation twist2 gene chromosome 2q37
+DOID:0060670 cerebral cavernous malformation 2 cerebral cavernous malformation that_has_material_basis mutation ccm2 gene chromosome 7p13 ccm2
+DOID:0060742 methylmalonic acidemia cbla type methylmalonic acidemia characterized autosomal recessive inheritance defects synthesis adocbl vitamin b12 therapy responsiveness has_material_basis_in homozygous compound heterozygous mutation mmaa gene chromosome 4q31 methylmalonic aciduria cbla type methylmalonic aciduria vitamin b12-responsive due defect synthesis adenosylcobalamin cb1a type
+DOID:0060780 congenital diarrhea 6 congenital diarrhea characterized mild early-onset chronic diarrhea has_material_basis_in heterozygous mutation gucy2c gene chromosome 12p12 chronic diarrhea due guanylate cyclase 2c overactivity
+DOID:0060898 early-onset parkinson 's disease 20 early-onset parkinson disease has_material_basis_in homozygous mutation synj1 gene chromosome 21q22 early-onset parkinson disease 20
+DOID:0080159 cryptococcal meningitis fungal meningitis has_material_basis crypococcus fungal infection
+DOID:0080253 meckel syndrome 13
+DOID:0110046 alzheimer 's disease 13 alzheimer 's disease characterized associated variation region 1q21 ad13 alzheimer disease 13
+DOID:0110120 axenfeld-rieger syndrome type 1 axenfeld-rieger syndrome material basis heterozygous mutation homeobox transcription factor gene pitx2 chromosome 4q25 rieg1 rieger syndrome type 1
+DOID:0110211 charcot-marie-tooth disease x-linked recessive 3 charcot-marie-tooth disease x-linked has_material_basis_in variation region xq26 charcot-marie-tooth neuropathy x-linked recessive 3 cmt3x cmtx3 x-linked charcot-marie-tooth disease type 3
+DOID:0110494 autosomal recessive nonsyndromic deafness 36 autosomal recessive nonsyndromic deafness characterized prelingual onset has_material_basis_in mutation espn gene chromosome 1p36 autosomal recessive deafness 36 dfnb36
+DOID:0110514 autosomal recessive nonsyndromic deafness 62 autosomal recessive nonsyndromic deafness has_material_basis_in variation chromosome region 12p13.2-p11.23 autosomal recessive deafness 62 dfnb62
+DOID:0110556 autosomal dominant nonsyndromic deafness 27 autosomal dominant nonsyndromic deafness has_material_basis_in variation chromosome region 4q12-q13.1 autosomal dominant deafness 27 dfna27
+DOID:0110611 primary ciliary dyskinesia 27 primary ciliary dyskinesia characterized autosomal recessive inheritance neonatal respiratory distress recurrent upper lower airway disease bronchiectasis has_material_basis_in homozygous mutation ccdc65 gene chromosome 12q13 cild27 primary ciliary dyskinesia 27 without situs inversus
+DOID:0110669 congenital myasthenic syndrome 14 congenital myasthenic syndrome characterized autosomal recessive inheritance slowly progressive development limb-girdle muscle weakness onset early childhood has_material_basis_in homozygous mutation alg2 gene chromosome 9q22 cms14 cmsta3 congenital myasthenic syndrome 14 tubular aggregates congenital myasthenic syndrome tubular aggregates 3
+DOID:0110677 congenital myasthenic syndrome 4b congenital myasthenic syndrome characterized autosomal recessive inheritance postsynaptic neuromuscular junction defects early-onset progressive muscle weakness kinetic abnormalities achr channel has_material_basis_in homozygous compound heterozygous mutation chrne gene chromosome 17p13 cms4b congenital myasthenic syndrome 4b fast-channel
+DOID:0111052 scott syndrome inherited blood coagulation disease characterized autosomal recessive inheritance hemorrhagic episodes due impaired platelet coagulant activity material_basis_in homozygous mutation tmem16f gene chromosome 12q12 bdplt7 bleeding abnormality due deficiency platelet biding factor x familial prothrombin consumption inhibitor familial prothrombin conversion defect platelet-type bleeding disorder 7 prothrombin consumption deficiency scts
+DOID:0111053 platelet-type bleeding disorder 15 inherited blood coagulation disease characterized autosomal dominant inheritance macrothrombocytopenia little bleeding tendency normal vitro platelet function material basis heterozygous mutation actn1 gene chromosome 14q autosomal dominant macrothrombocytopenia actn1-related bdplt15
+DOID:0111092 fanconi anemia complementation group p fanconi anemia characterized increased chromosomal instability progressive bone marrow failure cases skeletal abnormalities has_material_basis_in homozygous compound heterozygous mutation slx4 gene chromosome 16p13.3 fancp
+DOID:1062 fanconi syndrome renal tubular transport disease proximal renal tubes characterized glucosuria phosphaturia generalized aminoaciduria hco3 wasting adult fanconi anemia adult fanconi syndrome congenital fanconi syndrome de toni-fanconi syndrome detoni fanconi syndrome fanconi-de toni syndrome fanconi-de-toni syndrome infantile nephropathic cystinosis lignac-fanconi syndrome
+DOID:1066 residual stage open angle glaucoma open-angle glaucoma residual stage residual stage open angle glaucoma
+DOID:11432 endometriosis ovary female reproductive system disease characterized growth endometrial tissue located_in ovary ovarian endometriosis
+DOID:12125 neurotrophic keratoconjunctivitis
+DOID:12157 aseptic meningitis meningitis characterized meningeal inflammation caused identifiable bacterial pathogen cerebrospinal fluid large majority caused enteroviruses acute aseptic meningitis
+DOID:13037 mechanical lagophthalmos
+DOID:13135 exophthalmic ophthalmoplegia
+DOID:1458 postsurgical hypothyroidism post-surgical hypothyroidism postoperative hypothyroidism
+DOID:1942 intermittent squint intermittent heterotropia
+DOID:2755 mycobacterium avium complex disease primary bacterial infectious disease results_in infection has_material_basis_in mycobacterium avium complex mac transmitted_by inhalation transmitted_by ingestion via respiratory gastrointestinal tract respectively bacteria cause disseminated infection hiv infected people pulmonary disease immunocompetent persons infection due mycobacterium intracellulare mac disease mycobacterium avium complex mycobacterium avium infection
+DOID:2917 cryoglobulinemia hypersensitivity reaction type iv disease involves large amounts cryoglobulins blood become thick gel-like cold temperatures cryoglobulinemia cryoimmunoglobulinaemia
+DOID:2945 severe acute respiratory syndrome viral infectious disease results_in infection located_in respiratory tract has_material_basis_in sars coronavirus sars-cov transmitted_by droplet spread respiratory secretions transmitted_by ingestion contaminated food transmitted_by fomites infection has_symptom fever has_symptom headache has_symptom body aches has_symptom dry cough has_symptom hypoxia sars sars-cov infection
+DOID:3145 hyperlipoproteinemia type iii carbohydrate induced hyperlipemia familial hypercholesterolaemia hyperlipaemia familial type 3 hyperlipoproteinemia remnant hyperlipidemia
+DOID:3317 hepatic angiomyolipoma
+DOID:3389 papillon-lefevre disease papillon lefevre syndrome papillon-lefvre syndrome
+DOID:3417 glossopharyngeal nerve neoplasm neoplasm glossopharyngeal nerve tumor glossopharyngeal nerve
+DOID:3890 acute intermittent porphyria aip acute intermittent porphyria porphyria intermittent acute pyrroloporphyria
+DOID:4371 schnitzler syndrome
+DOID:4685 lacrimal gland mucoepidermoid carcinoma mucoepidermoid carcinoma lacrimal gland
+DOID:5515 nasal cavity squamous cell carcinoma nasal cavity carcinoma has_material_basis_in squamous cells squamous cell carcinoma nasal cavity squamous cell carcinoma nasal cavity
+DOID:5546 femoral cancer bone cancer located_in femur femoral neoplasm neoplasm femur
+DOID:5662 pleomorphic carcinoma carcinoma consisting spindle giant cells combined squamous cell carcinoma adenocarcinoma large-cell carcinoma pleomorphic carcinoma
+DOID:5804 discrete subaortic stenosis
+DOID:6196 reactive arthritis arthritis autoimmune disease develops due infection located elsewhere body fiessinger leroy reiter syndrome post-bacterial arthropathy postdysenteric arthropathy reactive arthritis reiter disease reiter 's disease
+DOID:6197 conventional malignant hemangiopericytoma
+DOID:6939 childhood brain meningioma brain meningioma childhood characterized brain tumor develops membranes surround brain spinal cord has_material_basis_in abnormally proliferating cells derives_from meningeal cells embryonic ectoderm origin pediatric meningioma brain
+DOID:7047 penis basaloid carcinoma squamous cell carcinoma penis basaloid type
+DOID:7127 radiation cystitis irradiation cystitis
+DOID:7388 pulmonary vein leiomyosarcoma leiomyosarcoma located_in pulmonary vein leiomyosarcoma pulmonary vein
+DOID:7398 cerebral primitive neuroectodermal tumor pnet cerebrum
+DOID:7401 colonic l-cell glucagon-like peptide producing tumor
+DOID:7553 infiltrating bladder urothelial carcinoma sarcomatoid variant infiltrating bladder urothelial carcinoma sarcomatoid variant heterologous elements infiltrating bladder urothelial carcinoma sarcomatoid variant without heterologous elements
+DOID:7717 colloid carcinoma pancreas
+DOID:7910 maxillary sinus squamous cell carcinoma squamous cell carcinoma located_in maxillary sinus epidermoid carcinoma maxillofacial sinus
+DOID:8188 uterine corpus choriocarcinoma choriocarcinoma located_in uterine corpus
+DOID:8408 meckel 's diverticulitis diverticulits characterized inflammation congenital diverticulum slight bulge small intestine present birth meckel diverticulitis
+DOID:8409 microinvasive cervical squamous cell carcinoma cervical squamous cell carcinoma characterized invasion diagnosed microscopy invasion limited measured stromal invasion maximum depth 5_mm wider 7_mm diameter
+DOID:9220 central sleep apnea sleep apnea characterized malfunction basic neurological controls breathing rate failure give signal inhale causing individual miss one cycles breathing central sleep apnea syndrome primary central sleep apnea
+DOID:9299 myocardium cancer malignant myocardial tumor malignant neoplasm myocardium tumor myocardium
+DOID:9911 infected hydrocele

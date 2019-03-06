@@ -1,0 +1,6 @@
+sh generate_artificial_vocab.sh
+sh assign_edge_labels.sh
+sh split_graph_train_test_dev.sh
+sh split_def_train_test_dev.sh
+sh generate_target_paths.sh
+sh generate_corpus.sh

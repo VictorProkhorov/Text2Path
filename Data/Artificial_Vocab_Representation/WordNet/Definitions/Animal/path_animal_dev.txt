@@ -1,0 +1,30 @@
+sergeant_major.n.02 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v25 <EOS>
+creepy-crawly.n.01 <SOS> <EOS>
+cornish.n.02 <SOS> v28 v3 v10 v24 v1 <EOS>
+cardigan.n.02 <SOS> v7 v1 v14 <EOS>
+peeper.n.03 <SOS> <EOS>
+neandertal_man.n.01 <SOS> v28 v3 v5 v5 v28 v5 v3 <EOS>
+aurochs.n.02 <SOS> v28 v3 v5 v5 v24 v3 v1 v1 v5 v2 <EOS>
+loxostege_similalis.n.02 <SOS> v31 v14 v15 v25 v2 v1 v1 <EOS>
+hairy-legged_vampire_bat.n.01 <SOS> v28 v3 v5 v5 v7 v1 v5 <EOS>
+hawk_owl.n.01 <SOS> v28 v3 v10 v20 v2 <EOS>
+mourning_dove.n.01 <SOS> v28 v3 v10 v24 v7 v4 v2 <EOS>
+armyworm.n.01 <SOS> v15 v1 <EOS>
+gallfly.n.03 <SOS> v31 v14 v15 <EOS>
+talapoin.n.01 <SOS> v28 v3 v5 v5 v28 v9 v1 v7 <EOS>
+european_nuthatch.n.01 <SOS> v28 v3 v10 v10 v1 v6 <EOS>
+greater_kudu.n.01 <SOS> v28 v3 v5 v5 v24 v3 v1 v1 v7 v2 <EOS>
+ungulata.n.01 <SOS> v28 v3 v5 v5 <EOS>
+ferret_badger.n.01 <SOS> v28 v3 v5 v5 v23 v5 v14 <EOS>
+serow.n.01 <SOS> v28 v3 v5 v5 v24 v3 v1 v1 v9 <EOS>
+sidewinder.n.01 <SOS> v28 v3 v9 v4 v1 v2 v2 v1 <EOS>
+woolly_apple_aphid.n.01 <SOS> v31 v14 v15 v10 v3 v5 v5 <EOS>
+human_botfly.n.01 <SOS> v31 v14 v15 v12 v10 v7 v1 <EOS>
+american_chameleon.n.01 <SOS> v28 v3 v9 v4 v4 v1 v9 <EOS>
+american_mastodon.n.01 <SOS> v28 v3 v5 v5 v14 v1 <EOS>
+woolly_mammoth.n.01 <SOS> v28 v3 v5 v5 v5 v1 v3 <EOS>
+carolina_chickadee.n.01 <SOS> v28 v3 v10 v10 v1 v7 v6 <EOS>
+mamo.n.01 <SOS> v28 v3 v10 v10 v1 v35 v15 <EOS>
+audubon's_caracara.n.01 <SOS> v28 v3 v10 v20 v3 v6 v3 <EOS>
+tiger_shark.n.01 <SOS> v28 v3 v2 v1 v9 v2 v1 v5 <EOS>
+blackcap.n.04 <SOS> v28 v3 v10 v10 v1 v3 v4 <EOS>

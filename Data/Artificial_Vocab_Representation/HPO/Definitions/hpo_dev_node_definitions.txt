@@ -1,0 +1,95 @@
+HP:0000063 fused labia minora fusion labia minora result labial adhesions resulting vaginal obstruction fused inner lips
+HP:0000455 broad nasal tip increase width nasal tip broad nasal tip broad tip nose broad upturned nose broad upturned nose increased breadth nasal tip increased breadth tip nose increased width nasal tip increased width tip nose nasal tip broad nasal tip wide wide tip nose
+HP:0000485 megalocornea enlargement cornea normal clarity function megalocornea diagnosed horizontal corneal diameter 12 mm birth 13 mm two years age anterior megalophthalmos enlarged cornea increased corneal diameter macrocornea
+HP:0000705 amelogenesis imperfecta developmental dysplasia dental enamel
+HP:0001049 absent dorsal skin creases affected joints
+HP:0001459 1-3 toe syndactyly syndactyly fusion toes one three webbed 1st-3rd toes
+HP:0002000 short columella reduced distance anterior border naris subnasale columella short decreased length columella hypoplasia columella
+HP:0002036 hiatus hernia presence hernia upper part stomach i.e. mainly gastric cardia protrudes diaphragmatic esophageal hiatus hiatal hernia stomach hernia
+HP:0002179 opisthotonus opisthotonos
+HP:0003105 protuberances ends long bones presence multiple protuberances bulges knobs ends long bones protuberances ends long bones
+HP:0003166 increased urinary taurine increased concentration taurine urine increased urinary taurine
+HP:0003687 centrally nucleated skeletal muscle fibers abnormality nuclei sarcomeres take abnormally central localization feature found increased proportion muscle cells central nuclei centralized nuclei centralized sarcomeric nuclei
+HP:0003782 eunuchoid habitus body habitus tall slim underweight long legs long arms i.e. arm span exceeds height 5 cm
+HP:0003784 type 1 collagen overmodification
+HP:0003863 angulated humerus angulated long bone upper arm
+HP:0004589 dysplasia second lumbar vertebra
+HP:0005017 polyarticular chondrocalcinosis
+HP:0005208 secretory diarrhea watery voluminous diarrhea resulting imbalance ion water secretion absorption
+HP:0005224 rectal abscess collection pus area rectum perirectal abscess
+HP:0005232 pancreatic dysplasia presence developmental dysplasia pancreas
+HP:0005235 jejunal atresia developmental defect resulting abnormal closure atresia tubular structure jejunum
+HP:0005743 avascular necrosis capital femoral epiphysis avascular necrosis proximal epiphysis femur occurring growing children caused interruption blood supply head femur close hip joint necrosis characteristically associated flattening femoral head reason term coxa plana used refer feature medical literature coxa plana legg-calve-perthes syndrome legg-perthes disease morbus legg-calve-perthes osteochondrosis femoral head perthes-like femoral head changes
+HP:0005831 type b brachydactyly
+HP:0005899 metaphyseal dysostosis abnormal mineralization metaphyseal area bones
+HP:0006268 fluctuating splenomegaly intermittently increased size spleen
+HP:0006286 yellow-brown discoloration teeth yellow-brown discoloration teeth yellow-brown discolored teeth yellow-brown tooth shade
+HP:0007009 central nervous system degeneration
+HP:0007233 clusters axonal regeneration groups small caliber axons peripheral nerve biospies indicative axonal regeneration
+HP:0007384 aberrant melanosome maturation
+HP:0007417 discoid lupus rash cutaneous lesion develops dry scaly red patch evolves indurated hyperpigmented plaque adherent scale scarring may result central white patches loss pigmentation skin atrophy discoid lupus erythematosus
+HP:0007446 palmoplantar blistering type blistering affects skin palms hands soles feet
+HP:0007451 ipsilateral lack facial sweating
+HP:0007586 telangiectases producing 'marbled skin
+HP:0007613 spinous keratoses palms soles
+HP:0008191 thyroid agenesis congenital absence thyroid gland athyroidal hypothyroidism
+HP:0008352 impaired platelet adhesion abnormality adhesion thrombocytes normally platelets adhere collagen vascular subendothelium within seconds injury via receptor made glycoprotein ia iia gpvi vwf via receptor gpib/ix/v adherent platelets release granules lead platelet activation aggregation impaired thrombocytes adhesion
+HP:0008801 hypoplasia lesser trochanter underdevelopment lesser trochanter lesser trochanter hypoplasia
+HP:0009226 short proximal phalanx 5th finger absence underdevelopment hypoplasia proximal phalanx fifth finger hypoplastic/small proximal phalanx 5th finger short innermost little finger bone short innermost pinkie finger bone short innermost pinky finger bone short proximal phalanx fifth finger
+HP:0009279 radial deviation 4th finger displacement 4th finger towards radial side i.e. towards thumb radial deviation ring finger
+HP:0009292 broad distal phalanx 4th finger increased width distal phalanx 4th finger broad outermost bone ring finger wide outermost bone ring finger
+HP:0009561 osteolytic defects distal phalanx 2nd finger dissolution degeneration bone tissue distal phalanx 2nd finger acro-osteolysis index finger acro-osteolysis terminal index finger phalanx osteolytic defects outermost bone 2nd finger
+HP:0009606 complete duplication distal phalanx thumb complete duplication distal phalanx thumb x-ray two separate bones appear side side complete duplication outermost bone thumb double thumb distal phalanges duplicated terminal phalanx thumb duplication distal thumb phalanx duplication terminal thumb phalanx
+HP:0009670 ivory epiphysis proximal phalanx thumb sclerosis epiphysis proximal phalanx thumb leading increased degree radiopacity white ivory appearance x-rays increased bone density end part innermost bone thumb
+HP:0009993 complete duplication proximal phalanx 5th finger complete duplication fifth proximal phalanx hand complete duplication innermost little finger bone complete duplication innermost pinkie finger bone complete duplication innermost pinky finger bone
+HP:0010077 broad distal phalanx hallux increase width distal phalanx big toe broad outermost bone big toe wide outermost bone big toe
+HP:0010287 abnormality submandibular glands abnormality submandibular glands salivary glands located beneath floor mouth superior digastric muscles abnormality submaxillary glands
+HP:0010309 bifid sternum sternal cleft rare congenital anomaly resulting fusion failure sternum
+HP:0010420 triangular shaped distal phalanx 2nd toe triangular shaped outermost 2nd toe bone
+HP:0010498 bipartite patella developmental defect occurs two halves patella fail fuse early childhood
+HP:0010504 increased length tibia abnormal increase length tibia increased length shankbone increased length shinbone
+HP:0010507 foot asymmetry difference size shape left right foot
+HP:0010601 abnormality proximal ulnar epiphysis abnormality proximal epiphysis ulna
+HP:0010664 fusion left right thalami developmental defect characterized fusion left right halves thalamus fused thalami fusion thamali undivided thalami
+HP:0010855 eeg localized low amplitude activity abnormal localized reduction amplitude cerebral electrical activity recorded along scalp electroencephalography eeg eeg localised low amplitude activity
+HP:0010856 eeg periodic complexes periodically occurring generalized periodic complexes eeg periodic complexes radmecker complexes
+HP:0011044 abnormal number permanent teeth presence altered number permanent teeth abnormal complement permanent teeth abnormal number adult teeth abnormal number permanent teeth abnormal number secondary dentition abnormal permanent tooth count
+HP:0011049 agenesis primary maxillary lateral incisor agenesis one maxillary lateral incisor comprising maxillary lateral primary incisor absence deciduous maxillary lateral incisor absence primary maxillary lateral incisor agenesis deciduous maxillary lateral incisor failure development deciduous maxillary lateral incisor failure development primary maxillary lateral incisor missing deciduous maxillary lateral incisor missing primary maxillary lateral incisor
+HP:0011092 mulberry molar mulberry molars irregular teeth generally affecting first molars characterized grossly deformed crown imitating name implies surface mulberry syphilitic permanent first molar
+HP:0011272 underdeveloped tragus decreased posterolateral protrusion tragus hypoplastic tragus hypotrophic tragus small tragus
+HP:0011529 multiple bilateral congenital hypertrophy retinal pigment epithelium sharply demarcated hyperpigmentation congenital multiple bilateral chrpe multiple bilateral chrpe
+HP:0011572 supramitral ring congenital stenotic mitral valvular anomaly ring tissue mitral valve membranous supravalvular mitral stenosis supravalvular mitral ring
+HP:0011644 coronary sinus diverticulum venous pouch within left ventricular wall neck opening coronary sinus diverticulum coronary sinus
+HP:0011786 thyrotoxicosis toxic single thyroid nodule
+HP:0012601 hypochloriduria decreased concentration chloride urine decreased urinary chloride low urine chloride levels
+HP:0012755 enlarged brainstem abnormal increase size brainstem
+HP:0012887 ovarian serous cystadenoma cystic tumor ovary containing thin clear yellow serous fluid varying amounts solid tissue serous ovarian cyst
+HP:0012893 neck muscle hypertrophy muscle hypertrophy affecting muscles neck hyperplasia neck muscles hypertrophy cervical muscles increased size neck muscles large neck muscles overgrowth neck muscles
+HP:0025290 upper-body predominance applies abnormality affects arms trunk head legs
+HP:0025416 vaginal stricture narrowing vagina owing scar formation
+HP:0025436 elevated serum 11-deoxycortisol increased concentration 11-deoxycortisol circulation 11-deoxycorticosterone also known simply deoxycorticosterone 21-hydroxyprogesterone steroid hormore produces adrenals precursor aldosterone elevated serum 21-hydroxyprogesterone elevated serum deoxycorticosterone
+HP:0025582 submacular hemorrhage bleeding neurosensory retina retinal pigment epithelium rpe arising choroidal retinal circulation sub-macular hemorrhage submacular haemorrhage
+HP:0030021 auricular tag small protrusion within pinna
+HP:0030122 reduced muscle fiber perlecan immunohistochemistry reveals reduced perlecan protein muscle biopsy perlecan basement membrane-specific heparan sulfate proteoglycan core protein hspg also known heparan sulfate proteoglycan 2 hspg2
+HP:0030170 cystic artery pseudoaneurysm presence pseudoaneurysm artery supplies gallbladder cystic duct blood pseudoaneurysm also known false aneurysm forms blood leaks breach arterial wall contained adventitia surrounding perivascular soft tissue
+HP:0030281 cervical c3/c4 vertebral fusion fusion cervical vertebrae c3 c4 caused failure normal segmentation division cervical vertebrae early weeks fetal development
+HP:0030499 macular drusen drusen singular 'druse tiny yellow white accumulations extracellular material lipofuscin build bruch 's membrane eye class refers presence drusen macula lipid accumulation macula
+HP:0030651 multifocal
+HP:0030709 myelocystocele myelocystocele characterized large ependyma-lined cystic dilation caudal end central canal spinal cord projects dorsally lamina defect overlying varying amounts lipomatous subcutaneous tissue myelocystoceles associated tethered cord meningocele communicates spinal subarachnoid space central canal cyst
+HP:0030868 monorchism one testis scrotum monorchidism
+HP:0031240 juxtafoveal choroidal neovascularization type choroidal neovascularization nearest edge area neovascularization located 1 199 micrometers center fovea
+HP:0031457 pulmonary opacity lesion observed imaging study lung associated increased density usually showing increased whiteness image
+HP:0031620 anterior chamber flare grade 3+ marked anterior chamber flare iris lens details hazy
+HP:0031713 constant exotropia form divergent strabismus exotropia eye turns outward distances times
+HP:0031769 peripheral fixation fixation object peripheral area retina
+HP:0040110 morphological abnormality saccule
+HP:0100126 fragmentation epiphysis proximal phalanx 2nd toe fragmentation end part innermost bone 2nd toe
+HP:0100193 cone-shaped epiphysis proximal phalanx 4th toe cone-shaped end part innermost bone 4th toe
+HP:0100275 diffuse cerebellar atrophy diffuse unlocalised atrophy affecting cerebellum
+HP:0100358 contracture metatarsophalangeal joint 4th toe joint second metatarsal proximal phalanx 4th toe straightened actively passively
+HP:0100578 lipoatrophy localized loss fat tissue
+HP:0100582 nasal polyposis polypoidal masses arising mainly mucous membranes nose paranasal sinuses freely movable nontender overgrowths mucosa frequently accompany allergic rhinitis nasal polyps polys nose
+HP:0410051 increased level 3-hydroxy-3-methylglutaric acid urine increase level 3-hydroxy-3-methylglutaric acid urine
+HP:0500005 anal pain pain around anus rectum perianal region anal pain rectal pain
+HP:3000036 abnormality head blood vessel abnormality blood vessel head including branches arterial venous systems head abnormality blood vessel head abnormality head blood vessel abnormality vasculature head
+HP:3000069 abnormality lateral rectus extra-ocular muscle abnormality lateral rectus extra-ocular muscle

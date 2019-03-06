@@ -1,0 +1,314 @@
+acrogen.n.01 acrogen flowerless plant fern pteridophyte moss bryophyte growth occurs tip main stem
+hygrophyte.n.01 hygrophyte plant grows moist habitat
+waxflower.n.02 waxflower epiphytic clusia british guiana
+hemlock.n.02 hemlock large branching biennial herb native eurasia africa adventive north america large fernlike leaves white flowers usually found damp habitats parts extremely poisonous
+water_fennel.n.01 water fennel european poisonous herb fibrous roots
+deciduous_plant.n.01 deciduous plant plant foliage shed annually end growing season
+psilophyte.n.01 psilophyte plant order psilophytales savannah plant
+lipstick_plant.n.01 lipstick plant epiphyte creeping rocks malaysian plant somewhat fleshy leaves bright red flowers
+chinese_gooseberry.n.01 chinese gooseberry climbing vine native china cultivated new zealand fuzzy edible fruit green meat
+cock's_eggs.n.01 cock's eggs weedy vine argentina solitary white flowers followed egg-shaped white yellow fruit
+cross_vine.n.01 cross vine woody flowering vine southern united states stems show cross transverse section
+elephant's-foot.n.01 elephant's-foot south african vine massive rootstock covered deeply fissured bark
+ground_ivy.n.01 ground ivy trailing european aromatic plant mint family rounded leaves small purplish flowers often grown hanging baskets naturalized north america sometimes placed genus nepeta
+hog_peanut.n.01 hog peanut vine widely distributed eastern north america producing racemes purple maroon flowers abundant usually subterranean edible one-seeded pods resembling peanuts
+potato.n.02 potato annual native south america underground stolons bearing edible starchy tubers widely cultivated garden vegetable vines poisonous
+semi-climber.n.01 semi-climber plant tends climb occasion grow like vine
+winged_bean.n.01 winged bean tuberous twining annual vine bearing clusters purplish flowers pods four jagged wings old world tropics
+cocklebur.n.01 cocklebur coarse weed genus xanthium spiny burrs
+groundsel.n.01 groundsel eurasian weed heads small yellow flowers
+knawel.n.01 knawel widely distributed low-growing eurasian herb narrow leaves inconspicuous green flowers
+orange_hawkweed.n.01 orange hawkweed european hawkweed flower heads bright orange-red rays troublesome weed especially naturalized northeastern north america sometimes placed genus hieracium
+ragwort.n.01 ragwort widespread european weed yellow daisylike flowers sometimes obnoxious weed toxic cattle consumed quantity
+alpine_gold.n.01 alpine gold low tufted plant hairy stems topped flower head short narrow yellow rays northwestern united states
+coast_boykinia.n.01 coast boykinia plant leaves mostly base openly branched clusters small white flowers western north america
+leatherleaf_saxifrage.n.01 leatherleaf saxifrage plant basal leathery elliptic leaves erect leafless flower stalks bearing dense roundish cluster tiny white flowers moist places northwestern north america oregon idaho
+old_man_of_the_mountain.n.01 old man of the mountain whitish hairy plant featherlike leaves stout stems bearing especially handsome solitary large yellow flower head mountainous regions north central united states
+parry's_penstemon.n.01 parry's penstemon erect stems pinkish-lavender flowers long interrupted clusters arizona
+pussy-paw.n.01 pussy-paw pink clusters densely packed flowers prostrate stems resemble upturned pads cats feet grow coniferous forests western north america
+scarlet_bugler.n.01 scarlet bugler plant bright red tubular flowers long narrow clusters near tips erect stems coastal ranges central california southward
+lizard's-tail.n.01 lizard's-tail north american herbaceous perennial wet places slender curled racemes small white flowers
+sweet_flag.n.01 sweet flag perennial marsh plant swordlike leaves aromatic roots
+frog's_lettuce.n.01 frog's lettuce similar potamogeton western africa asia europe
+cape_tulip.n.01 cape tulip spectacular plant large prostrate leaves barred reddish-purple flowers clump long yellow stamens coral-red cup fleshy bracts south africa
+white_fritillary.n.01 white fritillary california herb white conic bell-shaped flowers usually tinged green
+sego_lily.n.01 sego lily perennial plant clusters one four showy white bell-shaped flowers atop erect unbranched stems edible bulbs useful times scarcity eastern montana western north dakota south northern arizona northwestern new mexico
+sneezeweed_yarrow.n.01 sneezeweed yarrow eurasian herb loose heads button-shaped white flowers long grey-green leaves cause sneezing powdered
+pigweed.n.02 pigweed leaves sometimes used potherbs seeds used cereal southern united states central america india china
+tumbleweed.n.04 tumbleweed bushy plant western united states
+cape_forget-me-not.n.02 cape forget-me-not anchusa southern africa blue flowers white throats
+wild_angelica.n.01 wild angelica european herb compound leaves white flowers adventive cape breton island
+dragon_arum.n.01 dragon arum european arum resembling cuckoopint
+erect_bugle.n.01 erect bugle upright rhizomatous perennial bright blue flowers southern europe
+false_lupine.n.01 false lupine western united states bushy herb yellow pea-like flowers
+creeping_buttercup.n.01 creeping buttercup perennial european herb long creeping stolons
+cursed_crowfoot.n.01 cursed crowfoot annual herb growing marshy places
+tussock_bellflower.n.01 tussock bellflower european perennial bellflower grows clumps spreading stems blue white flowers
+waterwheel_plant.n.01 waterwheel plant floating aquatic carnivorous perennial central southern europe africa asia australia whorls 6 9 leaves ending hinged lobes capturing e.g water fleas
+alpine_clover.n.01 alpine clover european mountain clover fragrant usually pink flowers
+red_clover.n.01 red clover erect decumbent short-lived perennial red-purple pink flowers commonly grown forage clover
+indian_rattlebox.n.01 indian rattlebox erect subshrub purple-tinted flowers inflated pod ripe seeds rattle india
+rose_of_jericho.n.02 rose of jericho small grey asiatic desert plant bearing minute white flowers rolls dry expands moist
+common_dandelion.n.01 common dandelion eurasian plant widely naturalized weed north america used salad greens make wine
+sheep_sorrel.n.01 sheep sorrel small plant pleasantly acid-tasting arrow-shaped leaves common dry places
+missouri_primrose.n.01 missouri primrose evening-opening primrose south central united states
+shellflower.n.02 shellflower cultivated shining oblong leaves arching clusters white flowers pink shading crinkled yellow lips variegated magenta stripes
+downy_ground_cherry.n.01 downy ground cherry decorative american annual round fleshy yellow berries enclosed bladderlike husk
+winter_purslane.n.01 winter purslane succulent herb sometimes grown salad pot herb grows dunes waste ground pacific coast north america
+mung.n.01 mung erect bushy annual widely cultivated warm regions india indonesia united states forage especially edible seeds chief source bean sprouts used chinese cookery sometimes placed genus phaseolus
+corn_mint.n.01 corn mint european mint naturalized united states
+pennyroyal.n.01 pennyroyal eurasian perennial mint small lilac-blue flowers ovate leaves yields aromatic oil
+five-point_bishop's_cap.n.01 five-point bishop's cap small plant leaves basal cluster tiny greenish flowers slender racemes northwestern north america california colorado
+bee_balm.n.01 bee balm perennial herb north america
+plains_lemon_monarda.n.01 plains lemon monarda annual southern united states
+five-spot.n.02 five-spot california annual white flowers deep purple blotch petal
+common_wood_sorrel.n.01 common wood sorrel eurasian plant heart-shaped trifoliate leaves white purple-veined flowers
+chickweed_phlox.n.01 chickweed phlox low mat-forming herb rocky places united states
+mexican_poppy.n.01 mexican poppy annual herb prickly stems large yellow flowers southern united states west indies mexico
+common_purslane.n.01 common purslane weedy trailing mat-forming herb bright yellow flowers cultivated edible mildly acid leaves eaten raw cooked especially indian greek middle eastern cuisine cosmopolitan
+dyer's_rocket.n.01 dyer's rocket european mignonette cultivated source yellow dye naturalized north america
+pitcher_sage.n.01 pitcher sage california erect sparsely branched perennial
+strawberry_geranium.n.01 strawberry geranium eastern asiatic saxifrage racemes small red-and-white flowers spreads numerous creeping stolons
+rosilla.n.01 rosilla sneezeweed southwestern united states especially southern california
+rocky_mountain_bee_plant.n.01 rocky mountain bee plant plant western north america trifoliate leaves white pink spider-shaped flowers sometimes used ornamental
+st.-bruno's-lily.n.01 st variety spiderwort
+virginia_strawberry.n.01 virginia strawberry north american wild strawberry sweet scarlet fruit source many cultivated strawberries
+tree_tobacco.n.01 tree tobacco evergreen south american shrub naturalized united states occasionally responsible poisoning livestock
+lesser_wintergreen.n.01 lesser wintergreen common wintergreen many-flowered racemes pink-tinged white flowers europe north america
+potato_fern.n.02 potato fern small epiphytic fern south america tuberous swellings along rhizomes
+cape_aloe.n.01 cape aloe much-branched south african plant reddish prickly succulent leaves
+rainbow_cactus.n.01 rainbow cactus stout cylindrical cactus southwest united states adjacent mexico
+pipestem_clematis.n.01 pipestem clematis clematis california
+flat_pea.n.02 flat pea european perennial mottled flowers purple pink sometimes cultivated fodder green manure
+honey_plant.n.01 honey plant plant furnishes nectar suitable making honey
+common_moonseed.n.01 common moonseed woody vine eastern north america large oval leaves small white flowers purple blue-black fruits
+common_morning_glory.n.01 common morning glory annual perennial climbing herb central america sky-blue flowers commonly cultivated morning glory
+black_pea.n.01 black pea perennial europe north africa foliage turns black drying
+chinese_wistaria.n.01 chinese wistaria deep purple flowers
+silky_wisteria.n.01 silky wisteria wisteria china white flowers
+friendship_plant.n.01 friendship plant low stingless nettle central south america velvety brownish-green toothed leaves clusters small green flowers
+great_ragweed.n.01 great ragweed coarse annual leaves deeply palmately three-cleft five-cleft
+japanese_clover.n.01 japanese clover annual tropical asia naturalized united states
+white_lupine.n.01 white lupine white-flowered eurasian herb widely cultivated forage erosion control
+coyote_brush.n.01 coyote brush widely spreading evergreen shrub southwestern united states flower heads leafy panicle
+day_jessamine.n.01 day jessamine west indian evergreen shrub clusters funnel-shaped white flowers fragrant day
+derris.n.01 derris various usually woody vines genus derris tropical asia whose roots yield insecticide rotenone several sources native fish arrow poisons
+erythroxylon_truxiuense.n.01 erythroxylon truxiuense south american shrub whose leaves source cocaine
+forsythia.n.01 forsythia various early blooming oleaceous shrubs genus forsythia native eastern asia southern europe widely cultivated branches bright yellow bell-shaped flowers
+medinilla_magnifica.n.01 medinilla magnifica beautiful tropical evergreen epiphytic shrub grown lush foliage huge panicles pink flowers philippines
+sand_cherry.n.01 sand cherry small straggling american cherry growing sandy soil minute scarcely edible purplish-black fruit
+sweet_fern.n.02 sweet fern deciduous shrub eastern north america sweet scented fernlike leaves tiny white flowers
+tea.n.03 tea tropical evergreen shrub small tree extensively cultivated e.g china japan india source tea leaves
+toyon.n.01 toyon ornamental evergreen treelike shrub pacific coast united states large white flowers red berrylike fruits often placed genus photinia
+trapper's_tea.n.01 trapper's tea rocky mountain shrub similar ledum groenlandicum
+yerba_santa.n.01 yerba santa viscid evergreen shrub western united states white deep lilac flowers sticky aromatic leaves used treating bronchial pulmonary illnesses
+african_walnut.n.01 african walnut tropical african timber tree wood resembles mahogany
+brazilwood.n.02 brazilwood tropical tree prickly trunk heavy red wood yields red dye used cabinetry
+breakax.n.01 breakax west indian timber tree hard wood
+calaba.n.01 calaba west indian tree racemes fragrant white flowers yielding durable timber resinous juice
+caracolito.n.01 caracolito large costa rican tree light-colored wood suitable cabinetry similar african lepidobotrys wood structure well fruit flowers leaves seeds often classified families
+guama.n.01 guama tropical tree central america west indies puerto rico spikes white flowers used shade coffee plantations
+kowhai.n.01 kowhai shrub small tree new zealand chile pendulous racemes tubular golden-yellow flowers yields hard strong wood
+lead_tree.n.01 lead tree low scrubby tree tropical subtropical north america white flowers tinged yellow resembling mimosa long flattened pods
+marblewood.n.02 marblewood large asiatic tree hard marbled zebrawood
+montezuma.n.01 montezuma evergreen tree large leathery leaves large pink orange flowers considered link plant families bombacaceae sterculiaceae
+obeche.n.02 obeche large west african tree large palmately lobed leaves axillary cymose panicles small white flowers one-winged seeds yields soft white pale yellow wood
+prickly_ash.n.02 prickly ash australian tree alternate simple leaves young pinnate prickly toothed margins slender axillary spikes white flowers
+scarlet_wisteria_tree.n.01 scarlet wisteria tree softwood tree lax racemes usually red pink flowers tropical australia asia naturalized southern florida west indies
+tree_of_knowledge.n.01 tree of knowledge biblical tree garden eden whose forbidden fruit tasted adam eve
+treelet.n.01 treelet small tree
+white_false_indigo.n.01 white false indigo erect spreading herb racemes creamy white flowers eastern united states
+philadelphia_fleabane.n.01 philadelphia fleabane especially pretty plant delicate fringe threadlike rays around flower heads slender white pink rays united states canada
+maryland_golden_aster.n.01 maryland golden aster perennial golden aster southeastern united states
+meadow_goldenrod.n.01 meadow goldenrod large north american goldenrod showy clusters yellow flowers arching branches often weed
+silverrod.n.01 silverrod plant eastern north america creamy white flowers
+sulfur_paintbrush.n.01 sulfur paintbrush plant moist highland meadows ragged clusters pale yellow flowers
+western_pasqueflower.n.01 western pasqueflower western north america
+sweet_sand_verbena.n.01 sweet sand verbena taller abronia elliptica night-blooming flowers
+bulrush.n.02 bulrush tall rush soft erect arching stems found eurasia australia new zealand common north america
+tall_yellow-eye.n.01 tall yellow-eye australia
+saffron.n.01 saffron old world crocus purple white flowers aromatic pungent orange stigmas used flavoring food
+dwarf_iris.n.01 dwarf iris low-growing spring-flowering american iris bright blue-lilac flowers
+sand_leek.n.01 sand leek european leek cultivated used like leeks
+wild_leek.n.02 wild leek coarse old world perennial large bulb tall stalk greenish purple-tinged flowers widely naturalized
+common_hyacinth.n.01 common hyacinth widely grown fragrance white pink blue purplish flowers
+columbia_tiger_lily.n.01 columbia tiger lily lily western north america showy orange-red purple-spotted flowers
+michigan_lily.n.01 michigan lily lily central north america recurved orange-red flowers deep crimson spots
+turk's-cap.n.01 turk's-cap lily eastern united states orange red maroon-spotted flowers
+wood_lily.n.02 wood lily lily eastern north america orange orange-red purple-spotted flowers
+nephthytis_afzelii.n.01 nephthytis afzelii tropical rhizomatous plant cultivated ornamental large sagittate leaves
+common_pitcher_plant.n.01 common pitcher plant perennial bog herb dark red flowers decumbent broadly winged pitchers forming rosette northeastern north america naturalized europe especially ireland
+tower_mustard.n.01 tower mustard genus arabis erect cress widely distributed throughout europe
+rutabaga.n.02 rutabaga cruciferous plant thick bulbous edible yellow root
+meadow_cranesbill.n.01 meadow cranesbill tall perennial cranesbill paired violet-blue axillary flowers native northern parts old world naturalized north america
+beach_grass.n.01 beach grass tough grasses strong roots grow exposed sandy shores
+bunchgrass.n.01 bunchgrass various grasses many genera grow tufts clumps rather forming sod mat chiefly western united states
+marsh_pea.n.01 marsh pea scrambling perennial damp marshy areas eurasia north america purplish flowers
+plum_tomato.n.01 plum tomato italian variety cherry tomato shaped like plum
+downy_yellow_violet.n.01 downy yellow violet violet eastern north america softly pubescent leaves stems clear yellow flowers brown-purple veins
+ribbon_fern.n.03 ribbon fern epiphytic fern straplike usually twisted fronds tropical asia polynesia america
+floating_fern.n.02 floating fern aquatic fern tropical america often used aquariums
+licorice_fern.n.01 licorice fern fern rootstock sweetish flavor
+bradley's_spleenwort.n.01 bradley's spleenwort spleenwort eastern southern united states
+central_american_strap_fern.n.01 central american strap fern fern shorter narrower leaves florida strap fern florida west indies mexico south argentina
+rusty_woodsia.n.01 rusty woodsia common rock-inhabiting fern northern temperate regions rusty-brown stipes lanceolate pinnate fronds
+marsh_horsetail.n.01 marsh horsetail scouring-rush horsetail widely distributed wet boggy areas northern hemisphere
+scouring_rush.n.01 scouring rush evergreen erect horsetail rough-edged stems formerly used scouring utensils
+baby's_breath.n.01 baby's breath tall plant small lance-shaped leaves numerous tiny white pink flowers
+bartonia.n.01 bartonia annual grown especially fragrant golden nocturnal flowers
+calceolaria.n.01 calceolaria garden plant genus calceolaria flowers large inflated slipper-shaped lower lip
+cornflower.n.02 cornflower annual eurasian plant cultivated north america showy heads blue purple pink white flowers
+prairie_rocket.n.01 prairie rocket several north american plants genus erysimum large yellow flowers
+sandwort.n.02 sandwort low-growing herb clusters small white four-petaled flowers
+stokes'_aster.n.01 stokes' aster erect perennial southeastern united states large heads usually blue flowers
+sweet_sultan.n.03 sweet sultan asian plant widely grown sweetly fragrant pink flowers sometimes placed genus centaurea
+umbrellawort.n.01 umbrellawort plant genus mirabilis
+tuna.n.01 tuna tropical american prickly pear jamaica
+watermelon.n.01 watermelon african melon
+hubbard_squash.n.01 hubbard squash several winter squash plants producing large greyish-green football-shaped fruit rough warty rind
+false_indigo.n.03 false indigo erect spreading hairy shrub pacific coast united states racemes red indigo flowers
+bog_rosemary.n.01 bog rosemary wiry evergreen shrub pendent clusters white pink flowers wet acidic areas arctic canada northeastern united states
+common_bearberry.n.01 common bearberry evergreen mat-forming shrub north america northern eurasia small white flowers red berries leaves turn red autumn
+dwarf_bilberry.n.01 dwarf bilberry low-growing tufted deciduous shrub northern alpine north america pink coral-red flowers followed sweet blue berries
+white_broom.n.01 white broom low european broom trifoliate leaves yellowish-white flowers
+indian_hemp.n.01 indian hemp source e.g bhang hashish well fiber
+cone_pepper.n.01 cone pepper plant bearing erect pungent conical red yellow purple fruits sometimes grown ornamental
+sweet_cassava.n.01 sweet cassava south american plant roots used vegetable herbage used stock feed
+axseed.n.01 axseed european herb resembling vetch naturalized eastern united states umbels pink-and-white flowers sharp-angled pods
+egyptian_cotton.n.01 egyptian cotton fine somewhat brownish long-staple cotton grown egypt believed derived sea island cotton hybridization peruvian cotton
+new_zealand_daisybush.n.01 new zealand daisybush bushy new zealand shrub cultivated fragrant white flower heads
+garland_flower.n.01 garland flower widely cultivated low evergreen shrub dense clusters fragrant pink deep rose flowers
+blue_elder.n.01 blue elder shrub small tree western united states white flowers blue berries fruit used wines jellies
+common_laburnum.n.01 common laburnum ornamental shrub tree genus laburnum often cultivated easter decorations
+desert_pea.n.01 desert pea sprawling shrubby perennial noted scarlet black-marked flowers widely distributed dry parts australia
+tall_mallow.n.01 tall mallow erect decumbent old world perennial axillary clusters rosy-purple flowers introduced united states
+snakewood.n.01 snakewood east indian climbing shrub twisted limbs roots resembling serpents
+common_gum_cistus.n.01 common gum cistus shrub white flowers viscid stems leaves yielding fragrant oleoresin used perfumes especially fixative
+candelilla.n.01 candelilla wax-coated mexican shrub related euphorbia antisyphilitica
+caper_spurge.n.01 caper spurge poisonous old world spurge adventive america seeds yield purgative oil
+fragrant_sumac.n.01 fragrant sumac sweet-scented sumac eastern america ternate leaves yellowish-green flowers spikes resembling catkins followed red hairy fruits
+virginian_witch_hazel.n.01 virginian witch hazel common shrub eastern north america small yellow flowers leaves fallen
+joshua_tree.n.01 joshua tree large branched arborescent yucca southwestern united states short leaves clustered greenish white flowers
+catechu.n.02 catechu east indian spiny tree twice-pinnate leaves yellow flowers followed flat pods source black catechu
+silk_tree.n.01 silk tree attractive domed flat-topped asiatic tree bipinnate leaves flowers long silky stamens
+seaside_alder.n.01 seaside alder shrub small tree southeastern united states soft light brown wood
+bocconia.n.02 bocconia small central american tree loose racemes purple-tinted green flowers
+ilang-ilang.n.02 ilang-ilang evergreen asian tree aromatic greenish-yellow flowers yielding volatile oil widely grown tropics ornamental
+physic_nut.n.01 physic nut small tropical american tree yielding purple dye tanning extract bearing physic nuts containing purgative oil poisonous large quantities
+sorrel_tree.n.01 sorrel tree deciduous shrubby tree eastern north america deeply fissured bark sprays small fragrant white flowers sour-tasting leaves
+flowering_ash.n.03 flowering ash shrubby ash southwestern united states fragrant white flowers
+swamp_ash.n.01 swamp ash small ash swampy areas southeastern united states
+carob.n.02 carob evergreen mediterranean tree edible pods biblical carob
+american_white_birch.n.01 american white birch small american birch peeling white bark often worked e.g baskets toy canoes
+japanese_chestnut.n.01 japanese chestnut spreading tree japan short trunk
+calisaya.n.01 calisaya peruvian shrub small tree large glossy leaves cymes fragrant yellow green red flowers cultivated medicinal bark
+coral_bean_tree.n.01 coral bean tree deciduous shrub racemes deep red flowers black-spotted red seeds
+gnetum.n.01 gnetum small tropical tree tiered branches divaricate branchlets broad glossy dark green leaves exploited edible young leaves seeds provide fine flour
+water_locust.n.01 water locust honey locust swamps bottomlands southern united states short oval pods yields dark heavy wood
+african_scented_mahogany.n.01 african scented mahogany african tree rather lightweight cedar-scented wood varying color pink reddish brown
+jumby_bead.n.01 jumby bead west indian tree similar ormosia monosperma larger smaller leaflets smaller seeds
+bluejack_oak.n.01 bluejack oak small semi-evergreen shrubby tree southeastern united states hairy young branchlets leaves narrowing slender bristly point
+california_black_oak.n.01 california black oak large deciduous tree pacific coast deeply parted bristle-tipped leaves
+laurel_oak.n.01 laurel oak large nearly semi-evergreen oak southeastern united states thrives damp soil
+cabbage_palm.n.02 cabbage palm west indian palm leaf buds edible young
+american_sycamore.n.01 american sycamore large spreading plane tree eastern central north america mexico
+london_plane.n.01 london plane large fast-growing tree much planted street tree
+indian_blackwood.n.01 indian blackwood east indian tree useful dark purple wood
+rauli_beech.n.01 rauli beech large chilean timber tree yielding coarse lumber
+grey_willow.n.01 grey willow eurasian shrubby willow whitish tomentose twigs
+pussy_willow.n.01 pussy willow small willow eastern north america greyish leaves silky catkins come leaves
+connarus_guianensis.n.01 connarus guianensis tropical american east african tree strikingly marked hardwood used cabinetwork
+dalmatian_iris.n.01 dalmatian iris european iris soft lilac-blue flowers
+savoy_cabbage.n.01 savoy cabbage cabbage plant compact head crinkled leaves
+lady's_smock.n.01 lady's smock bitter cress europe america
+common_watercress.n.01 common watercress perennial eurasian cress growing chiefly springs running water fleshy pungent leaves used salads potherb garnish introduced north america elsewhere
+grain.n.08 grain cereal grass
+egyptian_grass.n.01 egyptian grass creeping grass spikes like fingers
+sand_dropseed.n.01 sand dropseed erect smooth grass sandy places eastern north america
+windmill_grass.n.01 windmill grass perennial australian grass numerous long spikes arranged like vanes windmill
+weeping_love_grass.n.01 weeping love grass perennial south african grass densely clumped flimsy stems introduced united states especially erosion control
+feather_reed_grass.n.01 feather reed grass variety reed grass
+intermediate_wheatgrass.n.01 intermediate wheatgrass asiatic grass introduced united states rangelands pasture fodder
+manila_grass.n.01 manila grass lawn grass common philippines grown also united states
+mascarene_grass.n.01 mascarene grass asiatic creeping perennial grass introduced southern united states drought-resistant lawn grass
+nardoo.n.01 nardoo australian clover fern
+ground_cedar.n.01 ground cedar variety club moss
+running_pine.n.01 running pine variety club moss
+winged_everlasting.n.01 winged everlasting australian plant widely cultivated beautiful silvery-white blooms bright yellow centers long winged stems
+flat-topped_white_aster.n.01 flat-topped white aster variety aster
+goldilocks.n.01 goldilocks early-flowering perennial southern southeastern europe flower heads resembling goldenrod
+michaelmas_daisy.n.01 michaelmas daisy north american perennial herb small autumn-blooming purple pink white flowers widely naturalized europe
+perennial_salt_marsh_aster.n.01 perennial salt marsh aster variety aster
+tradescant's_aster.n.01 tradescant's aster variety aster
+golden_calla.n.01 golden calla several callas genus zantedeschia yellow spathes
+tansy.n.01 tansy common perennial aromatic herb native eurasia buttonlike yellow flower heads bitter-tasting pinnate leaves sometimes used medicinally
+desert_four_o'clock.n.01 desert four o'clock wildflower vibrant deep pink tubular evening-blooming flowers found sandy desert areas southern california southern colorado mexico
+mountain_four_o'clock.n.01 mountain four o'clock leafy wildflower lavender-pink flowers open evening remain cool part next day found open woods brush mountains southern colorado arizona mexico
+soapwort_gentian.n.01 soapwort gentian erect perennial wet woodlands north america leaves flower buds resembling soapwort
+fennel_flower.n.01 fennel flower nigella spain southern france
+coelogyne.n.01 coelogyne various orchids genus coelogyne clusters fragrant lacy snow-white flowers salmon-pink solitary flowers chainlike racemes topaz chocolate brown flowers spikes delicate white spice-scented flowers emerald green flowers marked blue-black
+fen_orchid.n.01 fen orchid small terrestrial orchid eastern north america europe two nearly basal leaves dull yellow-green racemose flowers
+prairie_white-fringed_orchid.n.01 prairie white-fringed orchid central north america threatened species
+rattlesnake_plantain.n.01 rattlesnake plantain several small temperate tropical orchids mottled striped leaves spikes small yellowish-white flowers twisted raceme
+button_pink.n.01 button pink much-branched pink flowers clusters closely related sweet william
+creamcups.n.01 creamcups california plant small pale yellow flowers
+opium_poppy.n.01 opium poppy southwestern asian herb greyish leaves white reddish flowers source opium
+rock_sandwort.n.01 rock sandwort low perennial tufted plant southeastern north america
+california_bluebell.n.01 california bluebell desert plant southern california blue violet tubular flowers terminal racemes
+white_snapdragon.n.01 white snapdragon california plant slender racemes white flowers
+brompton_stock.n.01 brompton stock european plant racemes sweet-scented flowers widely cultivated ornamental
+field_speedwell.n.01 field speedwell european plant minute axillary blue flowers long stalks widely naturalized america
+little_golden_zinnia.n.01 little golden zinnia subshrub short leafy stems numerous small flower heads nearly round yellow-orange rays arizona south mexico east kansas
+zucchini.n.01 zucchini marrow squash plant whose fruit eaten small
+cross-leaved_heath.n.01 cross-leaved heath dwarf european shrub rose-colored flowers
+prairie_mallow.n.01 prairie mallow false mallow western united states racemose red flowers sometimes placed genus malvastrum
+bennet.n.02 bennet north american white-flowered avens
+little-head_snakeweed.n.01 little-head snakeweed similar gutierrezia sarothrae flower heads fewer rays disk flowers
+senega.n.02 senega perennial bushy herb central southern united states white flowers green centers often purple crest similar seneca snakeroot
+big_sagebrush.n.01 big sagebrush aromatic shrub arid regions western north america hoary leaves
+klammath_weed.n.01 klammath weed yellow-flowered perennial common fields waste places weed rangelands
+breadfruit.n.01 breadfruit native pacific islands edible fruit texture like bread
+medlar.n.02 medlar small deciduous eurasian tree cultivated fruit resemble crab apples
+mombin.n.01 mombin common tropical american shrub small tree purplish fruit
+papaya.n.01 papaya tropical american shrub small tree huge deeply palmately cleft leaves large oblong yellow fruit
+deciduous_holly.n.01 deciduous holly holly tree
+low_gallberry_holly.n.01 low gallberry holly evergreen shrub
+smooth_winterberry_holly.n.01 smooth winterberry holly holly shrub
+sassafras.n.01 sassafras yellowwood tree brittle wood aromatic leaves bark source sassafras oil widely distributed eastern north america
+red_maple.n.01 red maple maple eastern central america five-lobed leaves turn scarlet yellow autumn
+allspice_tree.n.01 allspice tree tropical american tree small white flowers aromatic berries
+white_mountain_ash.n.01 white mountain ash large tree dark compact bark lower trunk smooth white yields lumber similar european american ashes
+cathaya.n.01 cathaya chinese evergreen conifer discovered 1955 yet cultivated elsewhere
+nagi.n.01 nagi medium-sized tree glossy lanceolate leaves southern china taiwan southern japan
+tarwood.n.01 tarwood new zealand shrub
+barley_grass.n.01 barley grass european annual grass often found weed waste ground especially along roadsides hedgerows
+barnyard_grass.n.01 barnyard grass coarse annual panic grass cosmopolitan weed occasionally used hay grazing
+cereal_oat.n.01 cereal oat widely cultivated temperate regions edible grains
+slender_wild_oat.n.01 slender wild oat oat southern europe southwestern asia
+soft_wheat.n.01 soft wheat wheat soft starch kernels used pastry breakfast cereals
+ragged_orchid.n.01 ragged orchid fringed orchid eastern united states greenish flower lip deeply lacerated
+snowy_orchid.n.01 snowy orchid slender fringed orchid eastern north america white flowers
+showy_orchis.n.01 showy orchis north american orchid spike violet-purple flowers mixed white sepals petals form hood
+japanese_pink.n.01 japanese pink flowering variety china pink distinguished jagged-edged petals
+pomelo.n.01 pomelo southeastern asian tree producing large fruits resembling grapefruits
+soursop.n.01 soursop small tropical american tree bearing large succulent slightly acid fruit
+big_shellbark.n.01 big shellbark hickory eastern united states resembling shagbark much larger nut
+bitternut.n.01 bitternut hickory eastern united states leaves 7 9 leaflets thin-shelled bitter nuts
+water_hickory.n.01 water hickory hickory southern united states many narrow leaflets rather bitter nuts
+chilean_cedar.n.01 chilean cedar small south american evergreen coppery bark pretty foliage
+incense_cedar.n.02 incense cedar tall tree pacific coast north america foliage like cypress cinnamon-red bark
+oregon_cedar.n.01 oregon cedar large timber tree western north america trunk diameter 12 feet height 200 feet
+tanekaha.n.01 tanekaha medium tall celery pine new zealand
+big-cone_spruce.n.01 big-cone spruce douglas fir california cones 4-8 inches long
+eastern_hemlock.n.01 eastern hemlock common forest tree eastern united states canada used especially pulpwood
+western_larch.n.01 western larch tall larch western north america pale green sharply pointed leaves oblong cones important timber tree
+scotch_pine.n.01 scotch pine medium large two-needled pine northern europe asia flaking red-brown bark
+broomcorn_millet.n.01 broomcorn millet extensively cultivated europe asia grain united states sometimes forage
+jordan_almond.n.01 jordan almond variety large almond malaga spain used confectionery
+gean.n.01 gean wild seedling sweet cherry used stock grafting
+bergamot.n.01 bergamot small tree pear-shaped fruit whose oil used perfumery italy
+southwestern_white_pine.n.01 southwestern white pine medium-size pine northwestern mexico bark dark brown furrowed mature
+ponderosa.n.01 ponderosa common widely distributed tall timber pine western north america dark green needles bunches 2 5 thick bark dark brown plates mature
+shortleaf_pine.n.01 shortleaf pine large pine southern united states short needles bunches 2-3 red-brown bark mature
+bechtel_crab.n.01 bechtel crab derived iowa crab cultivated large double pink blossoms
+pin_cherry.n.01 pin cherry small shrubby north american wild cherry small bright red acid fruit

@@ -1,0 +1,263 @@
+yellowtail_flounder.n.02 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 flatfish.n.02 righteye_flounder.n.01 <EOS>
+boll_weevil.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 beetle.n.01 weevil.n.01 <EOS>
+bunny.n.02 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 lagomorph.n.01 leporid.n.01 rabbit.n.01 <EOS>
+harvestman.n.01 <SOS> invertebrate.n.01 arthropod.n.01 arachnid.n.01 <EOS>
+florida_pompano.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 carangid_fish.n.01 pompano.n.02 <EOS>
+bearded_seal.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 aquatic_mammal.n.01 pinniped_mammal.n.01 seal.n.09 earless_seal.n.01 <EOS>
+evening_grosbeak.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 finch.n.01 grosbeak.n.01 <EOS>
+stocker.n.01 <SOS> domestic_animal.n.01 <EOS>
+roach.n.05 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 soft-finned_fish.n.01 cypriniform_fish.n.01 cyprinid.n.01 <EOS>
+black_duck.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 waterfowl.n.01 anseriform_bird.n.01 duck.n.01 <EOS>
+toy_manchester.n.01 <SOS> domestic_animal.n.01 dog.n.01 hunting_dog.n.01 terrier.n.01 rat_terrier.n.01 manchester_terrier.n.01 <EOS>
+pigfish.n.02 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 grunt.n.03 <EOS>
+black-fronted_bush_shrike.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 shrike.n.01 bush_shrike.n.01 <EOS>
+pony.n.02 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 equine.n.01 horse.n.01 racehorse.n.01 <EOS>
+wood_pigeon.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 gallinaceous_bird.n.01 columbiform_bird.n.01 pigeon.n.01 <EOS>
+siberian_husky.n.01 <SOS> domestic_animal.n.01 dog.n.01 working_dog.n.01 sled_dog.n.01 <EOS>
+common_mosquito.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 dipterous_insect.n.01 mosquito.n.01 <EOS>
+tiger_cat.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 feline.n.01 cat.n.01 wildcat.n.03 <EOS>
+european_wood_mouse.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 mouse.n.01 field_mouse.n.02 <EOS>
+pademelon.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 metatherian.n.01 marsupial.n.01 kangaroo.n.01 wallaby.n.01 <EOS>
+ichneumon.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 viverrine.n.01 mongoose.n.01 <EOS>
+citrus_whitefly.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 homopterous_insect.n.01 whitefly.n.01 <EOS>
+leatherjacket.n.03 <SOS> larva.n.01 grub.n.02 <EOS>
+yorkshire_terrier.n.01 <SOS> domestic_animal.n.01 dog.n.01 hunting_dog.n.01 terrier.n.01 <EOS>
+leatherjacket.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 plectognath.n.01 filefish.n.01 <EOS>
+little_auk.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 seabird.n.01 auk.n.01 <EOS>
+boatbill.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 wading_bird.n.01 heron.n.02 <EOS>
+okapi.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 giraffe.n.01 <EOS>
+leptocephalus.n.01 <SOS> larva.n.01 <EOS>
+bearded_vulture.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 bird_of_prey.n.01 vulture.n.01 old_world_vulture.n.01 <EOS>
+hispid_pocket_mouse.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 rat.n.01 pocket_rat.n.01 pocket_mouse.n.01 <EOS>
+click_beetle.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 beetle.n.01 elaterid_beetle.n.01 <EOS>
+head_louse.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 louse.n.01 <EOS>
+mastotermes_electromexicus.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 termite.n.01 <EOS>
+harvest_mite.n.01 <SOS> invertebrate.n.01 arthropod.n.01 arachnid.n.01 acarine.n.01 mite.n.02 trombiculid.n.01 <EOS>
+black-headed_snake.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 snake.n.01 colubrid_snake.n.01 <EOS>
+caiman_lizard.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 saurian.n.01 lizard.n.01 teiid_lizard.n.01 <EOS>
+corn_snake.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 snake.n.01 colubrid_snake.n.01 rat_snake.n.01 <EOS>
+caecilian.n.01 <SOS> chordate.n.01 vertebrate.n.01 amphibian.n.03 <EOS>
+brazilian_trumpeter.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 wading_bird.n.01 trumpeter.n.03 <EOS>
+great_pyrenees.n.01 <SOS> domestic_animal.n.01 dog.n.01 <EOS>
+hawfinch.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 finch.n.01 grosbeak.n.01 <EOS>
+spotted_weakfish.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 sciaenid_fish.n.01 sea_trout.n.02 <EOS>
+carthorse.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 equine.n.01 horse.n.01 workhorse.n.02 draft_horse.n.01 <EOS>
+ostrich.n.02 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 ratite.n.01 <EOS>
+red-necked_grebe.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 seabird.n.01 podicipitiform_seabird.n.01 grebe.n.01 <EOS>
+minnow.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 soft-finned_fish.n.01 cypriniform_fish.n.01 cyprinid.n.01 <EOS>
+steeplechaser.n.01 <SOS> racer.n.03 <EOS>
+billy.n.02 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 bovid.n.01 goat.n.01 <EOS>
+red_goatfish.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bottom-feeder.n.02 mullet.n.03 goatfish.n.01 <EOS>
+boarfish.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 <EOS>
+livestock.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 <EOS>
+barren_ground_caribou.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 deer.n.01 caribou.n.01 <EOS>
+tautog.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 wrasse.n.01 <EOS>
+sand_lance.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 <EOS>
+european_bittern.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 wading_bird.n.01 heron.n.02 bittern.n.01 <EOS>
+mediterranean_water_shrew.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 insectivore.n.01 shrew.n.02 water_shrew.n.01 <EOS>
+koala.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 metatherian.n.01 marsupial.n.01 phalanger.n.01 <EOS>
+mole_rat.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 <EOS>
+norwich_terrier.n.01 <SOS> domestic_animal.n.01 dog.n.01 hunting_dog.n.01 terrier.n.01 <EOS>
+persian_lamb.n.02 <SOS> young.n.01 young_mammal.n.01 lamb.n.01 <EOS>
+midwife_toad.n.01 <SOS> chordate.n.01 vertebrate.n.01 amphibian.n.03 frog.n.01 <EOS>
+rhodesian_man.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 primate.n.02 hominid.n.01 homo.n.02 <EOS>
+ribbon_snake.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 snake.n.01 colubrid_snake.n.01 garter_snake.n.01 <EOS>
+physa.n.01 <SOS> invertebrate.n.01 mollusk.n.01 gastropod.n.01 <EOS>
+suslik.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 squirrel.n.01 ground_squirrel.n.02 <EOS>
+jungle_cock.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 gallinaceous_bird.n.01 jungle_fowl.n.01 <EOS>
+black_bream.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 sea_bream.n.02 <EOS>
+cactus_mouse.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 mouse.n.01 wood_mouse.n.01 <EOS>
+basking_shark.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 cartilaginous_fish.n.01 elasmobranch.n.01 shark.n.01 mackerel_shark.n.01 <EOS>
+yellowtail.n.02 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 carangid_fish.n.01 jack.n.11 <EOS>
+river_otter.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 musteline_mammal.n.01 otter.n.02 <EOS>
+tody.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 coraciiform_bird.n.01 <EOS>
+horseleech.n.01 <SOS> invertebrate.n.01 worm.n.01 annelid.n.01 leech.n.01 <EOS>
+currawong.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 australian_magpie.n.01 <EOS>
+zinjanthropus.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 primate.n.02 hominid.n.01 australopithecine.n.01 <EOS>
+common_mackerel.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 scombroid.n.01 mackerel.n.02 <EOS>
+pocketed_bat.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 bat.n.01 carnivorous_bat.n.01 freetail.n.01 <EOS>
+ord_kangaroo_rat.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 rat.n.01 pocket_rat.n.01 kangaroo_rat.n.01 <EOS>
+attack_dog.n.01 <SOS> domestic_animal.n.01 dog.n.01 working_dog.n.01 watchdog.n.02 <EOS>
+angelfish.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 butterfly_fish.n.01 <EOS>
+canebrake_rattlesnake.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 snake.n.01 viper.n.01 pit_viper.n.01 rattlesnake.n.01 timber_rattlesnake.n.01 <EOS>
+tarsius_glis.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 primate.n.02 tarsier.n.01 <EOS>
+mudder.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 equine.n.01 horse.n.01 racehorse.n.01 <EOS>
+solan.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 seabird.n.01 pelecaniform_seabird.n.01 gannet.n.01 <EOS>
+giant_tortoise.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 anapsid.n.01 chelonian.n.01 turtle.n.02 tortoise.n.01 <EOS>
+spouter.n.03 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 aquatic_mammal.n.01 cetacean.n.01 whale.n.02 <EOS>
+budgerigar.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 parrot.n.01 parakeet.n.01 <EOS>
+sinornis.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 <EOS>
+guppy.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 soft-finned_fish.n.01 cypriniform_fish.n.01 cyprinodont.n.01 <EOS>
+gudgeon.n.02 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 soft-finned_fish.n.01 cypriniform_fish.n.01 cyprinid.n.01 <EOS>
+canada_porcupine.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 porcupine.n.01 new_world_porcupine.n.01 <EOS>
+chameleon_tree_frog.n.01 <SOS> chordate.n.01 vertebrate.n.01 amphibian.n.03 frog.n.01 tree_toad.n.01 <EOS>
+harrier.n.02 <SOS> domestic_animal.n.01 dog.n.01 hunting_dog.n.01 hound.n.01 <EOS>
+finback.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 aquatic_mammal.n.01 cetacean.n.01 whale.n.02 baleen_whale.n.01 rorqual.n.01 <EOS>
+zoril.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 musteline_mammal.n.01 weasel.n.02 muishond.n.01 <EOS>
+durham.n.02 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 bovid.n.01 bovine.n.01 cattle.n.01 beef.n.01 <EOS>
+african_crocodile.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 crocodilian_reptile.n.01 crocodile.n.01 <EOS>
+fallow_deer.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 deer.n.01 <EOS>
+painted_beauty.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 lepidopterous_insect.n.01 butterfly.n.01 nymphalid.n.01 <EOS>
+redbone.n.01 <SOS> domestic_animal.n.01 dog.n.01 hunting_dog.n.01 hound.n.01 <EOS>
+lesser_yellowlegs.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 wading_bird.n.01 shorebird.n.01 sandpiper.n.01 yellowlegs.n.01 <EOS>
+kinkajou.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 procyonid.n.01 <EOS>
+spotted_antbird.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 tyrannid.n.01 antbird.n.01 <EOS>
+blastocyst.n.01 <SOS> embryo.n.02 blastula.n.01 <EOS>
+lemon_shark.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 cartilaginous_fish.n.01 elasmobranch.n.01 shark.n.01 requiem_shark.n.01 <EOS>
+four-lined_plant_bug.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 hemipterous_insect.n.01 leaf_bug.n.01 mirid_bug.n.01 <EOS>
+biped.n.01 <SOS> <EOS>
+redheaded_woodpecker.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 piciform_bird.n.01 woodpecker.n.01 <EOS>
+helminth.n.01 <SOS> invertebrate.n.01 worm.n.01 <EOS>
+sparrow_hawk.n.02 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 bird_of_prey.n.01 hawk.n.01 <EOS>
+brood_bitch.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 canine.n.02 bitch.n.04 <EOS>
+edmontonia.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 archosaur.n.01 dinosaur.n.01 ornithischian.n.01 armored_dinosaur.n.01 ankylosaur.n.01 <EOS>
+shortfin_mako.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 cartilaginous_fish.n.01 elasmobranch.n.01 shark.n.01 mackerel_shark.n.01 mako.n.01 <EOS>
+montagu's_harrier.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 bird_of_prey.n.01 hawk.n.01 harrier.n.03 <EOS>
+purple_finch.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 finch.n.01 <EOS>
+pariah_dog.n.01 <SOS> domestic_animal.n.01 dog.n.01 cur.n.01 <EOS>
+south_american_sea_lion.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 aquatic_mammal.n.01 pinniped_mammal.n.01 seal.n.09 eared_seal.n.01 sea_lion.n.01 <EOS>
+wood_tick.n.01 <SOS> invertebrate.n.01 arthropod.n.01 arachnid.n.01 acarine.n.01 tick.n.02 hard_tick.n.01 <EOS>
+diving_duck.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 waterfowl.n.01 anseriform_bird.n.01 duck.n.01 <EOS>
+desmodus_rotundus.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 bat.n.01 carnivorous_bat.n.01 vampire_bat.n.01 <EOS>
+cat_shark.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 cartilaginous_fish.n.01 elasmobranch.n.01 shark.n.01 <EOS>
+japanese_spaniel.n.01 <SOS> domestic_animal.n.01 dog.n.01 toy_dog.n.01 <EOS>
+dominique.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 gallinaceous_bird.n.01 domestic_fowl.n.01 chicken.n.02 <EOS>
+burro.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 equine.n.01 ass.n.03 domestic_ass.n.01 <EOS>
+rock_wren.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 new_zealand_wren.n.01 <EOS>
+european_bream.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 sunfish.n.03 freshwater_bream.n.02 <EOS>
+cygnet.n.01 <SOS> young.n.01 young_bird.n.01 <EOS>
+appaloosa.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 equine.n.01 horse.n.01 saddle_horse.n.01 <EOS>
+rock_wallaby.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 metatherian.n.01 marsupial.n.01 kangaroo.n.01 wallaby.n.01 <EOS>
+colorado_potato_beetle.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 beetle.n.01 leaf_beetle.n.01 <EOS>
+exmoor.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 bovid.n.01 sheep.n.01 domestic_sheep.n.01 <EOS>
+almond_moth.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 lepidopterous_insect.n.01 moth.n.01 pyralid.n.01 <EOS>
+bluehead.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 wrasse.n.01 <EOS>
+genet.n.03 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 viverrine.n.01 <EOS>
+potter_wasp.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 hymenopterous_insect.n.01 wasp.n.02 vespid.n.01 <EOS>
+rottweiler.n.01 <SOS> domestic_animal.n.01 dog.n.01 working_dog.n.01 shepherd_dog.n.01 <EOS>
+grey_fox.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 canine.n.02 fox.n.01 <EOS>
+boa_constrictor.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 snake.n.01 constrictor.n.01 boa.n.02 <EOS>
+grey_snapper.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 food_fish.n.01 snapper.n.05 <EOS>
+ice_bear.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 bear.n.01 <EOS>
+macaw.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 parrot.n.01 <EOS>
+electric_ray.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 cartilaginous_fish.n.01 elasmobranch.n.01 ray.n.07 <EOS>
+trilobite.n.01 <SOS> invertebrate.n.01 arthropod.n.01 <EOS>
+border_terrier.n.01 <SOS> domestic_animal.n.01 dog.n.01 hunting_dog.n.01 terrier.n.01 <EOS>
+fanaloka.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 viverrine.n.01 civet.n.01 <EOS>
+pea_weevil.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 beetle.n.01 weevil.n.01 seed_beetle.n.01 <EOS>
+japanese_oyster.n.01 <SOS> invertebrate.n.01 mollusk.n.01 bivalve.n.01 oyster.n.01 <EOS>
+spotted_sunfish.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 sunfish.n.03 freshwater_bream.n.02 <EOS>
+frogmouth.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 caprimulgiform_bird.n.01 <EOS>
+king_crab.n.03 <SOS> invertebrate.n.01 arthropod.n.01 crustacean.n.01 decapod_crustacean.n.01 crab.n.01 <EOS>
+stone_marten.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 musteline_mammal.n.01 marten.n.01 <EOS>
+charger.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 equine.n.01 horse.n.01 saddle_horse.n.01 warhorse.n.03 <EOS>
+roller.n.07 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 gallinaceous_bird.n.01 columbiform_bird.n.01 pigeon.n.01 domestic_pigeon.n.01 <EOS>
+greater_swiss_mountain_dog.n.01 <SOS> domestic_animal.n.01 dog.n.01 working_dog.n.01 sennenhunde.n.01 <EOS>
+loggerhead_shrike.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 shrike.n.01 <EOS>
+anopheline.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 dipterous_insect.n.01 mosquito.n.01 <EOS>
+babirusa.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 swine.n.01 <EOS>
+bengal_tiger.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 feline.n.01 big_cat.n.01 tiger.n.02 <EOS>
+mourning_cloak.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 lepidopterous_insect.n.01 butterfly.n.01 nymphalid.n.01 <EOS>
+golden_oriole.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 old_world_oriole.n.01 <EOS>
+black_and_gold_garden_spider.n.01 <SOS> invertebrate.n.01 arthropod.n.01 arachnid.n.01 spider.n.01 <EOS>
+wood_thrush.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 thrush.n.03 <EOS>
+rocky_mountain_whitefish.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 food_fish.n.01 whitefish.n.03 <EOS>
+piddock.n.01 <SOS> invertebrate.n.01 mollusk.n.01 bivalve.n.01 <EOS>
+western_ribbon_snake.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 snake.n.01 colubrid_snake.n.01 garter_snake.n.01 <EOS>
+irish_setter.n.01 <SOS> domestic_animal.n.01 dog.n.01 hunting_dog.n.01 sporting_dog.n.01 setter.n.02 <EOS>
+secretary_bird.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 bird_of_prey.n.01 <EOS>
+strymon_melinus.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 lepidopterous_insect.n.01 butterfly.n.01 lycaenid.n.01 hairstreak.n.01 <EOS>
+english_springer.n.01 <SOS> domestic_animal.n.01 dog.n.01 hunting_dog.n.01 sporting_dog.n.01 spaniel.n.01 springer_spaniel.n.01 <EOS>
+flashlight_fish.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 <EOS>
+angoumois_moth.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 lepidopterous_insect.n.01 moth.n.01 gelechiid.n.01 grain_moth.n.01 <EOS>
+frosted_bat.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 bat.n.01 carnivorous_bat.n.01 vespertilian_bat.n.01 <EOS>
+eastern_chimpanzee.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 primate.n.02 ape.n.01 anthropoid_ape.n.01 great_ape.n.01 chimpanzee.n.01 <EOS>
+gopher_snake.n.02 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 snake.n.01 colubrid_snake.n.01 bull_snake.n.01 <EOS>
+chinese_alligator.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 crocodilian_reptile.n.01 alligator.n.02 <EOS>
+myxinikela_siroka.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 jawless_vertebrate.n.01 hagfish.n.01 <EOS>
+whooper.n.02 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 swan.n.01 <EOS>
+margate.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 grunt.n.03 <EOS>
+streptopelia_turtur.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 gallinaceous_bird.n.01 columbiform_bird.n.01 pigeon.n.01 dove.n.01 turtledove.n.02 <EOS>
+wireworm.n.01 <SOS> larva.n.01 <EOS>
+potoroo.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 metatherian.n.01 marsupial.n.01 kangaroo.n.01 rat_kangaroo.n.01 <EOS>
+staffordshire_bullterrier.n.01 <SOS> domestic_animal.n.01 dog.n.01 hunting_dog.n.01 terrier.n.01 bullterrier.n.01 <EOS>
+plain_wanderer.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 wading_bird.n.01 <EOS>
+wood-frog.n.01 <SOS> chordate.n.01 vertebrate.n.01 amphibian.n.03 frog.n.01 true_frog.n.01 <EOS>
+white-throated_sparrow.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 finch.n.01 new_world_sparrow.n.01 <EOS>
+porbeagle.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 cartilaginous_fish.n.01 elasmobranch.n.01 shark.n.01 mackerel_shark.n.01 <EOS>
+sea_trout.n.03 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 food_fish.n.01 trout.n.02 brown_trout.n.01 <EOS>
+australopithecus_robustus.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 primate.n.02 hominid.n.01 australopithecine.n.01 <EOS>
+common_wasp.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 hymenopterous_insect.n.01 wasp.n.02 vespid.n.01 <EOS>
+horned_pout.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 soft-finned_fish.n.01 catfish.n.03 bullhead.n.02 <EOS>
+water_beetle.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 beetle.n.01 <EOS>
+flagfish.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 soft-finned_fish.n.01 cypriniform_fish.n.01 cyprinodont.n.01 killifish.n.01 <EOS>
+shovelhead.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 cartilaginous_fish.n.01 elasmobranch.n.01 shark.n.01 hammerhead.n.03 <EOS>
+goldeneye.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 neuropteron.n.01 lacewing.n.01 green_lacewing.n.01 <EOS>
+falcon-gentle.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 bird_of_prey.n.01 hawk.n.01 falcon.n.01 peregrine.n.01 <EOS>
+yellow_goatfish.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bottom-feeder.n.02 mullet.n.03 goatfish.n.01 <EOS>
+auklet.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 seabird.n.01 auk.n.01 <EOS>
+conger.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 soft-finned_fish.n.01 eel.n.02 <EOS>
+snowy_egret.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 wading_bird.n.01 heron.n.02 egret.n.01 <EOS>
+common_starling.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 starling.n.01 <EOS>
+bongo.n.02 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 bovid.n.01 antelope.n.01 <EOS>
+anomalopteryx.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 ratite.n.01 moa.n.01 <EOS>
+white_wolf.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 canine.n.02 wolf.n.01 <EOS>
+piping_crow.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 australian_magpie.n.01 <EOS>
+king_penguin.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 seabird.n.01 sphenisciform_seabird.n.01 penguin.n.01 <EOS>
+grey.n.07 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 equine.n.01 horse.n.01 saddle_horse.n.01 <EOS>
+megalosaur.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 archosaur.n.01 dinosaur.n.01 saurischian.n.01 theropod.n.01 <EOS>
+hognose_bat.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 bat.n.01 carnivorous_bat.n.01 leafnose_bat.n.01 <EOS>
+bushbuck.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 bovid.n.01 antelope.n.01 harnessed_antelope.n.01 <EOS>
+by-catch.n.01 <SOS> marine_animal.n.01 <EOS>
+indri.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 primate.n.02 lemur.n.01 <EOS>
+black_widow.n.01 <SOS> invertebrate.n.01 arthropod.n.01 arachnid.n.01 spider.n.01 <EOS>
+raven.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 corvine_bird.n.01 <EOS>
+fairy_swallow.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 gallinaceous_bird.n.01 columbiform_bird.n.01 pigeon.n.01 domestic_pigeon.n.01 <EOS>
+winter_flounder.n.02 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 flatfish.n.02 righteye_flounder.n.01 <EOS>
+comb-footed_spider.n.01 <SOS> invertebrate.n.01 arthropod.n.01 arachnid.n.01 spider.n.01 <EOS>
+sharptail_mola.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 plectognath.n.01 ocean_sunfish.n.01 <EOS>
+malayan_tapir.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 tapir.n.01 <EOS>
+proboscis_monkey.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 primate.n.02 monkey.n.01 old_world_monkey.n.01 <EOS>
+allice_shad.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 food_fish.n.01 shad.n.02 <EOS>
+mallard.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 waterfowl.n.01 anseriform_bird.n.01 duck.n.01 <EOS>
+southeastern_pocket_gopher.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 rat.n.01 pocket_rat.n.01 gopher.n.04 <EOS>
+bluebottle.n.02 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 dipterous_insect.n.01 fly.n.01 blowfly.n.01 <EOS>
+red_underwing.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 lepidopterous_insect.n.01 moth.n.01 noctuid_moth.n.01 underwing.n.01 <EOS>
+shrimpfish.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 <EOS>
+jennet.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 equine.n.01 ass.n.03 <EOS>
+chum_salmon.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 food_fish.n.01 salmon.n.01 <EOS>
+rock_python.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 snake.n.01 constrictor.n.01 boa.n.02 python.n.01 <EOS>
+banded_krait.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 snake.n.01 elapid.n.01 krait.n.01 <EOS>
+hellgrammiate.n.01 <SOS> larva.n.01 <EOS>
+northern_cricket_frog.n.01 <SOS> chordate.n.01 vertebrate.n.01 amphibian.n.03 frog.n.01 tree_toad.n.01 cricket_frog.n.01 <EOS>
+lincoln.n.03 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 bovid.n.01 sheep.n.01 domestic_sheep.n.01 <EOS>
+rough_fish.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 <EOS>
+pitta.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 tyrannid.n.01 <EOS>
+vermin.n.02 <SOS> pest.n.04 <EOS>
+bullfrog.n.01 <SOS> chordate.n.01 vertebrate.n.01 amphibian.n.03 frog.n.01 true_frog.n.01 <EOS>
+komodo_dragon.n.01 <SOS> chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 saurian.n.01 lizard.n.01 monitor.n.07 <EOS>
+harbor_porpoise.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 aquatic_mammal.n.01 cetacean.n.01 whale.n.02 toothed_whale.n.01 dolphin.n.02 porpoise.n.01 <EOS>
+whitetail_prairie_dog.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 prairie_dog.n.01 <EOS>
+sea_feather.n.01 <SOS> invertebrate.n.01 coelenterate.n.01 anthozoan.n.01 coral.n.04 gorgonian.n.01 <EOS>
+gastrula.n.01 <SOS> embryo.n.02 <EOS>
+muscovy_duck.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 waterfowl.n.01 anseriform_bird.n.01 duck.n.01 <EOS>
+rudd.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 soft-finned_fish.n.01 cypriniform_fish.n.01 cyprinid.n.01 <EOS>
+eastern_cottontail.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 lagomorph.n.01 leporid.n.01 rabbit.n.01 wood_rabbit.n.01 <EOS>
+shoveler.n.02 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 waterfowl.n.01 anseriform_bird.n.01 duck.n.01 <EOS>
+mara.n.02 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 <EOS>
+muskrat.n.02 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 <EOS>
+greenwing.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 waterfowl.n.01 anseriform_bird.n.01 duck.n.01 teal.n.02 <EOS>
+black-footed_albatross.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 seabird.n.01 pelagic_bird.n.01 albatross.n.02 <EOS>
+sand_fly.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 dipterous_insect.n.01 gnat.n.01 <EOS>
+apar.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 edentate.n.01 armadillo.n.01 <EOS>
+redhead.n.02 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 waterfowl.n.01 anseriform_bird.n.01 duck.n.01 <EOS>
+fledgling.n.02 <SOS> young.n.01 young_bird.n.01 <EOS>
+peahen.n.01 <SOS> game.n.04 game_bird.n.01 phasianid.n.01 pheasant.n.01 peafowl.n.01 <EOS>
+missel_thrush.n.01 <SOS> chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 thrush.n.03 <EOS>
+tussock_caterpillar.n.01 <SOS> larva.n.01 caterpillar.n.01 <EOS>
+two-year-old_horse.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 equine.n.01 horse.n.01 racehorse.n.01 <EOS>
+common_pond-skater.n.01 <SOS> invertebrate.n.01 arthropod.n.01 insect.n.01 heteropterous_insect.n.01 water_bug.n.01 water_strider.n.01 <EOS>
+african_clawed_frog.n.01 <SOS> chordate.n.01 vertebrate.n.01 amphibian.n.03 frog.n.01 tongueless_frog.n.01 <EOS>
+leveret.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 lagomorph.n.01 leporid.n.01 hare.n.01 <EOS>
+european_water_shrew.n.01 <SOS> chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 insectivore.n.01 shrew.n.02 water_shrew.n.01 <EOS>
+european_perch.n.01 <SOS> chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 perch.n.06 <EOS>

@@ -1,0 +1,577 @@
+accounting_data.n.01 <SOS> v2 v1 v14 v11 <EOS>
+activated_carbon.n.01 <SOS> v3 v4 v14 v16 v5 <EOS>
+vein.n.05 <SOS> v3 v3 v6 v13 v20 v44 <EOS>
+mat.n.04 <SOS> v3 v2 v36 v2 v8 v3 <EOS>
+winker.n.02 <SOS> v3 v2 v36 v7 v19 v22 v34 <EOS>
+hakim.n.02 <SOS> v3 v1 v4 v250 v5 <EOS>
+headmistress.n.01 <SOS> v3 v1 v4 v108 v6 v7 v1 <EOS>
+mebendazole.n.01 <SOS> v3 v1 v12 v11 v29 v81 <EOS>
+french_marigold.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v7 v2 v1 v121 <EOS>
+cornice.n.03 <SOS> v3 v2 v36 v7 v15 v43 <EOS>
+cuckoopint.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v14 v95 <EOS>
+carpenter_bee.n.01 <SOS> v3 v2 v36 v1 v1 v39 v31 v14 v15 v24 v3 <EOS>
+flax_rust.n.01 <SOS> v3 v2 v36 v1 v1 v19 v22 <EOS>
+isoproterenol.n.01 <SOS> v3 v1 v12 v11 v29 <EOS>
+trachinotus.n.01 <SOS> v2 v1 v24 v5 v23 v21 <EOS>
+pluteus_magnus.n.01 <SOS> v3 v2 v36 v1 v1 v19 v59 v3 <EOS>
+stage_name.n.01 <SOS> v2 v4 v14 v7 v5 v5 <EOS>
+highness.n.02 <SOS> v2 v8 v10 v11 v12 v5 <EOS>
+crossbow.n.01 <SOS> v3 v2 v36 v7 v16 v8 v114 v4 v3 <EOS>
+j_particle.n.01 <SOS> v3 v2 v36 v2 v8 v4 v9 v2 <EOS>
+half-century.n.01 <SOS> v2 v3 v7 v4 <EOS>
+telecaster.n.01 <SOS> v3 v1 v4 v185 v29 <EOS>
+probe.n.03 <SOS> v2 v6 v1 v10 v13 v66 v5 <EOS>
+pulmonary_valve.n.01 <SOS> v3 v3 v6 v13 v20 v42 v1 v1 <EOS>
+absenteeism.n.01 <SOS> v2 v6 v1 v6 v4 v3 <EOS>
+gymnogyps.n.01 <SOS> v2 v1 v24 v5 v23 v8 <EOS>
+plutocracy.n.01 <SOS> v2 v1 v12 v23 <EOS>
+drugstore.n.01 <SOS> v3 v2 v36 v7 v15 v61 v2 v3 v5 <EOS>
+spur_blight.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v18 v5 <EOS>
+orgy.n.03 <SOS> v2 v6 v1 v10 v13 v59 v2 v7 v2 <EOS>
+hunting_license.n.01 <SOS> v2 v5 v17 v6 v1 v16 v8 <EOS>
+stove.n.02 <SOS> v3 v2 v36 v7 v16 v8 v100 <EOS>
+varied_lorikeet.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v25 v10 v1 <EOS>
+music_school.n.02 <SOS> v3 v2 v36 v7 v15 v41 v45 v2 <EOS>
+cardiac_plexus.n.01 <SOS> v3 v3 v6 v13 v20 v45 v5 <EOS>
+hand.n.14 <SOS> v2 v6 v1 v10 v13 v31 <EOS>
+irish_terrier.n.01 <SOS> v3 v2 v36 v1 v1 v39 v7 v1 v18 v1 <EOS>
+own_goal.n.01 <SOS> v2 v6 v1 v10 v27 v14 v2 v1 v10 v8 <EOS>
+hand.n.12 <SOS> v2 v5 v4 v4 v9 <EOS>
+clip_joint.n.01 <SOS> v3 v2 v36 v7 v15 v61 v2 v4 <EOS>
+tellima.n.01 <SOS> v2 v1 v24 v5 v23 v13 v217 <EOS>
+carob.n.02 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v127 <EOS>
+trachoma.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v27 <EOS>
+view_angle.n.01 <SOS> v3 v2 v10 v3 v9 <EOS>
+address.n.04 <SOS> v2 v5 v18 v26 <EOS>
+moroseness.n.01 <SOS> v2 v8 v8 v63 v36 v3 v1 <EOS>
+wave_front.n.01 <SOS> v3 v5 v17 v6 v1 v18 <EOS>
+better.n.03 <SOS> v3 v1 v4 v76 v41 <EOS>
+periwinkle.n.04 <SOS> v3 v2 v36 v1 v1 v39 v31 v8 v5 v4 <EOS>
+water_hole.n.01 <SOS> v3 v3 v3 v17 v1 <EOS>
+anklet.n.02 <SOS> v3 v2 v36 v7 v19 v36 v25 v1 v2 <EOS>
+gastronomy.n.02 <SOS> v2 v6 v1 v10 v13 v18 v1 <EOS>
+qin.n.01 <SOS> v2 v1 v12 v12 v6 v1 v2 v5 <EOS>
+jeep.n.01 <SOS> v3 v2 v36 v7 v16 v11 v36 v5 v9 v9 <EOS>
+bottomland.n.01 <SOS> v3 v2 v29 <EOS>
+helotiaceae.n.01 <SOS> v2 v1 v24 v5 v9 v22 <EOS>
+yellow_bells.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v14 <EOS>
+spray.n.01 <SOS> v3 v4 v14 v4 v2 v17 <EOS>
+headword.n.02 <SOS> v2 v4 v14 v7 v8 <EOS>
+street_smarts.n.01 <SOS> v2 v6 v3 v3 v1 v8 <EOS>
+right_of_way.n.01 <SOS> v2 v6 v3 v11 v9 v10 v7 v2 v14 v2 <EOS>
+head.n.10 <SOS> v2 v8 v11 v8 v4 v4 <EOS>
+averrhoa.n.01 <SOS> v2 v1 v24 v5 v23 v13 v217 <EOS>
+thrombus.n.01 <SOS> v2 v1 v14 v15 v1 v3 <EOS>
+european_hornbeam.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v119 <EOS>
+calliophis.n.01 <SOS> v2 v1 v24 v5 v23 v17 <EOS>
+ionian.n.02 <SOS> v2 v1 v5 <EOS>
+pollen_count.n.01 <SOS> v2 v3 v2 v7 v28 <EOS>
+pungency.n.01 <SOS> v2 v5 v4 v19 <EOS>
+alienation_of_affection.n.01 <SOS> v2 v6 v1 v10 v13 v20 v7 <EOS>
+interior_live_oak.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v164 v14 <EOS>
+manpad.n.01 <SOS> v3 v2 v36 v7 v16 v12 v13 v4 v3 v3 v4 <EOS>
+track_meet.n.01 <SOS> v2 v6 v1 v4 v3 v16 v1 <EOS>
+monad.n.03 <SOS> v3 v2 v36 v1 v1 v40 <EOS>
+menyanthaceae.n.01 <SOS> v2 v1 v24 v5 v9 v1 <EOS>
+rosemaling.n.01 <SOS> v3 v2 v36 v7 v26 <EOS>
+cartload.n.01 <SOS> v2 v3 v9 v16 <EOS>
+calender.n.01 <SOS> v3 v2 v36 v7 v16 v8 v34 <EOS>
+low-pass_filter.n.01 <SOS> v3 v2 v36 v7 v16 v8 v120 v26 <EOS>
+nuclear_fuel.n.01 <SOS> v3 v4 v15 v17 <EOS>
+applejack.n.01 <SOS> v3 v1 v12 v11 v31 v1 v4 v13 <EOS>
+bioweapon.n.01 <SOS> v3 v2 v36 v7 v16 v8 v114 v4 v16 <EOS>
+argusianus.n.01 <SOS> v2 v1 v24 v5 v23 v8 <EOS>
+figurehead.n.02 <SOS> v3 v2 v36 v7 v7 v5 v10 v4 <EOS>
+grid.n.04 <SOS> v3 v2 v36 v7 v16 v8 v25 v5 <EOS>
+monilia.n.01 <SOS> v3 v2 v36 v1 v1 v19 <EOS>
+poison.n.02 <SOS> v2 v8 v2 v55 <EOS>
+dipper.n.01 <SOS> v3 v2 v36 v7 v16 v11 v46 v9 <EOS>
+urge_incontinence.n.01 <SOS> v3 v5 v16 v82 v3 v2 v2 v1 <EOS>
+topside.n.01 <SOS> v3 v2 v36 v7 v12 v7 v1 v7 v5 v3 <EOS>
+knit.n.03 <SOS> v3 v2 v36 v7 v7 v6 <EOS>
+non-resistant.n.01 <SOS> v3 v1 v4 v253 v9 <EOS>
+aspiration_pneumonia.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v20 v2 v3 <EOS>
+dog_breeding.n.01 <SOS> v2 v6 v1 v6 v20 v4 v9 v10 v2 v7 <EOS>
+celtis.n.01 <SOS> v2 v1 v24 v5 v23 v13 <EOS>
+survivors_insurance.n.01 <SOS> v2 v4 v7 v6 v4 v3 v6 v6 v2 v2 <EOS>
+descending_aorta.n.01 <SOS> v3 v3 v6 v13 v20 v49 v3 v1 v1 v18 <EOS>
+spritzer.n.01 <SOS> v3 v1 v12 v11 v31 v1 v1 <EOS>
+amphipoda.n.01 <SOS> v2 v1 v24 v5 v3 v1 <EOS>
+dislodgment.n.01 <SOS> v2 v6 v1 v10 v27 v8 v34 v10 v9 <EOS>
+shittah.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v67 <EOS>
+male_chauvinist.n.01 <SOS> v3 v1 v4 v7 v1 v1 v5 <EOS>
+kishke.n.01 <SOS> v3 v4 v15 v12 v15 v9 <EOS>
+united_states_cabinet.n.01 <SOS> v2 v1 v12 v2 v21 v13 v6 v7 v9 v1 <EOS>
+stultification.n.01 <SOS> v2 v5 v4 v6 v4 <EOS>
+dram.n.01 <SOS> v2 v3 v2 v9 v21 v7 <EOS>
+escapement.n.01 <SOS> v3 v2 v36 v7 v16 v8 v68 v17 <EOS>
+cigarette_burn.n.01 <SOS> v2 v8 v2 v11 v25 v13 <EOS>
+stereospondyli.n.01 <SOS> v2 v1 v24 v5 v3 v1 <EOS>
+mutual_savings_bank.n.01 <SOS> v2 v1 v12 v2 v9 v5 v4 v5 v2 <EOS>
+lycopodium.n.01 <SOS> v2 v1 v24 v5 v23 v18 <EOS>
+sweatbox.n.02 <SOS> v3 v2 v36 v7 v16 v8 <EOS>
+jackass_bat.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v7 v1 v4 <EOS>
+tabasco.n.03 <SOS> v3 v4 v6 v1 v16 v3 v6 v1 v2 <EOS>
+bookend.n.01 <SOS> v3 v2 v36 v7 v16 v8 v16 <EOS>
+bummer.n.02 <SOS> v2 v6 v3 v6 v4 v4 v46 <EOS>
+dell.n.01 <SOS> v3 v2 v33 v21 v1 v3 <EOS>
+colchicine.n.01 <SOS> v3 v1 v12 v11 v29 v64 <EOS>
+sway.n.01 <SOS> v2 v8 v2 v65 <EOS>
+mononeuropathy.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v5 v32 <EOS>
+winter_cress.n.02 <SOS> v3 v4 v6 v1 v16 v3 v23 v4 v3 <EOS>
+anglo-saxon.n.02 <SOS> v3 v1 v4 v360 v4 v8 v1 <EOS>
+icteria.n.01 <SOS> v2 v1 v24 v5 v23 v8 <EOS>
+streptomyces_griseus.n.01 <SOS> v3 v2 v36 v1 v1 v40 v4 v4 v4 v1 <EOS>
+elephantopus.n.01 <SOS> v2 v1 v24 v5 v23 v13 v67 <EOS>
+finale.n.03 <SOS> v2 v6 v1 v10 v27 v8 v28 v8 v17 v7 <EOS>
+freemasonry.n.02 <SOS> v2 v1 v12 v2 v29 v16 <EOS>
+talent_agent.n.01 <SOS> v3 v1 v4 v185 v31 v6 v8 <EOS>
+dacite.n.01 <SOS> v3 v4 v14 v4 v23 v22 v5 <EOS>
+magnetomotive_force.n.01 <SOS> v3 v5 v17 v6 v1 v21 <EOS>
+blade.n.02 <SOS> v3 v1 v4 v181 v2 <EOS>
+ceftazidime.n.01 <SOS> v3 v1 v12 v11 v29 v46 v3 v4 <EOS>
+lumpsucker.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v2 v1 v12 v1 v1 v15 v2 <EOS>
+hygrophorus_purpurascens.n.01 <SOS> v3 v2 v36 v1 v1 v19 v59 v3 v27 <EOS>
+charterhouse.n.01 <SOS> v3 v2 v36 v7 v15 v41 v37 v27 v3 v3 <EOS>
+pearl_fishery.n.01 <SOS> v3 v2 v10 v18 v29 v3 v14 <EOS>
+drainage_ditch.n.01 <SOS> v3 v2 v36 v7 v36 v8 <EOS>
+italian_region.n.01 <SOS> v3 v2 v10 v14 v15 v10 v1 <EOS>
+depredation.n.01 <SOS> v2 v6 v1 v10 v27 v31 v2 <EOS>
+secretary_of_state.n.01 <SOS> v3 v1 v4 v76 v7 v9 <EOS>
+revetment.n.02 <SOS> v3 v2 v36 v7 v19 v22 v27 <EOS>
+overdraft.n.01 <SOS> v2 v5 v17 v6 v1 v16 v23 v1 <EOS>
+gooseberry.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v12 <EOS>
+kingwood.n.02 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 <EOS>
+conchfish.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v2 v1 v12 v1 v1 v2 v8 <EOS>
+duplex_apartment.n.01 <SOS> v3 v2 v36 v7 v15 v55 v14 <EOS>
+raisin_cookie.n.01 <SOS> v3 v4 v6 v1 v18 v1 v7 <EOS>
+serfdom.n.01 <SOS> v2 v8 v8 v2 v5 v6 <EOS>
+smarta.n.01 <SOS> v3 v1 v4 v360 v19 v3 v5 <EOS>
+european_parsley_fern.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v9 v2 v40 <EOS>
+modal_auxiliary_verb.n.01 <SOS> v2 v1 v14 v10 v7 v7 v1 v3 v4 <EOS>
+echinus.n.01 <SOS> v3 v2 v36 v7 v26 v28 v10 <EOS>
+schizotypal_personality.n.01 <SOS> v2 v8 v8 v27 v23 v45 v33 v5 <EOS>
+american_staffordshire_terrier.n.01 <SOS> v3 v2 v36 v1 v1 v39 v7 v1 v18 v1 v20 <EOS>
+carat.n.01 <SOS> v2 v3 v2 v9 v25 v2 <EOS>
+co-discoverer.n.01 <SOS> v3 v1 v4 v20 v2 <EOS>
+abutment.n.02 <SOS> v3 v2 v36 v7 v15 v56 v2 <EOS>
+shasta_salamander.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v3 v3 v6 <EOS>
+open_university.n.01 <SOS> v2 v1 v12 v2 v9 v4 v5 <EOS>
+venter.n.01 <SOS> v3 v1 v4 v185 v18 v1 <EOS>
+salamandra.n.01 <SOS> v2 v1 v24 v5 v23 v5 <EOS>
+glove_anesthesia.n.01 <SOS> v2 v8 v8 v27 v23 v45 v33 v6 <EOS>
+glottis.n.01 <SOS> v3 v3 v6 v13 v49 v10 <EOS>
+square_shooter.n.01 <SOS> v3 v1 v4 v56 <EOS>
+animal_leg.n.01 <SOS> v3 v3 v6 v13 v2 v9 v8 v3 <EOS>
+iron_maiden.n.01 <SOS> v3 v2 v36 v7 v16 v8 v114 v3 v6 <EOS>
+pettiness.n.01 <SOS> v2 v6 v3 v7 v3 v1 <EOS>
+breach_of_trust_with_fraudulent_intent.n.01 <SOS> v2 v6 v1 v10 v13 v20 v21 v10 v17 v6 <EOS>
+minuteness.n.02 <SOS> v2 v8 v2 v46 v2 <EOS>
+ball.n.12 <SOS> v2 v6 v1 v10 v21 v1 v8 <EOS>
+buxaceae.n.01 <SOS> v2 v1 v24 v5 v9 v1 <EOS>
+musculus_adductor_longus.n.01 <SOS> v3 v3 v6 v13 v49 v17 v1 v9 v23 <EOS>
+old-man-of-the-woods.n.01 <SOS> v3 v2 v36 v1 v1 v19 v65 <EOS>
+inaudibility.n.01 <SOS> v2 v8 v10 v20 <EOS>
+striated_muscle_cell.n.01 <SOS> v3 v2 v36 v1 v4 v3 v1 <EOS>
+coincidence.n.02 <SOS> v2 v4 v11 <EOS>
+trimming.n.01 <SOS> v2 v6 v1 v10 v27 v8 v28 v14 <EOS>
+gefilte_fish.n.01 <SOS> v3 v4 v15 v12 v15 v9 <EOS>
+tail.n.03 <SOS> v2 v8 v11 v8 v4 v7 <EOS>
+spark_transmitter.n.01 <SOS> v3 v2 v36 v7 v16 v4 v23 v18 v1 v4 <EOS>
+condensation_pump.n.01 <SOS> v3 v2 v36 v7 v16 v8 v68 v17 v11 v5 <EOS>
+booster.n.06 <SOS> v3 v1 v12 v11 v29 v76 <EOS>
+paperhanger.n.02 <SOS> v3 v1 v4 v166 v47 v23 <EOS>
+weimar_republic.n.01 <SOS> v2 v1 v12 v23 v13 <EOS>
+blackburn.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v10 v1 v3 v2 <EOS>
+logwood.n.01 <SOS> v3 v4 v14 v4 v29 v4 <EOS>
+lunette.n.01 <SOS> v3 v2 v36 v7 v15 v58 v1 <EOS>
+ostraciidae.n.01 <SOS> v2 v1 v24 v5 v9 v14 <EOS>
+horseplay.n.01 <SOS> v2 v6 v1 v10 v13 v59 v7 <EOS>
+isostasy.n.01 <SOS> v2 v8 v8 v41 v2 <EOS>
+systematism.n.01 <SOS> v2 v6 v1 v10 v13 v27 <EOS>
+delirium_tremens.n.01 <SOS> v2 v8 v8 v27 v100 v11 v2 <EOS>
+german_ivy.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v15 <EOS>
+buttonhole.n.01 <SOS> v3 v2 v36 v7 v8 v13 <EOS>
+criminalization.n.01 <SOS> v2 v6 v1 v6 v18 v6 v1 <EOS>
+producer.n.03 <SOS> v2 v6 v1 v2 v38 v5 v3 <EOS>
+lexical_meaning.n.01 <SOS> v2 v5 v4 v27 <EOS>
+sclerodermatales.n.01 <SOS> v2 v1 v24 v5 v3 v4 <EOS>
+distaff.n.02 <SOS> v3 v2 v36 v7 v16 v6 v3 v6 <EOS>
+cavern.n.02 <SOS> v3 v2 v33 v28 <EOS>
+leptotene.n.01 <SOS> v2 v3 v7 v4 v77 <EOS>
+streptodornase.n.01 <SOS> v3 v4 v14 v3 v2 v3 <EOS>
+libyan_dinar.n.01 <SOS> v2 v3 v2 v9 v29 v30 <EOS>
+sapodilla.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v152 v56 <EOS>
+radio_announcer.n.01 <SOS> v3 v1 v4 v185 v29 v2 <EOS>
+genus_iris.n.01 <SOS> v2 v1 v24 v5 v23 v4 v44 <EOS>
+enantiomorph.n.01 <SOS> v3 v4 v14 v4 v2 v15 <EOS>
+schnitzel.n.01 <SOS> v3 v4 v15 v12 v15 v9 <EOS>
+interdict.n.02 <SOS> v2 v5 v17 v6 v1 v16 v6 v6 <EOS>
+overdrive.n.01 <SOS> v2 v8 v8 v44 <EOS>
+reverence.n.02 <SOS> v2 v6 v3 v7 <EOS>
+external_nasal_vein.n.01 <SOS> v3 v3 v6 v13 v20 v49 v3 v1 v3 <EOS>
+ephippiorhynchus.n.01 <SOS> v2 v1 v24 v5 v23 v8 <EOS>
+body_bag.n.01 <SOS> v3 v2 v36 v7 v16 v11 v21 <EOS>
+plasma_physics.n.01 <SOS> v2 v6 v3 v11 v7 v3 v11 v8 v2 <EOS>
+putt.n.01 <SOS> v2 v6 v1 v10 v27 v8 v23 v9 v12 v1 <EOS>
+mare.n.02 <SOS> v3 v2 v10 v13 <EOS>
+nyctaginia.n.01 <SOS> v2 v1 v24 v5 v23 v13 v173 <EOS>
+kronecker_delta.n.01 <SOS> v2 v4 v21 v2 <EOS>
+labrador_retriever.n.01 <SOS> v3 v2 v36 v1 v1 v39 v7 v1 v18 v3 v7 <EOS>
+pipridae.n.01 <SOS> v2 v1 v24 v5 v9 v20 <EOS>
+goner.n.01 <SOS> v3 v1 v4 v16 v4 <EOS>
+front_projector.n.01 <SOS> v3 v2 v36 v7 v16 v8 v114 v12 v1 <EOS>
+doggerel.n.01 <SOS> v2 v5 v17 v6 v25 v2 v7 <EOS>
+inanity.n.01 <SOS> v2 v8 v2 v115 v4 v1 v2 v2 <EOS>
+rivulet.n.01 <SOS> v3 v3 v3 v5 <EOS>
+revenuer.n.01 <SOS> v3 v1 v4 v185 v31 v6 v8 v3 <EOS>
+french_sorrel.n.02 <SOS> v3 v4 v6 v1 v16 v3 v23 <EOS>
+tailless_tenrec.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v20 v3 <EOS>
+pillar_box.n.01 <SOS> v3 v2 v36 v7 v35 v10 v6 v1 v1 <EOS>
+deerstalker.n.01 <SOS> v3 v2 v36 v7 v19 v36 v17 v5 <EOS>
+distress.n.04 <SOS> v2 v6 v1 v10 v17 v2 v4 <EOS>
+crosshead.n.02 <SOS> v3 v2 v36 v7 v3 <EOS>
+formica_fusca.n.01 <SOS> v3 v2 v36 v1 v1 v39 v31 v14 v15 v24 v4 v9 <EOS>
+scoop.n.01 <SOS> v2 v3 v9 v16 <EOS>
+arm_guard.n.01 <SOS> v3 v2 v36 v7 v19 v36 v9 <EOS>
+convention.n.03 <SOS> v2 v5 v4 v5 v25 v10 v7 <EOS>
+botanical.n.01 <SOS> v3 v1 v12 v11 <EOS>
+argyreia.n.01 <SOS> v2 v1 v24 v5 v23 v13 <EOS>
+spinal_cord.n.01 <SOS> v3 v3 v6 v13 v20 v10 <EOS>
+tip.n.03 <SOS> v2 v5 v4 v2 <EOS>
+nux_vomica.n.01 <SOS> v3 v1 v12 v11 v29 <EOS>
+realism.n.03 <SOS> v2 v6 v3 v11 v18 v28 v18 <EOS>
+escapee.n.01 <SOS> v3 v1 v4 v373 v3 v20 v1 v12 <EOS>
+undershrub.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v12 <EOS>
+materialist.n.02 <SOS> v3 v1 v4 v245 v4 <EOS>
+trinidadian.n.01 <SOS> v3 v1 v4 v360 <EOS>
+autotype.n.01 <SOS> v3 v5 v4 <EOS>
+aid.n.01 <SOS> v2 v8 v2 v30 v1 <EOS>
+lugsail.n.01 <SOS> v3 v2 v14 v21 v1 v5 v2 <EOS>
+linsey-woolsey.n.01 <SOS> v3 v2 v36 v7 v20 <EOS>
+googly.n.01 <SOS> v2 v6 v1 v10 v21 v1 v3 <EOS>
+tattoo.n.03 <SOS> v2 v6 v1 v10 v27 v8 v28 v14 <EOS>
+starboard.n.01 <SOS> v3 v2 v36 v7 v12 v15 <EOS>
+whirl.n.02 <SOS> v2 v8 v11 v6 <EOS>
+leiomyoma.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v4 v5 v3 v6 v4 <EOS>
+western_tanager.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v10 v1 v17 <EOS>
+indigestion.n.01 <SOS> v2 v6 v3 v6 v4 v4 <EOS>
+chinese_cork_oak.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v164 <EOS>
+conversation_piece.n.01 <SOS> v2 v6 v3 v11 v4 v6 <EOS>
+blighia.n.01 <SOS> v2 v1 v24 v5 v23 v13 <EOS>
+solidarity.n.01 <SOS> v2 v8 v2 v67 v1 <EOS>
+mason_bee.n.01 <SOS> v3 v2 v36 v1 v1 v39 v31 v14 v15 v24 v3 <EOS>
+race_problem.n.01 <SOS> v2 v8 v8 v27 v74 v3 <EOS>
+myxoma.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v4 v5 v3 v6 <EOS>
+phase.n.03 <SOS> v2 v3 v1 <EOS>
+profligacy.n.02 <SOS> v2 v6 v1 v10 v27 v8 v4 v1 v4 v1 <EOS>
+machete.n.01 <SOS> v3 v2 v36 v7 v16 v8 v114 v4 v8 <EOS>
+next_of_kin.n.01 <SOS> v3 v1 v4 v398 <EOS>
+mourning.n.01 <SOS> v2 v8 v8 v63 v1 v5 v1 v2 <EOS>
+cairn.n.02 <SOS> v3 v2 v36 v1 v1 v39 v7 v1 v18 v1 <EOS>
+portable_circular_saw.n.01 <SOS> v3 v2 v36 v7 v16 v8 v34 v15 v6 v4 <EOS>
+clupea.n.01 <SOS> v2 v1 v24 v5 v23 v21 <EOS>
+ayapana.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v14 <EOS>
+witch_elm.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v56 <EOS>
+peanut_bar.n.01 <SOS> v3 v4 v15 v12 v15 v2 v1 v7 <EOS>
+california_sagebrush.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v12 v6 v47 <EOS>
+boswellia_carteri.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v115 <EOS>
+channels.n.01 <SOS> v2 v6 v1 v10 v4 v12 <EOS>
+staff_sergeant.n.01 <SOS> v3 v1 v4 v166 v47 v40 v6 v1 v3 <EOS>
+push_broom.n.01 <SOS> v3 v2 v36 v7 v16 v6 v6 v5 <EOS>
+hot-air_balloon.n.01 <SOS> v3 v2 v36 v7 v16 v12 v13 v6 v1 v3 v2 <EOS>
+galantine.n.01 <SOS> v3 v4 v15 v12 v15 v9 <EOS>
+half_rest.n.01 <SOS> v2 v5 v17 v5 v3 v3 v17 <EOS>
+night_watchman.n.01 <SOS> v3 v1 v4 v299 v1 v2 v3 <EOS>
+formulary.n.01 <SOS> v3 v2 v36 v7 v7 v10 v11 v12 v8 <EOS>
+stowage.n.03 <SOS> v2 v6 v1 v6 v20 v4 v9 v11 <EOS>
+confirmation.n.04 <SOS> v2 v6 v1 v10 v13 v13 v4 <EOS>
+national_debt_ceiling.n.01 <SOS> v2 v4 v7 v4 v2 v3 <EOS>
+transgressor.n.01 <SOS> v3 v1 v4 v373 v3 <EOS>
+dacrycarpus.n.01 <SOS> v2 v1 v24 v5 v23 v24 <EOS>
+cytoplast.n.01 <SOS> v3 v4 v14 v2 v2 <EOS>
+bank_card.n.01 <SOS> v2 v5 v13 v2 v4 v9 v7 <EOS>
+stock.n.14 <SOS> v3 v2 v36 v7 v24 v4 <EOS>
+permutability.n.01 <SOS> v2 v8 v2 v117 v7 <EOS>
+genus_nephthytis.n.01 <SOS> v2 v1 v24 v5 v23 v4 <EOS>
+recognition.n.05 <SOS> v3 v5 v17 v6 v4 <EOS>
+pitting.n.01 <SOS> v3 v5 v23 v28 v24 <EOS>
+humerus.n.01 <SOS> v3 v3 v6 v13 v16 v2 v9 v7 v12 v4 <EOS>
+bel_esprit.n.01 <SOS> v3 v1 v4 v376 <EOS>
+auxiliary_operation.n.01 <SOS> v3 v5 v7 v2 v5 <EOS>
+sihasapa.n.01 <SOS> v3 v1 v4 v220 v4 v5 v3 v3 <EOS>
+trainband.n.01 <SOS> v2 v1 v12 v2 v21 v17 v7 <EOS>
+turmeric.n.02 <SOS> v3 v4 v15 v12 v4 v15 v2 <EOS>
+european_white_lily.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v19 v23 <EOS>
+stretcher.n.01 <SOS> v3 v2 v36 v7 v15 v56 v3 <EOS>
+millivoltmeter.n.01 <SOS> v3 v2 v36 v7 v16 v8 v114 v15 v76 v15 <EOS>
+case.n.09 <SOS> v2 v5 v13 v2 v7 <EOS>
+mucopolysaccharidosis.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v9 <EOS>
+alphavirus.n.01 <SOS> v3 v1 v10 v1 v1 v7 <EOS>
+lunar_day.n.01 <SOS> v2 v3 v7 v4 v43 <EOS>
+shuffleboard.n.01 <SOS> v2 v6 v1 v10 v13 v38 v2 v4 <EOS>
+simulative_electronic_deception.n.01 <SOS> v2 v6 v1 v6 v26 v10 v2 v1 <EOS>
+drink.n.04 <SOS> v3 v3 v3 <EOS>
+beach_erosion.n.01 <SOS> v3 v5 v23 v64 v1 <EOS>
+isocyanate.n.01 <SOS> v3 v4 v14 v4 v2 v15 v36 <EOS>
+oatmeal.n.02 <SOS> v3 v4 v15 v12 v4 v22 <EOS>
+medal_play.n.01 <SOS> v2 v6 v1 v10 v13 v38 v2 v4 v7 <EOS>
+conviviality.n.01 <SOS> v2 v8 v4 v34 v4 v1 <EOS>
+castile_soap.n.01 <SOS> v3 v4 v14 v4 v2 v15 v8 v1 v2 <EOS>
+tolypeutes.n.01 <SOS> v2 v1 v24 v5 v23 v16 <EOS>
+caffein_addiction.n.01 <SOS> v2 v8 v8 v27 v23 v19 v1 <EOS>
+slider.n.03 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v9 v2 v1 v1 <EOS>
+juggle.n.01 <SOS> v2 v6 v1 v10 v13 v18 v7 v8 v1 v1 <EOS>
+security_blanket.n.01 <SOS> v1 <EOS>
+knight-errant.n.01 <SOS> v3 v1 v4 v76 v32 v6 v1 <EOS>
+winesap.n.01 <SOS> v3 v4 v6 v1 v16 v1 v15 v3 <EOS>
+beak.n.04 <SOS> v3 v3 v6 v13 v49 v19 v9 v3 <EOS>
+drafting_table.n.01 <SOS> v3 v2 v36 v7 v16 v7 v3 v6 v10 <EOS>
+genus_schizopetalon.n.01 <SOS> v2 v1 v24 v5 v23 v13 v25 <EOS>
+cabalist.n.02 <SOS> v3 v1 v4 v337 <EOS>
+sorbian.n.01 <SOS> v3 v1 v4 v343 <EOS>
+elaphe.n.01 <SOS> v2 v1 v24 v5 v23 v17 <EOS>
+follow-up.n.02 <SOS> v2 v6 v1 v10 v13 <EOS>
+cenobite.n.01 <SOS> v3 v1 v4 v250 v15 <EOS>
+eggplant.n.01 <SOS> v3 v4 v6 v1 v16 v3 v6 <EOS>
+skylark.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v10 v1 v13 <EOS>
+quarter_pound.n.01 <SOS> v2 v3 v2 v9 v25 v4 <EOS>
+brutalization.n.02 <SOS> v2 v6 v1 v10 v13 v20 <EOS>
+deathbed.n.01 <SOS> v2 v3 v7 v4 v61 <EOS>
+transit_instrument.n.01 <SOS> v3 v2 v36 v7 v16 v8 v114 v10 v3 v1 <EOS>
+false_pretense.n.01 <SOS> v2 v6 v1 v10 v13 v20 v21 v10 v4 <EOS>
+homily.n.01 <SOS> v2 v6 v1 v10 v26 v4 v1 <EOS>
+pterodactyl.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v9 v4 v5 v3 <EOS>
+magma.n.01 <SOS> v3 v4 v14 v4 v23 <EOS>
+marsala.n.01 <SOS> v3 v1 v12 v11 v31 v1 v6 v21 <EOS>
+pentoxide.n.01 <SOS> v3 v4 v14 v4 v2 v15 v48 <EOS>
+portulacaceae.n.01 <SOS> v2 v1 v24 v5 v9 v1 v46 <EOS>
+sea_mile.n.01 <SOS> v2 v3 v2 v9 v8 v10 <EOS>
+wild_boar.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v24 v3 v3 <EOS>
+ophiuroidea.n.01 <SOS> v2 v1 v24 v5 v10 <EOS>
+obsoleteness.n.01 <SOS> v2 v8 v10 v2 v6 <EOS>
+welsh_pony.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v24 v1 v3 v1 v7 <EOS>
+six-spot.n.01 <SOS> v3 v2 v36 v7 v3 v1 <EOS>
+genus_allosaurus.n.01 <SOS> v2 v1 v24 v5 v23 v17 <EOS>
+honeycomb.n.02 <SOS> v3 v2 v36 v7 v15 v56 v3 <EOS>
+pale_ale.n.01 <SOS> v3 v1 v12 v11 v31 v1 v13 v1 v3 <EOS>
+forge.n.02 <SOS> v3 v2 v10 v18 v29 v3 <EOS>
+miscue.n.01 <SOS> v2 v6 v1 v10 v27 v8 v23 v9 v12 <EOS>
+herrerasaur.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v9 v4 v5 v5 v3 v2 <EOS>
+double_cross.n.01 <SOS> v2 v6 v1 v10 v13 v20 v20 v3 <EOS>
+haemodorum.n.01 <SOS> v2 v1 v24 v5 v23 v4 <EOS>
+marseille.n.02 <SOS> v3 v2 v36 v7 v20 <EOS>
+chamaecyparis.n.01 <SOS> v2 v1 v24 v5 v23 v24 <EOS>
+jeer.n.01 <SOS> v2 v5 v4 v6 v4 <EOS>
+ostensive_definition.n.01 <SOS> v2 v5 v4 v5 v4 v5 <EOS>
+sterling_silver.n.01 <SOS> v3 v4 v14 v6 v1 <EOS>
+anapest.n.01 <SOS> v2 v5 v18 v29 v4 v1 v1 v1 v2 <EOS>
+widower.n.01 <SOS> v3 v1 v4 v108 v22 <EOS>
+camelina.n.01 <SOS> v2 v1 v24 v5 v23 v13 v25 <EOS>
+graft.n.03 <SOS> v2 v6 v1 v10 v27 v8 v34 v4 v3 <EOS>
+world.n.08 <SOS> v2 v1 <EOS>
+paleogeography.n.01 <SOS> v2 v6 v3 v11 v7 v3 v11 v12 v6 v2 <EOS>
+paper_clip.n.01 <SOS> v3 v2 v36 v7 v16 v8 v10 v8 v21 <EOS>
+antipruritic.n.01 <SOS> v3 v1 v12 v11 v21 v2 <EOS>
+blast_trauma.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v2 <EOS>
+plagal_cadence.n.01 <SOS> v2 v5 v3 v4 v11 v21 v7 <EOS>
+judas_tree.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v152 <EOS>
+chiffonier.n.01 <SOS> v3 v2 v36 v7 v16 v7 v3 v24 <EOS>
+cent.n.01 <SOS> v2 v3 v2 v9 v29 v102 <EOS>
+blastogenesis.n.02 <SOS> v2 v6 v3 v18 v1 v6 v7 v5 <EOS>
+quintuplet.n.02 <SOS> v3 v1 v4 v398 v9 <EOS>
+vali.n.01 <SOS> v2 v6 v3 v11 v18 v24 v3 v15 <EOS>
+exon.n.01 <SOS> v3 v4 v14 v4 v2 v15 v45 v2 <EOS>
+bonyness.n.01 <SOS> v2 v8 v10 v18 v6 <EOS>
+kitsch.n.01 <SOS> v3 v2 v36 v7 v7 v1 <EOS>
+subscription.n.02 <SOS> v2 v6 v1 v10 v26 v18 <EOS>
+tiller.n.03 <SOS> v3 v2 v36 v7 v16 v6 v24 v3 <EOS>
+stealth_bomber.n.01 <SOS> v3 v2 v36 v7 v16 v12 v13 v6 v1 v4 <EOS>
+septobasidium.n.01 <SOS> v2 v1 v24 v5 v23 v3 <EOS>
+scarlet_fever.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v36 v2 <EOS>
+activity.n.04 <SOS> v2 v8 v8 v27 v30 v2 <EOS>
+ultramicroscope.n.01 <SOS> v3 v2 v36 v7 v16 v8 v114 v10 v3 v2 v3 <EOS>
+armet.n.01 <SOS> v3 v2 v36 v7 v19 v22 v16 v4 v3 v7 <EOS>
+feverroot.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v14 <EOS>
+abyssal_zone.n.01 <SOS> v3 v2 v33 v21 v7 v1 <EOS>
+exponentiation.n.01 <SOS> v2 v6 v1 v10 v13 v10 v5 v3 <EOS>
+absence.n.03 <SOS> v2 v3 v6 <EOS>
+slattern.n.02 <SOS> v3 v1 v4 v301 v1 v18 v1 <EOS>
+wrath.n.02 <SOS> v2 v6 v1 v10 v13 v20 v21 v5 v2 <EOS>
+subpoena.n.01 <SOS> v2 v5 v17 v6 v1 v16 v6 <EOS>
+bettongia.n.01 <SOS> v2 v1 v24 v5 v23 v16 <EOS>
+mortification.n.04 <SOS> v2 v6 v1 v10 v13 v2 v17 <EOS>
+doctor_of_arts.n.01 <SOS> v2 v5 v5 v6 v17 v6 v7 <EOS>
+applesauce.n.01 <SOS> v3 v4 v15 v12 v15 v9 <EOS>
+alpha_brass.n.01 <SOS> v3 v4 v14 v6 v1 v19 v1 <EOS>
+reformism.n.01 <SOS> v2 v6 v3 v11 v18 v28 <EOS>
+intermaxillary_suture.n.01 <SOS> v3 v3 v6 v13 v1 v3 <EOS>
+kilometers_per_hour.n.01 <SOS> v2 v4 v1 v1 <EOS>
+moneybag.n.01 <SOS> v3 v2 v36 v7 v16 v11 v21 v20 <EOS>
+electric.n.01 <SOS> v3 v2 v36 v7 v16 v11 v36 v5 v9 v9 <EOS>
+rock_cornish.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v24 v1 <EOS>
+cladorhyncus.n.01 <SOS> v2 v1 v24 v5 v23 v8 <EOS>
+petrochemical.n.01 <SOS> v3 v4 v14 v4 v2 v15 v76 <EOS>
+isogamy.n.01 <SOS> v3 v5 v16 v35 v1 <EOS>
+shambles.n.01 <SOS> v2 v8 v8 v27 v56 <EOS>
+ready_cash.n.01 <SOS> v2 v3 v4 v3 v2 v1 v3 <EOS>
+papyrus.n.03 <SOS> v2 v5 v17 v6 v1 <EOS>
+case_study.n.02 <SOS> v2 v6 v1 v10 v13 v40 v3 v4 <EOS>
+bachelorhood.n.01 <SOS> v2 v3 v7 v4 v61 <EOS>
+contempt_of_congress.n.01 <SOS> v2 v6 v1 v6 v22 v6 v1 v2 <EOS>
+thyme-leaved_speedwell.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v7 v2 v1 v39 <EOS>
+state-sponsored_terrorism.n.01 <SOS> v2 v6 v1 v6 v18 v1 v2 v1 v1 <EOS>
+pseudechis.n.01 <SOS> v2 v1 v24 v5 v23 v17 <EOS>
+conclusion.n.05 <SOS> v2 v5 v4 v5 v33 <EOS>
+lastex.n.01 <SOS> v3 v2 v36 v7 v44 v5 v24 <EOS>
+tai_dam.n.01 <SOS> v2 v5 v1 v11 v11 v2 v1 <EOS>
+bobble.n.01 <SOS> v2 v6 v1 v10 v39 v3 v11 <EOS>
+childhood.n.02 <SOS> v2 v8 v8 v37 <EOS>
+indication.n.03 <SOS> v2 v6 v3 v6 v6 v7 <EOS>
+exhaust_pipe.n.01 <SOS> v3 v2 v36 v7 v33 v5 v4 v1 v19 <EOS>
+bitter.n.01 <SOS> v3 v1 v12 v11 v31 v1 v13 v1 v3 <EOS>
+trinity_sunday.n.01 <SOS> v2 v3 v7 v4 v47 v2 v5 v4 v4 <EOS>
+meadow_mushroom.n.01 <SOS> v3 v2 v36 v1 v1 v19 v59 v3 <EOS>
+rock.n.07 <SOS> v2 v6 v1 v10 v27 v8 v5 v7 <EOS>
+birr.n.01 <SOS> v2 v3 v2 v9 v29 v65 <EOS>
+blanket_stitch.n.01 <SOS> v3 v2 v36 v7 v7 v6 v2 v6 v1 <EOS>
+boxing_day.n.01 <SOS> v2 v3 v7 v4 v47 v2 v5 v3 <EOS>
+mistletoe.n.03 <SOS> v3 v2 v36 v1 v1 v38 v3 <EOS>
+father-in-law.n.01 <SOS> v3 v1 v4 v398 v6 <EOS>
+honey_buzzard.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v20 v3 <EOS>
+pottle.n.01 <SOS> v3 v2 v36 v7 v16 v11 v46 v12 <EOS>
+oedogoniales.n.01 <SOS> v2 v1 v24 v5 v3 v3 <EOS>
+hopi.n.01 <SOS> v3 v1 v4 v220 v4 v20 <EOS>
+lassa_virus.n.01 <SOS> v3 v1 v10 v1 v1 v7 v12 <EOS>
+stream.n.02 <SOS> v2 v1 v11 v11 v2 v11 <EOS>
+flickertail.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v27 v4 v1 <EOS>
+prednisone.n.01 <SOS> v3 v1 v12 v11 v29 v71 <EOS>
+relief.n.08 <SOS> v2 v4 v7 v6 v4 v3 v6 v6 <EOS>
+antimatter.n.01 <SOS> v3 v4 <EOS>
+lectin.n.01 <SOS> v3 v3 v2 v2 v5 v2 v9 v1 <EOS>
+fountain.n.03 <SOS> v2 v6 v1 v2 v44 v14 v9 <EOS>
+testifier.n.01 <SOS> v3 v1 v4 v20 v9 <EOS>
+borage.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v14 <EOS>
+carcinoid.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v4 v5 v3 <EOS>
+plain_wanderer.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v9 v1 <EOS>
+rupturewort.n.01 <SOS> v2 v1 v14 v73 v7 <EOS>
+winter_currant.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v12 v197 <EOS>
+khimar.n.01 <SOS> v3 v2 v36 v7 v19 v36 v19 v3 v3 v2 <EOS>
+coach_horse.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v5 v5 v24 v1 v3 v1 v3 v3 <EOS>
+boundary_layer.n.01 <SOS> v3 v5 v17 v6 v1 <EOS>
+connection.n.08 <SOS> v2 v6 v1 v10 v27 v8 v19 v1 <EOS>
+modern.n.02 <SOS> v2 v5 v5 v6 v9 v3 v4 v1 v5 <EOS>
+magnetization.n.03 <SOS> v2 v8 v10 v20 <EOS>
+news_bulletin.n.01 <SOS> v2 v5 v4 v24 v12 v3 v4 <EOS>
+biology_department.n.01 <SOS> v2 v1 v12 v2 v21 v13 v8 v2 v5 <EOS>
+slopseller.n.01 <SOS> v3 v1 v4 v270 v7 v9 v2 <EOS>
+bilingual.n.01 <SOS> v3 v1 v4 v93 <EOS>
+electric_guitar.n.01 <SOS> v3 v2 v36 v7 v16 v8 v33 v1 v7 <EOS>
+myofibril.n.01 <SOS> v3 v4 v14 v4 v6 v14 <EOS>
+withholding.n.03 <SOS> v2 v6 v1 v10 v13 v2 v19 v1 <EOS>
+bricklayer.n.01 <SOS> v3 v1 v4 v166 v47 v23 <EOS>
+dickeybird.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 <EOS>
+dudeen.n.01 <SOS> v3 v2 v36 v7 v33 v5 v4 v1 v20 v3 <EOS>
+check_register.n.01 <SOS> v2 v5 v13 v2 v2 v3 v15 <EOS>
+diastrophism.n.01 <SOS> v3 v5 v23 v64 <EOS>
+white_crappie.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v2 v1 v12 v1 v1 v2 v40 v5 <EOS>
+oldie.n.01 <SOS> v2 v5 v3 v4 v11 v29 <EOS>
+commutability.n.02 <SOS> v2 v8 v2 v117 <EOS>
+counterrevolutionist.n.01 <SOS> v3 v1 v4 v265 v8 <EOS>
+floating-point_notation.n.01 <SOS> v2 v5 v17 v5 v3 v4 <EOS>
+hermit_thrush.n.01 <SOS> v3 v2 v36 v1 v1 v39 v28 v3 v10 v10 v1 v10 <EOS>
+lemon_meringue_pie.n.01 <SOS> v3 v4 v6 v1 v18 v2 v1 <EOS>
+prednisolone.n.01 <SOS> v3 v1 v12 v11 v29 v71 <EOS>
+wampum.n.02 <SOS> v2 v1 v14 v62 v1 <EOS>
+port.n.02 <SOS> v3 v1 v12 v11 v31 v1 v6 v21 <EOS>
+witches'_butter.n.01 <SOS> v3 v2 v36 v1 v1 v19 v45 <EOS>
+provitamin_a.n.01 <SOS> v3 v4 v14 v4 v2 v15 v76 v20 v3 <EOS>
+rotary_club.n.01 <SOS> v2 v1 v12 v2 v29 v5 v4 <EOS>
+tucker.n.04 <SOS> v3 v2 v36 v7 v20 v117 <EOS>
+freight.n.02 <SOS> v2 v6 v1 v6 v20 v4 v9 v9 <EOS>
+tlingit.n.02 <SOS> v2 v5 v1 v11 v20 v8 <EOS>
+body.n.09 <SOS> v2 v3 v7 v2 <EOS>
+king.n.09 <SOS> v3 v4 v14 v4 v50 v3 v2 v18 <EOS>
+iowa.n.03 <SOS> v2 v5 v1 v11 v20 v11 v3 <EOS>
+alkalinity.n.01 <SOS> v2 v8 v10 v40 v2 v1 <EOS>
+external_jugular_vein.n.01 <SOS> v3 v3 v6 v13 v20 v49 v3 v1 v3 v55 <EOS>
+campsite.n.01 <SOS> v3 v2 v10 v14 v12 v4 v13 <EOS>
+kentish.n.01 <SOS> v2 v5 v1 v11 v21 v9 v5 v5 v4 <EOS>
+ewing's_sarcoma.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v16 v1 v6 v4 <EOS>
+christella.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v9 v2 <EOS>
+long_trousers.n.01 <SOS> v3 v2 v36 v7 v19 v36 v19 v26 <EOS>
+kordofanian.n.01 <SOS> v2 v5 v1 v11 v16 <EOS>
+millime.n.01 <SOS> v2 v3 v2 v9 v29 v107 <EOS>
+directivity.n.01 <SOS> v2 v8 v10 v33 v1 v2 <EOS>
+megaspore.n.01 <SOS> v3 v2 v36 v2 v4 v24 v2 v7 v1 <EOS>
+deflation.n.02 <SOS> v3 v5 v3 <EOS>
+floating_dock.n.01 <SOS> v3 v2 v36 v7 v15 v52 v1 v2 <EOS>
+allyl_alcohol.n.01 <SOS> v3 v4 v14 v9 v3 v1 <EOS>
+spider_orchid.n.03 <SOS> v3 v2 v36 v1 v1 v25 v27 v7 v2 v1 v71 <EOS>
+wick.n.01 <SOS> v3 v2 v36 v7 v44 v5 <EOS>
+scimitar.n.01 <SOS> v3 v2 v36 v7 v16 v8 v114 v4 v5 v5 <EOS>
+anastomosis.n.01 <SOS> v2 v8 v8 v60 v1 <EOS>
+subtropics.n.01 <SOS> v3 v2 v10 v14 v12 v2 v2 <EOS>
+shrug.n.01 <SOS> v2 v5 v14 v9 <EOS>
+water-shield.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v19 v23 <EOS>
+home_economics.n.01 <SOS> v2 v6 v3 v11 v7 v3 v11 v12 <EOS>
+eysenck_personality_inventory.n.01 <SOS> v2 v5 v17 v6 v1 v7 v2 v1 v1 <EOS>
+automat.n.01 <SOS> v3 v2 v36 v7 v16 v8 v34 v10 v2 <EOS>
+iron_trap.n.01 <SOS> v2 v6 v3 v14 v2 v10 v4 <EOS>
+warfarin.n.01 <SOS> v3 v1 v12 v11 v29 v7 <EOS>
+frittata.n.01 <SOS> v3 v4 v15 v12 v15 v9 <EOS>
+shellflower.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v19 v13 <EOS>
+planation.n.01 <SOS> v3 v5 v23 v64 v1 <EOS>
+garden_webworm.n.01 <SOS> v3 v2 v36 v1 v1 v39 v15 v1 v9 <EOS>
+lifeline.n.03 <SOS> v3 v2 v36 v7 v44 <EOS>
+branchiobdellidae.n.01 <SOS> v2 v1 v24 v5 v9 v25 <EOS>
+rydberg's_penstemon.n.01 <SOS> v3 v2 v36 v1 v1 v25 v10 v1 <EOS>
+rapeseed.n.01 <SOS> v3 v2 v36 v2 v4 v24 v2 v13 v26 v4 <EOS>
+public.n.02 <SOS> v2 v1 v12 v14 <EOS>
+brake_pad.n.01 <SOS> v3 v2 v36 v7 v16 v8 v10 <EOS>
+retractor.n.01 <SOS> v3 v2 v36 v7 v16 v8 v114 v13 v20 <EOS>
+genus_zoysia.n.01 <SOS> v2 v1 v24 v5 v23 v4 <EOS>
+bromus.n.01 <SOS> v2 v1 v24 v5 v23 v4 <EOS>
+effluent.n.01 <SOS> v3 v4 v14 v4 v47 <EOS>
+harpulla.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v13 v9 v49 v2 <EOS>
+purification.n.04 <SOS> v2 v6 v1 v10 v27 v14 v6 v7 v2 <EOS>
+bifurcation.n.01 <SOS> v2 v8 v11 v16 v6 v3 <EOS>
+slapper.n.01 <SOS> v3 v1 v4 v327 v21 v2 <EOS>
+repentance.n.01 <SOS> v2 v8 v8 v63 v21 v3 v1 <EOS>
+post_hoc.n.01 <SOS> v2 v6 v3 v11 v9 v17 v3 v3 <EOS>
+herbage.n.01 <SOS> v3 v2 v36 v1 v1 v25 v27 v14 <EOS>
+amygdaloid.n.01 <SOS> v3 v4 v14 v4 v23 v22 v5 <EOS>
+rejoicing.n.01 <SOS> v2 v8 v8 v63 v38 <EOS>
+united_arab_emirate_dirham.n.01 <SOS> v2 v3 v2 v9 v29 v86 <EOS>
+nymphomania.n.01 <SOS> v2 v8 v8 v63 v15 v1 <EOS>
+toast.n.02 <SOS> v3 v1 v4 v108 v14 v9 <EOS>
+throe.n.02 <SOS> v2 v8 v8 v28 v15 v2 v4 v5 <EOS>
+lymphogranuloma_venereum.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v4 v11 v36 v2 v6 <EOS>
+agonic_line.n.01 <SOS> v3 v2 v10 v22 <EOS>
+punching_bag.n.01 <SOS> v3 v1 v4 v16 v9 <EOS>
+minoxidil.n.01 <SOS> v3 v1 v12 v11 v28 v1 <EOS>
+short.n.01 <SOS> v3 v2 v10 v14 v12 v4 <EOS>
+nitrification.n.01 <SOS> v3 v5 v23 v28 <EOS>
+cirripedia.n.01 <SOS> v2 v1 v24 v5 v10 <EOS>
+schizothymia.n.01 <SOS> v2 v8 v8 v27 v23 v45 v33 <EOS>
+ogee.n.01 <SOS> v3 v2 v36 v7 v26 v28 v13 <EOS>
+eptesicus.n.01 <SOS> v2 v1 v24 v5 v23 v16 <EOS>
+stenopelmatidae.n.01 <SOS> v2 v1 v24 v5 v9 v19 <EOS>
+hydnoraceae.n.01 <SOS> v2 v1 v24 v5 v9 v1 <EOS>
+glyptography.n.02 <SOS> v2 v6 v1 v10 v13 v18 v1 <EOS>
+side-glance.n.01 <SOS> v2 v6 v1 v10 v13 v16 v1 v5 v7 <EOS>
+union_shop.n.01 <SOS> v2 v1 v12 v2 v9 v6 <EOS>
+squeeze.n.04 <SOS> v3 v1 v4 v42 <EOS>
+terrain_flight.n.01 <SOS> v2 v6 v1 v10 v27 v8 v23 v4 v4 v1 <EOS>
+experimenter_bias.n.01 <SOS> v2 v6 v3 v7 v4 v14 v3 <EOS>
+inguinal_hernia.n.01 <SOS> v2 v8 v8 v27 v23 v4 v1 v2 v1 v1 <EOS>
+gyneolatry.n.01 <SOS> v2 v6 v1 v10 v13 v54 v12 <EOS>
+menhir.n.01 <SOS> v3 v2 v36 v7 v15 v60 v2 <EOS>
+heteromyidae.n.01 <SOS> v2 v1 v24 v5 v9 v9 <EOS>
+bus_traffic.n.01 <SOS> v2 v1 v14 v3 v3 <EOS>
+patriarch.n.02 <SOS> v3 v1 v4 v108 v22 <EOS>
+desk_phone.n.01 <SOS> v3 v2 v36 v7 v16 v4 v23 v6 <EOS>
+gorget.n.01 <SOS> v3 v2 v36 v7 v19 v22 v16 v4 v3 <EOS>
+shepherd's_pie.n.01 <SOS> v3 v4 v6 v1 v18 v2 v1 v10 <EOS>
+imaginative_comparison.n.01 <SOS> v2 v4 v19 <EOS>
+white_water.n.01 <SOS> v2 v8 v11 v6 v8 v1 v9 v1 v1 <EOS>

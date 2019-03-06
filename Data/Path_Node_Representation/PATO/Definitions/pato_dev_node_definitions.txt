@@ -1,0 +1,13 @@
+PATO:0001686 non-magnetic magnetic quality inhering bearer virtue bearer 's inability exert magnitism
+PATO:0002409 fluid-filled bounded structure filled fluid
+PATO:0001796 decreased coiling coiling relatively low low coiling
+PATO:0001843 decreased acidity acidity relatively low low acidity
+PATO:0002241 trilobed lobed quality inhering bearer virtue bearer 's divided three lobes
+PATO:0001792 left side spatial quality inhering bearer virtue bearer 's located left side another entity
+PATO:0002441 ornamented surface feature shape bearer 's surface highly topographical ridges pits rugosity surface structures
+PATO:0000758 unbalanced balance quality inhering bearer virtue bearer 's lacking balance
+PATO:0015010 increased humidity increase humidity humid
+PATO:0001437 sessile sensu zoology attachment quality inhering bearer virtue bearer 's inability move
+PATO:0002401 random pattern characterised unidentifiable pattern
+PATO:0005019 curved lingually curvature quality inhering bearer virtue bearer 's curved towards tongue
+PATO:0001945 ochre moderate yellow-orange orange color

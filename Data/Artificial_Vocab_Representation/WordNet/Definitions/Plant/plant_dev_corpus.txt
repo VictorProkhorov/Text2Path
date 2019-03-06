@@ -1,0 +1,35 @@
+cushaw.n.01	cushaw plant bearing squash globose ovoid fruit variously striped grey green white warty rinds	<SOS> v28 v21 v50 v2 <EOS>
+blue_lotus.n.02	blue lotus blue egyptian lotus held sacred egyptians	<SOS> v28 v13 v23 <EOS>
+black_sage.n.01	black sage aromatic plant wooly leaves found southern california mexico	<SOS> v28 v22 v12 v6 v50 <EOS>
+nimblewill.n.01	nimblewill slender branching american grass value grazing central united states	<SOS> v28 v3 v351 v3 <EOS>
+hydnocarpus_laurifolia.n.01	hydnocarpus laurifolia leathery-leaved tree western india bearing round fruits brown densely hairy rind enclosing oily pulp yields hydnocarpus oil	<SOS> v28 v22 v9 <EOS>
+umbrella_tree.n.01	umbrella tree erect evergreen shrub small tree australia northern new guinea palmately compound leaves	<SOS> v28 v22 v12 <EOS>
+texas_snowbell.n.01	texas snowbell styrax southwestern united states threatened species	<SOS> v28 v22 v12 v102 <EOS>
+marsh_gentian.n.01	marsh gentian perennial eurasian gentian sky-blue funnel-shaped flowers damp open heaths	<SOS> v28 v2 v2 v1 v35 <EOS>
+hybrid_petunia.n.01	hybrid petunia hybrids petunia axillaris petunia integrifolia complex group petunias single double flowers colors white purple	<SOS> v28 v2 v2 v1 v67 <EOS>
+silky_dogwood.n.02	silky dogwood shrub eastern north america closely resembling silky cornel	<SOS> v28 v22 v9 v152 v1 <EOS>
+stream_orchid.n.01	stream orchid orchid growing along streams ponds western north america leafy stems 1 greenish-brown pinkish flower axil upper leaf	<SOS> v28 v2 v2 v1 v71 v48 <EOS>
+dwarf_maple.n.01	dwarf maple small maple northwestern north america	<SOS> v28 v22 v9 v152 v17 <EOS>
+bearded_wheatgrass.n.01	bearded wheatgrass wheatgrass straight terminal awns flowering glumes	<SOS> v28 v3 v351 v3 v40 <EOS>
+loquat.n.01	loquat evergreen tree warm regions fuzzy yellow olive-sized fruit large free stone native china japan	<SOS> v28 v22 v9 v152 v56 <EOS>
+tangle_orchid.n.01	tangle orchid orchid genus plectorrhiza tangled roots long wiry stems bearing lax racemes small fragrant green flowers	<SOS> v28 v2 v2 v1 v71 <EOS>
+lady-of-the-night.n.01	lady-of-the-night west indian shrub fragrant showy yellowish-white flowers	<SOS> v28 v22 v12 <EOS>
+rose_chestnut.n.01	rose chestnut handsome east indian evergreen tree often planted ornamental fragrant white flowers yield perfume source heavy hardwood used railroad ties	<SOS> v28 v22 v9 <EOS>
+american_beech.n.01	american beech north american forest tree light green leaves edible nuts	<SOS> v28 v22 v9 v157 <EOS>
+gentianopsis_detonsa.n.01	gentianopsis detonsa medium-tall fringed gentian pale-blue blue-purple flowers circumboreal distribution	<SOS> v28 v2 v2 v1 v35 v9 <EOS>
+puttyroot.n.01	puttyroot north american orchid bearing single leaf yellowish-brown flowers	<SOS> v28 v2 v2 v1 v71 <EOS>
+felwort.n.01	felwort gentian europe china creamy white flowers fringed corollas	<SOS> v28 v2 v2 v1 v35 <EOS>
+marang.n.01	marang philippine tree similar breadfruit tree bearing edible fruit	<SOS> v28 v22 v9 v152 v56 <EOS>
+cape_marigold.n.01	cape marigold several south african plants grown profusion usually yellow daisylike flowers mounds aromatic foliage	<SOS> v28 v2 v2 v1 <EOS>
+wild_hydrangea.n.01	wild hydrangea deciduous shrub creamy white flower clusters eastern united states	<SOS> v28 v22 v12 v127 <EOS>
+marsh_pink.n.01	marsh pink several pink-flowered marsh plant eastern united states resembling true centaury	<SOS> v28 v13 v13 v20 <EOS>
+cattley_guava.n.01	cattley guava small tropical shrubby tree bearing deep red oval fruit	<SOS> v28 v22 v9 v152 v56 <EOS>
+ragged_robin.n.01	ragged robin common perennial native europe western asia usually pink flowers ragged petals	<SOS> v28 v2 v2 v1 v26 <EOS>
+broom_sedge.n.01	broom sedge tall tufted grass southeastern united states	<SOS> v28 v3 v351 v3 v29 <EOS>
+chaparral_mallow.n.01	chaparral mallow shrub coastal ranges california baja california hairy branches spikes numerous mauve flowers sometimes placed genus sphaeralcea	<SOS> v28 v22 v12 v260 <EOS>
+marmalade_bush.n.01	marmalade bush evergreen south american shrub showy trumpet-shaped orange flowers grown ornamental houseplant	<SOS> v28 v22 v12 <EOS>
+smooth-leaved_elm.n.01	smooth-leaved elm european elm lustrous smooth leaves used ornamental	<SOS> v28 v22 v9 v56 <EOS>
+dendrobium.n.01	dendrobium plant genus dendrobium stems like cane usually showy racemose flowers	<SOS> v28 v2 v2 v1 v71 <EOS>
+snag.n.02	snag dead tree still standing usually undisturbed forest	<SOS> v28 v22 v9 <EOS>
+pink_fivecorner.n.01	pink fivecorner heathlike shrub southwestern australia grown sharply scented foliage pink flowers followed pentagonal fruit	<SOS> v28 v22 v12 <EOS>
+chinese_privet.n.01	chinese privet erect evergreen treelike shrub china korea japan acuminate leaves flowers long erect panicles resembles japanese privet	<SOS> v28 v22 v12 v87 <EOS>

@@ -1,0 +1,577 @@
+security_blanket.n.01 security blanket anything adult person uses reduce anxiety
+world.n.08 world living human inhabitants earth
+antimatter.n.01 antimatter matter consisting elementary particles antiparticles making normal substances
+ionian.n.02 ionian ancient greek inhabitants attica related regions ionia
+phase.n.03 phase particular point time cycle measured arbitrary zero expressed angle
+absence.n.03 absence time interval something somebody away
+imaginative_comparison.n.01 imaginative comparison kind mental comparison expressed similes metaphors allegories
+coincidence.n.02 coincidence quality occupying position area space
+bottomland.n.01 bottomland low-lying alluvial land near river
+deflation.n.02 deflation contraction economic activity resulting decline prices
+autotype.n.01 autotype process producing permanent prints carbon pigment
+drink.n.04 drink large deep body water
+inaudibility.n.01 inaudibility quality perceptible ear
+magnetization.n.03 magnetization physical property magnetic
+commutability.n.02 commutability quality commutable
+poison.n.02 poison anything harms destroys
+sway.n.01 sway controlling influence
+whirl.n.02 whirl shape something rotating rapidly
+overdrive.n.01 overdrive state high excessive activity productivity concentration
+childhood.n.02 childhood state child infancy adolescence
+address.n.04 address manner speaking another individual
+tip.n.03 tip indication potential opportunity
+lexical_meaning.n.01 lexical meaning meaning content word depends nonlinguistic concepts used express
+pungency.n.01 pungency wit sharp caustic quality
+shrug.n.01 shrug gesture involving shoulders
+accounting_data.n.01 accounting data data ledgers journals spreadsheets support financial statement hard copy machine readable
+public.n.02 public body people sharing common interest
+plutocracy.n.01 plutocracy political system governed wealthy people
+body.n.09 body main mass thing
+half-century.n.01 half-century period 50 years
+cartload.n.01 cartload quantity cart holds
+scoop.n.01 scoop quantity scoop hold
+reverence.n.02 reverence reverent mental attitude
+kilometers_per_hour.n.01 kilometers per hour ratio distance traveled kilometers time spent traveling hours
+kronecker_delta.n.01 kronecker delta function two variables j equals 1 i=j equals 0 otherwise
+botanical.n.01 botanical drug made part plant bark root leaves
+cabalist.n.02 cabalist expert highly skilled obscure difficult esoteric matters
+square_shooter.n.01 square shooter frank honest person
+trinidadian.n.01 trinidadian inhabitant native trinidad
+bel_esprit.n.01 bel esprit witty clever person fine mind
+bilingual.n.01 bilingual person speaks two languages fluently
+squeeze.n.04 squeeze slang person 's girlfriend boyfriend
+next_of_kin.n.01 next of kin person persons closely related given person
+sorbian.n.01 sorbian speaker sorbian
+nuclear_fuel.n.01 nuclear fuel fuel uranium used nuclear reactors source electricity
+cavern.n.02 cavern large cave large chamber cave
+agonic_line.n.01 agonic line imaginary line connecting points earth 's surface magnetic declination zero
+mare.n.02 mare dark region considerable extent surface moon
+nitrification.n.01 nitrification chemical process nitro group added organic compound substituted another group organic compound
+diastrophism.n.01 diastrophism process deformation produces continents ocean basins earth 's crust
+rivulet.n.01 rivulet small stream
+obsoleteness.n.01 obsoleteness property date current
+bonyness.n.01 bonyness extreme leanness usually caused starvation disease
+minuteness.n.02 minuteness great precision painstaking attention details
+aid.n.01 aid resource
+permutability.n.01 permutability ability change sequence
+solidarity.n.01 solidarity union interests purposes sympathies among members group
+shambles.n.01 shambles condition great disorder
+rejoicing.n.01 rejoicing feeling great happiness
+isostasy.n.01 isostasy geology general equilibrium forces tending elevate depress earth 's crust
+anastomosis.n.01 anastomosis natural surgical joining parts branches tubular structures make become continuous
+case.n.09 case statement facts reasons used support argument
+kordofanian.n.01 kordofanian group languages spoken relatively small kordofan area south sudan
+hand.n.12 hand round applause signify approval
+jeer.n.01 jeer showing contempt derision
+stultification.n.01 stultification derision someone something foolish absurd inconsistent
+conclusion.n.05 conclusion proposition arrived logical reasoning proposition must follow major minor premises syllogism
+papyrus.n.03 papyrus document written papyrus
+cirripedia.n.01 cirripedia barnacles
+ophiuroidea.n.01 ophiuroidea brittle stars basket stars
+wampum.n.02 wampum small cylindrical beads made polished shells fashioned strings belts used certain native american peoples jewelry currency
+bus_traffic.n.01 bus traffic buses coming going
+rupturewort.n.01 rupturewort common prostrate old world herb often used ground cover formerly reputed cure ruptures
+weimar_republic.n.01 weimar republic german republic founded weimar 1919
+pollen_count.n.01 pollen count number pollen grains usually ragweed standard volume air twenty-four hour period specified time place
+lunar_day.n.01 lunar day period time taken moon make one full rotation axis 27.3 sidereal days
+leptotene.n.01 leptotene first stage prophase meiosis
+bachelorhood.n.01 bachelorhood time man 's life prior marriage
+deathbed.n.01 deathbed last hours death
+follow-up.n.02 follow-up activity continues something already begun repeats something already done
+headword.n.02 headword word placed beginning line paragraph dictionary entry
+isoproterenol.n.01 isoproterenol drug trade name isuprel used treat bronchial asthma stimulate heart
+nux_vomica.n.01 nux vomica medicine made seeds asiatic tree contains strychnine brucine formerly used stimulant
+patriarch.n.02 patriarch male head family tribe
+widower.n.01 widower man whose wife dead especially one remarried
+transgressor.n.01 transgressor someone transgresses someone violates law command
+telecaster.n.01 telecaster television broadcaster
+non-resistant.n.01 non-resistant reformer believes passive resistance
+blade.n.02 blade dashing young man
+better.n.03 better superior person claim precedence
+materialist.n.02 materialist someone thinks nothing exists physical matter
+co-discoverer.n.01 co-discoverer someone first two people discover something
+testifier.n.01 testifier person testifies gives deposition
+counterrevolutionist.n.01 counterrevolutionist revolutionary whose aim reverse changes introduced earlier revolution
+father-in-law.n.01 father-in-law father spouse
+quintuplet.n.02 quintuplet one five children born time pregnancy
+hakim.n.02 hakim muslim physician
+cenobite.n.01 cenobite member religious order living common
+goner.n.01 goner person desperate straits someone doomed
+punching_bag.n.01 punching bag person another person vents anger
+activated_carbon.n.01 activated carbon powdered granular carbon used purifying adsorption given orally slurry antidote kinds poisons
+magma.n.01 magma molten rock earth 's crust
+effluent.n.01 effluent water mixed waste matter
+sterling_silver.n.01 sterling silver silver alloy 7.5 copper
+cytoplast.n.01 cytoplast intact cytoplasmic content cell
+view_angle.n.01 view angle angle included photographic lens
+crosshead.n.02 crosshead metal block connects piston slides parallel guides moves connecting rod back forth
+rosemaling.n.01 rosemaling scandinavian style carved painted decoration furniture walls dinnerware consisting floral motifs
+linsey-woolsey.n.01 linsey-woolsey rough fabric linen warp wool cotton woof
+marseille.n.02 marseille strong cotton fabric raised pattern used bedspreads
+lifeline.n.03 lifeline line raises lowers deep-sea diver
+pitting.n.01 pitting formation small pits surface consequence corrosion
+beach_erosion.n.01 beach erosion erosion beaches
+planation.n.01 planation process erosion whereby level surface produced
+isogamy.n.01 isogamy biology reproduction union fusion gametes size structure
+recognition.n.05 recognition biology ability one molecule attach another molecule complementary shape
+boundary_layer.n.01 boundary layer layer slower flow fluid past surface
+auxiliary_operation.n.01 auxiliary operation operation performed off-line equipment control central processing unit
+water_hole.n.01 water hole natural hole hollow containing water
+alkalinity.n.01 alkalinity ph values 7
+highness.n.02 highness quality high lofty
+directivity.n.01 directivity property microphone antenna sensitive one direction another
+cigarette_burn.n.01 cigarette burn burn mark left smoldering cigarette
+bifurcation.n.01 bifurcation bifurcating branch one
+head.n.10 head tip abscess pus accumulates
+tail.n.03 tail projection resembles tail animal
+race_problem.n.01 race problem social political problem caused conflict races occupying adjacent regions
+activity.n.04 activity chemistry capacity substance take part chemical reaction
+nymphomania.n.01 nymphomania abnormally intense sexual desire women
+serfdom.n.01 serfdom state serf
+conviviality.n.01 conviviality jovial nature
+oldie.n.01 oldie song formerly popular
+tlingit.n.02 tlingit na-dene language spoken tlingit
+ostensive_definition.n.01 ostensive definition definition points exhibits instances term defined
+floating-point_notation.n.01 floating-point notation radix numeration system location decimal point indicated exponent radix floating-point representation system 0.0012 represented 0.12-2 -2 exponent
+stream.n.02 stream dominant course suggestive running water successive events ideas
+stenopelmatidae.n.01 stenopelmatidae long-horned grasshoppers
+pipridae.n.01 pipridae manakins
+buxaceae.n.01 buxaceae widely distributed evergreen shrubs trees
+hydnoraceae.n.01 hydnoraceae family flowering plants africa argentina parasitic roots plants
+menyanthaceae.n.01 menyanthaceae dicotyledonous family marsh plants order gentianales
+ostraciidae.n.01 ostraciidae boxfishes
+helotiaceae.n.01 helotiaceae fungus family order helotiales
+heteromyidae.n.01 heteromyidae small new world burrowing mouselike rodents fur-lined cheek pouches hind limbs tail adapted leaping adapted desert conditions pocket mice kangaroo mice kangaroo rats
+branchiobdellidae.n.01 branchiobdellidae small annelid worms posterior end modified adhesive sucker especially formerly regarded modified leeches
+salamandra.n.01 salamandra type genus salamandridae
+argusianus.n.01 argusianus argus pheasants
+cladorhyncus.n.01 cladorhyncus one two genera stilts similar avocets straight bills
+ephippiorhynchus.n.01 ephippiorhynchus saddlebills
+gymnogyps.n.01 gymnogyps containing solely california condor
+icteria.n.01 icteria new world chats
+argyreia.n.01 argyreia woody climbers tropical asia australia
+blighia.n.01 blighia small genus western african evergreen trees shrubs bearing fleshy capsular three-seeded fruits edible neither unripe overripe
+celtis.n.01 celtis large genus trees shrubs berrylike fruit
+lycopodium.n.01 lycopodium type sole genus lycopodiaceae erect creeping evergreen plants often used christmas decorations
+clupea.n.01 clupea type genus clupeidae typical herrings
+trachinotus.n.01 trachinotus genus carangidae
+septobasidium.n.01 septobasidium type genus septobasidiaceae smooth shelf fungi usually well-developed sometimes thick-walled hypobasidium
+chamaecyparis.n.01 chamaecyparis genus chamaecyparis
+dacrycarpus.n.01 dacrycarpus evergreen coniferous shrubs trees new zealand malaysia philippines
+bettongia.n.01 bettongia jerboa kangaroo
+eptesicus.n.01 eptesicus genus vespertilionidae
+tolypeutes.n.01 tolypeutes genus dasypodidae
+bromus.n.01 bromus genus grasses family gramineae
+genus_nephthytis.n.01 genus nephthytis small genus tropical western african creeping twining herbs
+genus_zoysia.n.01 genus zoysia lawn grasses native southeastern asia new zealand grown especially warm regions
+haemodorum.n.01 haemodorum type genus family haemodoraceae
+calliophis.n.01 calliophis asian coral snakes
+elaphe.n.01 elaphe north american rat snakes
+genus_allosaurus.n.01 genus allosaurus carnivorous dinosaur north america late jurassic
+pseudechis.n.01 pseudechis venomous australian blacksnakes
+amphipoda.n.01 amphipoda small flat-bodied semiterrestrial crustaceans whale lice sand-hoppers skeleton shrimp
+stereospondyli.n.01 stereospondyli formerly suborder stegocephalia amphibia vertebrae whose component elements fused single piece
+sclerodermatales.n.01 sclerodermatales order fungi peridium surrounding gleba sometimes placed subclass homobasidiomycetes
+oedogoniales.n.01 oedogoniales simple branched filamentous freshwater green algae
+thrombus.n.01 thrombus blood clot formed within blood vessel remaining attached place origin
+freemasonry.n.02 freemasonry freemasons collectively
+union_shop.n.01 union shop company allowed hire nonunion workers condition join union within specified time
+sea_mile.n.01 sea mile former british unit length used navigation equivalent 6,000 feet 1828.8 meters
+quarter_pound.n.01 quarter pound 4 ounces avoirdupois
+carat.n.01 carat unit weight precious stones 200 mg
+birr.n.01 birr basic unit money ethiopia equal 100 cents
+cent.n.01 cent fractional monetary unit several countries
+libyan_dinar.n.01 libyan dinar basic unit money libya
+millime.n.01 millime 1,000 millimes equal 1 dinar tunisia
+united_arab_emirate_dirham.n.01 united arab emirate dirham basic unit money united arab emirates equal 1,000 fils
+dram.n.01 dram unit apothecary weight equal eighth ounce 60 grains
+street_smarts.n.01 street smarts shrewd ability survive dangerous urban environment
+pettiness.n.01 pettiness narrowness mind ideas views
+reformism.n.01 reformism doctrine reform
+conversation_piece.n.01 conversation piece something interesting stimulates conversation
+indigestion.n.01 indigestion disorder digestive function characterized discomfort heartburn nausea
+indication.n.03 indication medicine reason prescribe drug perform procedure
+hand.n.14 hand physical assistance
+systematism.n.01 systematism habitual practice systematization classification
+brutalization.n.02 brutalization activity treating someone savagely viciously
+channels.n.01 channels official routes communication
+subscription.n.02 subscription agreement expressed expressed signing name
+absenteeism.n.01 absenteeism habitual absence work
+stage_name.n.01 stage name pseudonym actor
+national_debt_ceiling.n.01 national debt ceiling limit set congress beyond national debt rise periodically raised congress
+alphavirus.n.01 alphavirus arbovirus family togaviridae cause variety encephalitis horses
+antipruritic.n.01 antipruritic substance relieves prevents itching
+minoxidil.n.01 minoxidil vasodilator trade name loniten used treat severe hypertension one side effect hirsutism also sold trade name rogaine treatment male-patterned baldness
+colchicine.n.01 colchicine analgesic drug derived saffron plant used treat gout
+prednisolone.n.01 prednisolone glucocorticoid trade names pediapred prelone used treat inflammatory conditions
+prednisone.n.01 prednisone dehydrogenated analogue cortisol trade names orasone deltasone liquid pred meticorten used anti-inflammatory drug treatment arthritis immunosuppressant
+warfarin.n.01 warfarin anticoagulant trade name coumadin use prevent treat thrombus embolus
+booster.n.06 booster additional dose makes sure first dose effective
+mebendazole.n.01 mebendazole anthelmintic used treat hookworm pinworm roundworm infestations
+toast.n.02 toast celebrity receives much acclaim attention
+hopi.n.01 hopi member shoshonean people northeastern arizona
+venter.n.01 venter speaker expresses gives vent personal opinion grievance
+radio_announcer.n.01 radio announcer announcer whose voice broadcast radio
+secretary_of_state.n.01 secretary of state person holds secretaryship department state
+slapper.n.01 slapper hitter slaps usually another person open hand
+bricklayer.n.01 bricklayer craftsman skilled building bricks
+paperhanger.n.02 paperhanger one whose occupation decorating walls wallpaper
+streptodornase.n.01 streptodornase enzyme produced hemolytic strains streptococcus dissolves fibrinous secretions infections used medicinally often combination streptokinase
+allyl_alcohol.n.01 allyl alcohol unsaturated primary alcohol present wood spirit use make resins plasticizers pharmaceuticals
+enantiomorph.n.01 enantiomorph either one pair compounds crystals molecules mirror images identical
+spray.n.01 spray pesticide suspension solution intended spraying
+myofibril.n.01 myofibril one many contractile filaments make striated muscle fiber
+logwood.n.01 logwood hard brown brownish-red heartwood logwood tree used preparing purplish red dye
+oatmeal.n.02 oatmeal meal made rolled ground oats
+applesauce.n.01 applesauce puree stewed apples usually sweetened spiced
+frittata.n.01 frittata italian omelet diced vegetables meats cooked bottom set inverted another pan cook top
+galantine.n.01 galantine boned poultry stuffed cooked covered aspic served cold
+gefilte_fish.n.01 gefilte fish well-seasoned balls ground fish eggs crushed crumbs simmered fish stock
+kishke.n.01 kishke judaism roasted fowl intestines seasoned filling matzo meal suet
+schnitzel.n.01 schnitzel deep-fried breaded veal cutlets
+abyssal_zone.n.01 abyssal zone deep sea 2000 meters light
+dell.n.01 dell small wooded hollow
+forge.n.02 forge workplace metal worked heating hammering
+short.n.01 short location baseball field shortstop stationed
+six-spot.n.01 six-spot playing card domino die whose upward face shows six pips
+stock.n.14 stock lumber used construction something
+kitsch.n.01 kitsch excessively garish sentimental art usually considered bad taste
+knit.n.03 knit needlework created interlacing yarn series connected loops using straight eyeless needles machine
+drainage_ditch.n.01 drainage ditch ditch carrying excess water sewage
+tucker.n.04 tucker detachable yoke linen lace worn breast low-cut dress
+sweatbox.n.02 sweatbox device causes tobacco leaves fruit hides sweat
+wick.n.01 wick piece cord conveys liquid capillary action
+buttonhole.n.01 buttonhole hole buttons pushed
+cornice.n.03 cornice topmost projecting part entablature
+starboard.n.01 starboard right side ship aircraft someone aboard facing bow nose
+monilia.n.01 monilia yeastlike imperfect fungi genus monilia
+monad.n.03 monad biology single-celled microorganism especially flagellate protozoan
+mat.n.04 mat mass densely tangled interwoven
+magnetomotive_force.n.01 magnetomotive force force produces magnetic flux
+wave_front.n.01 wave front points reached wave propagates
+intermaxillary_suture.n.01 intermaxillary suture suture two maxillae upper jawbone
+glottis.n.01 glottis vocal apparatus larynx true vocal folds space voice tone generated
+spinal_cord.n.01 spinal cord major part central nervous system conducts sensory motor nerve impulses brain long tubelike structure extending base brain vertebral canal upper lumbar region
+vein.n.05 vein one horny ribs stiffen support wing insect
+caffein_addiction.n.01 caffein addiction addiction caffein
+schizothymia.n.01 schizothymia resembling schizophrenia remaining within bounds normality
+delirium_tremens.n.01 delirium tremens acute delirium caused alcohol poisoning
+repentance.n.01 repentance remorse past conduct
+moroseness.n.01 moroseness gloomy ill-tempered feeling
+plagal_cadence.n.01 plagal cadence cadence frequently ending church music chord subdominant precedes chord tonic
+bank_card.n.01 bank card credit card issued bank
+check_register.n.01 check register register checks issued usually numeric order
+iowa.n.03 iowa dialect chiwere language spoken iowa
+tai_dam.n.01 tai dam branch tai languages
+news_bulletin.n.01 news bulletin short news announcement concerning on-going news story
+convention.n.03 convention diplomacy international agreement
+doctor_of_arts.n.01 doctor of arts honorary arts degree
+hunting_license.n.01 hunting license license authorizing bearer kill certain type animal specified period time
+subpoena.n.01 subpoena writ issued court authority compel attendance witness judicial proceeding disobedience may punishable contempt court
+doggerel.n.01 doggerel comic verse irregular measure
+half_rest.n.01 half rest musical rest time value half whole rest equal duration two beats common time
+portulacaceae.n.01 portulacaceae family usually succulent herbs cosmopolitan distribution especially americas
+elephantopus.n.01 elephantopus perennial american herb
+nyctaginia.n.01 nyctaginia caryophyllaceous genus family nyctaginaceae one species
+camelina.n.01 camelina annual biennial herbs mediterranean central asia
+genus_schizopetalon.n.01 genus schizopetalon small genus south american herbs grown flowers
+averrhoa.n.01 averrhoa trees native east indies pinnate leaves carambolas
+tellima.n.01 tellima genus hardy perennials palmately lobed leaves long racemes small nodding five-petaled flowers western north america
+genus_iris.n.01 genus iris large genus perennials develop bulbs rhizomes
+rotary_club.n.01 rotary club group businessmen town organized service club promote world peace
+open_university.n.01 open university british university open people without formal academic qualifications teaching correspondence broadcasting summer school
+trainband.n.01 trainband company militia england america 16th century 18th century
+ready_cash.n.01 ready cash money form cash readily available
+experimenter_bias.n.01 experimenter bias psychology bias introduced experimenter whose expectations outcome experiment subtly communicated participants experiment
+realism.n.03 realism philosophy philosophical doctrine physical objects continue exist perceived
+bummer.n.02 bummer bad reaction hallucinogenic drug
+iron_trap.n.01 iron trap trap escape
+distress.n.04 distress seizure holding property security payment debt satisfaction claim
+depredation.n.01 depredation act plundering pillaging marauding
+confirmation.n.04 confirmation ceremony held synagogue usually pentecost admit adult members jewish community young men women successfully completed course study judaism
+mortification.n.04 mortification christianity act mortifying lusts flesh self-denial privation especially bodily pain discomfort inflicted
+gastronomy.n.02 gastronomy art practice choosing preparing eating good food
+glyptography.n.02 glyptography carving engraving especially stones
+horseplay.n.01 horseplay rowdy boisterous play
+probe.n.03 probe exploratory action expedition
+gyneolatry.n.01 gyneolatry worship women
+alienation_of_affection.n.01 alienation of affection tort based willful malicious interference marriage relation third party without justification excuse
+bobble.n.01 bobble momentary juggling batted thrown baseball
+googly.n.01 googly cricket ball bowled break one way actually breaks opposite way
+ball.n.12 ball pitch strike zone
+homily.n.01 homily sermon moral religious topic
+criminalization.n.01 criminalization legislation makes something illegal
+producer.n.03 producer something produces
+fountain.n.03 fountain artificially produced flow water
+track_meet.n.01 track meet track field competition two teams
+lassa_virus.n.01 lassa virus rna virus causes lassa fever
+spritzer.n.01 spritzer mixed drink made wine mixed sparkling water
+headmistress.n.01 headmistress woman headmaster
+male_chauvinist.n.01 male chauvinist man chauvinistic belief inferiority women
+slopseller.n.01 slopseller dealer cheap ready-made clothing
+talent_agent.n.01 talent agent agent represents performers
+smarta.n.01 smarta one group brahmans uphold nonsectarian orthodoxy according vedanta school hinduism
+anglo-saxon.n.02 anglo-saxon person anglo-saxon especially british descent whose native tongue english whose culture strongly influenced english culture wasp `white anglo-saxon protestant
+knight-errant.n.01 knight-errant wandering knight travelling search adventure
+night_watchman.n.01 night watchman watchman works night
+slattern.n.02 slattern dirty untidy woman
+raisin_cookie.n.01 raisin cookie cookie containing raisins
+lemon_meringue_pie.n.01 lemon meringue pie pie containing lemon custard topped meringue
+french_sorrel.n.02 french sorrel greens small tart oval pointed leaves preferred common sorrel salads
+eggplant.n.01 eggplant egg-shaped vegetable shiny skin typically dark purple occasionally white yellow
+petrochemical.n.01 petrochemical compound obtained petroleum natural gas
+pentoxide.n.01 pentoxide oxide containing five atoms oxygen molecule
+isocyanate.n.01 isocyanate salt ester isocyanic acid
+amygdaloid.n.01 amygdaloid volcanic rock rounded cavities formed expanding gas subsequently become filled mineral deposits
+dacite.n.01 dacite grey volcanic rock containing plagioclase quartz crystalline minerals
+alpha_brass.n.01 alpha brass alloy brass zinc used mainly cold working
+turmeric.n.02 turmeric ground dried rhizome turmeric plant used seasoning
+pearl_fishery.n.01 pearl fishery fishery fish pearl oysters
+italian_region.n.01 italian region italy divided 20 regions administrative purposes
+campsite.n.01 campsite site people holiday pitch tent
+subtropics.n.01 subtropics regions adjacent tropics
+lugsail.n.01 lugsail sail four corners hoisted yard oblique mast
+arm_guard.n.01 arm guard pad worn football players hockey goalkeepers
+winker.n.02 winker blind consisting leather eyepatch sewn side halter prevents horse seeing something either side
+revetment.n.02 revetment facing usually masonry supports embankment
+ogee.n.01 ogee molding section shape convex part concave part
+echinus.n.01 echinus ovolo molding shaft abacus doric column
+body_bag.n.01 body bag bag body dead soldier placed
+stove.n.02 stove heating apparatus
+calender.n.01 calender machine smooths glazes paper cloth pressing plates passing rollers
+brake_pad.n.01 brake pad one pads apply friction sides brake disk
+bookend.n.01 bookend support placed end row books keep upright shelf table
+lastex.n.01 lastex yarn elastic core wound around cotton silk nylon rayon threads
+lunette.n.01 lunette temporary fortification like detached bastion
+duplex_apartment.n.01 duplex apartment apartment rooms two floors connected staircase
+menhir.n.01 menhir tall upright megalith found primarily england northern france
+honeycomb.n.02 honeycomb framework hexagonal cells resembling honeycomb built bees
+stretcher.n.01 stretcher wooden framework canvas stretched fixed oil painting
+abutment.n.02 abutment masonry support touches directly receives thrust pressure arch bridge
+striated_muscle_cell.n.01 striated muscle cell elongated contractile cell striated muscle tissue
+old-man-of-the-woods.n.01 old-man-of-the-woods edible mild-tasting mushroom found coniferous woodlands eastern north america
+witches'_butter.n.01 witches' butter yellow jelly fungus
+flax_rust.n.01 flax rust fungus causing flax rust
+mistletoe.n.03 mistletoe shrub central southeastern europe partially parasitic beeches chestnuts oaks
+cardiac_plexus.n.01 cardiac plexus plexus nerves supplying heart nearby structures
+inanity.n.01 inanity total lack meaning ideas
+glove_anesthesia.n.01 glove anesthesia mental disorder involving loss sensitivity hand wrist
+schizotypal_personality.n.01 schizotypal personality characterized symptoms similar less severe schizophrenia
+blast_trauma.n.01 blast trauma injury caused explosion bomb especially enclosed spaces
+throe.n.02 throe hard painful trouble struggle
+mourning.n.01 mourning state sorrow death departure loved one
+overdraft.n.01 overdraft draft excess credit balance
+interdict.n.02 interdict court order prohibiting party certain activity
+qin.n.01 qin chinese dynasty 246 bc 206 bc established first centralized imperial government built much great wall
+boxing_day.n.01 boxing day first weekday christmas
+vali.n.01 vali norse mythology one aesir avenger balder son odin
+post_hoc.n.01 post hoc logical fallacy believing temporal succession implies causal relation
+home_economics.n.01 home economics theory practice homemaking
+blastogenesis.n.02 blastogenesis theory inherited characteristics transmitted germ plasm
+tattoo.n.03 tattoo practice making design skin pricking staining
+trimming.n.01 trimming act adding decoration
+rock.n.07 rock pitching dangerously one side
+connection.n.08 connection shifting one form transportation another
+withholding.n.03 withholding act holding back keeping within possession control
+shuffleboard.n.01 shuffleboard game players use long sticks shove wooden disks onto scoring area marked smooth surface
+exponentiation.n.01 exponentiation process raising quantity assigned power
+case_study.n.02 case study detailed analysis person group social psychological medical point view
+double_cross.n.01 double cross act betrayal
+simulative_electronic_deception.n.01 simulative electronic deception actions represent friendly notional actual capabilities mislead hostile forces
+contempt_of_congress.n.01 contempt of congress deliberate obstruction operation federal legislative branch
+stowage.n.03 stowage act packing storing away
+freight.n.02 freight transporting goods commercially rates cheaper express rates
+relief.n.08 relief aid aged indigent handicapped
+applejack.n.01 applejack distilled hard cider
+marsala.n.01 marsala dark sweet semisweet dessert wine sicily
+port.n.02 port sweet dark-red dessert wine originally portugal
+ceftazidime.n.01 ceftazidime parenteral cephalosporin trade names fortaz tazicef used treat moderate infections
+sihasapa.n.01 sihasapa member group siouan people constituted division teton sioux
+escapee.n.01 escapee someone escapes
+revenuer.n.01 revenuer government agent responsible collecting revenue especially one responsible stopping bootlegging
+shepherd's_pie.n.01 shepherd's pie pie hash covered mashed potatoes browned oven
+winesap.n.01 winesap crisp apple dark red skin
+exon.n.01 exon sequence gene 's dna transcribes protein structures
+king.n.09 king one four playing cards deck bearing picture king
+peanut_bar.n.01 peanut bar bar peanuts taffy
+long_trousers.n.01 long trousers trousers reaching foot
+deerstalker.n.01 deerstalker tight-fitting hat visors front back formerly worn hunters
+figurehead.n.02 figurehead figure bow sailing vessels
+moneybag.n.01 moneybag drawstring bag holding money
+dipper.n.01 dipper ladle cup long handle
+pottle.n.01 pottle pot holds 2 quarts
+grid.n.04 grid electrode placed cathode anode vacuum tube control flow electrons tube
+low-pass_filter.n.01 low-pass filter filter passes frequencies certain value attenuates frequencies value
+escapement.n.01 escapement mechanical device regulates movement
+desk_phone.n.01 desk phone telephone set sits desk table
+chiffonier.n.01 chiffonier tall elegant chest drawers
+tiller.n.03 tiller lever used turn rudder boat
+push_broom.n.01 push broom wide broom pushed ahead sweeper
+distaff.n.02 distaff staff wool flax wound spinning
+music_school.n.02 music school school specializing music
+clip_joint.n.01 clip joint place entertainment high prices charged poor entertainment
+floating_dock.n.01 floating dock dry dock submerged vessel raised
+meadow_mushroom.n.01 meadow mushroom common edible mushroom found naturally moist open soil cultivated mushroom commerce
+pluteus_magnus.n.01 pluteus magnus edible agaric found piles hardwood sawdust caps black coarsely wrinkled
+ayapana.n.01 ayapana low spreading tropical american shrub long slender leaves used make mildly stimulating drink resembling tea sometimes placed genus eupatorium
+borage.n.01 borage hairy blue-flowered european annual herb long used herbal medicine eaten raw salad greens cooked like spinach
+feverroot.n.01 feverroot coarse weedy american perennial herb large usually perfoliate leaves purple dull red flowers
+herbage.n.01 herbage succulent herbaceous vegetation pasture land
+yellow_bells.n.01 yellow bells viscid herb arid desert habitats southwestern united states pendulous yellow flowers
+german_ivy.n.01 german ivy south african succulent evergreen twining climber yellow flowers grown primarily houseplant foliage sometimes placed genus senecio
+rydberg's_penstemon.n.01 rydberg's penstemon plant whorls small dark blue-violet flowers washington wyoming south california colorado
+j_particle.n.01 j particle neutral meson large mass
+urge_incontinence.n.01 urge incontinence urinary incontinence generally attributable involuntary contracts bladder muscle resulting urgent need urinate accompanied sudden loss urine common people 60 years age
+animal_leg.n.01 animal leg leg animal
+beak.n.04 beak informal terms nose
+pulmonary_valve.n.01 pulmonary valve semilunar valve right ventricle pulmonary artery prevents blood flowing artery back heart
+lectin.n.01 lectin several plant glycoproteins act like specific antibodies antibodies evoked antigenic stimulus
+white_water.n.01 white water frothy water rapids waterfalls
+mononeuropathy.n.01 mononeuropathy neuropathy single nerve trunk
+anapest.n.01 anapest metrical unit unstressed-unstressed-stressed syllables
+kentish.n.01 kentish one major dialects old english
+modern.n.02 modern typeface based 18th century design gianbattista bodoni distinguished regular shape hairline serifs heavy downstrokes
+eysenck_personality_inventory.n.01 eysenck personality inventory self-report personality inventory based hans eysenck 's factor analysis personality assumes three basic factors two important extraversion introversion neuroticism
+modal_auxiliary_verb.n.01 modal auxiliary verb auxiliary verb `can `will used express modality
+mutual_savings_bank.n.01 mutual savings bank state-chartered savings bank owned depositors managed board trustees
+biology_department.n.01 biology department academic department responsible teaching research biology
+trinity_sunday.n.01 trinity sunday eighth sunday easter
+plasma_physics.n.01 plasma physics branch physics concerned matter plasma phase
+purification.n.04 purification act purging sin guilt moral spiritual cleansing
+graft.n.03 graft act grafting something onto something else
+dislodgment.n.01 dislodgment forced removal position advantage
+miscue.n.01 miscue faulty shot billiards cue tip slips cue ball
+orgy.n.03 orgy wild gathering involving excessive drinking promiscuity
+medal_play.n.01 medal play golf scoring total strokes taken
+side-glance.n.01 side-glance glance sideways
+false_pretense.n.01 false pretense law offense involving intent defraud false representation obtaining property result misrepresentation
+wrath.n.02 wrath belligerence aroused real supposed wrong personified one deadly sins
+state-sponsored_terrorism.n.01 state-sponsored terrorism terrorism practiced government people support international terrorism
+bitter.n.01 bitter english term dry sharp-tasting ale strong flavor hops usually draft
+pale_ale.n.01 pale ale amber colored ale brewed pale malts similar bitter drier lighter
+staff_sergeant.n.01 staff sergeant noncommissioned officer ranking corporal sergeant first class army marines airman 1st class air force
+winter_cress.n.02 winter cress cress cultivated winter salads
+tabasco.n.03 tabasco hot red peppers usually long thin small
+castile_soap.n.01 castile soap good hard soap made olive oil sodium hydroxide
+provitamin_a.n.01 provitamin a orange isomer unsaturated hydrocarbon found many plants converted vitamin liver
+anklet.n.02 anklet sock reaches ankle
+gorget.n.01 gorget armor plate protects neck
+blanket_stitch.n.01 blanket stitch strong reinforcing stitch edges blanket thick material similar buttonhole stitch
+formulary.n.01 formulary pharmacology book containing compilation pharmaceutical products formulas methods preparation
+pillar_box.n.01 pillar box red pillar-shaped letter box
+iron_maiden.n.01 iron maiden instrument torture consisting hollow iron frame shaped like human body lined spikes impale victim
+retractor.n.01 retractor surgical instrument holds back edges surgical incision
+front_projector.n.01 front projector projector digital input
+crossbow.n.01 crossbow bow fixed transversely wooden stock grooved direct arrow quarrel
+machete.n.01 machete large heavy knife used central south america weapon cutting vegetation
+bioweapon.n.01 bioweapon weapon usable biological warfare
+automat.n.01 automat vending machine get food
+electric_guitar.n.01 electric guitar guitar whose sound amplified electrical means
+paper_clip.n.01 paper clip wire plastic clip holding sheets paper together
+drafting_table.n.01 drafting table worktable adjustable top
+drugstore.n.01 drugstore retail shop medicine articles sold
+exhaust_pipe.n.01 exhaust pipe pipe burned gases travel exhaust manifold muffler
+dickeybird.n.01 dickeybird small bird adults talking children sometimes use words refer small birds
+garden_webworm.n.01 garden webworm variety webworm
+hygrophorus_purpurascens.n.01 hygrophorus purpurascens fungus viscid purplish red cap stalk found spruce conifers
+shellflower.n.01 shellflower showy perennial marshlands eastern central north america waxy lanceolate leaves flower lower part creamy white upper parts pale pink deep purple
+european_white_lily.n.01 european white lily water lily white flowers
+water-shield.n.01 water-shield aquatic plant floating oval leaves purple flowers lakes slow-moving streams suitable aquariums
+cuckoopint.n.01 cuckoopint common european arum lanceolate spathe short purple spadix emerges early spring source starch called arum
+christella.n.01 christella several tropical ferns genus christella thin brittle fronds
+gooseberry.n.01 gooseberry spiny eurasian shrub greenish purple-tinged flowers ovoid yellow-green red-purple berries
+undershrub.n.01 undershrub low shrub
+kingwood.n.02 kingwood brazilian tree yielding handsome cabinet wood
+megaspore.n.01 megaspore larger two types spore produced heterosporous plants develops ovule female gametophyte
+musculus_adductor_longus.n.01 musculus adductor longus long adductor muscle thigh
+external_nasal_vein.n.01 external nasal vein one veins drain external nose empty angular facial vein
+trachoma.n.01 trachoma chronic contagious viral disease marked inflammation conjunctiva cornea eye formation scar tissue
+mucopolysaccharidosis.n.01 mucopolysaccharidosis group genetic disorders involving defect metabolism mucopolysaccharides resulting greater normal levels mucopolysaccharides tissues
+carcinoid.n.01 carcinoid small tumor benign malignant arising mucosa gastrointestinal tract usually associated excessive secretion serotonin
+inguinal_hernia.n.01 inguinal hernia hernia loop intestine enters inguinal canal common type hernia males
+united_states_cabinet.n.01 united states cabinet board advise president members secretaries executive departments united states constitution provide cabinet
+right_of_way.n.01 right of way privilege someone pass land belonging someone else
+paleogeography.n.01 paleogeography study geography ancient times ancient epochs
+own_goal.n.01 own goal soccer goal results player inadvertently knocks ball goal defending
+finale.n.03 finale concluding part performance
+putt.n.01 putt hitting golf ball green using putter n't sink single putt three feet
+terrain_flight.n.01 terrain flight flight low altitudes
+profligacy.n.02 profligacy dissolute indulgence sensual pleasure
+juggle.n.01 juggle act rearranging things give misleading impression
+breach_of_trust_with_fraudulent_intent.n.01 breach of trust with fraudulent intent larceny trust rather unlawful taking
+dog_breeding.n.01 dog breeding breeding dogs
+survivors_insurance.n.01 survivors insurance insurance paid surviving spouses
+khimar.n.01 khimar headscarf worn observant muslim women hangs waist
+armet.n.01 armet medieval helmet visor neck guard
+electric.n.01 electric car powered electricity
+jeep.n.01 jeep car suitable traveling rough terrain
+stealth_bomber.n.01 stealth bomber bomber difficult detect radar
+millivoltmeter.n.01 millivoltmeter sensitive voltmeter measure voltage millivolts
+transit_instrument.n.01 transit instrument telescope mounted axis running east west used time transit celestial body across meridian
+scimitar.n.01 scimitar curved oriental saber edge convex side blade
+portable_circular_saw.n.01 portable circular saw circular saw portable operated hand grip
+condensation_pump.n.01 condensation pump vacuum pump used obtain high vacuum
+spark_transmitter.n.01 spark transmitter early radio transmitter using discharge across spark gap source power
+charterhouse.n.01 charterhouse carthusian monastery
+topside.n.01 topside usually plural weather deck part ship 's hull waterline
+dudeen.n.01 dudeen clay pipe short stem
+cairn.n.02 cairn small rough-haired breed terrier scotland
+irish_terrier.n.01 irish terrier medium-sized breed wiry brown coat developed ireland
+periwinkle.n.04 periwinkle edible marine gastropod
+streptomyces_griseus.n.01 streptomyces griseus source antibiotic streptomycin
+european_parsley_fern.n.01 european parsley fern fern europe asia minor short slender rhizome densely tufted bright green fronds resembling parsley
+winter_currant.n.01 winter currant flowering shrub
+shittah.n.01 shittah source wood mentioned frequently bible probably species genus acacia
+judas_tree.n.01 judas tree small tree eastern mediterranean abundant purplish-red flowers growing old wood directly stems appearing leaves widely cultivated mild regions wood valuable veneers
+carob.n.02 carob evergreen mediterranean tree edible pods biblical carob
+witch_elm.n.01 witch elm eurasian elm often planted shade tree
+european_hornbeam.n.01 european hornbeam medium-sized old world tree smooth grey bark leaves like beech turn yellow-orange autumn
+boswellia_carteri.n.01 boswellia carteri tree yielding aromatic gum resin burned incense
+chinese_cork_oak.n.01 chinese cork oak medium large deciduous tree china japan korea thick corky bark
+rapeseed.n.01 rapeseed seed rape plants source edible oil
+descending_aorta.n.01 descending aorta descending part aorta branches thoracic abdominal aortae
+external_jugular_vein.n.01 external jugular vein formed junction posterior auricular retromandibular veins empties subclavian vein
+humerus.n.01 humerus bone extending shoulder elbow
+scarlet_fever.n.01 scarlet fever acute communicable disease usually children characterized fever red rash
+spur_blight.n.01 spur blight disease raspberries
+myxoma.n.01 myxoma benign tumor connective tissue containing jellylike material
+hot-air_balloon.n.01 hot-air balloon balloon travel air basket suspended large bag heated air
+manpad.n.01 manpad man-portable surface-to-air missile
+ultramicroscope.n.01 ultramicroscope light microscope uses scattered light show particles small see ordinary microscopes
+shasta_salamander.n.01 shasta salamander primarily cave dweller mount shasta area
+plain_wanderer.n.01 plain wanderer small australian bird related button quail classified wading bird inhabits plains
+honey_buzzard.n.01 honey buzzard old world hawk feeds bee larvae small rodents reptiles
+rock_cornish.n.01 rock cornish small plump hybrid developed crossbreeding plymouth rock cornish fowl
+labrador_retriever.n.01 labrador retriever breed originally labrador short black golden-brown coat
+american_staffordshire_terrier.n.01 american staffordshire terrier american breed muscular terriers short close-lying stiff coat
+carpenter_bee.n.01 carpenter bee large solitary bee lays eggs tunnels bored wood plant stems
+mason_bee.n.01 mason bee numerous solitary bees build nests hardened mud sand
+french_marigold.n.01 french marigold strong-scented bushy annual orange yellow flower heads marked red mexico guatemala
+spider_orchid.n.03 spider orchid south american orchid spiderlike pale-yellow pale-green flowers
+thyme-leaved_speedwell.n.01 thyme-leaved speedwell perennial decumbent herb small opposite leaves racemes blue flowers throughout eurasia new world
+california_sagebrush.n.01 california sagebrush low ashy-grey california shrub
+sapodilla.n.01 sapodilla large tropical american evergreen yielding chicle gum edible fruit sometimes placed genus achras
+interior_live_oak.n.01 interior live oak small shrubby evergreen tree western north america similar coast live oak occurring chiefly foothills mountain ranges removed coast important part chaparral
+harpulla.n.01 harpulla fast-growing tree india east indies yielding wood used especially building
+lymphogranuloma_venereum.n.01 lymphogranuloma venereum infectious disease caused species chlamydia bacterium transmitted sexual contact characterized genital lesions swelling lymph nodes groin
+aspiration_pneumonia.n.01 aspiration pneumonia inflammation lungs caused inhaling choking vomitus may occur unconsciousness anesthesia drunkenness seizure cardiac arrest
+leiomyoma.n.01 leiomyoma benign tumor smooth muscle usually uterus digestive tract
+varied_lorikeet.n.01 varied lorikeet lorikeet colorful coat
+skylark.n.01 skylark brown-speckled european lark noted singing hovering great height
+western_tanager.n.01 western tanager western north america male black yellow orange-red
+hermit_thrush.n.01 hermit thrush north american thrush noted complex appealing song
+tailless_tenrec.n.01 tailless tenrec prolific animal feeds chiefly earthworms
+slider.n.03 slider freshwater turtle united states south america frequently raised commercially young sold pets
+pterodactyl.n.01 pterodactyl extinct flying reptile
+formica_fusca.n.01 formica fusca ant frequently enslaved
+ewing's_sarcoma.n.01 ewing's sarcoma malignant tumor bone marrow usually pelvis long bones
+blackburn.n.01 blackburn black-and-white north american wood warbler orange-and-black head throat
+jackass_bat.n.01 jackass bat large bat southwestern united states spots enormous ears
+flickertail.n.01 flickertail sagebrush grassland areas western united states canada
+wild_boar.n.01 wild boar old world wild swine narrow body prominent tusks domestic swine come introduced united states
+herrerasaur.n.01 herrerasaur kind theropod dinosaur found argentina
+conchfish.n.01 conchfish found west indies lives mantle cavity living conch
+lumpsucker.n.01 lumpsucker several small lumpfishes
+welsh_pony.n.01 welsh pony breed small ponies originally wales
+white_crappie.n.01 white crappie crappie white
+coach_horse.n.01 coach horse strong draft horse drawing coaches

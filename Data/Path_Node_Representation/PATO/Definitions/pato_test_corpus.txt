@@ -1,0 +1,110 @@
+PATO:0001773	monophasic quality inhering bearer virtue bearer 's one phase stage	<SOS> PATO:0001236 PATO:0002062 PATO:0002323 PATO:0000083 <EOS>
+PATO:0001477	retracted positional quality inhering bearer virtue bearer 's drawn pulled back given point moved retruded	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 <EOS>
+PATO:0001671	increased distribution distribution relatively high high distribution	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 PATO:0001475 <EOS>
+PATO:0001675	decreased efficiency efficiency relatively low low efficiency	<SOS> PATO:0001241 PATO:0001018 PATO:0001029 PATO:0001678 <EOS>
+PATO:0002296	foveate texture quality inhering surface virtue bearer 's marked presence small shallow regular depressions called fovae foveolate pitted	<SOS> PATO:0001241 PATO:0000051 PATO:0000150 <EOS>
+PATO:0001575	decreased pressure pressure relatively low low pressure	<SOS> PATO:0001241 PATO:0001018 PATO:0001025 <EOS>
+PATO:0000644	hyperplastic increased size quality inhering organ tissue virtue bearer 's exhibiting increased number cells hyperplasia overdeveloped	<SOS> PATO:0001241 PATO:0000051 PATO:0000117 PATO:0000586 <EOS>
+PATO:0000403	cleft concave quality inhering bearer virtue bearer 's resembling groove fissure	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002005 PATO:0001857 <EOS>
+PATO:0002357	d-shaped shape quality inhering bearer virtue bearer 's strait side arched side giving bearer form letter	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002266 PATO:0002007 <EOS>
+PATO:0002400	fusiform spindle-like shape wide middle tapers ends	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002266 PATO:0002007 PATO:0001409 <EOS>
+PATO:0001403	pluripotent cellular potency capacity produce differentiated cell types three primary germ layers extraembryonic cell types	<SOS> PATO:0001241 PATO:0001396 PATO:0001397 <EOS>
+PATO:0001970	brochidodromous branched quality inhering bearer virtue bearer 's secondary branches joined together series prominent arches	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002009 PATO:0000402 <EOS>
+PATO:0001870	crescent-shaped shape quality inhering circular disk virtue bearer 's segment another circle removed edge remains shape enclosed two circular arcs different diameters intersect two points usually manner enclosed shape include center original circle bow-shaped crescentic lunate	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002006 <EOS>
+PATO:0001874	discoid shape quality inhering bearer virtue bearer 's cylindrical height less diameter disc-shaped disk-shaped	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002266 PATO:0002007 PATO:0001873 <EOS>
+PATO:0002230	subtriangular triangular shape quality inhering bearer virtue bearer 's nearly perfectly triangular	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002006 PATO:0001875 <EOS>
+PATO:0002492	anterolateral orientation orientation quality inhering bearer virtue bearer position directed anterolaterally anterolaterally directed	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 PATO:0000133 <EOS>
+PATO:0010001	disconnected structural quality inhering bearer virtue bearer consisting multiple structures lacking physical connection	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 <EOS>
+PATO:0000413	square shape quality inhering bearer virtue bearer 's equal-sided rectangular form	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002006 PATO:0001988 PATO:0002317 <EOS>
+PATO:0001432	decayed quality inhering bearer virtue bearer 's decomposition component parts	<SOS> PATO:0001241 PATO:0001995 PATO:0000169 <EOS>
+PATO:0001436	sessile sensu botany attachment quality inhering flower virtue bearer 's lacking stalk flowers leaves grow directly stem	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 PATO:0001435 <EOS>
+PATO:0001943	lilac purple color low saturation low brightness	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001300 PATO:0000014 PATO:0000951 <EOS>
+PATO:0002020	pale pink pink color high brightness low saturation	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001300 PATO:0000014 PATO:0000322 PATO:0000954 <EOS>
+PATO:0002229	subrectangular quadrangular shape quality inhering bearer virtue bearer 's approximately rectangular	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002006 PATO:0001988 <EOS>
+PATO:0000963	opaque optical quality inhering bearer virtue bearer 's clear transmitting reflecting light radiant energy clouding cloudy non-transparent	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001300 PATO:0000957 <EOS>
+PATO:0001853	hydrocephalic structural quality held bearer latter exhibits excessive accumulation cerebral spinal fluid	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 PATO:0000025 PATO:0001450 <EOS>
+PATO:0001021	energy physical quality inhering bearer virtue bearer 's capacity work	<SOS> PATO:0001241 PATO:0001018 <EOS>
+PATO:0001559	extra function functionality quality held bearer latter able perform additional different function supernumerary functions	<SOS> PATO:0001241 PATO:0001509 <EOS>
+PATO:0001327	zygomorphic symmetry quality inhering bearer virtue bearer 's capable division symmetrical halves one longitudinal plane passing axis	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 PATO:0000060 PATO:0000965 PATO:0001324 <EOS>
+PATO:0000620	wholly dorsalized dorsalized quality inhering bearer virtue bearer 's gross morphology containing normally dorsal structures dorsalized	<SOS> PATO:0001241 PATO:0000051 PATO:0001617 PATO:0000646 PATO:0030001 <EOS>
+PATO:0001554	decreased sensitivity process oxygen sensitivity process oxygen lower normal average low sensitivity occurrent oxygen	<SOS> PATO:0001236 PATO:0002062 PATO:0001457 PATO:0001458 PATO:0001459 <EOS>
+PATO:0001552	decreased sensitivity process sensitivity process lower normal average decreased sensitivity occurrent low sensitivity occurrent	<SOS> PATO:0001236 PATO:0002062 PATO:0001457 <EOS>
+PATO:0045065	normal fatigability fatigability relatively normal average	<SOS> PATO:0001241 PATO:0001018 PATO:0001230 PATO:0001815 <EOS>
+PATO:0045066	normal susceptibility toward susceptibility toward external stimulus relatively normal average	<SOS> PATO:0001241 PATO:0001995 PATO:0000085 PATO:0001043 PATO:0001152 <EOS>
+PATO:0045069	normal threshold threshold relatively normal average	<SOS> PATO:0001241 PATO:0001995 PATO:0000085 PATO:0000152 <EOS>
+PATO:0001718	luminance quality exists virtue luminous intensity per unit area projected given direction	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001300 PATO:0001296 <EOS>
+PATO:0002023	apical-basal polarity positional quality inhering bearer virtue bearer 's location features characteristics along apical-basal axis	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 PATO:0001769 <EOS>
+PATO:0002036	axial spatial quality inhering bearer virtue bearer 's located towards central axis organism extremity	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 <EOS>
+PATO:0001818	progressive quality single process inhering bearer virtue bearer 's increasing time	<SOS> PATO:0001236 PATO:0002062 PATO:0002323 PATO:0000057 <EOS>
+PATO:0002039	biconcave concave quality inhering bearer virtue bearer 's curving inward sides surfaces	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002005 PATO:0001857 <EOS>
+PATO:0000771	aversion preference quality bearer virtue bearer 's disliking perceived stimulus	<SOS> PATO:0001241 PATO:0001995 PATO:0000186 PATO:0000189 PATO:0000773 <EOS>
+PATO:0002125	nodular quality inhering bearer virtue bearer 's consisting knot-like mass	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 <EOS>
+PATO:0001522	sound speed physical quality inhering sound virtue bearer 's travelling speed given medium specified conditions	<SOS> PATO:0001241 PATO:0001018 PATO:0001906 PATO:0000008 <EOS>
+PATO:0040004	plush texture quality inhering bearer virtue bearer 's covered partially covered hair increased thickness softness	<SOS> PATO:0001241 PATO:0000051 PATO:0000150 <EOS>
+PATO:0002470	transformed morphological quality two bearers inhering one bearer subject change nature function condition become	<SOS> PATO:0001241 PATO:0000051 <EOS>
+PATO:0002475	subterminal position quality inhering bearer virtue bearer 's existing near end another entity	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 <EOS>
+PATO:0001354	translucent optical quality inhering bearer virtue bearer 's exhibiting low opacity	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001300 PATO:0000957 <EOS>
+PATO:0000941	vacuolated structural quality inhering cytoplasm contains fluid filled cavities	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 PATO:0002014 <EOS>
+PATO:0001807	decreased sensitivity irradiation sensitivity irradiation relatively low low sensitivity irradiation	<SOS> PATO:0001241 PATO:0001995 PATO:0000085 PATO:0001806 <EOS>
+PATO:0001809	tight pattern quality inhering bearer virtue bearer 's compact dense arrangement	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 PATO:0000060 PATO:0000440 <EOS>
+PATO:0001168	undamaged structural quality inhering bearer virtue harmed injured spoiled	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 PATO:0001020 <EOS>
+PATO:0001280	dark pale pink pink color medium brightness low saturation bright pink	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001300 PATO:0000014 PATO:0000322 PATO:0000954 <EOS>
+PATO:0045089	normal sensitivity process oxygen sensitivity occurrent oxygen relatively normal	<SOS> PATO:0001236 PATO:0002062 PATO:0001457 PATO:0001458 PATO:0001459 <EOS>
+PATO:0045083	normal wetness wetness relatively normal average	<SOS> PATO:0001241 PATO:0001018 PATO:0001822 PATO:0001823 <EOS>
+PATO:0002093	ballooning volume quality inhering degenerating cell virtue bearer 's exhibiting increase volume associated cytoplasmic abnormalities	<SOS> PATO:0001241 PATO:0000051 PATO:0000117 PATO:0000586 PATO:0000595 <EOS>
+PATO:0000374	increased distance distance greater relative normal average long distance	<SOS> PATO:0001241 PATO:0001018 PATO:0000040 <EOS>
+PATO:0000375	decreased distance distance lesser relative normal average short distance	<SOS> PATO:0001241 PATO:0001018 PATO:0000040 <EOS>
+PATO:0001201	y-shaped concave 3-d shape quality inhering bearer virtue bearer 's shaped form letter	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002009 PATO:0000402 PATO:0001890 <EOS>
+PATO:0001734	semi-deciduous plant quality inhering plant virtue bearer 's disposition evergeen deciduous	<SOS> PATO:0001241 PATO:0001995 PATO:0001729 <EOS>
+PATO:0001737	gaseus configuration physical quality inhering bearer virtue bearer 's parts arrangement exhibits characteristics gases gas	<SOS> PATO:0001241 PATO:0001018 PATO:0002198 PATO:0001547 <EOS>
+PATO:0001831	increased female fertility female fertility relatively high high female fertility	<SOS> PATO:0001241 PATO:0001995 PATO:0001434 PATO:0000274 PATO:0000277 PATO:0000888 <EOS>
+PATO:0002443	level positional quality inhering bearer virtue bearer 's located level another entity	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 <EOS>
+PATO:0000609	closure incomplete morphological quality inhering bearer virtue bearer 's affording completed blocked passage view	<SOS> PATO:0001241 PATO:0000051 PATO:0000136 PATO:0000610 <EOS>
+PATO:0001635	necessary continuant necessity quality continuant inhering bearer virtue bearer 's essential indispensable	<SOS> PATO:0001241 PATO:0001509 PATO:0001634 <EOS>
+PATO:0002396	mislocalized adaxially positional quality inhering bearer virtue bearer 's positioned towards axis organism	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 PATO:0002181 PATO:0000628 <EOS>
+PATO:0045004	normal affinity affinity relatively normal average	<SOS> PATO:0001241 PATO:0002182 PATO:0002070 <EOS>
+PATO:0002010	looseness texture quality inhering bearer virtue bearer 's bing full small openings gaps	<SOS> PATO:0001241 PATO:0000051 PATO:0000150 <EOS>
+PATO:0000937	disorganized structural quality inhering bearer virtue bearer 's lacking organisation	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 PATO:0002264 <EOS>
+PATO:0001937	spatulate shape quality inhering bearer virtue bearer 's oblong lower end much attenuated spathulate	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002006 PATO:0000946 <EOS>
+PATO:0001936	obovate spheroid quality inhering bearer virtue bearer 's egg-shaped flat narrow end attached base obovoid	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002266 PATO:0002007 PATO:0001865 PATO:0001891 <EOS>
+PATO:0001504	complex complexity quality inhering bearer virtue bearer 's intricate compounded	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 PATO:0001502 <EOS>
+PATO:0002148	increased virulence virulence relatively high	<SOS> PATO:0001241 PATO:0001995 PATO:0002146 <EOS>
+PATO:0045036	normal permeability permeability relatively normal average	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 PATO:0000970 PATO:0000982 <EOS>
+PATO:0045037	normal phosphorylation quality inhering bearer virtue bearer 's phosphorylated normal average extent	<SOS> PATO:0001241 PATO:0002182 PATO:0002262 PATO:0002220 <EOS>
+PATO:0002141	irregular density density quality lacks pattern	<SOS> PATO:0001241 PATO:0001018 PATO:0001019 <EOS>
+PATO:0001627	sufficient wholeness quality inhering bearer virtue bearer 's enough functionality adequate	<SOS> PATO:0001241 PATO:0001509 PATO:0001626 <EOS>
+PATO:0000690	discontinuous quality single process inhering bearer virtue bearer 's marked breaks interruptions intermittent interrupted	<SOS> PATO:0001236 PATO:0002062 PATO:0002323 PATO:0000057 <EOS>
+PATO:0001824	dry wetness quality inhering bearer virtue bearer 's covered liquid	<SOS> PATO:0001241 PATO:0001018 PATO:0001822 <EOS>
+PATO:0002260	semi erect quality inhering bearer virtue bearer 's partially upright position posture semi upright	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 PATO:0000622 <EOS>
+PATO:0002307	isosceles triangular triangular quality inhering bearer virtue bearer 's two sides length	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0002006 PATO:0001875 <EOS>
+PATO:0002060	absorption wavelength specific wavelength radiation retained bearer	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001292 PATO:0001293 <EOS>
+PATO:0001382	tetraploid polyploidy quality inhering bearer virtue bearer 's containing four homologous sets chromosomes	<SOS> PATO:0001241 PATO:0001396 PATO:0001374 PATO:0001393 PATO:0001377 <EOS>
+PATO:0001758	nerve conductivity conductivity quality inhering motor sensory nerves virtue bearer 's ability convey electricity	<SOS> PATO:0001241 PATO:0001018 PATO:0001585 PATO:0001757 <EOS>
+PATO:0002173	misaligned towards alignment quality inhering bearer virtue bearer 's improper spatial positioning towards additional entity	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 PATO:0001652 PATO:0001654 <EOS>
+PATO:0001518	blurry optical quality inhering bearer virtue bearer 's lacking focus	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001300 PATO:0001516 <EOS>
+PATO:0001756	heat conductivity conductivity quality inhering bearer virtue bearer 's disposition spontaneous transfer thermal energy region higher temperature region lower temperature thermal conduction	<SOS> PATO:0001241 PATO:0001018 PATO:0001585 <EOS>
+PATO:0001754	predisplaced growth peramorphic growth quality due earlier onset precocious growth	<SOS> PATO:0001236 PATO:0001433 PATO:0001490 PATO:0001752 <EOS>
+PATO:0001302	vermilion color consisting red orange hue slight amount gray	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001300 PATO:0000014 <EOS>
+PATO:0000396	severe intensity intensity extremely bad unpleasant type degree effect force	<SOS> PATO:0000068 PATO:0000049 <EOS>
+PATO:0002420	amphiphilic hydrophilic hydrophobic lipophilic groups	<SOS> PATO:0001241 PATO:0002182 PATO:0002070 <EOS>
+PATO:0002274	mottled multicolored quality inhering bearer virtue bearer 's dappled spots patches blotches different colors	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 PATO:0000060 PATO:0000019 PATO:0001533 <EOS>
+PATO:0001698	increased photosensitivity photosensitivity relatively high high photosensitivity	<SOS> PATO:0001241 PATO:0001995 PATO:0000085 PATO:0000927 PATO:0000547 <EOS>
+PATO:0001911	circling behavioral quality inhering bearer virtue bearer 's exhibiting movement circular course	<SOS> PATO:0001241 PATO:0001995 PATO:0000186 PATO:0002076 <EOS>
+PATO:0015013	degree illumination degree bearer exposed visible light	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 <EOS>
+PATO:0002378	acinus shape resembles many-lobed	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0001979 <EOS>
+PATO:0045026	normal life span life span relatively normal average	<SOS> PATO:0001241 PATO:0001018 PATO:0000165 PATO:0000050 <EOS>
+PATO:0001695	increased fecundity fecundity relatively high high fecundity	<SOS> PATO:0001241 PATO:0001995 PATO:0001434 PATO:0000273 <EOS>
+PATO:0000309	young age relatively low	<SOS> PATO:0001241 PATO:0001018 PATO:0000165 PATO:0000011 <EOS>
+PATO:0001391	mosaic trisomy trisomy quality inhering bearer virtue bearer 's extra chromosomal material 's cells	<SOS> PATO:0001241 PATO:0001396 PATO:0001374 PATO:0001385 PATO:0001389 <EOS>
+PATO:0002164	curved medial curvature quality inhering bearer virtue bearer 's curved towards middle	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0001591 PATO:0000406 <EOS>
+PATO:0002205	capacitance quality inhering bearer virtue bearer 's ability hold electrical charge	<SOS> PATO:0001241 PATO:0002182 <EOS>
+PATO:0001742	increased radioactivity radioactivity relatively low high radioactivity	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001740 PATO:0001741 <EOS>
+PATO:0001259	dark purple color consisting purple color low brightness	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001300 PATO:0000014 PATO:0000951 <EOS>
+PATO:0002282	increased mobility mobility relative high	<SOS> PATO:0001241 PATO:0001018 PATO:0000004 PATO:0000299 <EOS>
+PATO:0001253	light magenta color consisting magenta color high brightness	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001300 PATO:0000014 PATO:0000321 <EOS>
+PATO:0045050	normal size size quality relatively normal average	<SOS> PATO:0001241 PATO:0000051 PATO:0000117 <EOS>
+PATO:0001964	circinate curled quality inhering bearer virtue bearer 's edges surface rolled spirally downwards	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0000405 <EOS>
+PATO:0002043	increased anterior-posterior diameter anterior-posterior diameter quality relatively large high anterior-posterior diameter	<SOS> PATO:0001241 PATO:0000051 PATO:0000117 PATO:0001708 PATO:0000122 PATO:0000573 PATO:0001714 <EOS>
+PATO:0000983	impermeable permeability quality inhering bearer virtue bearer 's incapable permeated pervaded gas liquid osmosis diffusion	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 PATO:0000970 <EOS>
+PATO:0045034	normal osmolality osmolality relatively normal average odor	<SOS> PATO:0001241 PATO:0002182 PATO:0000033 PATO:0002027 <EOS>
+PATO:0001841	remittent intensity intensity characterized temporary abatement severity	<SOS> PATO:0000068 PATO:0000049 <EOS>

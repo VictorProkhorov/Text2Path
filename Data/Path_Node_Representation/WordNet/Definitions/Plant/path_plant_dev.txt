@@ -1,0 +1,35 @@
+blue_lotus.n.02 <SOS> vascular_plant.n.01 aquatic_plant.n.01 water_lily.n.01 <EOS>
+black_sage.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 subshrub.n.01 blue_curls.n.01 <EOS>
+nimblewill.n.01 <SOS> vascular_plant.n.01 herb.n.01 gramineous_plant.n.01 grass.n.01 <EOS>
+hydnocarpus_laurifolia.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 <EOS>
+umbrella_tree.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 <EOS>
+texas_snowbell.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 styrax.n.01 <EOS>
+marsh_gentian.n.01 <SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 gentian.n.01 <EOS>
+hybrid_petunia.n.01 <SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 petunia.n.01 <EOS>
+silky_dogwood.n.02 <SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 dogwood.n.01 <EOS>
+stream_orchid.n.01 <SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 orchid.n.01 helleborine.n.02 <EOS>
+dwarf_maple.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 maple.n.02 <EOS>
+gentianopsis_detonsa.n.01 <SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 gentian.n.01 fringed_gentian.n.01 <EOS>
+loquat.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 fruit_tree.n.01 <EOS>
+wild_hydrangea.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 hydrangea.n.01 <EOS>
+lady-of-the-night.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 <EOS>
+rose_chestnut.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 <EOS>
+american_beech.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 beech.n.01 <EOS>
+bearded_wheatgrass.n.01 <SOS> vascular_plant.n.01 herb.n.01 gramineous_plant.n.01 grass.n.01 wheatgrass.n.01 <EOS>
+ragged_robin.n.01 <SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 lychnis.n.01 <EOS>
+puttyroot.n.01 <SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 orchid.n.01 <EOS>
+felwort.n.01 <SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 gentian.n.01 <EOS>
+marang.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 fruit_tree.n.01 <EOS>
+cape_marigold.n.01 <SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 <EOS>
+tangle_orchid.n.01 <SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 orchid.n.01 <EOS>
+marsh_pink.n.01 <SOS> vascular_plant.n.01 aquatic_plant.n.01 marsh_plant.n.01 sabbatia.n.01 <EOS>
+cattley_guava.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 fruit_tree.n.01 <EOS>
+chaparral_mallow.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 mallow.n.01 <EOS>
+broom_sedge.n.01 <SOS> vascular_plant.n.01 herb.n.01 gramineous_plant.n.01 grass.n.01 broom_grass.n.01 <EOS>
+cushaw.n.01 <SOS> vascular_plant.n.01 vine.n.01 squash.n.01 winter_squash.n.01 <EOS>
+marmalade_bush.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 <EOS>
+smooth-leaved_elm.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 elm.n.01 <EOS>
+dendrobium.n.01 <SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 orchid.n.01 <EOS>
+snag.n.02 <SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 <EOS>
+pink_fivecorner.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 <EOS>
+chinese_privet.n.01 <SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 privet.n.01 <EOS>

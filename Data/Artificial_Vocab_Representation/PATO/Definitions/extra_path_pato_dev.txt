@@ -1,0 +1,13 @@
+<SOS> v2 v1 v32 v58 v8 <EOS>
+<SOS> v2 v6 v2 v20 v1 <EOS>
+<SOS> v2 v9 v4 v1 v1 <EOS>
+<SOS> v2 v1 v9 v3 v1 v4 v11 v2 v1 <EOS>
+<SOS> v2 v6 v2 v59 v5 <EOS>
+<SOS> v2 v6 v8 v76 v1 v6 <EOS>
+<SOS> v2 v6 v8 v12 v2 <EOS>
+<SOS> v2 v1 v39 v2 <EOS>
+<SOS> v2 v8 v4 <EOS>
+<SOS> v2 v6 v8 v29 v1 v1 <EOS>
+<SOS> v2 v12 v12 v6 v4 <EOS>
+<SOS> v2 v1 v32 v36 <EOS>
+<SOS> v2 v6 v8 v40 v10 v2 <EOS>

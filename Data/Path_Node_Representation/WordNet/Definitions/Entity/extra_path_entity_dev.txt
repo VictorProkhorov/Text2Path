@@ -1,0 +1,577 @@
+<SOS> abstraction.n.06 group.n.01 collection.n.01 data.n.01 accounting_data.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 chemical_element.n.01 carbon.n.01 activated_carbon.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 rib.n.05 vein.n.05 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 body.n.04 mass.n.05 mat.n.04 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 protective_covering.n.01 blind.n.03 winker.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 religious_person.n.01 muslim.n.01 hakim.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 adult.n.01 professional.n.01 educator.n.01 principal.n.02 headmistress.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 vermifuge.n.01 mebendazole.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 marigold.n.01 french_marigold.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 projection.n.04 cornice.n.03 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 arum.n.02 cuckoopint.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 invertebrate.n.01 arthropod.n.01 insect.n.01 hymenopterous_insect.n.01 bee.n.01 carpenter_bee.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 fungus.n.01 rust.n.04 flax_rust.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 isoproterenol.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fish_genus.n.01 trachinotus.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 fungus.n.01 basidiomycete.n.01 agaric.n.02 pluteus_magnus.n.01 <EOS>
+<SOS> abstraction.n.06 relation.n.01 part.n.01 language_unit.n.01 name.n.01 pseudonym.n.01 stage_name.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 property.n.02 magnitude.n.01 dimension.n.01 height.n.01 highness.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 weapon.n.01 bow.n.04 crossbow.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 body.n.04 particle.n.02 boson.n.01 meson.n.01 j_particle.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 half-century.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 communicator.n.01 broadcaster.n.01 telecaster.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 search.n.01 exploration.n.02 probe.n.03 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 valve.n.01 heart_valve.n.01 semilunar_valve.n.01 pulmonary_valve.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 nonattendance.n.01 absence.n.02 absenteeism.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 gymnogyps.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 political_system.n.01 plutocracy.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 establishment.n.04 place_of_business.n.01 mercantile_establishment.n.01 shop.n.01 drugstore.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 illness.n.01 disease.n.01 plant_disease.n.01 blight.n.02 spur_blight.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 diversion.n.01 celebration.n.02 merrymaking.n.01 revel.n.01 orgy.n.03 <EOS>
+<SOS> abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 legal_document.n.01 license.n.01 hunting_license.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 heater.n.01 stove.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 parrot.n.01 lory.n.01 lorikeet.n.01 varied_lorikeet.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 building.n.01 school.n.02 conservatory.n.02 music_school.n.02 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 plexus.n.01 nerve_plexus.n.01 cardiac_plexus.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 aid.n.02 hand.n.14 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 domestic_animal.n.01 dog.n.01 hunting_dog.n.01 terrier.n.01 irish_terrier.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 accomplishment.n.01 attainment.n.01 success.n.02 score.n.10 goal.n.04 own_goal.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 message.n.02 approval.n.04 applause.n.01 hand.n.12 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 establishment.n.04 place_of_business.n.01 spot.n.07 clip_joint.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 tellima.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 bean_tree.n.01 carob.n.02 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 illness.n.01 disease.n.01 eye_disease.n.01 trachoma.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 location.n.01 space.n.02 angle.n.01 view_angle.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 expressive_style.n.01 manner_of_speaking.n.01 address.n.04 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 feeling.n.01 temper.n.02 ill_humor.n.01 moodiness.n.01 moroseness.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 phenomenon.n.01 natural_phenomenon.n.01 physical_phenomenon.n.01 propagation.n.03 wave_front.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 leader.n.01 superior.n.01 better.n.03 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 invertebrate.n.01 mollusk.n.01 gastropod.n.01 seasnail.n.02 periwinkle.n.04 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 body_of_water.n.01 lake.n.01 pond.n.01 water_hole.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 clothing.n.01 footwear.n.01 hosiery.n.01 sock.n.01 anklet.n.02 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 creation.n.01 art.n.02 gastronomy.n.02 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 kin.n.02 genealogy.n.01 lineage.n.01 family.n.04 dynasty.n.01 qin.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 container.n.01 wheeled_vehicle.n.01 self-propelled_vehicle.n.01 motor_vehicle.n.01 car.n.01 jeep.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 land.n.02 bottomland.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 fungus_family.n.01 helotiaceae.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 yellow_bells.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 chemical.n.01 pesticide.n.01 spray.n.01 <EOS>
+<SOS> abstraction.n.06 relation.n.01 part.n.01 language_unit.n.01 word.n.01 headword.n.02 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 ability.n.02 intelligence.n.01 shrewdness.n.01 street_smarts.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 idea.n.01 concept.n.01 abstraction.n.01 right.n.01 prerogative.n.01 easement.n.01 right_of_way.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 shape.n.02 solid.n.03 convex_shape.n.01 point.n.08 head.n.10 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 averrhoa.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 collection.n.01 agglomeration.n.01 ball.n.08 clot.n.01 thrombus.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 hornbeam.n.01 european_hornbeam.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 reptile_genus.n.01 calliophis.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 citizenry.n.01 ionian.n.02 <EOS>
+<SOS> abstraction.n.06 measure.n.02 definite_quantity.n.01 number.n.02 count.n.01 pollen_count.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 message.n.02 wit.n.01 pungency.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 wrongdoing.n.02 tort.n.01 alienation_of_affection.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 oak.n.02 live_oak.n.01 interior_live_oak.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 conveyance.n.03 vehicle.n.01 rocket.n.01 missile.n.01 guided_missile.n.01 surface-to-air_missile.n.01 manpad.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 social_event.n.01 contest.n.01 athletic_contest.n.01 meet.n.01 track_meet.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 microorganism.n.01 monad.n.03 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 dicot_family.n.01 menyanthaceae.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 decoration.n.01 rosemaling.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 indefinite_quantity.n.01 containerful.n.01 cartload.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 machine.n.01 calender.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 electrical_device.n.01 filter.n.02 low-pass_filter.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.07 fuel.n.01 nuclear_fuel.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 drug_of_abuse.n.01 alcohol.n.01 liquor.n.01 brandy.n.01 applejack.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 weapon.n.01 weapon_of_mass_destruction.n.01 bioweapon.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 argusianus.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 creation.n.02 representation.n.02 model.n.04 figure.n.04 figurehead.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 conductor.n.04 electrode.n.01 grid.n.04 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 fungus.n.01 monilia.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 quality.n.01 destructiveness.n.01 poison.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 container.n.01 vessel.n.03 ladle.n.01 dipper.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 organic_process.n.01 bodily_process.n.01 discharge.n.04 elimination.n.02 incontinence.n.01 enuresis.n.01 urge_incontinence.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 surface.n.01 horizontal_surface.n.01 platform.n.01 deck.n.01 upper_deck.n.01 weather_deck.n.01 topside.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 creation.n.02 needlework.n.01 knit.n.03 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 disputant.n.01 reformer.n.01 non-resistant.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 illness.n.01 disease.n.01 respiratory_disease.n.01 pneumonia.n.01 bronchopneumonia.n.01 aspiration_pneumonia.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 transaction.n.01 commerce.n.01 commercial_enterprise.n.02 industry.n.02 production.n.07 breeding.n.04 dog_breeding.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 celtis.n.01 <EOS>
+<SOS> abstraction.n.06 relation.n.01 possession.n.02 transferred_property.n.01 acquisition.n.02 gift.n.01 aid.n.03 social_welfare.n.01 social_insurance.n.01 social_security.n.01 survivors_insurance.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 tube.n.04 vessel.n.01 blood_vessel.n.01 artery.n.01 aorta.n.01 descending_aorta.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 drug_of_abuse.n.01 alcohol.n.01 mixed_drink.n.01 spritzer.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 amphipoda.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_integrity.n.01 separation.n.09 removal.n.01 dislodgment.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 acacia.n.01 shittah.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 advocate.n.01 partisan.n.01 bigot.n.01 antifeminist.n.01 male_chauvinist.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 dish.n.02 kishke.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 unit.n.03 administrative_unit.n.01 committee.n.01 board.n.01 advisory_board.n.01 cabinet.n.02 united_states_cabinet.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 message.n.02 disrespect.n.01 derision.n.01 stultification.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 weight_unit.n.02 apothecaries'_unit.n.01 dram.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 mechanism.n.05 mechanical_device.n.01 escapement.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 quality.n.01 appearance.n.01 blemish.n.01 burn.n.04 cigarette_burn.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 stereospondyli.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 institution.n.01 financial_institution.n.01 depository_financial_institution.n.01 thrift_institution.n.01 savings_bank.n.01 mutual_savings_bank.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fern_genus.n.01 lycopodium.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 sweatbox.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 bat.n.01 carnivorous_bat.n.01 vespertilian_bat.n.01 jackass_bat.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 vegetable.n.01 solanaceous_vegetable.n.01 pepper.n.04 hot_pepper.n.02 tabasco.n.03 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 support.n.10 bookend.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 information.n.02 evidence.n.01 symptom.n.01 effect.n.06 bummer.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 geological_formation.n.01 natural_depression.n.01 valley.n.01 hollow.n.02 dell.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 analgesic.n.01 colchicine.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 quality.n.01 power.n.01 sway.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 pathology.n.02 neuropathy.n.01 mononeuropathy.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 vegetable.n.01 greens.n.01 salad_green.n.01 cress.n.02 winter_cress.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 inhabitant.n.01 european.n.01 britisher.n.01 english_person.n.01 anglo-saxon.n.02 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 icteria.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 microorganism.n.01 bacteria.n.01 eubacteria.n.01 actinomycete.n.01 streptomyces.n.01 streptomyces_griseus.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 asterid_dicot_genus.n.01 elephantopus.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_state.n.01 termination.n.05 completion.n.02 finish.n.09 finale.n.03 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 association.n.01 secret_society.n.01 freemasonry.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 communicator.n.01 negotiator.n.01 representative.n.01 agent.n.02 talent_agent.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 rock.n.02 igneous_rock.n.01 volcanic_rock.n.01 dacite.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 phenomenon.n.01 natural_phenomenon.n.01 physical_phenomenon.n.01 force.n.02 magnetomotive_force.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 juvenile.n.01 young_person.n.01 blade.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 antibacterial.n.01 antibiotic.n.01 cephalosporin.n.01 ceftazidime.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 scorpaenoid.n.01 lumpfish.n.01 lumpsucker.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 fungus.n.01 basidiomycete.n.01 agaric.n.02 waxycap.n.01 hygrophorus_purpurascens.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 building.n.01 house.n.01 residence.n.02 religious_residence.n.01 monastery.n.01 charterhouse.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 location.n.01 point.n.02 geographic_point.n.01 workplace.n.01 fishery.n.01 pearl_fishery.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 excavation.n.03 ditch.n.01 drainage_ditch.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 state.n.01 italian_region.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 aggression.n.03 plundering.n.01 depredation.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 leader.n.01 head.n.04 secretary.n.01 secretary_of_state.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 protective_covering.n.01 facing.n.03 revetment.n.02 <EOS>
+<SOS> abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 legal_document.n.01 negotiable_instrument.n.01 draft.n.01 overdraft.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 gooseberry.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 kingwood.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 cardinalfish.n.01 conchfish.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 housing.n.01 apartment.n.01 duplex_apartment.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 baked_goods.n.01 cake.n.03 cookie.n.01 raisin_cookie.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 relationship.n.03 subjugation.n.01 bondage.n.02 serfdom.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 inhabitant.n.01 asian.n.01 hindu.n.01 brahman.n.02 smarta.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 pteridophyte.n.01 fern.n.01 rock_brake.n.02 european_parsley_fern.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 collection.n.01 class.n.01 grammatical_category.n.01 part_of_speech.n.01 major_form_class.n.01 verb.n.01 auxiliary_verb.n.01 modal_auxiliary_verb.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 decoration.n.01 molding.n.02 ovolo.n.01 echinus.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 disorder.n.01 mental_disorder.n.01 personality_disorder.n.01 schizotypal_personality.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 domestic_animal.n.01 dog.n.01 hunting_dog.n.01 terrier.n.01 bullterrier.n.01 american_staffordshire_terrier.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 mass_unit.n.01 metric_weight_unit.n.01 carat.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 perceiver.n.01 finder.n.02 co-discoverer.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 supporting_structure.n.01 support.n.07 abutment.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 amphibian.n.03 salamander.n.01 web-toed_salamander.n.01 shasta_salamander.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 institution.n.01 educational_institution.n.01 university.n.03 open_university.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 communicator.n.01 articulator.n.01 speaker.n.01 venter.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 amphibian_genus.n.01 salamandra.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 disorder.n.01 mental_disorder.n.01 conversion_disorder.n.01 glove_anesthesia.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 organ.n.01 speech_organ.n.01 glottis.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 good_person.n.01 square_shooter.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 external_body_part.n.01 extremity.n.01 limb.n.01 leg.n.02 animal_leg.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 instrument_of_punishment.n.01 instrument_of_torture.n.01 iron_maiden.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 attitude.n.01 intolerance.n.02 narrow-mindedness.n.01 pettiness.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 wrongdoing.n.02 transgression.n.01 crime.n.01 felony.n.01 larceny.n.01 breach_of_trust_with_fraudulent_intent.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 quality.n.01 accuracy.n.01 exactness.n.01 minuteness.n.02 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 propulsion.n.02 throw.n.01 pitch.n.02 ball.n.12 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 dicot_family.n.01 buxaceae.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 organ.n.01 contractile_organ.n.01 muscle.n.01 skeletal_muscle.n.01 adductor.n.01 musculus_adductor_longus.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 fungus.n.01 bolete.n.01 old-man-of-the-woods.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 property.n.02 physical_property.n.01 inaudibility.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 cell.n.02 fiber.n.03 muscle_cell.n.01 striated_muscle_cell.n.01 <EOS>
+<SOS> abstraction.n.06 relation.n.01 position.n.07 coincidence.n.02 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_state.n.01 decoration.n.03 trimming.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 dish.n.02 gefilte_fish.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 shape.n.02 solid.n.03 convex_shape.n.01 projection.n.05 tail.n.03 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 equipment.n.01 electronic_equipment.n.01 set.n.13 transmitter.n.03 radio_transmitter.n.01 spark_transmitter.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 mechanism.n.05 mechanical_device.n.01 pump.n.01 air_pump.n.01 condensation_pump.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 dose.n.01 booster.n.06 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 craftsman.n.03 paperhanger.n.02 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 political_system.n.01 democracy.n.02 weimar_republic.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 warbler.n.02 new_world_warbler.n.01 blackburn.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 plant_material.n.01 wood.n.01 logwood.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 defensive_structure.n.01 fortification.n.01 lunette.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 fish_family.n.01 ostraciidae.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 diversion.n.01 play.n.14 horseplay.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 situation.n.01 equilibrium.n.01 isostasy.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 practice.n.01 systematism.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 psychological_state.n.01 mental_illness.n.01 psychosis.n.01 delirium_tremens.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 vine.n.01 german_ivy.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 opening.n.10 hole.n.02 buttonhole.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 social_control.n.01 government.n.02 legislation.n.02 criminalization.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 beginning.n.01 origin.n.03 cause.n.01 producer.n.03 <EOS>
+<SOS> abstraction.n.06 communication.n.02 message.n.02 meaning.n.01 lexical_meaning.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 fungus_order.n.01 sclerodermatales.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 implement.n.01 stick.n.01 staff.n.02 distaff.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 geological_formation.n.01 cave.n.01 cavern.n.02 <EOS>
+<SOS> abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 phase.n.01 leptotene.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 activator.n.01 catalyst.n.01 enzyme.n.01 streptodornase.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 monetary_unit.n.01 libyan_monetary_unit.n.01 libyan_dinar.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 fruit_tree.n.01 sapodilla.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 communicator.n.01 broadcaster.n.01 announcer.n.02 radio_announcer.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 liliid_monocot_genus.n.01 genus_iris.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 chemical.n.01 compound.n.02 enantiomorph.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 dish.n.02 schnitzel.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 legal_document.n.01 writ.n.01 court_order.n.01 interdict.n.02 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 action.n.02 overdrive.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 attitude.n.01 reverence.n.02 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 tube.n.04 vessel.n.01 blood_vessel.n.01 vein.n.01 external_nasal_vein.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 ephippiorhynchus.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 container.n.01 bag.n.01 body_bag.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 knowledge_domain.n.01 discipline.n.01 science.n.01 natural_science.n.01 physics.n.01 plasma_physics.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 motion.n.06 maneuver.n.03 stroke.n.01 golf_stroke.n.01 putt.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 location.n.01 region.n.01 mare.n.02 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 caryophylloid_dicot_genus.n.01 nyctaginia.n.01 <EOS>
+<SOS> abstraction.n.06 relation.n.01 mathematical_relation.n.01 function.n.01 kronecker_delta.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 domestic_animal.n.01 dog.n.01 hunting_dog.n.01 sporting_dog.n.01 retriever.n.01 labrador_retriever.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 bird_family.n.01 pipridae.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 unfortunate.n.01 desperate.n.01 goner.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 optical_instrument.n.01 projector.n.02 front_projector.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 literary_composition.n.01 poem.n.01 verse.n.02 doggerel.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 quality.n.01 worth.n.02 value.n.02 unimportance.n.02 insignificance.n.01 meaninglessness.n.02 inanity.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 body_of_water.n.01 stream.n.01 rivulet.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 communicator.n.01 negotiator.n.01 representative.n.01 agent.n.02 government_agent.n.01 revenuer.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 vegetable.n.01 greens.n.01 french_sorrel.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 insectivore.n.01 tenrec.n.01 tailless_tenrec.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 facility.n.01 depository.n.01 drop.n.08 maildrop.n.01 postbox.n.01 pillar_box.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 clothing.n.01 headdress.n.01 hat.n.01 deerstalker.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 acquiring.n.01 appropriation.n.03 seizure.n.04 distress.n.04 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 block.n.01 crosshead.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 invertebrate.n.01 arthropod.n.01 insect.n.01 hymenopterous_insect.n.01 ant.n.01 slave_ant.n.01 formica_fusca.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 indefinite_quantity.n.01 containerful.n.01 scoop.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 clothing.n.01 protective_garment.n.01 arm_guard.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 message.n.02 statement.n.01 agreement.n.01 written_agreement.n.01 treaty.n.01 convention.n.03 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 botanical.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 argyreia.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 funiculus.n.02 spinal_cord.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 message.n.02 guidance.n.01 tip.n.03 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 nux_vomica.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 belief.n.01 doctrine.n.01 philosophical_doctrine.n.01 realism.n.03 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 principal.n.05 criminal.n.01 fugitive.n.02 escapee.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 undershrub.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 nonreligious_person.n.01 disbeliever.n.01 materialist.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 inhabitant.n.01 trinidadian.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 photography.n.02 autotype.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 quality.n.01 asset.n.01 resource.n.02 aid.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 part.n.02 piece.n.01 piece_of_cloth.n.01 sail.n.01 fore-and-aft_sail.n.01 lugsail.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 fabric.n.01 linsey-woolsey.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 propulsion.n.02 throw.n.01 bowling.n.02 googly.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_state.n.01 decoration.n.03 tattoo.n.03 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 surface.n.01 side.n.05 starboard.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 shape.n.02 round_shape.n.01 whirl.n.02 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 illness.n.01 growth.n.06 tumor.n.01 benign_tumor.n.01 myoma.n.01 leiomyoma.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 tanager.n.01 western_tanager.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 information.n.02 evidence.n.01 symptom.n.01 indigestion.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 oak.n.02 chinese_cork_oak.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 object.n.04 center.n.06 conversation_piece.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 blighia.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 quality.n.01 generality.n.02 commonality.n.02 solidarity.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 invertebrate.n.01 arthropod.n.01 insect.n.01 hymenopterous_insect.n.01 bee.n.01 mason_bee.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 difficulty.n.03 problem.n.01 race_problem.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 illness.n.01 growth.n.06 tumor.n.01 benign_tumor.n.01 myxoma.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 point.n.06 phase.n.03 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 satisfaction.n.05 gratification.n.02 indulgence.n.03 intemperance.n.03 profligacy.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 weapon.n.01 knife.n.02 machete.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 relative.n.01 next_of_kin.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 feeling.n.01 emotion.n.01 emotional_state.n.01 unhappiness.n.02 sadness.n.02 mourning.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 domestic_animal.n.01 dog.n.01 hunting_dog.n.01 terrier.n.01 cairn.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 machine.n.01 power_tool.n.01 power_saw.n.01 circular_saw.n.01 portable_circular_saw.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fish_genus.n.01 clupea.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 ayapana.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 elm.n.01 witch_elm.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 dainty.n.01 sweet.n.03 candy.n.01 peanut_bar.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 subshrub.n.01 sagebrush.n.01 california_sagebrush.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 incense_tree.n.01 boswellia_carteri.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 communication.n.01 transmission.n.02 channels.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 serviceman.n.01 military_officer.n.01 noncommissioned_officer.n.01 sergeant.n.01 staff_sergeant.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 implement.n.01 cleaning_implement.n.01 broom.n.01 push_broom.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 conveyance.n.03 vehicle.n.01 craft.n.02 aircraft.n.01 lighter-than-air_craft.n.01 balloon.n.01 hot-air_balloon.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 dish.n.02 galantine.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.04 notation.n.01 musical_notation.n.01 rest.n.07 half_rest.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 preserver.n.03 defender.n.01 guard.n.01 watchman.n.01 night_watchman.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 creation.n.02 product.n.02 work.n.02 publication.n.01 book.n.01 formulary.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 transaction.n.01 commerce.n.01 commercial_enterprise.n.02 storage.n.03 stowage.n.03 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 ceremony.n.03 religious_ceremony.n.01 confirmation.n.04 <EOS>
+<SOS> abstraction.n.06 relation.n.01 possession.n.02 liabilities.n.01 debt.n.02 debt_limit.n.01 national_debt_ceiling.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 transgressor.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 gymnosperm_genus.n.01 dacrycarpus.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 protoplasm.n.01 cytoplasm.n.01 cytoplast.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 indication.n.01 evidence.n.02 identification.n.02 positive_identification.n.01 credit_card.n.01 bank_card.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 building_material.n.01 lumber.n.01 stock.n.14 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 quality.n.01 changeableness.n.01 exchangeability.n.01 permutability.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 genus_nephthytis.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 phenomenon.n.01 natural_phenomenon.n.01 organic_phenomenon.n.01 recognition.n.05 <EOS>
+<SOS> physical_entity.n.01 process.n.06 natural_process.n.01 chemical_process.n.01 corrosion.n.02 pitting.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 tissue.n.01 animal_tissue.n.01 connective_tissue.n.01 bone.n.01 long_bone.n.01 arm_bone.n.01 humerus.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 intellectual.n.01 bel_esprit.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 processing.n.01 data_processing.n.01 operation.n.04 auxiliary_operation.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 amerindian.n.01 indian.n.01 plains_indian.n.01 sioux.n.01 teton.n.01 sihasapa.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 unit.n.03 military_unit.n.01 militia.n.01 trainband.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 foodstuff.n.02 ingredient.n.03 flavorer.n.01 turmeric.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 aquatic_plant.n.01 water_lily.n.01 european_white_lily.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 supporting_structure.n.01 framework.n.03 stretcher.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 measuring_instrument.n.01 meter.n.02 voltmeter.n.01 millivoltmeter.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 indication.n.01 evidence.n.02 argument.n.01 case.n.09 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 illness.n.01 disease.n.01 genetic_disease.n.01 mucopolysaccharidosis.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.01 infectious_agent.n.01 virus.n.01 animal_virus.n.01 alphavirus.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 day.n.07 lunar_day.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 game.n.01 athletic_game.n.01 outdoor_game.n.01 shuffleboard.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 military_action.n.01 electronic_warfare.n.01 electronic_countermeasures.n.01 electronic_deception.n.01 simulative_electronic_deception.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 body_of_water.n.01 drink.n.04 <EOS>
+<SOS> physical_entity.n.01 process.n.06 natural_process.n.01 geological_process.n.01 erosion.n.01 beach_erosion.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 chemical.n.01 compound.n.02 salt.n.01 isocyanate.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 foodstuff.n.02 meal.n.03 oatmeal.n.02 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 game.n.01 athletic_game.n.01 outdoor_game.n.01 golf.n.01 medal_play.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 trait.n.01 nature.n.04 sociality.n.01 sociability.n.01 conviviality.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 chemical.n.01 compound.n.02 formulation.n.01 cleansing_agent.n.01 soap.n.01 castile_soap.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 mammal_genus.n.01 tolypeutes.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 addiction.n.01 drug_addiction.n.01 caffein_addiction.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 reptile.n.01 anapsid.n.01 chelonian.n.01 turtle.n.02 slider.n.03 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 creation.n.01 creating_by_mental_acts.n.01 composing.n.02 arrangement.n.06 rearrangement.n.01 juggle.n.01 <EOS>
+<SOS> thing.n.08 security_blanket.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 leader.n.01 aristocrat.n.01 male_aristocrat.n.01 knight.n.01 knight-errant.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 edible_fruit.n.01 apple.n.01 eating_apple.n.01 winesap.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 organ.n.01 sense_organ.n.01 chemoreceptor.n.01 nose.n.01 beak.n.04 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 furnishing.n.02 furniture.n.01 table.n.02 worktable.n.01 drafting_table.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 dilleniid_dicot_genus.n.01 genus_schizopetalon.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 expert.n.01 cabalist.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 slav.n.01 sorbian.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 reptile_genus.n.01 elaphe.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 follow-up.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 religious_person.n.01 religious.n.01 cenobite.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 vegetable.n.01 solanaceous_vegetable.n.01 eggplant.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 lark.n.03 skylark.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 mass_unit.n.01 avoirdupois_unit.n.01 quarter_pound.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 wrongdoing.n.02 brutalization.n.02 <EOS>
+<SOS> abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 time_of_life.n.01 deathbed.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 scientific_instrument.n.01 magnifier.n.01 telescope.n.01 transit_instrument.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 wrongdoing.n.02 transgression.n.01 crime.n.01 misdemeanor.n.01 false_pretense.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 speech_act.n.01 address.n.03 sermon.n.01 homily.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 archosaur.n.01 pterosaur.n.01 pterodactyl.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 rock.n.02 magma.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 drug_of_abuse.n.01 alcohol.n.01 wine.n.01 fortified_wine.n.01 marsala.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 chemical.n.01 compound.n.02 oxide.n.01 pentoxide.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 dicot_family.n.01 caryophylloid_dicot_family.n.01 portulacaceae.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 linear_unit.n.01 nautical_linear_unit.n.01 sea_mile.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 swine.n.01 wild_boar.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 class.n.07 ophiuroidea.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 property.n.02 age.n.01 oldness.n.02 obsoleteness.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 equine.n.01 horse.n.01 pony.n.05 welsh_pony.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 block.n.01 domino.n.04 six-spot.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 reptile_genus.n.01 genus_allosaurus.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 supporting_structure.n.01 framework.n.03 honeycomb.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 drug_of_abuse.n.01 alcohol.n.01 brew.n.01 beer.n.01 ale.n.01 pale_ale.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 location.n.01 point.n.02 geographic_point.n.01 workplace.n.01 forge.n.02 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 motion.n.06 maneuver.n.03 stroke.n.01 miscue.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 archosaur.n.01 dinosaur.n.01 saurischian.n.01 theropod.n.01 herrerasaur.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 wrongdoing.n.02 dishonesty.n.02 treachery.n.02 double_cross.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 haemodorum.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 fabric.n.01 marseille.n.02 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 gymnosperm_genus.n.01 chamaecyparis.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 message.n.02 disrespect.n.01 derision.n.01 jeer.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 message.n.02 statement.n.01 explanation.n.01 definition.n.01 ostensive_definition.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 mixture.n.01 alloy.n.01 sterling_silver.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 expressive_style.n.01 writing_style.n.01 form.n.10 versification.n.02 poetic_rhythm.n.01 meter.n.03 metrical_foot.n.01 anapest.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 adult.n.01 man.n.01 widower.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 dilleniid_dicot_genus.n.01 camelina.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_integrity.n.01 combination.n.07 attachment.n.06 graft.n.03 <EOS>
+<SOS> abstraction.n.06 group.n.01 world.n.08 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 knowledge_domain.n.01 discipline.n.01 science.n.01 social_science.n.01 anthropology.n.01 archeology.n.01 paleogeography.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 restraint.n.06 fastener.n.02 clip.n.03 paper_clip.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 anesthetic.n.01 local_anesthetic.n.01 antipruritic.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 injury.n.01 blast_trauma.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 auditory_communication.n.01 music.n.01 musical_composition.n.01 passage.n.06 cadence.n.02 plagal_cadence.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 judas_tree.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 furnishing.n.02 furniture.n.01 chest_of_drawers.n.01 chiffonier.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 monetary_unit.n.01 fractional_monetary_unit.n.01 cent.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 process.n.02 higher_cognitive_process.n.01 thinking.n.01 explanation.n.02 theory.n.01 blastogenesis.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 relative.n.01 sibling.n.01 quintuplet.n.02 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 belief.n.01 spiritual_being.n.01 deity.n.01 norse_deity.n.01 vali.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 chemical.n.01 compound.n.02 polymer.n.01 deoxyribonucleic_acid.n.01 exon.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 property.n.02 bodily_property.n.01 leanness.n.02 bonyness.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 creation.n.02 art.n.01 kitsch.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 speech_act.n.01 agreement.n.06 subscription.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 implement.n.01 bar.n.03 lever.n.01 tiller.n.03 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 conveyance.n.03 vehicle.n.01 craft.n.02 aircraft.n.01 stealth_aircraft.n.01 stealth_bomber.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fungus_genus.n.01 septobasidium.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 illness.n.01 disease.n.01 communicable_disease.n.01 contagious_disease.n.01 scarlet_fever.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 susceptibility.n.01 capability.n.02 activity.n.04 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 scientific_instrument.n.01 magnifier.n.01 microscope.n.01 light_microscope.n.01 ultramicroscope.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 protective_covering.n.01 shield.n.01 plate.n.14 armor_plate.n.01 helmet.n.01 armet.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 feverroot.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 geological_formation.n.01 natural_depression.n.01 bed.n.03 ocean_floor.n.01 abyssal_zone.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 procedure.n.01 calculation.n.01 mathematical_process.n.01 exponentiation.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 time_interval.n.01 absence.n.03 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 unwelcome_person.n.01 unpleasant_person.n.01 vulgarian.n.01 slob.n.01 slattern.n.02 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 wrongdoing.n.02 transgression.n.01 sin.n.02 mortal_sin.n.01 wrath.n.02 <EOS>
+<SOS> abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 legal_document.n.01 writ.n.01 subpoena.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 mammal_genus.n.01 bettongia.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 control.n.05 self-denial.n.02 mortification.n.04 <EOS>
+<SOS> abstraction.n.06 communication.n.02 signal.n.01 symbol.n.01 award.n.02 academic_degree.n.01 honorary_degree.n.01 doctor_of_arts.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 dish.n.02 applesauce.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 mixture.n.01 alloy.n.01 copper-base_alloy.n.01 brass.n.01 alpha_brass.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 belief.n.01 doctrine.n.01 reformism.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 joint.n.01 suture.n.01 intermaxillary_suture.n.01 <EOS>
+<SOS> abstraction.n.06 relation.n.01 magnitude_relation.n.01 rate.n.01 kilometers_per_hour.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 container.n.01 bag.n.01 drawstring_bag.n.01 moneybag.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 container.n.01 wheeled_vehicle.n.01 self-propelled_vehicle.n.01 motor_vehicle.n.01 car.n.01 electric.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 gallinaceous_bird.n.01 domestic_fowl.n.01 rock_cornish.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 cladorhyncus.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 chemical.n.01 compound.n.02 organic_compound.n.01 petrochemical.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 organic_process.n.01 reproduction.n.01 sexual_reproduction.n.01 isogamy.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 disorderliness.n.01 shambles.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 system_of_measurement.n.01 standard.n.01 medium_of_exchange.n.01 currency.n.01 cash.n.01 ready_cash.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 papyrus.n.03 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 work.n.01 investigation.n.02 analysis.n.01 case_study.n.02 <EOS>
+<SOS> abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 time_of_life.n.01 bachelorhood.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 resistance.n.11 insubordination.n.02 disobedience.n.01 contempt.n.04 contempt_of_congress.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 veronica.n.01 thyme-leaved_speedwell.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 social_control.n.01 enforcement.n.01 coercion.n.01 terror.n.04 terrorism.n.01 state-sponsored_terrorism.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 reptile_genus.n.01 pseudechis.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 message.n.02 statement.n.01 proposition.n.01 conclusion.n.05 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 line.n.18 cord.n.01 thread.n.01 lastex.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 language.n.01 natural_language.n.01 sino-tibetan.n.01 kadai.n.01 tai.n.02 tai_dam.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 nonaccomplishment.n.01 mistake.n.01 blunder.n.01 bobble.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 immaturity.n.01 childhood.n.02 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 information.n.02 fact.n.01 reason.n.06 indication.n.03 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 way.n.06 passage.n.03 conduit.n.01 tube.n.01 pipe.n.02 exhaust_pipe.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 drug_of_abuse.n.01 alcohol.n.01 brew.n.01 beer.n.01 ale.n.01 bitter.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 calendar_day.n.01 day.n.03 holiday.n.02 religious_holiday.n.01 christian_holy_day.n.01 trinity_sunday.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 fungus.n.01 basidiomycete.n.01 agaric.n.02 meadow_mushroom.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 motion.n.03 lurch.n.03 rock.n.07 <EOS>
+<SOS> abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 monetary_unit.n.01 ethiopian_monetary_unit.n.01 birr.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 creation.n.02 needlework.n.01 sewing.n.02 stitch.n.01 sewing_stitch.n.01 blanket_stitch.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 calendar_day.n.01 day.n.03 holiday.n.02 legal_holiday.n.01 boxing_day.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 parasite.n.01 parasitic_plant.n.01 mistletoe.n.03 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 relative.n.01 in-law.n.01 father-in-law.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 bird_of_prey.n.01 hawk.n.01 honey_buzzard.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 container.n.01 vessel.n.03 pot.n.01 pottle.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 protoctist_order.n.01 oedogoniales.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 amerindian.n.01 indian.n.01 pueblo.n.01 hopi.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.01 infectious_agent.n.01 virus.n.01 animal_virus.n.01 arenavirus.n.01 lassa_virus.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 arrangement.n.02 ordering.n.01 series.n.01 course.n.02 stream.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 squirrel.n.01 ground_squirrel.n.02 flickertail.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 anti-inflammatory.n.01 prednisone.n.01 <EOS>
+<SOS> abstraction.n.06 relation.n.01 possession.n.02 transferred_property.n.01 acquisition.n.02 gift.n.01 aid.n.03 social_welfare.n.01 relief.n.08 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 antimatter.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 unit.n.05 molecule.n.01 macromolecule.n.01 protein.n.01 conjugated_protein.n.01 glycoprotein.n.01 lectin.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 movement.n.03 change_of_location.n.01 flow.n.01 fountain.n.03 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 perceiver.n.01 witness.n.01 testifier.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 borage.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 illness.n.01 growth.n.06 tumor.n.01 carcinoid.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 wading_bird.n.01 plain_wanderer.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 collection.n.01 vegetation.n.01 groundcover.n.01 rupturewort.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 currant.n.02 winter_currant.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 clothing.n.01 garment.n.01 scarf.n.01 kerchief.n.01 headscarf.n.01 khimar.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 odd-toed_ungulate.n.01 equine.n.01 horse.n.01 workhorse.n.02 draft_horse.n.01 coach_horse.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 phenomenon.n.01 natural_phenomenon.n.01 physical_phenomenon.n.01 boundary_layer.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 movement.n.11 transportation.n.02 connection.n.08 <EOS>
+<SOS> abstraction.n.06 communication.n.02 signal.n.01 symbol.n.01 written_symbol.n.01 character.n.08 type.n.04 font.n.01 proportional_font.n.01 modern.n.02 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 property.n.02 physical_property.n.01 magnetization.n.03 <EOS>
+<SOS> abstraction.n.06 communication.n.02 message.n.02 information.n.01 news.n.02 report.n.03 bulletin.n.01 news_bulletin.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 unit.n.03 administrative_unit.n.01 division.n.04 department.n.01 academic_department.n.01 biology_department.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 capitalist.n.02 businessperson.n.01 merchant.n.01 trader.n.01 slopseller.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 linguist.n.02 bilingual.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 musical_instrument.n.01 stringed_instrument.n.01 guitar.n.01 electric_guitar.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 fiber.n.01 fibril.n.01 myofibril.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 control.n.05 possession.n.01 retention.n.01 withholding.n.03 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 craftsman.n.03 bricklayer.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 dickeybird.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 way.n.06 passage.n.03 conduit.n.01 tube.n.01 pipe.n.01 clay_pipe.n.01 dudeen.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 indication.n.01 evidence.n.02 record.n.01 written_record.n.01 register.n.01 check_register.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 natural_process.n.01 geological_process.n.01 diastrophism.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 sunfish.n.03 crappie.n.02 white_crappie.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 auditory_communication.n.01 music.n.01 musical_composition.n.01 song.n.01 oldie.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 quality.n.01 changeableness.n.01 commutability.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 radical.n.03 revolutionist.n.01 counterrevolutionist.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.04 notation.n.01 mathematical_notation.n.01 floating-point_notation.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 thrush.n.03 hermit_thrush.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 baked_goods.n.01 pastry.n.02 pie.n.01 lemon_meringue_pie.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 anti-inflammatory.n.01 prednisolone.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 collection.n.01 string.n.09 beads.n.01 wampum.n.02 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 drug_of_abuse.n.01 alcohol.n.01 wine.n.01 fortified_wine.n.01 port.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 fungus.n.01 jelly_fungus.n.01 witches'_butter.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 chemical.n.01 compound.n.02 organic_compound.n.01 hydrocarbon.n.01 provitamin.n.01 provitamin_a.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 association.n.01 club.n.02 service_club.n.01 rotary_club.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 fabric.n.01 yoke.n.01 tucker.n.04 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 transaction.n.01 commerce.n.01 commercial_enterprise.n.02 transportation.n.05 freight.n.02 <EOS>
+<SOS> abstraction.n.06 communication.n.02 language.n.01 natural_language.n.01 amerind.n.01 na-dene.n.01 tlingit.n.02 <EOS>
+<SOS> abstraction.n.06 measure.n.02 fundamental_quantity.n.01 mass.n.01 body.n.09 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 paper.n.01 card.n.01 playing_card.n.01 face_card.n.01 king.n.09 <EOS>
+<SOS> abstraction.n.06 communication.n.02 language.n.01 natural_language.n.01 amerind.n.01 siouan.n.02 chiwere.n.01 iowa.n.03 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 property.n.02 concentration.n.01 hydrogen_ion_concentration.n.01 ph.n.01 alkalinity.n.01 <EOS>
+<SOS> physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 tube.n.04 vessel.n.01 blood_vessel.n.01 vein.n.01 jugular_vein.n.01 external_jugular_vein.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 tract.n.01 site.n.01 campsite.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 language.n.01 natural_language.n.01 indo-european.n.02 germanic.n.01 west_germanic.n.01 english.n.01 old_english.n.01 kentish.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 illness.n.01 disease.n.01 malignancy.n.01 malignant_tumor.n.01 cancer.n.01 sarcoma.n.01 ewing's_sarcoma.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 pteridophyte.n.01 fern.n.01 christella.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 clothing.n.01 garment.n.01 trouser.n.01 long_trousers.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 language.n.01 natural_language.n.01 niger-kordofanian.n.01 kordofanian.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 monetary_unit.n.01 tunisian_monetary_unit.n.01 millime.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 property.n.02 spatial_property.n.01 asymmetry.n.01 radial_asymmetry.n.01 directivity.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 plant_part.n.01 plant_organ.n.01 reproductive_structure.n.01 agamete.n.01 spore.n.01 megaspore.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 economic_process.n.01 deflation.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 landing.n.02 dock.n.05 dry_dock.n.01 floating_dock.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 fluid.n.01 liquid.n.01 alcohol.n.02 allyl_alcohol.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 orchid.n.01 spider_orchid.n.03 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 line.n.18 cord.n.01 wick.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 weapon.n.01 sword.n.01 cavalry_sword.n.01 scimitar.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 union.n.04 junction.n.02 anastomosis.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 zone.n.02 climatic_zone.n.01 subtropics.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 visual_communication.n.01 gesture.n.02 shrug.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 aquatic_plant.n.01 water_lily.n.01 water-shield.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 knowledge_domain.n.01 discipline.n.01 science.n.01 social_science.n.01 home_economics.n.01 <EOS>
+<SOS> abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 form.n.08 questionnaire.n.01 personality_inventory.n.01 self-report_personality_inventory.n.01 eysenck_personality_inventory.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 machine.n.01 slot_machine.n.01 vending_machine.n.01 automat.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 structure.n.03 arrangement.n.03 design.n.02 trap.n.03 iron_trap.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 anticoagulant.n.01 warfarin.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 dish.n.02 frittata.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 aquatic_plant.n.01 marsh_plant.n.01 shellflower.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 natural_process.n.01 geological_process.n.01 erosion.n.01 planation.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 larva.n.01 caterpillar.n.01 webworm.n.01 garden_webworm.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 line.n.18 lifeline.n.03 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 worm_family.n.01 branchiobdellidae.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 wilding.n.01 wildflower.n.01 rydberg's_penstemon.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 plant_part.n.01 plant_organ.n.01 reproductive_structure.n.01 fruit.n.01 seed.n.01 oilseed.n.01 rapeseed.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 body.n.02 public.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 restraint.n.06 brake_pad.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 medical_instrument.n.01 surgical_instrument.n.01 retractor.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 genus_zoysia.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 bromus.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 waste.n.01 effluent.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 tulipwood_tree.n.01 harpullia.n.01 harpulla.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 accomplishment.n.01 liberation.n.01 clearing.n.02 purge.n.01 purification.n.04 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 shape.n.02 figure.n.06 subfigure.n.01 branch.n.03 bifurcation.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 traveler.n.01 mover.n.03 hitter.n.02 slapper.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 feeling.n.01 sadness.n.01 sorrow.n.02 compunction.n.01 repentance.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 idea.n.01 misconception.n.01 fallacy.n.01 logical_fallacy.n.01 post_hoc.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 herbage.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 rock.n.02 igneous_rock.n.01 volcanic_rock.n.01 amygdaloid.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 feeling.n.01 happiness.n.02 rejoicing.n.01 <EOS>
+<SOS> abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 monetary_unit.n.01 united_arab_emirate_monetary_unit.n.01 united_arab_emirate_dirham.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 feeling.n.01 desire.n.01 sexual_desire.n.01 nymphomania.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 adult.n.01 important_person.n.01 celebrity.n.01 toast.n.02 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.03 fortune.n.04 misfortune.n.02 adversity.n.01 distress.n.02 throe.n.02 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 illness.n.01 disease.n.01 communicable_disease.n.01 contagious_disease.n.01 venereal_disease.n.01 lymphogranuloma_venereum.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 location.n.01 line.n.11 agonic_line.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 unfortunate.n.01 victim.n.01 punching_bag.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 dilator.n.02 vasodilator.n.01 minoxidil.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 tract.n.01 short.n.01 <EOS>
+<SOS> physical_entity.n.01 process.n.06 natural_process.n.01 chemical_process.n.01 nitrification.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 class.n.07 cirripedia.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 disorder.n.01 mental_disorder.n.01 schizothymia.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 decoration.n.01 molding.n.02 cyma.n.01 ogee.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 mammal_genus.n.01 eptesicus.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 arthropod_family.n.01 stenopelmatidae.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 dicot_family.n.01 hydnoraceae.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 creation.n.01 art.n.02 glyptography.n.02 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 sensory_activity.n.01 sensing.n.02 look.n.02 glance.n.01 side-glance.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 institution.n.01 company.n.01 union_shop.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 lover.n.01 squeeze.n.04 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 motion.n.06 travel.n.01 air_travel.n.01 flight.n.02 terrain_flight.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 cognition.n.01 attitude.n.01 inclination.n.01 partiality.n.02 bias.n.01 experimenter_bias.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 injury.n.01 rupture.n.01 hernia.n.01 inguinal_hernia.n.01 <EOS>
+<SOS> abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 worship.n.01 idolatry.n.01 gyneolatry.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 memorial.n.03 megalith.n.01 menhir.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 mammal_family.n.01 heteromyidae.n.01 <EOS>
+<SOS> abstraction.n.06 group.n.01 collection.n.01 traffic.n.01 vehicular_traffic.n.01 bus_traffic.n.01 <EOS>
+<SOS> physical_entity.n.01 causal_agent.n.01 person.n.01 adult.n.01 man.n.01 patriarch.n.02 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 equipment.n.01 electronic_equipment.n.01 telephone.n.01 desk_phone.n.01 <EOS>
+<SOS> physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 protective_covering.n.01 shield.n.01 plate.n.14 armor_plate.n.01 gorget.n.01 <EOS>
+<SOS> physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 baked_goods.n.01 pastry.n.02 pie.n.01 meat_pie.n.01 shepherd's_pie.n.01 <EOS>
+<SOS> abstraction.n.06 relation.n.01 comparison.n.02 imaginative_comparison.n.01 <EOS>
+<SOS> abstraction.n.06 attribute.n.02 shape.n.02 round_shape.n.01 sphere.n.05 ball.n.03 globule.n.01 bubble.n.01 foam.n.01 white_water.n.01 <EOS>

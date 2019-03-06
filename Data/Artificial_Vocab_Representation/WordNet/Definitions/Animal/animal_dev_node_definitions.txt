@@ -1,0 +1,30 @@
+creepy-crawly.n.01 creepy-crawly animal creeps crawls worms spiders insects
+peeper.n.03 peeper animal makes short high-pitched sounds
+armyworm.n.01 armyworm noctuid moth larvae travel multitudes destroying especially grass grain
+cardigan.n.02 cardigan slightly bowlegged variety corgi rounded ears long tail
+gallfly.n.03 gallfly various insects deposit eggs plants causing galls larvae feed
+ungulata.n.01 ungulata former classifications major division mammalia comprising hoofed mammals divided orders perissodactyla odd-toed ungulates artiodactyla even-toed ungulates
+hawk_owl.n.01 hawk owl grey-and-white diurnal hawk-like owl northern parts northern hemisphere
+cornish.n.02 cornish english breed compact domestic fowl raised primarily crossbreed produce roasters
+european_nuthatch.n.01 european nuthatch kind nuthatch
+american_mastodon.n.01 american mastodon mastodon north america classifications considered mammoth rather mastodon
+audubon's_caracara.n.01 audubon's caracara widespread southern united states central america rusty black black-and-white breast tail
+mourning_dove.n.01 mourning dove wild dove united states mournful call
+mamo.n.01 mamo black honeycreepers yellow feathers around tail extinct
+carolina_chickadee.n.01 carolina chickadee southern united states chickadee similar blackcap smaller
+blackcap.n.04 blackcap small brownish-grey warbler black crown
+hairy-legged_vampire_bat.n.01 hairy-legged vampire bat similar size habits desmodus rotundus tropical america including southern california texas
+ferret_badger.n.01 ferret badger small ferret-like badger southeast asia
+woolly_mammoth.n.01 woolly mammoth hairy mammoth common colder portions northern hemisphere
+neandertal_man.n.01 neandertal man extinct robust human middle paleolithic europe western asia
+american_chameleon.n.01 american chameleon small arboreal tropical american insectivorous lizards ability change skin color
+human_botfly.n.01 human botfly large tropical american fly parasitic humans mammals
+woolly_apple_aphid.n.01 woolly apple aphid primarily bark feeder aerial parts roots apple trees
+loxostege_similalis.n.02 loxostege similalis moth whose larvae garden webworms
+tiger_shark.n.01 tiger shark large dangerous warm-water shark striped spotted body
+talapoin.n.01 talapoin smallest guenon monkey swampy central west african forests
+sidewinder.n.01 sidewinder small pale-colored desert rattlesnake southwestern united states body moves s-shaped curve
+sergeant_major.n.02 sergeant major large blue-grey black-striped damselfish nearly worldwide
+serow.n.01 serow short-horned dark-coated goat antelope mountain areas southern southeastern asia
+greater_kudu.n.01 greater kudu variety kudu
+aurochs.n.02 aurochs large recently extinct long-horned european wild ox considered one ancestors domestic cattle

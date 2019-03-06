@@ -1,0 +1,314 @@
+tower_mustard.n.01	tower mustard genus arabis erect cress widely distributed throughout europe	<SOS> v28 v3 v61 v14 <EOS>
+ground_ivy.n.01	ground ivy trailing european aromatic plant mint family rounded leaves small purplish flowers often grown hanging baskets naturalized north america sometimes placed genus nepeta	<SOS> v28 v21 <EOS>
+kowhai.n.01	kowhai shrub small tree new zealand chile pendulous racemes tubular golden-yellow flowers yields hard strong wood	<SOS> v28 v22 v9 <EOS>
+orange_hawkweed.n.01	orange hawkweed european hawkweed flower heads bright orange-red rays troublesome weed especially naturalized northeastern north america sometimes placed genus hieracium	<SOS> v28 v10 <EOS>
+bergamot.n.01	bergamot small tree pear-shaped fruit whose oil used perfumery italy	<SOS> v28 v22 v9 v152 v56 v1 v5 <EOS>
+garland_flower.n.01	garland flower widely cultivated low evergreen shrub dense clusters fragrant pink deep rose flowers	<SOS> v28 v22 v12 v184 <EOS>
+ragged_orchid.n.01	ragged orchid fringed orchid eastern united states greenish flower lip deeply lacerated	<SOS> v28 v2 v2 v1 v71 v85 <EOS>
+sand_leek.n.01	sand leek european leek cultivated used like leeks	<SOS> v28 v7 v5 v9 <EOS>
+water_hickory.n.01	water hickory hickory southern united states many narrow leaflets rather bitter nuts	<SOS> v28 v22 v9 v152 v19 v4 <EOS>
+tall_yellow-eye.n.01	tall yellow-eye australia	<SOS> v28 v13 v13 v19 <EOS>
+calceolaria.n.01	calceolaria garden plant genus calceolaria flowers large inflated slipper-shaped lower lip	<SOS> v28 v2 v2 v1 <EOS>
+stokes'_aster.n.01	stokes' aster erect perennial southeastern united states large heads usually blue flowers	<SOS> v28 v2 v2 v1 <EOS>
+lesser_wintergreen.n.01	lesser wintergreen common wintergreen many-flowered racemes pink-tinged white flowers europe north america	<SOS> v28 v3 v34 <EOS>
+western_larch.n.01	western larch tall larch western north america pale green sharply pointed leaves oblong cones important timber tree	<SOS> v28 v22 v9 v69 v3 v30 <EOS>
+american_white_birch.n.01	american white birch small american birch peeling white bark often worked e.g baskets toy canoes	<SOS> v28 v22 v9 v11 <EOS>
+umbrellawort.n.01	umbrellawort plant genus mirabilis	<SOS> v28 v2 v2 v1 <EOS>
+cape_tulip.n.01	cape tulip spectacular plant large prostrate leaves barred reddish-purple flowers clump long yellow stamens coral-red cup fleshy bracts south africa	<SOS> v28 v7 v6 <EOS>
+slender_wild_oat.n.01	slender wild oat oat southern europe southwestern asia	<SOS> v28 v3 v351 v3 v5 v4 <EOS>
+african_scented_mahogany.n.01	african scented mahogany african tree rather lightweight cedar-scented wood varying color pink reddish brown	<SOS> v28 v22 v9 v171 <EOS>
+japanese_pink.n.01	japanese pink flowering variety china pink distinguished jagged-edged petals	<SOS> v28 v2 v2 v1 v74 v2 <EOS>
+sweet_sand_verbena.n.01	sweet sand verbena taller abronia elliptica night-blooming flowers	<SOS> v10 v1 v69 <EOS>
+bocconia.n.02	bocconia small central american tree loose racemes purple-tinted green flowers	<SOS> v28 v22 v9 v152 <EOS>
+brompton_stock.n.01	brompton stock european plant racemes sweet-scented flowers widely cultivated ornamental	<SOS> v28 v2 v2 v1 v105 <EOS>
+common_laburnum.n.01	common laburnum ornamental shrub tree genus laburnum often cultivated easter decorations	<SOS> v28 v22 v12 v224 <EOS>
+treelet.n.01	treelet small tree	<SOS> v28 v22 v9 <EOS>
+london_plane.n.01	london plane large fast-growing tree much planted street tree	<SOS> v28 v22 v9 v84 <EOS>
+california_bluebell.n.01	california bluebell desert plant southern california blue violet tubular flowers terminal racemes	<SOS> v28 v2 v2 v1 v116 <EOS>
+cornflower.n.02	cornflower annual eurasian plant cultivated north america showy heads blue purple pink white flowers	<SOS> v28 v2 v2 v1 <EOS>
+field_speedwell.n.01	field speedwell european plant minute axillary blue flowers long stalks widely naturalized america	<SOS> v28 v2 v2 v1 v39 <EOS>
+acrogen.n.01	acrogen flowerless plant fern pteridophyte moss bryophyte growth occurs tip main stem	<SOS> <EOS>
+button_pink.n.01	button pink much-branched pink flowers clusters closely related sweet william	<SOS> v28 v2 v2 v1 v74 <EOS>
+oregon_cedar.n.01	oregon cedar large timber tree western north america trunk diameter 12 feet height 200 feet	<SOS> v28 v22 v9 v69 v3 v4 <EOS>
+hubbard_squash.n.01	hubbard squash several winter squash plants producing large greyish-green football-shaped fruit rough warty rind	<SOS> v28 v21 v50 v2 <EOS>
+klammath_weed.n.01	klammath weed yellow-flowered perennial common fields waste places weed rangelands	<SOS> v28 v22 v12 v6 v2 <EOS>
+pomelo.n.01	pomelo southeastern asian tree producing large fruits resembling grapefruits	<SOS> v28 v22 v9 v152 v56 v1 <EOS>
+calisaya.n.01	calisaya peruvian shrub small tree large glossy leaves cymes fragrant yellow green red flowers cultivated medicinal bark	<SOS> v28 v22 v9 v139 <EOS>
+japanese_chestnut.n.01	japanese chestnut spreading tree japan short trunk	<SOS> v28 v22 v9 v22 <EOS>
+rosilla.n.01	rosilla sneezeweed southwestern united states especially southern california	<SOS> v28 v3 v45 <EOS>
+leatherleaf_saxifrage.n.01	leatherleaf saxifrage plant basal leathery elliptic leaves erect leafless flower stalks bearing dense roundish cluster tiny white flowers moist places northwestern north america oregon idaho	<SOS> v10 v1 <EOS>
+sweet_flag.n.01	sweet flag perennial marsh plant swordlike leaves aromatic roots	<SOS> v28 v13 v13 <EOS>
+hygrophyte.n.01	hygrophyte plant grows moist habitat	<SOS> <EOS>
+coyote_brush.n.01	coyote brush widely spreading evergreen shrub southwestern united states flower heads leafy panicle	<SOS> v28 v22 v12 <EOS>
+intermediate_wheatgrass.n.01	intermediate wheatgrass asiatic grass introduced united states rangelands pasture fodder	<SOS> v28 v3 v351 v3 v40 <EOS>
+philadelphia_fleabane.n.01	philadelphia fleabane especially pretty plant delicate fringe threadlike rays around flower heads slender white pink rays united states canada	<SOS> v10 v1 v10 <EOS>
+bechtel_crab.n.01	bechtel crab derived iowa crab cultivated large double pink blossoms	<SOS> v28 v22 v9 v152 v56 v35 v3 v2 <EOS>
+smooth_winterberry_holly.n.01	smooth winterberry holly holly shrub	<SOS> v28 v22 v9 v152 v24 <EOS>
+joshua_tree.n.01	joshua tree large branched arborescent yucca southwestern united states short leaves clustered greenish white flowers	<SOS> v28 v22 v12 v138 <EOS>
+common_moonseed.n.01	common moonseed woody vine eastern north america large oval leaves small white flowers purple blue-black fruits	<SOS> v28 v21 v21 <EOS>
+snakewood.n.01	snakewood east indian climbing shrub twisted limbs roots resembling serpents	<SOS> v28 v22 v12 v142 <EOS>
+yerba_santa.n.01	yerba santa viscid evergreen shrub western united states white deep lilac flowers sticky aromatic leaves used treating bronchial pulmonary illnesses	<SOS> v28 v22 v12 <EOS>
+tall_mallow.n.01	tall mallow erect decumbent old world perennial axillary clusters rosy-purple flowers introduced united states	<SOS> v28 v22 v12 v260 <EOS>
+erect_bugle.n.01	erect bugle upright rhizomatous perennial bright blue flowers southern europe	<SOS> v28 v3 v65 <EOS>
+medlar.n.02	medlar small deciduous eurasian tree cultivated fruit resemble crab apples	<SOS> v28 v22 v9 v152 v56 <EOS>
+tea.n.03	tea tropical evergreen shrub small tree extensively cultivated e.g china japan india source tea leaves	<SOS> v28 v22 v12 <EOS>
+frog's_lettuce.n.01	frog's lettuce similar potamogeton western africa asia europe	<SOS> v28 v13 v14 <EOS>
+marsh_pea.n.01	marsh pea scrambling perennial damp marshy areas eurasia north america purplish flowers	<SOS> v28 v3 v237 v2 <EOS>
+central_american_strap_fern.n.01	central american strap fern fern shorter narrower leaves florida strap fern florida west indies mexico south argentina	<SOS> v28 v1 v2 v88 <EOS>
+rocky_mountain_bee_plant.n.01	rocky mountain bee plant plant western north america trifoliate leaves white pink spider-shaped flowers sometimes used ornamental	<SOS> v28 v3 v215 <EOS>
+dyer's_rocket.n.01	dyer's rocket european mignonette cultivated source yellow dye naturalized north america	<SOS> v28 v3 v330 <EOS>
+plum_tomato.n.01	plum tomato italian variety cherry tomato shaped like plum	<SOS> v28 v3 v344 v1 <EOS>
+showy_orchis.n.01	showy orchis north american orchid spike violet-purple flowers mixed white sepals petals form hood	<SOS> v28 v2 v2 v1 v71 v76 <EOS>
+cape_aloe.n.01	cape aloe much-branched south african plant reddish prickly succulent leaves	<SOS> v28 v9 v6 <EOS>
+fen_orchid.n.01	fen orchid small terrestrial orchid eastern north america europe two nearly basal leaves dull yellow-green racemose flowers	<SOS> v28 v2 v2 v1 v71 <EOS>
+snowy_orchid.n.01	snowy orchid slender fringed orchid eastern north america white flowers	<SOS> v28 v2 v2 v1 v71 v85 <EOS>
+rutabaga.n.02	rutabaga cruciferous plant thick bulbous edible yellow root	<SOS> v28 v3 v61 v3 <EOS>
+semi-climber.n.01	semi-climber plant tends climb occasion grow like vine	<SOS> v28 v21 <EOS>
+pennyroyal.n.01	pennyroyal eurasian perennial mint small lilac-blue flowers ovate leaves yields aromatic oil	<SOS> v28 v3 v217 <EOS>
+honey_plant.n.01	honey plant plant furnishes nectar suitable making honey	<SOS> v28 v21 v43 <EOS>
+common_purslane.n.01	common purslane weedy trailing mat-forming herb bright yellow flowers cultivated edible mildly acid leaves eaten raw cooked especially indian greek middle eastern cuisine cosmopolitan	<SOS> v28 v3 v81 <EOS>
+alpine_clover.n.01	alpine clover european mountain clover fragrant usually pink flowers	<SOS> v28 v3 v142 <EOS>
+african_walnut.n.01	african walnut tropical african timber tree wood resembles mahogany	<SOS> v28 v22 v9 <EOS>
+grey_willow.n.01	grey willow eurasian shrubby willow whitish tomentose twigs	<SOS> v28 v22 v9 v33 <EOS>
+dwarf_bilberry.n.01	dwarf bilberry low-growing tufted deciduous shrub northern alpine north america pink coral-red flowers followed sweet blue berries	<SOS> v28 v22 v12 v15 <EOS>
+lipstick_plant.n.01	lipstick plant epiphyte creeping rocks malaysian plant somewhat fleshy leaves bright red flowers	<SOS> v32 v4 <EOS>
+blue_elder.n.01	blue elder shrub small tree western united states white flowers blue berries fruit used wines jellies	<SOS> v28 v22 v12 v76 <EOS>
+coelogyne.n.01	coelogyne various orchids genus coelogyne clusters fragrant lacy snow-white flowers salmon-pink solitary flowers chainlike racemes topaz chocolate brown flowers spikes delicate white spice-scented flowers emerald green flowers marked blue-black	<SOS> v28 v2 v2 v1 v71 <EOS>
+carob.n.02	carob evergreen mediterranean tree edible pods biblical carob	<SOS> v28 v22 v9 v127 <EOS>
+licorice_fern.n.01	licorice fern fern rootstock sweetish flavor	<SOS> v28 v1 v2 v34 <EOS>
+red_maple.n.01	red maple maple eastern central america five-lobed leaves turn scarlet yellow autumn	<SOS> v28 v22 v9 v152 v17 <EOS>
+mexican_poppy.n.01	mexican poppy annual herb prickly stems large yellow flowers southern united states west indies mexico	<SOS> v28 v3 v287 <EOS>
+tumbleweed.n.04	tumbleweed bushy plant western united states	<SOS> v28 v3 v201 <EOS>
+little_golden_zinnia.n.01	little golden zinnia subshrub short leafy stems numerous small flower heads nearly round yellow-orange rays arizona south mexico east kansas	<SOS> v28 v2 v2 v1 v11 <EOS>
+pipestem_clematis.n.01	pipestem clematis clematis california	<SOS> v28 v21 v12 <EOS>
+zucchini.n.01	zucchini marrow squash plant whose fruit eaten small	<SOS> v28 v21 v50 v1 v4 <EOS>
+bradley's_spleenwort.n.01	bradley's spleenwort spleenwort eastern southern united states	<SOS> v28 v1 v2 v68 <EOS>
+false_indigo.n.03	false indigo erect spreading hairy shrub pacific coast united states racemes red indigo flowers	<SOS> v28 v22 v12 v35 <EOS>
+maryland_golden_aster.n.01	maryland golden aster perennial golden aster southeastern united states	<SOS> v10 v1 v43 <EOS>
+toyon.n.01	toyon ornamental evergreen treelike shrub pacific coast united states large white flowers red berrylike fruits often placed genus photinia	<SOS> v28 v22 v12 <EOS>
+michigan_lily.n.01	michigan lily lily central north america recurved orange-red flowers deep crimson spots	<SOS> v28 v7 v5 v1 <EOS>
+rauli_beech.n.01	rauli beech large chilean timber tree yielding coarse lumber	<SOS> v28 v22 v9 v58 <EOS>
+groundsel.n.01	groundsel eurasian weed heads small yellow flowers	<SOS> v28 v10 <EOS>
+scotch_pine.n.01	scotch pine medium large two-needled pine northern europe asia flaking red-brown bark	<SOS> v28 v22 v9 v69 v3 v39 <EOS>
+dalmatian_iris.n.01	dalmatian iris european iris soft lilac-blue flowers	<SOS> v28 v7 v4 v6 v8 <EOS>
+virginia_strawberry.n.01	virginia strawberry north american wild strawberry sweet scarlet fruit source many cultivated strawberries	<SOS> v28 v3 v226 <EOS>
+sweet_fern.n.02	sweet fern deciduous shrub eastern north america sweet scented fernlike leaves tiny white flowers	<SOS> v28 v22 v12 <EOS>
+brazilwood.n.02	brazilwood tropical tree prickly trunk heavy red wood yields red dye used cabinetry	<SOS> v28 v22 v9 <EOS>
+pussy_willow.n.01	pussy willow small willow eastern north america greyish leaves silky catkins come leaves	<SOS> v28 v22 v9 v33 <EOS>
+knawel.n.01	knawel widely distributed low-growing eurasian herb narrow leaves inconspicuous green flowers	<SOS> v28 v10 <EOS>
+opium_poppy.n.01	opium poppy southwestern asian herb greyish leaves white reddish flowers source opium	<SOS> v28 v2 v2 v1 v60 <EOS>
+grain.n.08	grain cereal grass	<SOS> v28 v3 v351 v3 v5 <EOS>
+lady's_smock.n.01	lady's smock bitter cress europe america	<SOS> v28 v3 v61 v14 v8 <EOS>
+saffron.n.01	saffron old world crocus purple white flowers aromatic pungent orange stigmas used flavoring food	<SOS> v28 v7 v4 v2 <EOS>
+chilean_cedar.n.01	chilean cedar small south american evergreen coppery bark pretty foliage	<SOS> v28 v22 v9 v69 v3 v4 <EOS>
+perennial_salt_marsh_aster.n.01	perennial salt marsh aster variety aster	<SOS> v28 v2 v2 v1 v122 <EOS>
+dragon_arum.n.01	dragon arum european arum resembling cuckoopint	<SOS> v28 v3 v95 <EOS>
+jordan_almond.n.01	jordan almond variety large almond malaga spain used confectionery	<SOS> v28 v22 v9 v152 v56 v18 v5 <EOS>
+axseed.n.01	axseed european herb resembling vetch naturalized eastern united states umbels pink-and-white flowers sharp-angled pods	<SOS> v28 v22 v12 v147 <EOS>
+cathaya.n.01	cathaya chinese evergreen conifer discovered 1955 yet cultivated elsewhere	<SOS> v28 v22 v9 v69 v3 <EOS>
+black_pea.n.01	black pea perennial europe north africa foliage turns black drying	<SOS> v28 v21 v35 <EOS>
+mombin.n.01	mombin common tropical american shrub small tree purplish fruit	<SOS> v28 v22 v9 v152 v56 <EOS>
+red_clover.n.01	red clover erect decumbent short-lived perennial red-purple pink flowers commonly grown forage clover	<SOS> v28 v3 v142 <EOS>
+windmill_grass.n.01	windmill grass perennial australian grass numerous long spikes arranged like vanes windmill	<SOS> v28 v3 v351 v3 v23 <EOS>
+flat-topped_white_aster.n.01	flat-topped white aster variety aster	<SOS> v28 v2 v2 v1 v122 <EOS>
+tanekaha.n.01	tanekaha medium tall celery pine new zealand	<SOS> v28 v22 v9 v69 v3 v6 <EOS>
+white_lupine.n.01	white lupine white-flowered eurasian herb widely cultivated forage erosion control	<SOS> v28 v22 v16 <EOS>
+american_sycamore.n.01	american sycamore large spreading plane tree eastern central north america mexico	<SOS> v28 v22 v9 v84 <EOS>
+winged_bean.n.01	winged bean tuberous twining annual vine bearing clusters purplish flowers pods four jagged wings old world tropics	<SOS> v28 v21 <EOS>
+broomcorn_millet.n.01	broomcorn millet extensively cultivated europe asia grain united states sometimes forage	<SOS> v28 v3 v351 v3 v5 v6 v3 <EOS>
+tansy.n.01	tansy common perennial aromatic herb native eurasia buttonlike yellow flower heads bitter-tasting pinnate leaves sometimes used medicinally	<SOS> v28 v2 v2 v1 v32 <EOS>
+flat_pea.n.02	flat pea european perennial mottled flowers purple pink sometimes cultivated fodder green manure	<SOS> v28 v21 v83 <EOS>
+pitcher_sage.n.01	pitcher sage california erect sparsely branched perennial	<SOS> v28 v3 v59 <EOS>
+downy_yellow_violet.n.01	downy yellow violet violet eastern north america softly pubescent leaves stems clear yellow flowers brown-purple veins	<SOS> v28 v3 v333 v5 <EOS>
+tree_tobacco.n.01	tree tobacco evergreen south american shrub naturalized united states occasionally responsible poisoning livestock	<SOS> v28 v3 v346 <EOS>
+white_false_indigo.n.01	white false indigo erect spreading herb racemes creamy white flowers eastern united states	<SOS> v28 v22 v4 <EOS>
+st.-bruno's-lily.n.01	st variety spiderwort	<SOS> v28 v3 v133 <EOS>
+rattlesnake_plantain.n.01	rattlesnake plantain several small temperate tropical orchids mottled striped leaves spikes small yellowish-white flowers twisted raceme	<SOS> v28 v2 v2 v1 v71 <EOS>
+pin_cherry.n.01	pin cherry small shrubby north american wild cherry small bright red acid fruit	<SOS> v28 v22 v9 v152 v56 v51 v1 v1 <EOS>
+medinilla_magnifica.n.01	medinilla magnifica beautiful tropical evergreen epiphytic shrub grown lush foliage huge panicles pink flowers philippines	<SOS> v28 v22 v12 <EOS>
+tree_of_knowledge.n.01	tree of knowledge biblical tree garden eden whose forbidden fruit tasted adam eve	<SOS> v28 v22 v9 <EOS>
+savoy_cabbage.n.01	savoy cabbage cabbage plant compact head crinkled leaves	<SOS> v28 v3 v61 v7 v1 <EOS>
+white_broom.n.01	white broom low european broom trifoliate leaves yellowish-white flowers	<SOS> v28 v22 v12 v192 <EOS>
+tarwood.n.01	tarwood new zealand shrub	<SOS> v28 v22 v9 v69 v3 <EOS>
+derris.n.01	derris various usually woody vines genus derris tropical asia whose roots yield insecticide rotenone several sources native fish arrow poisons	<SOS> v28 v22 v12 <EOS>
+ribbon_fern.n.03	ribbon fern epiphytic fern straplike usually twisted fronds tropical asia polynesia america	<SOS> v28 v1 v2 v21 <EOS>
+gnetum.n.01	gnetum small tropical tree tiered branches divaricate branchlets broad glossy dark green leaves exploited edible young leaves seeds provide fine flour	<SOS> v28 v22 v9 v69 <EOS>
+silky_wisteria.n.01	silky wisteria wisteria china white flowers	<SOS> v28 v21 v46 <EOS>
+chinese_wistaria.n.01	chinese wistaria deep purple flowers	<SOS> v28 v21 v46 <EOS>
+common_watercress.n.01	common watercress perennial eurasian cress growing chiefly springs running water fleshy pungent leaves used salads potherb garnish introduced north america elsewhere	<SOS> v28 v3 v61 v14 v3 <EOS>
+papaya.n.01	papaya tropical american shrub small tree huge deeply palmately cleft leaves large oblong yellow fruit	<SOS> v28 v22 v9 v152 v56 <EOS>
+columbia_tiger_lily.n.01	columbia tiger lily lily western north america showy orange-red purple-spotted flowers	<SOS> v28 v7 v5 v1 <EOS>
+floating_fern.n.02	floating fern aquatic fern tropical america often used aquariums	<SOS> v28 v1 v2 v20 <EOS>
+gean.n.01	gean wild seedling sweet cherry used stock grafting	<SOS> v28 v22 v9 v152 v56 v51 v4 <EOS>
+sweet_cassava.n.01	sweet cassava south american plant roots used vegetable herbage used stock feed	<SOS> v28 v22 v12 v213 <EOS>
+barnyard_grass.n.01	barnyard grass coarse annual panic grass cosmopolitan weed occasionally used hay grazing	<SOS> v28 v3 v351 v3 v5 v6 <EOS>
+plains_lemon_monarda.n.01	plains lemon monarda annual southern united states	<SOS> v28 v3 v193 <EOS>
+sandwort.n.02	sandwort low-growing herb clusters small white four-petaled flowers	<SOS> v28 v2 v2 v1 <EOS>
+rainbow_cactus.n.01	rainbow cactus stout cylindrical cactus southwest united states adjacent mexico	<SOS> v28 v9 v2 <EOS>
+scarlet_bugler.n.01	scarlet bugler plant bright red tubular flowers long narrow clusters near tips erect stems coastal ranges central california southward	<SOS> v10 v1 <EOS>
+caracolito.n.01	caracolito large costa rican tree light-colored wood suitable cabinetry similar african lepidobotrys wood structure well fruit flowers leaves seeds often classified families	<SOS> v28 v22 v9 <EOS>
+marblewood.n.02	marblewood large asiatic tree hard marbled zebrawood	<SOS> v28 v22 v9 <EOS>
+bog_rosemary.n.01	bog rosemary wiry evergreen shrub pendent clusters white pink flowers wet acidic areas arctic canada northeastern united states	<SOS> v28 v22 v12 v91 <EOS>
+flowering_ash.n.03	flowering ash shrubby ash southwestern united states fragrant white flowers	<SOS> v28 v22 v9 v60 <EOS>
+five-point_bishop's_cap.n.01	five-point bishop's cap small plant leaves basal cluster tiny greenish flowers slender racemes northwestern north america california colorado	<SOS> v28 v3 v197 <EOS>
+big_shellbark.n.01	big shellbark hickory eastern united states resembling shagbark much larger nut	<SOS> v28 v22 v9 v152 v19 v4 <EOS>
+day_jessamine.n.01	day jessamine west indian evergreen shrub clusters funnel-shaped white flowers fragrant day	<SOS> v28 v22 v12 <EOS>
+prairie_mallow.n.01	prairie mallow false mallow western united states racemose red flowers sometimes placed genus malvastrum	<SOS> v28 v22 v12 v260 v17 <EOS>
+wood_lily.n.02	wood lily lily eastern north america orange orange-red purple-spotted flowers	<SOS> v28 v7 v5 v1 <EOS>
+low_gallberry_holly.n.01	low gallberry holly evergreen shrub	<SOS> v28 v22 v9 v152 v24 <EOS>
+catechu.n.02	catechu east indian spiny tree twice-pinnate leaves yellow flowers followed flat pods source black catechu	<SOS> v28 v22 v9 v67 <EOS>
+beach_grass.n.01	beach grass tough grasses strong roots grow exposed sandy shores	<SOS> v28 v3 v351 v3 <EOS>
+friendship_plant.n.01	friendship plant low stingless nettle central south america velvety brownish-green toothed leaves clusters small green flowers	<SOS> v28 v10 v14 <EOS>
+ragwort.n.01	ragwort widespread european weed yellow daisylike flowers sometimes obnoxious weed toxic cattle consumed quantity	<SOS> v28 v10 <EOS>
+white_mountain_ash.n.01	white mountain ash large tree dark compact bark lower trunk smooth white yields lumber similar european american ashes	<SOS> v28 v22 v9 v168 v1 <EOS>
+bennet.n.02	bennet north american white-flowered avens	<SOS> v28 v22 v12 v6 v37 <EOS>
+feather_reed_grass.n.01	feather reed grass variety reed grass	<SOS> v28 v3 v351 v3 v18 <EOS>
+california_black_oak.n.01	california black oak large deciduous tree pacific coast deeply parted bristle-tipped leaves	<SOS> v28 v22 v9 v164 <EOS>
+silk_tree.n.01	silk tree attractive domed flat-topped asiatic tree bipinnate leaves flowers long silky stamens	<SOS> v28 v22 v9 v103 <EOS>
+water_locust.n.01	water locust honey locust swamps bottomlands southern united states short oval pods yields dark heavy wood	<SOS> v28 v22 v9 v88 <EOS>
+white_fritillary.n.01	white fritillary california herb white conic bell-shaped flowers usually tinged green	<SOS> v28 v7 v3 <EOS>
+indian_rattlebox.n.01	indian rattlebox erect subshrub purple-tinted flowers inflated pod ripe seeds rattle india	<SOS> v28 v3 v83 <EOS>
+swamp_ash.n.01	swamp ash small ash swampy areas southeastern united states	<SOS> v28 v22 v9 v60 <EOS>
+allspice_tree.n.01	allspice tree tropical american tree small white flowers aromatic berries	<SOS> v28 v22 v9 v152 v13 <EOS>
+turk's-cap.n.01	turk's-cap lily eastern united states orange red maroon-spotted flowers	<SOS> v28 v7 v5 v1 <EOS>
+deciduous_plant.n.01	deciduous plant plant foliage shed annually end growing season	<SOS> v28 <EOS>
+candelilla.n.01	candelilla wax-coated mexican shrub related euphorbia antisyphilitica	<SOS> v28 v22 v12 v200 <EOS>
+coral_bean_tree.n.01	coral bean tree deciduous shrub racemes deep red flowers black-spotted red seeds	<SOS> v28 v22 v9 v158 <EOS>
+old_man_of_the_mountain.n.01	old man of the mountain whitish hairy plant featherlike leaves stout stems bearing especially handsome solitary large yellow flower head mountainous regions north central united states	<SOS> v10 v1 <EOS>
+dwarf_iris.n.01	dwarf iris low-growing spring-flowering american iris bright blue-lilac flowers	<SOS> v28 v7 v4 v6 <EOS>
+common_gum_cistus.n.01	common gum cistus shrub white flowers viscid stems leaves yielding fragrant oleoresin used perfumes especially fixative	<SOS> v28 v22 v12 v41 <EOS>
+common_pitcher_plant.n.01	common pitcher plant perennial bog herb dark red flowers decumbent broadly winged pitchers forming rosette northeastern north america naturalized europe especially ireland	<SOS> v28 v3 v41 v4 <EOS>
+mountain_four_o'clock.n.01	mountain four o'clock leafy wildflower lavender-pink flowers open evening remain cool part next day found open woods brush mountains southern colorado arizona mexico	<SOS> v28 v2 v2 v1 v83 <EOS>
+japanese_clover.n.01	japanese clover annual tropical asia naturalized united states	<SOS> v28 v22 v6 <EOS>
+white_snapdragon.n.01	white snapdragon california plant slender racemes white flowers	<SOS> v28 v2 v2 v1 v10 <EOS>
+tuna.n.01	tuna tropical american prickly pear jamaica	<SOS> v28 v9 v2 v8 <EOS>
+alpine_gold.n.01	alpine gold low tufted plant hairy stems topped flower head short narrow yellow rays northwestern united states	<SOS> v10 v1 <EOS>
+barley_grass.n.01	barley grass european annual grass often found weed waste ground especially along roadsides hedgerows	<SOS> v28 v3 v351 v3 v5 v5 <EOS>
+psilophyte.n.01	psilophyte plant order psilophytales savannah plant	<SOS> v28 <EOS>
+ground_cedar.n.01	ground cedar variety club moss	<SOS> v28 v1 v1 v4 v5 <EOS>
+soft_wheat.n.01	soft wheat wheat soft starch kernels used pastry breakfast cereals	<SOS> v28 v3 v351 v3 v5 v10 <EOS>
+shortleaf_pine.n.01	shortleaf pine large pine southern united states short needles bunches 2-3 red-brown bark mature	<SOS> v28 v22 v9 v69 v3 v39 v21 <EOS>
+lizard's-tail.n.01	lizard's-tail north american herbaceous perennial wet places slender curled racemes small white flowers	<SOS> v28 v13 v13 <EOS>
+scouring_rush.n.01	scouring rush evergreen erect horsetail rough-edged stems formerly used scouring utensils	<SOS> v28 v1 v1 v3 <EOS>
+watermelon.n.01	watermelon african melon	<SOS> v28 v21 v69 v1 <EOS>
+southwestern_white_pine.n.01	southwestern white pine medium-size pine northwestern mexico bark dark brown furrowed mature	<SOS> v28 v22 v9 v69 v3 v39 v3 <EOS>
+cursed_crowfoot.n.01	cursed crowfoot annual herb growing marshy places	<SOS> v28 v3 v265 <EOS>
+cape_forget-me-not.n.02	cape forget-me-not anchusa southern africa blue flowers white throats	<SOS> v28 v3 v334 <EOS>
+hog_peanut.n.01	hog peanut vine widely distributed eastern north america producing racemes purple maroon flowers abundant usually subterranean edible one-seeded pods resembling peanuts	<SOS> v28 v21 <EOS>
+fragrant_sumac.n.01	fragrant sumac sweet-scented sumac eastern america ternate leaves yellowish-green flowers spikes resembling catkins followed red hairy fruits	<SOS> v28 v22 v12 v27 <EOS>
+cock's_eggs.n.01	cock's eggs weedy vine argentina solitary white flowers followed egg-shaped white yellow fruit	<SOS> v28 v21 <EOS>
+missouri_primrose.n.01	missouri primrose evening-opening primrose south central united states	<SOS> v28 v3 v304 <EOS>
+pussy-paw.n.01	pussy-paw pink clusters densely packed flowers prostrate stems resemble upturned pads cats feet grow coniferous forests western north america	<SOS> v10 v1 <EOS>
+senega.n.02	senega perennial bushy herb central southern united states white flowers green centers often purple crest similar seneca snakeroot	<SOS> v28 v22 v12 v6 v15 <EOS>
+michaelmas_daisy.n.01	michaelmas daisy north american perennial herb small autumn-blooming purple pink white flowers widely naturalized europe	<SOS> v28 v2 v2 v1 v122 <EOS>
+parry's_penstemon.n.01	parry's penstemon erect stems pinkish-lavender flowers long interrupted clusters arizona	<SOS> v10 v1 <EOS>
+western_pasqueflower.n.01	western pasqueflower western north america	<SOS> v10 v1 v73 <EOS>
+physic_nut.n.01	physic nut small tropical american tree yielding purple dye tanning extract bearing physic nuts containing purgative oil poisonous large quantities	<SOS> v28 v22 v9 v152 <EOS>
+weeping_love_grass.n.01	weeping love grass perennial south african grass densely clumped flimsy stems introduced united states especially erosion control	<SOS> v28 v3 v351 v3 v14 <EOS>
+soursop.n.01	soursop small tropical american tree bearing large succulent slightly acid fruit	<SOS> v28 v22 v9 v152 v56 v2 <EOS>
+cabbage_palm.n.02	cabbage palm west indian palm leaf buds edible young	<SOS> v28 v22 v9 v27 <EOS>
+indian_blackwood.n.01	indian blackwood east indian tree useful dark purple wood	<SOS> v28 v22 v9 v29 <EOS>
+nephthytis_afzelii.n.01	nephthytis afzelii tropical rhizomatous plant cultivated ornamental large sagittate leaves	<SOS> v28 v3 v95 v16 <EOS>
+cross_vine.n.01	cross vine woody flowering vine southern united states stems show cross transverse section	<SOS> v28 v21 <EOS>
+jumby_bead.n.01	jumby bead west indian tree similar ormosia monosperma larger smaller leaflets smaller seeds	<SOS> v28 v22 v9 v109 <EOS>
+sulfur_paintbrush.n.01	sulfur paintbrush plant moist highland meadows ragged clusters pale yellow flowers	<SOS> v10 v1 v82 <EOS>
+chickweed_phlox.n.01	chickweed phlox low mat-forming herb rocky places united states	<SOS> v28 v3 v183 <EOS>
+new_zealand_daisybush.n.01	new zealand daisybush bushy new zealand shrub cultivated fragrant white flower heads	<SOS> v28 v22 v12 v162 <EOS>
+cone_pepper.n.01	cone pepper plant bearing erect pungent conical red yellow purple fruits sometimes grown ornamental	<SOS> v28 v22 v12 v105 <EOS>
+big_sagebrush.n.01	big sagebrush aromatic shrub arid regions western north america hoary leaves	<SOS> v28 v22 v12 v6 v47 <EOS>
+common_dandelion.n.01	common dandelion eurasian plant widely naturalized weed north america used salad greens make wine	<SOS> v28 v3 v338 <EOS>
+winter_purslane.n.01	winter purslane succulent herb sometimes grown salad pot herb grows dunes waste ground pacific coast north america	<SOS> v28 v3 v104 <EOS>
+false_lupine.n.01	false lupine western united states bushy herb yellow pea-like flowers	<SOS> v28 v3 v121 <EOS>
+sheep_sorrel.n.01	sheep sorrel small plant pleasantly acid-tasting arrow-shaped leaves common dry places	<SOS> v28 v3 v222 <EOS>
+waterwheel_plant.n.01	waterwheel plant floating aquatic carnivorous perennial central southern europe africa asia australia whorls 6 9 leaves ending hinged lobes capturing e.g water fleas	<SOS> v28 v3 v41 <EOS>
+scarlet_wisteria_tree.n.01	scarlet wisteria tree softwood tree lax racemes usually red pink flowers tropical australia asia naturalized southern florida west indies	<SOS> v28 v22 v9 <EOS>
+cocklebur.n.01	cocklebur coarse weed genus xanthium spiny burrs	<SOS> v28 v10 <EOS>
+meadow_goldenrod.n.01	meadow goldenrod large north american goldenrod showy clusters yellow flowers arching branches often weed	<SOS> v10 v1 v68 <EOS>
+hemlock.n.02	hemlock large branching biennial herb native eurasia africa adventive north america large fernlike leaves white flowers usually found damp habitats parts extremely poisonous	<SOS> v8 <EOS>
+desert_four_o'clock.n.01	desert four o'clock wildflower vibrant deep pink tubular evening-blooming flowers found sandy desert areas southern california southern colorado mexico	<SOS> v28 v2 v2 v1 v83 <EOS>
+tradescant's_aster.n.01	tradescant's aster variety aster	<SOS> v28 v2 v2 v1 v122 <EOS>
+baby's_breath.n.01	baby's breath tall plant small lance-shaped leaves numerous tiny white pink flowers	<SOS> v28 v2 v2 v1 <EOS>
+rose_of_jericho.n.02	rose of jericho small grey asiatic desert plant bearing minute white flowers rolls dry expands moist	<SOS> v28 v3 v61 <EOS>
+elephant's-foot.n.01	elephant's-foot south african vine massive rootstock covered deeply fissured bark	<SOS> v28 v21 <EOS>
+egyptian_cotton.n.01	egyptian cotton fine somewhat brownish long-staple cotton grown egypt believed derived sea island cotton hybridization peruvian cotton	<SOS> v28 v22 v12 v16 <EOS>
+potato_fern.n.02	potato fern small epiphytic fern south america tuberous swellings along rhizomes	<SOS> v28 v1 v2 <EOS>
+sassafras.n.01	sassafras yellowwood tree brittle wood aromatic leaves bark source sassafras oil widely distributed eastern north america	<SOS> v28 v22 v9 v152 v33 <EOS>
+coast_boykinia.n.01	coast boykinia plant leaves mostly base openly branched clusters small white flowers western north america	<SOS> v10 v1 <EOS>
+manila_grass.n.01	manila grass lawn grass common philippines grown also united states	<SOS> v28 v3 v351 v3 v45 <EOS>
+ilang-ilang.n.02	ilang-ilang evergreen asian tree aromatic greenish-yellow flowers yielding volatile oil widely grown tropics ornamental	<SOS> v28 v22 v9 v152 <EOS>
+sand_cherry.n.01	sand cherry small straggling american cherry growing sandy soil minute scarcely edible purplish-black fruit	<SOS> v28 v22 v12 <EOS>
+bitternut.n.01	bitternut hickory eastern united states leaves 7 9 leaflets thin-shelled bitter nuts	<SOS> v28 v22 v9 v152 v19 v4 <EOS>
+winged_everlasting.n.01	winged everlasting australian plant widely cultivated beautiful silvery-white blooms bright yellow centers long winged stems	<SOS> v28 v2 v2 v1 v36 <EOS>
+creamcups.n.01	creamcups california plant small pale yellow flowers	<SOS> v28 v2 v2 v1 v60 <EOS>
+bluejack_oak.n.01	bluejack oak small semi-evergreen shrubby tree southeastern united states hairy young branchlets leaves narrowing slender bristly point	<SOS> v28 v22 v9 v164 <EOS>
+wild_angelica.n.01	wild angelica european herb compound leaves white flowers adventive cape breton island	<SOS> v28 v3 v266 <EOS>
+erythroxylon_truxiuense.n.01	erythroxylon truxiuense south american shrub whose leaves source cocaine	<SOS> v28 v22 v12 <EOS>
+corn_mint.n.01	corn mint european mint naturalized united states	<SOS> v28 v3 v217 <EOS>
+running_pine.n.01	running pine variety club moss	<SOS> v28 v1 v1 v4 v5 <EOS>
+obeche.n.02	obeche large west african tree large palmately lobed leaves axillary cymose panicles small white flowers one-winged seeds yields soft white pale yellow wood	<SOS> v28 v22 v9 <EOS>
+common_wood_sorrel.n.01	common wood sorrel eurasian plant heart-shaped trifoliate leaves white purple-veined flowers	<SOS> v28 v3 v289 <EOS>
+ponderosa.n.01	ponderosa common widely distributed tall timber pine western north america dark green needles bunches 2 5 thick bark dark brown plates mature	<SOS> v28 v22 v9 v69 v3 v39 v21 <EOS>
+sand_dropseed.n.01	sand dropseed erect smooth grass sandy places eastern north america	<SOS> v28 v3 v351 v3 v43 <EOS>
+golden_calla.n.01	golden calla several callas genus zantedeschia yellow spathes	<SOS> v28 v2 v2 v1 v80 <EOS>
+shellflower.n.02	shellflower cultivated shining oblong leaves arching clusters white flowers pink shading crinkled yellow lips variegated magenta stripes	<SOS> v28 v3 v353 <EOS>
+trapper's_tea.n.01	trapper's tea rocky mountain shrub similar ledum groenlandicum	<SOS> v28 v22 v12 <EOS>
+waxflower.n.02	waxflower epiphytic clusia british guiana	<SOS> v32 <EOS>
+mung.n.01	mung erect bushy annual widely cultivated warm regions india indonesia united states forage especially edible seeds chief source bean sprouts used chinese cookery sometimes placed genus phaseolus	<SOS> v28 v3 v237 <EOS>
+marsh_horsetail.n.01	marsh horsetail scouring-rush horsetail widely distributed wet boggy areas northern hemisphere	<SOS> v28 v1 v1 v3 <EOS>
+bulrush.n.02	bulrush tall rush soft erect arching stems found eurasia australia new zealand common north america	<SOS> v28 v13 v13 v6 <EOS>
+nagi.n.01	nagi medium-sized tree glossy lanceolate leaves southern china taiwan southern japan	<SOS> v28 v22 v9 v69 v3 <EOS>
+egyptian_grass.n.01	egyptian grass creeping grass spikes like fingers	<SOS> v28 v3 v351 v3 v30 <EOS>
+pigweed.n.02	pigweed leaves sometimes used potherbs seeds used cereal southern united states central america india china	<SOS> v28 v3 v201 <EOS>
+goldilocks.n.01	goldilocks early-flowering perennial southern southeastern europe flower heads resembling goldenrod	<SOS> v28 v2 v2 v1 v122 <EOS>
+potato.n.02	potato annual native south america underground stolons bearing edible starchy tubers widely cultivated garden vegetable vines poisonous	<SOS> v28 v21 <EOS>
+bee_balm.n.01	bee balm perennial herb north america	<SOS> v28 v3 v193 <EOS>
+desert_pea.n.01	desert pea sprawling shrubby perennial noted scarlet black-marked flowers widely distributed dry parts australia	<SOS> v28 v22 v12 v56 <EOS>
+guama.n.01	guama tropical tree central america west indies puerto rico spikes white flowers used shade coffee plantations	<SOS> v28 v22 v9 <EOS>
+caper_spurge.n.01	caper spurge poisonous old world spurge adventive america seeds yield purgative oil	<SOS> v28 v22 v12 v153 <EOS>
+prickly_ash.n.02	prickly ash australian tree alternate simple leaves young pinnate prickly toothed margins slender axillary spikes white flowers	<SOS> v28 v22 v9 <EOS>
+eastern_hemlock.n.01	eastern hemlock common forest tree eastern united states canada used especially pulpwood	<SOS> v28 v22 v9 v69 v3 v41 <EOS>
+silverrod.n.01	silverrod plant eastern north america creamy white flowers	<SOS> v10 v1 v68 <EOS>
+connarus_guianensis.n.01	connarus guianensis tropical american east african tree strikingly marked hardwood used cabinetwork	<SOS> v28 v22 v9 v105 <EOS>
+prairie_white-fringed_orchid.n.01	prairie white-fringed orchid central north america threatened species	<SOS> v28 v2 v2 v1 v71 <EOS>
+tussock_bellflower.n.01	tussock bellflower european perennial bellflower grows clumps spreading stems blue white flowers	<SOS> v28 v3 v305 <EOS>
+breakax.n.01	breakax west indian timber tree hard wood	<SOS> v28 v22 v9 <EOS>
+bartonia.n.01	bartonia annual grown especially fragrant golden nocturnal flowers	<SOS> v28 v2 v2 v1 <EOS>
+mascarene_grass.n.01	mascarene grass asiatic creeping perennial grass introduced southern united states drought-resistant lawn grass	<SOS> v28 v3 v351 v3 v45 <EOS>
+nardoo.n.01	nardoo australian clover fern	<SOS> v28 v1 v2 v20 v4 <EOS>
+incense_cedar.n.02	incense cedar tall tree pacific coast north america foliage like cypress cinnamon-red bark	<SOS> v28 v22 v9 v69 v3 v4 <EOS>
+seaside_alder.n.01	seaside alder shrub small tree southeastern united states soft light brown wood	<SOS> v28 v22 v9 v57 <EOS>
+virginian_witch_hazel.n.01	virginian witch hazel common shrub eastern north america small yellow flowers leaves fallen	<SOS> v28 v22 v12 v95 <EOS>
+soapwort_gentian.n.01	soapwort gentian erect perennial wet woodlands north america leaves flower buds resembling soapwort	<SOS> v28 v2 v2 v1 v35 <EOS>
+common_morning_glory.n.01	common morning glory annual perennial climbing herb central america sky-blue flowers commonly cultivated morning glory	<SOS> v28 v21 v55 <EOS>
+strawberry_geranium.n.01	strawberry geranium eastern asiatic saxifrage racemes small red-and-white flowers spreads numerous creeping stolons	<SOS> v28 v3 v354 <EOS>
+meadow_cranesbill.n.01	meadow cranesbill tall perennial cranesbill paired violet-blue axillary flowers native northern parts old world naturalized north america	<SOS> v28 v3 v221 v2 <EOS>
+sneezeweed_yarrow.n.01	sneezeweed yarrow eurasian herb loose heads button-shaped white flowers long grey-green leaves cause sneezing powdered	<SOS> v28 v3 v260 <EOS>
+big-cone_spruce.n.01	big-cone spruce douglas fir california cones 4-8 inches long	<SOS> v28 v22 v9 v69 v3 v37 <EOS>
+fennel_flower.n.01	fennel flower nigella spain southern france	<SOS> v28 v2 v2 v1 v3 <EOS>
+great_ragweed.n.01	great ragweed coarse annual leaves deeply palmately three-cleft five-cleft	<SOS> v28 v10 v17 <EOS>
+deciduous_holly.n.01	deciduous holly holly tree	<SOS> v28 v22 v9 v152 v24 <EOS>
+downy_ground_cherry.n.01	downy ground cherry decorative american annual round fleshy yellow berries enclosed bladderlike husk	<SOS> v28 v3 v286 <EOS>
+sweet_sultan.n.03	sweet sultan asian plant widely grown sweetly fragrant pink flowers sometimes placed genus centaurea	<SOS> v28 v2 v2 v1 <EOS>
+sorrel_tree.n.01	sorrel tree deciduous shrubby tree eastern north america deeply fissured bark sprays small fragrant white flowers sour-tasting leaves	<SOS> v28 v22 v9 v152 <EOS>
+forsythia.n.01	forsythia various early blooming oleaceous shrubs genus forsythia native eastern asia southern europe widely cultivated branches bright yellow bell-shaped flowers	<SOS> v28 v22 v12 <EOS>
+creeping_buttercup.n.01	creeping buttercup perennial european herb long creeping stolons	<SOS> v28 v3 v265 <EOS>
+laurel_oak.n.01	laurel oak large nearly semi-evergreen oak southeastern united states thrives damp soil	<SOS> v28 v22 v9 v164 <EOS>
+breadfruit.n.01	breadfruit native pacific islands edible fruit texture like bread	<SOS> v28 v22 v9 v152 v56 <EOS>
+little-head_snakeweed.n.01	little-head snakeweed similar gutierrezia sarothrae flower heads fewer rays disk flowers	<SOS> v28 v22 v12 v6 v20 <EOS>
+cross-leaved_heath.n.01	cross-leaved heath dwarf european shrub rose-colored flowers	<SOS> v28 v22 v12 v55 v7 <EOS>
+rock_sandwort.n.01	rock sandwort low perennial tufted plant southeastern north america	<SOS> v28 v2 v2 v1 v58 <EOS>
+bunchgrass.n.01	bunchgrass various grasses many genera grow tufts clumps rather forming sod mat chiefly western united states	<SOS> v28 v3 v351 v3 <EOS>
+rusty_woodsia.n.01	rusty woodsia common rock-inhabiting fern northern temperate regions rusty-brown stipes lanceolate pinnate fronds	<SOS> v28 v1 v2 v79 <EOS>
+common_hyacinth.n.01	common hyacinth widely grown fragrance white pink blue purplish flowers	<SOS> v28 v7 v5 v20 <EOS>
+sego_lily.n.01	sego lily perennial plant clusters one four showy white bell-shaped flowers atop erect unbranched stems edible bulbs useful times scarcity eastern montana western north dakota south northern arizona northwestern new mexico	<SOS> v28 v7 v5 <EOS>
+chinese_gooseberry.n.01	chinese gooseberry climbing vine native china cultivated new zealand fuzzy edible fruit green meat	<SOS> v28 v21 <EOS>
+water_fennel.n.01	water fennel european poisonous herb fibrous roots	<SOS> v8 <EOS>
+calaba.n.01	calaba west indian tree racemes fragrant white flowers yielding durable timber resinous juice	<SOS> v28 v22 v9 <EOS>
+cereal_oat.n.01	cereal oat widely cultivated temperate regions edible grains	<SOS> v28 v3 v351 v3 v5 v4 <EOS>
+prairie_rocket.n.01	prairie rocket several north american plants genus erysimum large yellow flowers	<SOS> v28 v2 v2 v1 <EOS>
+common_bearberry.n.01	common bearberry evergreen mat-forming shrub north america northern eurasia small white flowers red berries leaves turn red autumn	<SOS> v28 v22 v12 v187 <EOS>
+indian_hemp.n.01	indian hemp source e.g bhang hashish well fiber	<SOS> v28 v22 v12 v203 <EOS>
+montezuma.n.01	montezuma evergreen tree large leathery leaves large pink orange flowers considered link plant families bombacaceae sterculiaceae	<SOS> v28 v22 v9 <EOS>
+lead_tree.n.01	lead tree low scrubby tree tropical subtropical north america white flowers tinged yellow resembling mimosa long flattened pods	<SOS> v28 v22 v9 <EOS>
+five-spot.n.02	five-spot california annual white flowers deep purple blotch petal	<SOS> v28 v3 v128 <EOS>
+wild_leek.n.02	wild leek coarse old world perennial large bulb tall stalk greenish purple-tinged flowers widely naturalized	<SOS> v28 v7 v5 v9 <EOS>

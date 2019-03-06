@@ -1,0 +1,35 @@
+cushaw.n.01	cushaw plant bearing squash globose ovoid fruit variously striped grey green white warty rinds	<SOS> vascular_plant.n.01 vine.n.01 squash.n.01 winter_squash.n.01 <EOS>
+blue_lotus.n.02	blue lotus blue egyptian lotus held sacred egyptians	<SOS> vascular_plant.n.01 aquatic_plant.n.01 water_lily.n.01 <EOS>
+black_sage.n.01	black sage aromatic plant wooly leaves found southern california mexico	<SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 subshrub.n.01 blue_curls.n.01 <EOS>
+nimblewill.n.01	nimblewill slender branching american grass value grazing central united states	<SOS> vascular_plant.n.01 herb.n.01 gramineous_plant.n.01 grass.n.01 <EOS>
+hydnocarpus_laurifolia.n.01	hydnocarpus laurifolia leathery-leaved tree western india bearing round fruits brown densely hairy rind enclosing oily pulp yields hydnocarpus oil	<SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 <EOS>
+umbrella_tree.n.01	umbrella tree erect evergreen shrub small tree australia northern new guinea palmately compound leaves	<SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 <EOS>
+texas_snowbell.n.01	texas snowbell styrax southwestern united states threatened species	<SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 styrax.n.01 <EOS>
+marsh_gentian.n.01	marsh gentian perennial eurasian gentian sky-blue funnel-shaped flowers damp open heaths	<SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 gentian.n.01 <EOS>
+hybrid_petunia.n.01	hybrid petunia hybrids petunia axillaris petunia integrifolia complex group petunias single double flowers colors white purple	<SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 petunia.n.01 <EOS>
+silky_dogwood.n.02	silky dogwood shrub eastern north america closely resembling silky cornel	<SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 dogwood.n.01 <EOS>
+stream_orchid.n.01	stream orchid orchid growing along streams ponds western north america leafy stems 1 greenish-brown pinkish flower axil upper leaf	<SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 orchid.n.01 helleborine.n.02 <EOS>
+dwarf_maple.n.01	dwarf maple small maple northwestern north america	<SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 maple.n.02 <EOS>
+bearded_wheatgrass.n.01	bearded wheatgrass wheatgrass straight terminal awns flowering glumes	<SOS> vascular_plant.n.01 herb.n.01 gramineous_plant.n.01 grass.n.01 wheatgrass.n.01 <EOS>
+loquat.n.01	loquat evergreen tree warm regions fuzzy yellow olive-sized fruit large free stone native china japan	<SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 fruit_tree.n.01 <EOS>
+tangle_orchid.n.01	tangle orchid orchid genus plectorrhiza tangled roots long wiry stems bearing lax racemes small fragrant green flowers	<SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 orchid.n.01 <EOS>
+lady-of-the-night.n.01	lady-of-the-night west indian shrub fragrant showy yellowish-white flowers	<SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 <EOS>
+rose_chestnut.n.01	rose chestnut handsome east indian evergreen tree often planted ornamental fragrant white flowers yield perfume source heavy hardwood used railroad ties	<SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 <EOS>
+american_beech.n.01	american beech north american forest tree light green leaves edible nuts	<SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 beech.n.01 <EOS>
+gentianopsis_detonsa.n.01	gentianopsis detonsa medium-tall fringed gentian pale-blue blue-purple flowers circumboreal distribution	<SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 gentian.n.01 fringed_gentian.n.01 <EOS>
+puttyroot.n.01	puttyroot north american orchid bearing single leaf yellowish-brown flowers	<SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 orchid.n.01 <EOS>
+felwort.n.01	felwort gentian europe china creamy white flowers fringed corollas	<SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 gentian.n.01 <EOS>
+marang.n.01	marang philippine tree similar breadfruit tree bearing edible fruit	<SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 fruit_tree.n.01 <EOS>
+cape_marigold.n.01	cape marigold several south african plants grown profusion usually yellow daisylike flowers mounds aromatic foliage	<SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 <EOS>
+wild_hydrangea.n.01	wild hydrangea deciduous shrub creamy white flower clusters eastern united states	<SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 hydrangea.n.01 <EOS>
+marsh_pink.n.01	marsh pink several pink-flowered marsh plant eastern united states resembling true centaury	<SOS> vascular_plant.n.01 aquatic_plant.n.01 marsh_plant.n.01 sabbatia.n.01 <EOS>
+cattley_guava.n.01	cattley guava small tropical shrubby tree bearing deep red oval fruit	<SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 fruit_tree.n.01 <EOS>
+ragged_robin.n.01	ragged robin common perennial native europe western asia usually pink flowers ragged petals	<SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 lychnis.n.01 <EOS>
+broom_sedge.n.01	broom sedge tall tufted grass southeastern united states	<SOS> vascular_plant.n.01 herb.n.01 gramineous_plant.n.01 grass.n.01 broom_grass.n.01 <EOS>
+chaparral_mallow.n.01	chaparral mallow shrub coastal ranges california baja california hairy branches spikes numerous mauve flowers sometimes placed genus sphaeralcea	<SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 mallow.n.01 <EOS>
+marmalade_bush.n.01	marmalade bush evergreen south american shrub showy trumpet-shaped orange flowers grown ornamental houseplant	<SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 <EOS>
+smooth-leaved_elm.n.01	smooth-leaved elm european elm lustrous smooth leaves used ornamental	<SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 elm.n.01 <EOS>
+dendrobium.n.01	dendrobium plant genus dendrobium stems like cane usually showy racemose flowers	<SOS> vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 orchid.n.01 <EOS>
+snag.n.02	snag dead tree still standing usually undisturbed forest	<SOS> vascular_plant.n.01 woody_plant.n.01 tree.n.01 <EOS>
+pink_fivecorner.n.01	pink fivecorner heathlike shrub southwestern australia grown sharply scented foliage pink flowers followed pentagonal fruit	<SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 <EOS>
+chinese_privet.n.01	chinese privet erect evergreen treelike shrub china korea japan acuminate leaves flowers long erect panicles resembles japanese privet	<SOS> vascular_plant.n.01 woody_plant.n.01 shrub.n.01 privet.n.01 <EOS>

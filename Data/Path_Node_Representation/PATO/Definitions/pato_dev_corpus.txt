@@ -1,0 +1,13 @@
+PATO:0002401	random pattern characterised unidentifiable pattern	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 PATO:0000060 <EOS>
+PATO:0002409	fluid-filled bounded structure filled fluid	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 PATO:0002014 <EOS>
+PATO:0000758	unbalanced balance quality inhering bearer virtue bearer 's lacking balance	<SOS> PATO:0001241 PATO:0001995 PATO:0000186 PATO:0000185 <EOS>
+PATO:0001945	ochre moderate yellow-orange orange color	<SOS> PATO:0001241 PATO:0001018 PATO:0001739 PATO:0001291 PATO:0001300 PATO:0000014 PATO:0000953 PATO:0001944 <EOS>
+PATO:0001437	sessile sensu zoology attachment quality inhering bearer virtue bearer 's inability move	<SOS> PATO:0001241 PATO:0000051 PATO:0000141 PATO:0001435 <EOS>
+PATO:0001792	left side spatial quality inhering bearer virtue bearer 's located left side another entity	<SOS> PATO:0001241 PATO:0001018 PATO:0000140 <EOS>
+PATO:0002241	trilobed lobed quality inhering bearer virtue bearer 's divided three lobes	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0001979 <EOS>
+PATO:0001686	non-magnetic magnetic quality inhering bearer virtue bearer 's inability exert magnitism	<SOS> PATO:0001241 PATO:0001018 PATO:0001682 <EOS>
+PATO:0015010	increased humidity increase humidity humid	<SOS> PATO:0001241 PATO:0002305 <EOS>
+PATO:0001796	decreased coiling coiling relatively low low coiling	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0001794 PATO:0000404 <EOS>
+PATO:0001843	decreased acidity acidity relatively low low acidity	<SOS> PATO:0001241 PATO:0002182 PATO:0000033 PATO:0001842 <EOS>
+PATO:0005019	curved lingually curvature quality inhering bearer virtue bearer 's curved towards tongue	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0001591 PATO:0000406 <EOS>
+PATO:0002441	ornamented surface feature shape bearer 's surface highly topographical ridges pits rugosity surface structures	<SOS> PATO:0001241 PATO:0000051 PATO:0000052 PATO:0001925 PATO:0002440 <EOS>

@@ -1,0 +1,622 @@
+DOID:0060444	granular corneal dystrophy type ii avellino corneal dystrophy cgd2 combined granular-lattice corneal dystrophy granular corneal dystrophy type 2	<SOS> v3 v9 v9 v2 v3 v8 v13 v2 <EOS>
+DOID:0080156	x-linked adrenal hypoplasia congenita adrenal cortical hypofunction characterized reduction adrenal gland function resulting incomplete development adrenal cortex has_material_basis_in nuclear receptor nr0b1 dax1 gene congenital adrenal hypoplasia	<SOS> v4 v1 v5 v1 <EOS>
+DOID:0110988	joubert syndrome 2 joubert syndrome characterized molar tooth sign brain mri hypotonia developmental delay oculomotor apraxia breathing abnormalities has_material_basis_in mutation tmem216 gene chromosome 11q12.2 cerebellooculorenal syndrome 2 cors2 jbts2	<SOS> v7 v39 v3 <EOS>
+DOID:0080167	myeloid lymphoid neoplasms associated fgfr1 abnormalities myeloid lymphoid neoplasms eosinophilia abnormalities pdgfra pdgfrb fgfr1 characterized rearrangement fgfr1 gene resulting translocations 8p11 breakpoint	<SOS> v8 v1 v2 v6 v3 v2 v5 <EOS>
+DOID:12537	hypermobility coccyx coccygeal hypermobility syndrome hypermobility coccyx	<SOS> v3 v11 v3 v4 v10 v13 <EOS>
+DOID:6483	rete testis adenoma adenoma located_in rete testis	<SOS> v8 v1 v1 v7 <EOS>
+DOID:6482	lung acinar adenocarcinoma acinar adenocarcinoma lung	<SOS> v8 v1 v2 v11 v5 v6 <EOS>
+DOID:0050148	laryngotracheitis upper respiratory tract disease involving inflammation larynx trachea often caused viral infection infection close windpipe	<SOS> v3 v4 v4 <EOS>
+DOID:0060874	isolated growth hormone deficiency type ib isolated growth hormone deficiency characterized autosomal recessive inheritance low detectable levels gh short stature significantly retarded bone age positive response immunologic tolerance growth hormone therapy material_basis_in mutation gh1 ghrhr genes chromosomes 17q23.3 7p14.3 respectively congenital ighd type ib congenital isolated gh deficiency type ib congenital isolated growth hormone deficiency type ib dwarfism sindh ighd ib	<SOS> v3 v8 v9 v1 v3 <EOS>
+DOID:0060877	bullous congenital ichthyosiform erythroderma ichthyosis characterized congenital erythema widespread skin blistering blisters develop gray hyperkeratoses lichenified appearance has_material_basis_in heterozygous mutation krt2 gene chromosome 12q13 bullous type ichthyosis ichthyosis bullosa siemens superficial epidermolytic ichthyosis	<SOS> v4 v1 v2 v6 <EOS>
+DOID:0110022	age related macular degeneration 10 age related macular degeneration associated variation genomic region 9:112,100,000-127,500,000 grch38 tlr4 put forth candidate gene armd10	<SOS> v4 v1 v2 v6 v145 <EOS>
+DOID:0070298	multiple epiphyseal dysplasia 2 multiple epiphyseal dysplasia due collagen 9 anomaly has_material_basis_in heterozygous mutation col9a2 gene chromosome 1p34 edm2	<SOS> v3 v11 v3 v4 v1 v4 v12 <EOS>
+DOID:14550	root resorption	<SOS> v3 v12 v8 v12 v9 v2 <EOS>
+DOID:14555	foster-kennedy syndrome	<SOS> v3 v9 v6 v5 v1 v7 v6 <EOS>
+DOID:14491	regional ureteric cancer regional malignant ureteral tumor regional ureteric carcinoma	<SOS> v3 v2 v1 v1 v2 <EOS>
+DOID:4762	vasculogenic impotence	<SOS> v2 v10 v2 v1 <EOS>
+DOID:4766	embryoma carcinosarcoma embryonal cancer located_in embryonic tissue results_in mass rapidly growing cells blastoma	<SOS> v8 v1 v1 v10 v6 <EOS>
+DOID:0050398	carrion 's disease bartonellosis results_in infection located_in endothelial cells located_in red blood cells has_material_basis_in bartonella bacilliformis transmitted_by sandflies genus lutzomyia infection acute chronic phases acute phase characterized severe hemolytic anemia transient immunosuppression chronic phase characterized verruga peruana lesions may ulcerate bleed carrion disease oroya fever	<SOS> v6 v4 v2 v31 <EOS>
+DOID:0070124	congenital nongoitrous hypothyroidism 2 congenital hypothyroidism has_material_basis_in heterozygous mutation pax8 gene chromosome 2q13 chng2 congenital hypothyroidism due thyroid dysgenesis hypoplasia	<SOS> v3 v8 v6 v1 v2 <EOS>
+DOID:11554	chandler syndrome chandler 's syndrome dystrophy corneal endothelium endothelial corneal dystrophy posterior membrane corneal dystrophy	<SOS> v3 v9 v9 v2 v3 v8 v13 <EOS>
+DOID:0080112	mitochondrial complex iii deficiency nuclear type 3 mitochondrial complex iii deficiency has_material_basis_in homozygous mutation uqcrb gene chromosome 8q22	<SOS> v5 v2 v14 v33 <EOS>
+DOID:0070045	coffin-siris syndrome 3 coffin-siris syndrome has_material_basis_in autosomal dominant mutation smarcb1 chromosome 22q11.23 autosomal dominant mental retardation 15 css3 mrd15	<SOS> v4 v1 v2 v6 v153 v53 <EOS>
+DOID:5949	angiokeratoma circumscriptum angiokeratoma circumscriptum	<SOS> v8 v3 v2 v12 v1 <EOS>
+DOID:0110281	autosomal recessive limb-girdle muscular dystrophy type 2g autosomal recessive limb-girdle muscular dystrophy has_material_basis_in mutation gene encoding telethonin tcap lgmd2g limb-girdle muscular dystrophy due telethonin deficiency muscular dystrophy limb-girdle type 2g	<SOS> v4 v1 v2 v5 v114 <EOS>
+DOID:0110287	autosomal recessive limb-girdle muscular dystrophy type 2s autosomal recessive limb-girdle muscular dystrophy has_material_basis_in homozygous mutation trappc11 gene chromosome 4q35 lgmd2s muscular dystrophy limb-girdle type 2s	<SOS> v4 v1 v2 v5 v114 <EOS>
+DOID:9249	beemer-langer syndrome syndrome results_in multiple congenital anomalies including hydrops fetalis facial visceral abnormalities short ribs short limbs without polydactyly type iv short rib polydactyly syndrome	<SOS> v7 <EOS>
+DOID:0110321	hypertrophic cardiomyopathy 15 familial hypertrophic cardiomyopathy has_material_basis_in heterozygous mutation vinculin gene vcl chromosome 10q22 cardiomyopathy familial hypertrophic 15 cmh15	<SOS> v3 v10 v3 v7 v2 v4 v1 <EOS>
+DOID:0110324	hypertrophic cardiomyopathy 18 familial hypertrophic cardiomyopathy has_material_basis_in heterozygous mutation gene encoding phospholamban pln chromosome 6q22.1 cardiomyopathy familial hypertrophic 18 cmh18	<SOS> v3 v10 v3 v7 v2 v4 v1 <EOS>
+DOID:0080282	infantile epileptic encephalopathy 56	<SOS> v3 v9 v10 v3 v13 v5 v3 <EOS>
+DOID:0050664	bietti crystalline corneoretinal dystrophy bietti 's crystalline dystrophy	<SOS> v3 v9 v9 v2 v3 v19 v17 <EOS>
+DOID:4846	cauda equina intradural extramedullary astrocytoma intradural extramedullary astrocytic tumor cauda equina	<SOS> v3 v9 v10 v12 v1 v6 <EOS>
+DOID:5907	penis non-invasive verrucous carcinoma non-invasive penile verrucous carcinoma	<SOS> v8 v1 v1 v7 v34 v29 v3 <EOS>
+DOID:9563	bronchiectasis bronchial disease chronic inflammatory condition one bronchi bronchioles marked dilatation loss elasticity walls resulting damage airway wall leading formation small sacs bronchial wall impairment cilia mobility lung inflammation bronchial wall increases mucus secretion serves breeding ground bacteria bronchiectasis caused repeated respiratory infections immune deficiency disorders hereditary disorders cystic fibrosis primary ciliary dyskinesia mechanical factors inhaled object lung tumor inhaling toxic substances polynesian bronchiectasis	<SOS> v3 v4 v2 v2 <EOS>
+DOID:0110737	neurodegeneration brain iron accumulation 3 neurodegeneration brain iron accumulation has_material_basis_in autosomal dominant inheritance mutation ftl gene chromosome 19q13.33 adult basal ganglia disease ferritin-related neurodegeneration hereditary ferritinopathy nbia3 neuroferritinopathy neuroferritinopathy basal ganglia disease adult-onset	<SOS> v3 v9 v10 v18 v4 <EOS>
+DOID:14725	autosomal dominant microcephaly	<SOS> v4 v1 v2 v6 <EOS>
+DOID:0050549	saldino-noonan syndrome syndrome characterized congenital heart defects failure thrive short stature cognitive dysfunction pectus excavatum coagulation defects craniofacial defects has_material_basis_in mutation ras/mitogen activated protein kinase type short rib polydactyly syndrome	<SOS> v7 <EOS>
+DOID:5643	urethral villous adenoma	<SOS> v8 v3 v2 v8 v1 <EOS>
+DOID:206	hereditary multiple exostoses exostosis material basis mutation genes ext1 ext2 ext3 results multiple bony spurs throughout child 's growth hereditary multiple exostoses 1 hereditary multiple exostoses 2 hereditary multiple exostoses 3 multiple congenital exostosis multiple exostosis syndromes multiple ostechondromas osteochondromatosis syndrome	<SOS> v3 v11 v3 v4 v4 v6 v3 <EOS>
+DOID:0110453	dilated cardiomyopathy 1ee dilated cardiomyopathy has_material_basis_in mutation myh6 gene chromosome 14q11.2 cmd1ee	<SOS> v3 v10 v3 v7 v2 v2 <EOS>
+DOID:7241	uterine corpus apoplectic leiomyoma uterine corpus cellular leiomyoma characterized stellate zones recent hemorrhage within nodules hypercellular smooth muscle	<SOS> v8 v3 v2 v10 v4 v3 v2 <EOS>
+DOID:0110518	autosomal recessive nonsyndromic deafness 67 autosomal recessive nonsyndromic deafness characterized prelingual onset severe profound stable hearing loss has_material_basis_in mutation lhfpl5 gene chromosome 6p21 autosomal recessive deafness 67 dfnb67	<SOS> v3 v9 v9 v1 v6 v2 <EOS>
+DOID:4505	pediatric angiosarcoma angiosarcoma affects children pediatric hemangiosarcoma	<SOS> v8 v1 v2 v12 v1 v2 <EOS>
+DOID:5585	ferguson-smith tumor multiple self-healing epithelioma ferguson-smith	<SOS> v8 v1 v1 v7 v34 v39 v2 <EOS>
+DOID:9060	pityriasis versicolor superficial mycosis chronic superficial fungal infection skin caused malassezia furfur characterized well-demarcated white pink fawn brownish lesions often coalescing covered thin furfuraceous scales infection pityrosporum furfur pityriasis versicolor	<SOS> v6 v2 v4 <EOS>
+DOID:0110071	arrhythmogenic right ventricular dysplasia 2 arrhythmogenic right ventricular dysplasia has_material_basis_in heterozygous mutation cardiac ryanodine receptor-2 gene ryr2 chromosome 1q43 arrhythmogenic right ventricular cardiomyopathy 2 arvc2 arvd2 familial arrhythmogenic right ventricular dysplasia 2	<SOS> v3 v10 v3 v7 v2 v6 <EOS>
+DOID:9341	urethral diverticulum	<SOS> v3 v2 v9 <EOS>
+DOID:5469	biliary tract intraductal papillary mucinous neoplasm	<SOS> v8 v3 v2 v9 v9 v1 <EOS>
+DOID:6603	kummell 's disease kummell disease kummell 's spondylitis traumatic spondylopathy	<SOS> v3 v11 v3 v4 v10 v13 <EOS>
+DOID:9749	internal hemorrhoid	<SOS> v3 v12 v5 v28 v5 v1 <EOS>
+DOID:0050983	spinocerebellar ataxia type 36	<SOS> v4 v1 v2 v6 v1 <EOS>
+DOID:9745	perianal hematoma external thrombosed haemorrhoids thrombosed external hemorrhoids	<SOS> v3 v12 v5 v28 v5 v1 <EOS>
+DOID:0050246	granulomatous amebic encephalitis parasitic protozoa infectious disease results infection brain caused acanthamoeba balamuthia mandrillaris symptoms include headaches altered mental status focal neurologic deficit progresses several weeks death acanthamoeba encephalitis acanthamoeba granulomatous encephalitis granulomatous amebic encephalitis due acanthamoeba granulomatous amoebic encephalitis	<SOS> v6 v3 v3 v10 <EOS>
+DOID:0050712	agat deficiency amino acid metabolic disorder has_material_basis_in mutation gatm gene resulting deficiency arginine glycine amidinotransferase limits creatine synthesis arginine glycine amidinotransferase deficiency cerebral creatine deficiency syndrome 3	<SOS> v5 v2 v13 v14 <EOS>
+DOID:0110609	primary ciliary dyskinesia 23 primary ciliary dyskinesia characterized autosomal recessive inheritance outer dynein arm defect respiratory distress recurrent upper lower airway infections variable occurence situs inversus has_material_basis_in homozygous compound heterozygous mutation armc4 gene chromosome 10p cild23 primary ciliary dyskinesia 23 without situs inversus	<SOS> v7 v39 v2 <EOS>
+DOID:4607	biliary tract cancer gastrointestinal system cancer results_in malignant growth located_in gallbladder located_in bile duct malignant tumour biliary tract	<SOS> v8 v1 v2 v10 <EOS>
+DOID:676	juvenile rheumatoid arthritis rheumatoid arthritis involves autoimmune disease onset children 16 attacks healthy cells tissue located_in joint acute juvenile rheumatoid arthritis juvenile chronic polyarthritis juvenile idiopathic arthritis monarticular juvenile rheumatoid arthritis pauciarticular juvenile arthritis pauciarticular onset juvenile chronic arthritis systemic juvenile rheumatoid arthritis	<SOS> v3 v11 v3 v4 v6 v7 v4 <EOS>
+DOID:0050719	cerebral folate receptor alpha deficiency vitamin metabolic disorder has_material_basis_in mutations folate receptor 1 folr1 gene coding folate receptor alpha fralpha located_in brain characterized progressive movement disturbance psychomotor decline epilepsy	<SOS> v5 v2 v18 <EOS>
+DOID:5126	central nervous system leiomyoma leiomyoma located_in central nervous system leiomyoma cns	<SOS> v8 v3 v2 v3 v1 <EOS>
+DOID:0080028	spondyloepimetaphyseal dysplasia strudwick type spondyloepimetaphyseal dysplasia has_material_basis_in mutations col2a1 gene results_in short stature multiple skeletal abnormalities lordosis scoliosis flattened vertebrae pectus carinatum coxa vara clubfoot abnormal epiphyses metaphyses	<SOS> v3 v11 v3 v4 v1 v4 v17 <EOS>
+DOID:0070220	familial hyperinsulinemic hypoglycemia 5 hyperinsulinemic hypoglycemia characterized autosomal dominant inheritance postprandial hypoglycemia fasting hyperinsulinemia elevated serum insulin-to-c peptide ratio has_material_basis_in mutation insr gene chromosome 19p13 hhf5 hyperinsulinemic hypoglycemia due insr deficiency hyperinsulinemic hypoglycemia due insulin receptor deficiency hyperinsulinism due insr deficiency	<SOS> v5 v2 v11 v14 <EOS>
+DOID:8538	reticulosarcoma histiocytic lymphoma large-cell lymphomas	<SOS> v8 v1 v2 v2 v2 <EOS>
+DOID:0080021	schmid metaphyseal chondrodysplasia metaphyseal dysplasia results_in dwarfism bowed legs japanese type spondylometaphyseal dysplasia schmid type metaphyseal dysplasia	<SOS> v3 v11 v3 v4 v1 v4 v3 <EOS>
+DOID:7435	polyvesicular vitelline pattern testicular yolk sac tumor	<SOS> v8 v1 v2 v8 v3 v3 v1 v3 v1 <EOS>
+DOID:0050584	gummatous syphilis tertiary syphilis characterized granulomatous lesions called gummas characterized center necrotic tissue rubbery texture form liver bones testes may affect organ	<SOS> v6 v4 v2 v19 v4 <EOS>
+DOID:6128	gliomatosis cerebri brain cancer characterized pattern diffuse infiltration brain affect various areas cerebral lobes has_material_basis_in abnormally proliferating cells derives_from glial cells astrocytosis cerebri gliomatosis cerebri	<SOS> v8 v1 v2 v5 v4 v6 <EOS>
+DOID:3751	plantar verrucous skin carcinoma	<SOS> v8 v1 v1 v7 v34 v39 <EOS>
+DOID:7731	childhood malignant hemangiopericytoma malignant pediatric hemangiopericytoma	<SOS> v8 v1 v2 v1 v1 v7 <EOS>
+DOID:4183	pseudopseudohypoparathyroidism normocalcemic pseudohypoparathyroidism pseudopseudohypoparathyroidism	<SOS> v5 v2 v17 v7 <EOS>
+DOID:11101	trench fever primary bacterial infectious disease results systemic infection material basis bartonella quintana transmitted body lice pediculus humanus corporis infection symptom relapsing fever symptom headache symptom shin pain symptom soreness muscles legs back his-werner disease quintan fever shin bone fever tibialgic fever trench fever wolhynian fever	<SOS> v6 v4 v2 v31 <EOS>
+DOID:13574	cortical senile cataract cortical senile cataract	<SOS> v4 v1 v11 v29 <EOS>
+DOID:4028	angioma serpiginosum skin hemangioma characterized presence small red dots cluster together form linear snake-like array ring-shaped pattern located_in blood vessels skin angioma serpiginosum skin	<SOS> v8 v3 v1 v3 v7 v5 <EOS>
+DOID:13576	twin-to-twin transfusion syndrome fetal blood loss fetal hemorrhage co-twin fetal hemorrhage co-twin twin twin transfusion twin-to-twin blood transfer	<SOS> v3 v6 v3 v1 <EOS>
+DOID:13378	kawasaki disease lymphadenitis characterized swelling cervical lymph nodes infants young children inflammation medium-sized blood vessels located_in body has_symptom fever has_symptom congestion ocular conjunctivae has_symptom reddening lips has_symptom reddening oral cavity has_symptom protuberance tongue papillae has_symptom edema extremities acute febrile mcls acute febrile mucocutaneous lymph node syndrome kawasaki 's disease mlns mucocutaneous lymph node syndrome	<SOS> v3 v1 v4 v8 v1 <EOS>
+DOID:10983	alport syndrome monogenic disease characterized glomerulonephritis endstage kidney disease hearing loss hereditary nephritis	<SOS> v4 v1 <EOS>
+DOID:106	pleural tuberculosis extrapulmonary tuberculosis results_in lymphocyte-predominant exudative pleural effusion located_in pleura results allergic response tuberculoprotein causing permeabiltity pleural vasculature alter leading sub-pleural caseous focus rupture pleural sac pearly disease tuberculosis pleura tuberculous pleurisy tuberculous pleurisy primary progressive tuberculosis tuberculous pleuritis	<SOS> v6 v4 v2 v18 v1 <EOS>
+DOID:10986	discitis	<SOS> v3 v11 v3 v9 <EOS>
+DOID:946	dientamoebiasis parasitic protozoa infectious disease involves infection large intestine protozoan parasite dientamoeba fragilis symptoms include diarrhea stomach pain cramping loss appetite weight nausea fatigue intestinal trichomoniasis	<SOS> v6 v3 v3 <EOS>
+DOID:12167	secondary vitreoretinal degeneration	<SOS> v3 v9 v9 v2 v3 v19 v17 v3 <EOS>
+DOID:0060062	familial juvenile hyperuricemic nephropathy kidney disease characterized hyperuricemia renal uric acid under-excretion gout chronic kidney disease	<SOS> v3 v2 v6 <EOS>
+DOID:12360	lateral displacement eye lateral displacement globe	<SOS> v3 v9 v9 v2 v2 v2 <EOS>
+DOID:0060187	diversion colitis colitis caused_by diversion fecal stream due complication ileostomy colostomy	<SOS> v3 v12 v5 v17 v30 <EOS>
+DOID:4930	nasal cavity adenocarcinoma nasal cavity carcinoma derives_from epithelial cells glandular origin adenocarcinoma nasal cavity adenocarcinoma nasal cavity	<SOS> v8 v1 v1 v7 v12 <EOS>
+DOID:0060560	lethal congenital contracture syndrome 2 lethal congenital contracture syndrome material basis homozygous mutation erbb3 gene chromosome 12q13 lccs2 multiple contracture syndrome israeli-bedouin type	<SOS> v7 v97 <EOS>
+DOID:0070092	schizophrenia 16 schizophrenia has_material_basis_in mutation chromosome 7q36.3 sczd16	<SOS> v2 v8 v5 v4 <EOS>
+DOID:10069	subglottis neoplasm subglottic tumor	<SOS> v8 v3 v2 v11 v5 <EOS>
+DOID:0090088	hypogonadotropic hypogonadism 24 without anosmia hypogonadotropic hypogonadism has_material_basis_in homozygous compound heterozygous mutation fshb gene chromosome 11p14 isolated follicle-stimulating hormone deficiency	<SOS> v3 v8 v4 v4 v2 <EOS>
+DOID:0060642	recessive dystrophic epidermolysis bullosa epidermolysis bullosa dystrophica characterized recurrent blistering level sublamina densa beneath cutaneous basement membrane material basis homozygous compound heterozygous mutation gene encoding type vii collagen col7a1 chromosome 3p21 autosomal recessive dystrophic epidermolysis bullosa generalisata gravis autosomal recessive dystrophic epidermolysis bullosa hallopeau-siemens type rdeb hallopeau-siemens type severe generalized rdeb severe generalized recessive dystrophic epidermolysis bullosa	<SOS> v3 v3 v2 v39 v2 v1 <EOS>
+DOID:3281	combined thymoma	<SOS> v8 v1 v2 v2 v1 v1 <EOS>
+DOID:2474	vernal conjunctivitis	<SOS> v3 v9 v9 v2 v3 v7 v2 v3 <EOS>
+DOID:0070254	congenital disorder glycosylation type iib congenital disorder glycosylation type ii has_material_basis_in autosomal recessive mutation mogs chromosome 2p13.1 cdg iib cdg2b cdgiib glucosidase deficiency\n	<SOS> v5 v2 v11 v4 v1 <EOS>
+DOID:0110917	hereditary spherocytosis type 2 hereditary spherocytosis has_material_basis_in autosomal dominant mutation sptb chromosome 14q23.3 hereditary spherocytosis 2 hs2 sph2	<SOS> v3 v6 v3 v8 v1 v2 v4 <EOS>
+DOID:0080331	cold-induced sweating syndrome 3 cold-induced sweating syndrome has_material_basis_in homozygous mutation klhl7 gene chromosome 7p15	<SOS> v4 v1 v2 v5 v27 <EOS>
+DOID:11629	pelvic muscle wasting prolapse female genital organ characterized decrease muscle mass tissue pelvic floor vagina vulva urinary tract due aging menopause subsequent reduction estrogen combination two	<SOS> v3 v5 v4 v11 <EOS>
+DOID:0060834	griscelli syndrome type 3 griscelli syndrome characterized isolated silvery gray sheen hair hypopigmentation skin has_material_basis_in mutation mlph myo5a genes griscelli-pruniras syndrome type 3 gs3	<SOS> v4 v1 v2 v5 v106 <EOS>
+DOID:3578	ovarian gonadoblastoma ovarian benign neoplasm has_material_basis_in mixture gonadal elements	<SOS> v8 v3 v2 v10 v4 v2 <EOS>
+DOID:10657	colonic lymphangioma colonic lymphangioma lymphangioma colon	<SOS> v8 v3 v1 v8 <EOS>
+DOID:0060362	punctate palmoplantar keratoderma type iii acrokeratoelastoidosis costa punctate palmoplantar hyperkeratosis type 3 punctate palmoplantar keratoderma type 3	<SOS> v3 v3 v2 v43 v4 v3 <EOS>
+DOID:746	adenomatoid tumor benign localized epithelial mesothelioma	<SOS> v8 v3 v1 v9 <EOS>
+DOID:0110081	arrhythmogenic right ventricular dysplasia 10 arrhythmogenic right ventricular dysplasia has_material_basis_in heterozygous mutation desmoglein-2 gene dsg2 chromosome 18q12 arrhythmogenic right ventricular cardiomyopathy 10 arvc10 arvd10 familial arrhythmogenic right ventricular dysplasia 10	<SOS> v3 v10 v3 v7 v2 v6 <EOS>
+DOID:5634	adenosquamous prostate carcinoma prostate carcinoma derives_from squamous cells gland-like cells adenosquamous carcinoma prostate adenosquamous carcinoma prostate	<SOS> v8 v1 v2 v13 v3 v1 <EOS>
+DOID:0110086	asphyxiating thoracic dystrophy 2 asphyxiating thoracic dystrophy has_material_basis_in homozygous mutation ift80 gene chromosome 3q25 atd2 short-rib thoracic dysplasia 2 without polydactyly srtd2	<SOS> v4 v1 v2 v5 v199 <EOS>
+DOID:0060418	chromosome 3q13.31 deletion syndrome 3q13 microdeletion syndrome monosomy 3q13	<SOS> v4 v2 v7 <EOS>
+DOID:0060417	3p- syndrome chromosome 3pter-p25 deletion syndrome distal monosomy 3p	<SOS> v4 v2 v7 <EOS>
+DOID:0050118	la crosse encephalitis viral infectious disease results_in inflammation located_in brain has_material_basis_in la crosse virus transmitted_by treehole mosquito ochlerotatus triseriatus infection has_symptom seizures has_symptom headache has_symptom fever has_symptom coma has_symptom paralysis california encephalitis california virus encephalitis neuroinvasive california encephalitis virus infection	<SOS> v6 v1 <EOS>
+DOID:0050290	trichosporonosis opportunistic mycosis results_in disseminated infection has_material_basis_in trichosporon results_in_formation_of nontender erythematous nodules anywhere body	<SOS> v6 v2 v1 v1 <EOS>
+DOID:3372	chondroblastic osteosarcoma chondroblastic osteosarcoma chondrosarcomatous osteogenic sarcoma	<SOS> v3 v11 v3 v4 v11 v1 <EOS>
+DOID:11430	endometriosis scar skin female reproductive system disease characterized growth endometrial tissue located_in scar skin	<SOS> v3 v5 v4 v12 <EOS>
+DOID:0050050	japanese spotted fever spotted fever has_material_basis_in rickettsia japonica transmitted_by ticks dermacentor taiwanensis haemaphysalis flava infection has_symptom fever has_symptom eschars has_symptom regional adenopathy has_symptom rash extremities oriental spotted fever rickettsia japonica spotted fever	<SOS> v6 v4 v2 v34 <EOS>
+DOID:472	subglottic angioma hemangioma subglottis	<SOS> v8 v3 v1 v3 v7 <EOS>
+DOID:3172	papillary adenoma glandular papilloma papillary adenoma	<SOS> v8 v3 v1 v12 <EOS>
+DOID:3173	fallopian tube serous papilloma fallopian tube benign neoplasm has_material_basis_in serosa characterized exophytic growth	<SOS> v8 v3 v2 v10 v4 v4 <EOS>
+DOID:14764	larsen syndrome autosomal dominant disease characterized large-joint dislocations characteristic craniofacial abnormalities dominant larsen syndrome	<SOS> v4 v1 v2 v6 <EOS>
+DOID:0060843	hereditary neuropathy liability pressure palsies neuropathy characterized autosomal dominant inheritance peroneal muscle weakness peripheral neuropathy hyporeflexia tomacula segmental demyelination/remyelination decreased motor nerve conduction material basis deletion point mutation pmp22 gene chromosome 17p12 current pressure-sensitive neuropathy familial recurrent polyneuropathy heterozygous microdeletion 17p11.2p12 hnpp potato-grubbing palsy tomaculous neuropathy tulip-bulb digger 's palsy	<SOS> v3 v9 v6 v5 <EOS>
+DOID:0110175	charcot-marie-tooth disease axonal type 2o charcot-marie-tooth disease type 2 has_material_basis_in heterozygous mutation dync1h1 gene chromosome 14q32 autosomal dominant axonal charcot-marie-tooth disease type 2o autosomal dominant charcot-marie-tooth disease type 2o charcot-marie-tooth neuropathy axonal type 2o	<SOS> v4 v1 v4 v1 <EOS>
+DOID:0060481	goldberg-shprintzen syndrome syndrome characterized intellectual disability specific facial gestalt hirschsprung 's disease hscr material basis homozygous mutation kiaa1279 gene chromosome 10q21.1 goldberg-shprintzen megacolon syndrome	<SOS> v7 <EOS>
+DOID:5820	composite lymphoma lymphoma begins cells immune system different types lymphoma cells occur time	<SOS> v8 v1 v2 v6 v10 v7 v1 <EOS>
+DOID:5128	deep leiomyoma leiomyoma located_in deep soft tissue	<SOS> v8 v3 v1 v14 <EOS>
+DOID:7610	mixed cell type adenoma parathyroid mixed cell type adenoma parathyroid gland	<SOS> v8 v3 v2 v6 v6 <EOS>
+DOID:8577	ulcerative colitis colitis predominantly confined mucosa located_in colon includes characteristic ulcers open sores left-sided ulcerative colitis	<SOS> v3 v12 v5 v17 v30 <EOS>
+DOID:0070209	hereditary lymphedema id hereditary lymphedema characterized autosomal dominant inheritance has_material_basis_in mutation vegfc gene chromosome 4q34 lmph1d	<SOS> v3 v1 v4 v4 v2 <EOS>
+DOID:3309	neurodermatitis	<SOS> v3 v3 v2 v11 <EOS>
+DOID:9784	trichinosis parasitic helminthiasis infectious disease involves parasitic infection animals humans trichinella spiralis trichinella nativa trichinella britovi intestinal invasion causes diarrhea abdominal pain vomiting larval migration muscle tissues cause periorbital facial edema conjunctivitis fever myalgias splinter hemorrhages rashes blood eosinophilia myocarditis central nervous system involvement pneumonitis also occur trichinella spiralis infection	<SOS> v6 v3 v1 <EOS>
+DOID:11329	ainhum connective tissue disease results increasing fibrous constriction ultimately spontaneous amputation toes especially little toes painful constriction base fifth toe frequently followed bilateral spontaneous amputation autoamputation years later ainhum dactylolysis spontanea	<SOS> v3 v11 v3 <EOS>
+DOID:2392	glandular cystitis cystitis glandularis	<SOS> v3 v2 v8 v11 v2 <EOS>
+DOID:5387	middle ear adenoma adenoma located_in middle ear adenoma middle ear adenoma middle ear	<SOS> v8 v3 v2 v3 v2 <EOS>
+DOID:0050613	bile duct carcinoma situ situ carcinoma located_in surface epithelium bile duct commonly develops adenocarcinoma	<SOS> v3 v12 v12 v1 v4 <EOS>
+DOID:9235	pyriform sinus cancer malignant neoplasm pyriform fossa malignant neoplasm pyriform fossa malignant tumor pyriform fossa	<SOS> v8 v1 v2 v10 v2 v2 <EOS>
+DOID:5382	bartholin 's gland adenoma bartholin 's gland benign neoplasm characterized glands glandlike structures has_material_basis_in epithelial tissue bartholin gland adenoma	<SOS> v8 v3 v2 v10 v4 v5 v2 <EOS>
+DOID:9230	pompholyx cheiropompholyx dyshidrosis dyshydrotic eczema vesicular eczema hands and/or feet	<SOS> v3 v3 v2 v37 <EOS>
+DOID:0110319	hypertrophic cardiomyopathy 13 familial hypertrophic cardiomyopathy has_material_basis_in heterozygous mutation tnnc1 gene chromosome 3p21 cardiomyopathy familial hypertrophic 13 cmh13	<SOS> v3 v10 v3 v7 v2 v4 v1 <EOS>
+DOID:0050618	malignant sertoli-leydig cell tumor sex cord-gonadal stromal tumor characterized variable proportions sertoli cells leydig cells primitive gonadal stroma and/or heterologous elements located_in ovaries testicles	<SOS> v8 v1 v2 v13 v2 <EOS>
+DOID:4892	middle ear adenocarcinoma middle ear carcinoma derives_from epithelial cells glandular origin adenocarcinoma middle ear adenocarcinoma middle ear	<SOS> v8 v1 v1 v7 v12 <EOS>
+DOID:12799	mucopolysaccharidosis ii mucopolysaccharidosis characterized deficiency lysosomal enzyme iduronate sulfatase deficiency iduronate-2-sulphatase hunter syndrome hunter 's syndrome mps ii hunter syndrome mucopolysaccharidosis mps-ii	<SOS> v5 v2 v8 v1 <EOS>
+DOID:0110420	dominant pericentral pigmentary retinopathy retinitis pigmentosa characterized pigmentary retinal degeneration onset teens leading blindness sixth ans seventh decades life	<SOS> v3 v9 v9 v2 v3 v19 v17 v2 <EOS>
+DOID:12797	hallucinogen abuse substance abuse involves recurring use hallucinogenic drugs despite negative consequences	<SOS> v2 v9 v2 <EOS>
+DOID:7689	leptomeninges sarcoma leptomeningeal sarcoma sarcoma leptomeninges	<SOS> v8 v1 v1 v5 <EOS>
+DOID:11148	hypersecretion glaucoma	<SOS> v3 v9 v9 v2 v3 v1 <EOS>
+DOID:10864	partial third-nerve palsy partial third nerve palsy third nerve palsy pupil sparing third oculomotor nerve palsy partial	<SOS> v3 v9 v9 v2 v3 v16 v1 v9 <EOS>
+DOID:12899	benign lymphoepithelial lesion salivary gland godwin tumor	<SOS> v3 v12 v8 v11 <EOS>
+DOID:0060147	semantic agnosia agnosia loss ability visually recognise object maintaining use non-visual sensory systems feeling tapping smelling rocking flicking object recognise object	<SOS> v2 v5 v1 v1 v3 <EOS>
+DOID:0060146	phonagnosia agnosia loss ability recognize familiar voices	<SOS> v2 v5 v1 v1 v3 <EOS>
+DOID:6270	gastric cardia carcinoma carcinoma cardia stomach	<SOS> v8 v1 v2 v10 v4 v5 <EOS>
+DOID:0110497	autosomal recessive nonsyndromic deafness 39 autosomal recessive nonsyndromic deafness characterized prelingual onset severe profound downsloping hearing loss has_material_basis_in mutation hgf gene chromosome 7q21 autosomal recessive deafness 39 dfnb39	<SOS> v3 v9 v9 v1 v6 v2 <EOS>
+DOID:0110492	autosomal recessive nonsyndromic deafness 33 autosomal recessive nonsyndromic deafness has_material_basis_in variation chromosome region 10p11.23-q21.1 autosomal recessive deafness 33 dfnb33	<SOS> v3 v9 v9 v1 v6 v2 <EOS>
+DOID:6370	hepatic osteogenic sarcoma osteosarcoma liver	<SOS> v3 v11 v3 v4 v11 v1 <EOS>
+DOID:4154	dentinogenesis imperfecta	<SOS> v3 v12 v8 v12 <EOS>
+DOID:7206	melanomatosis	<SOS> v8 v1 v1 v2 <EOS>
+DOID:7752	extrahepatic biliary papillomatosis	<SOS> v8 v3 v2 v9 v9 v1 v10 <EOS>
+DOID:0110499	autosomal recessive nonsyndromic deafness 40 autosomal recessive nonsyndromic deafness has_material_basis_in variation chromosome region 22q11.21-q12.1 autosomal recessive deafness 40 dfnb40	<SOS> v3 v9 v9 v1 v6 v2 <EOS>
+DOID:2538	landau-kleffner syndrome acquired epileptic aphasia	<SOS> v3 v9 v10 v3 v13 v7 v2 v1 <EOS>
+DOID:11664	nephrosclerosis renal sclerosis	<SOS> v3 v10 v2 v7 v8 v3 v2 <EOS>
+DOID:0070216	familial hyperinsulinemic hypoglycemia 3 hyperinsulinemic hypoglycemia characterized autosomal dominant inheritance reduced threshold insulin release hypoglycemia induced fasting protein rich meals has_material_basis_in activating mutations gck gene chromosome 7p13 hhf3 hyperinsulinemic hypoglycemia due glucokinase deficiency hyperinsulinism due glucokinase deficiency	<SOS> v5 v2 v11 v14 <EOS>
+DOID:4374	silo filler 's disease silo filler disease silo-fillers disease	<SOS> v3 v4 v2 v1 <EOS>
+DOID:0080075	neu-laxova syndrome 2	<SOS> v5 v2 v13 v23 <EOS>
+DOID:0080073	spina bifida occulta	<SOS> v1 v12 v1 <EOS>
+DOID:11032	secondary corneal edema	<SOS> v3 v9 v9 v2 v3 v8 v16 <EOS>
+DOID:10612	allergic urticaria allergic urticaria	<SOS> v3 v3 v2 v40 <EOS>
+DOID:10615	acute gonococcal cervicitis acute cervicitis caused gonorrhea acute gonorrhea cervix gonococcal cervicitis	<SOS> v3 v5 v4 v4 v2 v7 v2 <EOS>
+DOID:13523	loiasis filariasis involves parasitic infection skin eyes caused nematode loa loa transmitted bite deer fly mango fly disease characterized episodic angioedema arms legs cyst-like enlargements connective tissue around sheaths muscle tendons dead worms may cause chronic abscesses may lead formation granulomatous reactions fibrosis	<SOS> v6 v3 v1 v21 <EOS>
+DOID:10590	mild pre-eclampsia pre-eclampsia characterized presence hypertension without evidence end-organ damage woman normotensive 20 weeks gestation	<SOS> v3 v10 v2 v7 v8 v1 <EOS>
+DOID:1751	malignant conjunctival melanoma conjunctival melanoma malignant melanoma conjunctiva	<SOS> v8 v1 v2 v5 v1 v1 v5 <EOS>
+DOID:5386	lung adenoma adenoma located_in lung adenoma lung pulmonary adenoma	<SOS> v8 v3 v2 v11 v10 <EOS>
+DOID:0090050	dystonia 27 segmental dystonia characterized autosomal recessive inheritance segmental isolated dystonia mainly affecting craniocervical region upper limbs onset first 2 decades life has_material_basis_in compound heterozygous mutation col6a3 gene chromosome 2q37	<SOS> v3 v9 v10 v3 v11 v2 v13 <EOS>
+DOID:0090051	dystonia 23 focal dystonia characterized autosomal dominant inheritance adult-onset cervical dystonia onset typically fourth fifth decade life has_material_basis_in heterozygous mutation cacna1b gene chromosome 9q34	<SOS> v3 v9 v10 v3 v11 v2 v14 <EOS>
+DOID:10812	nasal cavity olfactory neuroblastoma olfactory neuroblastoma nasal cavity	<SOS> v8 v1 v2 v11 v3 <EOS>
+DOID:7479	duodenal somatostatinoma duodenal delta cell somatostatin producing tumor	<SOS> v8 v1 v2 v10 v10 v3 v1 <EOS>
+DOID:0060735	epidermolysis bullosa simplex dowling-meara type epidermolysis bullosa simplex characterized generalized non-scarring skin blistering often occurs clusters progressive hyperkeratosis palms soles clumping keratin filaments basal epidermal cells has_material_basis_in mutation either krt5 krt14 genes severe epidermolysis bullosa simplex types may result neonatal infant lethality cases ebs-gen sev ebsdm epidermolysis bullosa herpetiformis dowling-meara type epidermolysis bullosa simplex herpetiformis generalized severe epidermolysis bullosa simplex	<SOS> v3 v3 v2 v39 v2 v4 <EOS>
+DOID:6571	non-invasive bladder urothelial carcinoma	<SOS> v8 v1 v1 v7 v29 v2 <EOS>
+DOID:5608	dental pulp calcification pulp calcification pulp calcifications pulpal calcifications	<SOS> v3 v12 v8 v12 v3 <EOS>
+DOID:3481	septicemic plague plague results_in infection located_in vasculature bacterial endotoxins cause coagulation leads formation tiny clots throughout body infection has_symptom fever has_symptom chills has_symptom prostration has_symptom abdominal pain has_symptom shock has_symptom bleeding skin organs septicemic plague	<SOS> v6 v4 v2 v20 <EOS>
+DOID:0080196	mandibulofacial dysostosis guion-almeida type autosomal dominant disease characterized progressive microcephaly micrognathia microtia dysplastic ears preauricular skin tags speech delay significant developmental delay midface malar hypoplasia mandibulofacial dysostosis microcephaly	<SOS> v4 v1 v2 v6 <EOS>
+DOID:1436	corneal ectasia	<SOS> v3 v9 v9 v2 v3 v8 <EOS>
+DOID:0080190	malignant epithelioid hemangioendothelioma malignant hemangioma characterized presence epithelioid endothelial cells neoplastic cells arranged cords nests embedded myxoid hyalinized stroma	<SOS> v8 v1 v1 v6 <EOS>
+DOID:0060305	megalocornea corneal disease characterized bilaterally enlarged corneal diameter without increase intraocular pressure material basis mutation chrdl1 gene anterior megalophthalmos congenital anterior megalophthalmia	<SOS> v3 v9 v9 v2 v3 v8 <EOS>
+DOID:0080200	bilateral renal aplasia renal agenesis characterized absence kidneys birth	<SOS> v3 v2 v6 v23 <EOS>
+DOID:5225	von economo 's disease encephalitis lethargica von economo disease	<SOS> v3 v9 v10 v3 v6 <EOS>
+DOID:4201	peroneal neuropathy peroneal neuropathy	<SOS> v3 v9 v6 v5 v8 <EOS>
+DOID:9877	urethral gland abscess	<SOS> v3 v2 v9 <EOS>
+DOID:3503	breast signet ring cell adenocarcinoma breast adenocarcinoma characterized presence numerous cells containing intracellular mucin without large amounts extracellular mucins mammary signet ring cell carcinoma signet ring cell carcinoma breast	<SOS> v3 v7 v1 v4 v13 v9 <EOS>
+DOID:3501	ampullary signet ring cell adenocarcinoma ampullary signet ring cell carcinoma	<SOS> v8 v1 v1 v7 v12 v23 <EOS>
+DOID:8150	pancreatic invasive intraductal papillary-mucinous carcinoma	<SOS> v8 v1 v1 v7 v12 v3 v4 <EOS>
+DOID:0070287	primary autosomal recessive microcephaly 11 primary autosomal recessive microcephaly has_material_basis_in homozygous compound heterozygous mutation phc1 gene chromosome 12p13 mcph11	<SOS> v1 v4 v6 v1 v2 <EOS>
+DOID:10040	malignant eyelid melanoma	<SOS> v8 v1 v2 v5 <EOS>
+DOID:0070284	primary autosomal recessive microcephaly 12 primary autosomal recessive microcephaly has_material_basis_in homozygous compound heterozygous mutation cdk6 gene chromosome 7q21 mcph12	<SOS> v1 v4 v6 v1 v2 <EOS>
+DOID:0111032	hemochromatosis type 2b hemochromatosis type 2 has_material_basis_in homozygous mutation hamp gene chromosome 19q13 hfe2b	<SOS> v5 v2 v17 v4 v3 <EOS>
+DOID:0060609	microcephalic osteodysplastic primordial dwarfism type ii microcephalic osteodysplastic primordial dwarfism has_material_basis_in homozygous compound heterozygous mutation pcnt gene encoding pericentrin chromosome 21q22 characterized intrauterine growth retardation severe proportionate short stature microcephaly majewski osteodysplastic primordial dwarfism type ii osteodysplastic primordial dwarfism type ii	<SOS> v3 v11 v3 v4 v1 v4 <EOS>
+DOID:0060604	ankyloglossia tongue disease characterized unusually short thick lingual frenulum membrane connecting underside tongue floor mouth tongue-tie	<SOS> v3 v12 v8 v2 <EOS>
+DOID:0060603	isolated anhidrosis normal sweat glands anhidrosis has_material_basis homozygous mutation itpr2 gene chromosome 12p11 dann-epstein-sohar syndrome	<SOS> v3 v3 v2 v37 v7 <EOS>
+DOID:14529	external pathological resorption	<SOS> v3 v12 v8 v12 v9 v2 <EOS>
+DOID:7086	multicentric papillary thyroid carcinoma	<SOS> v8 v1 v2 v8 v4 v1 v1 <EOS>
+DOID:8781	rubella viral infectious disease results_in infection located_in skin has_material_basis_in rubella virus transmitted_by droplet spread oronasal secretions infected person coughing sneezing transmitted_by congenital method infection has_symptom rash face spreads trunk limbs has_symptom fever has_symptom lymphadenopathy has_symptom joint pains has_symptom headache has_symptom conjunctivitis german measles	<SOS> v6 v1 <EOS>
+DOID:0070303	multiple epiphyseal dysplasia 1 multiple epiphyseal dysplasia has_material_basis_in heterozygous mutation comp gene chromosome 19p13 edm1 med1 multiple epiphyseal dysplasia comp-related polyepiphyseal dysplasia type 1	<SOS> v3 v11 v3 v4 v1 v4 v12 <EOS>
+DOID:12395	spastic entropion	<SOS> v3 v9 v9 v2 v2 v1 v6 <EOS>
+DOID:0110298	autosomal recessive limb-girdle muscular dystrophy type 2n autosomal recessive limb-girdle muscular dystrophy has_material_basis_in homozygous compound heterozygous mutation pomt2 gene chromosome 14q24.3 lgmd2n mddgc2 muscular dystrophy-dystroglycanopathy limb-girdle type c 2 muscular dystrophy-dystroglycanopathy limb-girdle pomt2-related	<SOS> v4 v1 v2 v5 v114 <EOS>
+DOID:0080107	microcephaly chorioretinopathy 3 syndrome characterized congenital microcephaly chorioretinal dysplasia associated poor vision nystagmus has_material_basis_in compound heterozygous mutation tubgcp4 gene	<SOS> v7 <EOS>
+DOID:12257	medulloadrenal hyperfunction	<SOS> v3 v8 v7 <EOS>
+DOID:0070133	autosomal recessive cutis laxa type ib autosomal recessive cutis laxa type characterized disturbed elastic fiber formation resulting severe systemic connective tissue abnormalities material basis homozygous compound heterozygous mutation efemp2 gene chromosome 11q13 arcl1b	<SOS> v4 v1 v2 v5 v83 <EOS>
+DOID:0080103	cylindrical spirals myopathy	<SOS> v3 v11 v4 v3 v3 v16 <EOS>
+DOID:0110293	autosomal recessive limb-girdle muscular dystrophy type 2p autosomal recessive limb-girdle muscular dystrophy has_material_basis_in homozygous mutation gene encoding alpha-dystroglycan dag1 chromosome 3p21 lgmd2p mddgc9 muscular dystrophy-dystroglycanopathy limb-girdle type c9 muscular dystrophy-dystroglycanopathy limb-girdle dag1-related	<SOS> v4 v1 v2 v5 v114 <EOS>
+DOID:11360	phlebotomus fever viral infectious disease results infection material basis sandfly fever naples virus material basis sandfly fever sicilian virus transmitted phlebotomus papatasi sandfly infection symptom fever symptom severe frontal headaches symptom muscle ache symptom joint aches symptom flushing face symptom tachycardia pappataci fever sandfly fever sandfly-borne arboviral fever sandfly-borne bunyavirus fever sandfly-borne phleboviral disease	<SOS> v6 v1 <EOS>
+DOID:0050657	bannayan-riley-ruvalcaba syndrome bannayan-zonana syndrome riley-smith syndrome ruvalcaba-myhre-smith syndrome	<SOS> v4 v1 v2 v6 <EOS>
+DOID:3341	osteitis fibrosa bone resorption disease has_material_basis_in hyperparathyroidism results_in hyperactivity osteoclasts deformity loss mass located_in bone hyperparathyroid bone disease osteitis fibrosa cystica generalisata von recklinghausen 's bone disease	<SOS> v3 v11 v3 v4 v4 v1 <EOS>
+DOID:8304	lymph node palisaded myofibroblastoma palisaded myofibroblastoma lymph node	<SOS> v8 v1 v2 v2 v2 v1 <EOS>
+DOID:11563	retinal vasculitis vasculitis characterized inflammation vascular branches retinal artery has_symptom painless decrease visual acuity visual floaters dark spot vision decreased ability distinguish colors distortion images linear images retinal vasculitis	<SOS> v3 v10 v2 v8 <EOS>
+DOID:0080292	retinitis pigmentosa 81	<SOS> v3 v9 v9 v2 v3 v19 v17 v2 <EOS>
+DOID:4856	gliofibroma gliofibroma	<SOS> v8 v1 v1 v3 v7 <EOS>
+DOID:0110045	alzheimer 's disease 12 alzheimer 's disease characterized associated variation region 8p12-q22 ad12 alzheimer disease 12 alzheimer disease familial 12	<SOS> v3 v9 v10 v18 v1 v1 <EOS>
+DOID:0110047	alzheimer 's disease 14 alzheimer 's disease characterized associated variation region 1q25 ad14 alzheimer disease 14	<SOS> v3 v9 v10 v18 v1 v1 <EOS>
+DOID:5171	vaginal endometrial stromal tumor vaginal cancer has_material_basis endometrial stroma	<SOS> v8 v1 v2 v13 v1 v2 <EOS>
+DOID:5854	silent myocardial infarction silent myocardial infarction	<SOS> v3 v10 v2 v7 v10 v2 <EOS>
+DOID:0110507	autosomal recessive nonsyndromic deafness 5 autosomal recessive nonsyndromic deafness has_material_basis_in variation chromosome region 14q12 autosomal recessive deafness 5 dfnb5	<SOS> v3 v9 v9 v1 v6 v2 <EOS>
+DOID:0110665	congenital myasthenic syndrome 3b congenital myasthenic syndrome characterized autosomal recessive inheritance postsynaptic neuromuscular junction defects resulting rapid decay endplate current failure reach threshold depolarization early onset progressive muscular weakness has_material_basis_in homozygous compound heterozygous mutation chrnd gene chromosome 2q37 cms3b congenital myasthenic syndrome 3b fast-channel	<SOS> v3 v11 v1 v2 v1 <EOS>
+DOID:5699	kidney liposarcoma liposarcoma located_in kidney liposarcoma kidney	<SOS> v8 v1 v2 v15 v2 <EOS>
+DOID:12918	thromboangiitis obliterans buerger 's disease presenile gangrene thromboangiitis obliterans	<SOS> v3 v10 v2 v5 <EOS>
+DOID:5692	cellular myxoid liposarcoma round cell liposarcoma	<SOS> v8 v1 v2 v1 v1 v12 v1 <EOS>
+DOID:2064	vulvar syringoma vulvar benign neoplasm characterized comma	<SOS> v8 v3 v2 v10 v4 v6 <EOS>
+DOID:0060104	cerebellar medulloblastoma cerebellum cancer begins lower part brain floor skull	<SOS> v3 v9 v10 v3 v26 v3 <EOS>
+DOID:10194	kidney lipoma lipoma kidney	<SOS> v3 v2 v6 v19 <EOS>
+DOID:0110956	waardenburg syndrome type 2e waardenburg 's syndrome characterized pigmentary abnormalities hair skin eyes congenital sensorineural hearing loss absence lateral displacement inner canthus eye has_material_basis_in heterozygous mutations sox10 gene chromosome 22q13 hypogonadotropic hypogonadism anosmia deafness without hypopigmentation waardenburg syndrome type 2e without neurologic involvement waardenburg syndrome type iie ws2e ws2e without neurological involvement	<SOS> v4 v1 v2 v6 v13 <EOS>
+DOID:0110619	primary ciliary dyskinesia 33 primary ciliary dyskinesia characterized autosomal recessive inheritance recurrent upper lower respiratory infections has_material_basis_in homozygous mutation gas8 gene chromosome 16q24 cild33 primary ciliary dyskinesia 33 without situs inversus	<SOS> v7 v39 v2 <EOS>
+DOID:0110261	cataract 35 cataract has_material_basis_in variation region 19q13 autosomal recessive congenital nuclear cataract 1 cataract 35 congenital nuclear catcn1 ctrct35	<SOS> v4 v1 v11 <EOS>
+DOID:57	aortic valve insufficiency aortic valve disease characterized leaking aortic valve heart causes blood flow reverse direction ventricular diastole aorta left ventricle aortic incompetence aortic insufficiency aortic regurgitation corrigan 's disease rheumatic aortic insufficiency rheumatic aortic regurgitation rheumatic aortic valve insufficiency rheumatic aortic valve regurgitation	<SOS> v3 v10 v3 v6 v1 <EOS>
+DOID:0110594	primary ciliary dyskinesia 1 primary ciliary dyskinesia characterized autosomal recessive inheritance outer dynein arm defect half patients situs inversus has_material_basis_in compound heterozygous mutation dnai1 gene chromosome 9p13 cild1 primary ciliary dyskinesia 1 without situs inversus	<SOS> v7 v39 v2 <EOS>
+DOID:0110595	stromme syndrome primary ciliary dyskinesia characterized autosomal recessive inheritance ciliopathy type intestinal atresia variable ocular abnormalities microcephaly has_material_basis_in compound heterozygous mutation cenpf gene chromosome 1q41 apple peel syndrome microcephaly ocular anomalies cild31 jejunal atresia microcephaly ocular anomalies lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome primary ciliary dyskinesia 31	<SOS> v7 v39 v2 <EOS>
+DOID:9993	hypoglycemia glucose metabolism disease characterized abnormally low levels blood glucose hypoglycaemia	<SOS> v3 v8 v1 <EOS>
+DOID:4613	ulnar neuropathy ulnar neuropathy	<SOS> v3 v9 v6 v5 v8 <EOS>
+DOID:6523	ciliary body mixed cell melanoma	<SOS> v8 v1 v1 v2 v6 v1 <EOS>
+DOID:4409	folliculitis	<SOS> v3 v3 v2 v11 <EOS>
+DOID:7713	tuberculum sellae meningioma meningioma tuberculum sellae	<SOS> v3 v11 v3 v4 v11 v4 v1 v1 <EOS>
+DOID:7428	pineal region germinoma	<SOS> v8 v1 v2 v8 v8 v1 <EOS>
+DOID:4034	fungal gastritis gastrointestinal system infectious disease involves inflammation stomach lining caused fungal infection immunocompromised patients	<SOS> v3 v12 v13 v11 <EOS>
+DOID:3689	brachial plexus neuritis brachial neuritis parsonage-aldren-turner syndrome	<SOS> v3 v9 v6 v5 v2 <EOS>
+DOID:5527	ampulla vater squamous cell carcinoma ampulla vater carcinoma derives_from epithelial squamous cells	<SOS> v8 v1 v1 v7 v34 <EOS>
+DOID:4115	ovarian mesodermal adenosarcoma adenosarcoma malignant ovarian endometroid tumorthat located_in ovary ovarian mullerian adenosarcoma	<SOS> v3 v8 v4 v2 v2 v7 v8 v1 <EOS>
+DOID:11079	leech infestation parasitic ectoparasitic infectious disease involves parasitic infestation members subclass hirudinea leeches remain attached hosts feed blood become full point fall digest feeding release anesthetic use combination mucus suction stay attached secrete anti-clotting enzyme hirudin host 's blood stream hirudiniasis leech infestation leeches	<SOS> v6 v3 v2 <EOS>
+DOID:0060777	congenital secretory sodium diarrhea 8 secretory diarrhea has_material_basis_in homozygous compound heterozygous mutation slc9a3 gene chromosome 5p15 diar8	<SOS> v3 v12 v6 v5 <EOS>
+DOID:133	vaginal mullerian papilloma vaginal glandular tumor presents childhood considered mllerian origin vaginal muellerian papilloma	<SOS> v8 v1 v2 v13 v1 v2 v1 <EOS>
+DOID:1824	status epilepticus grand mal status	<SOS> v3 v9 v10 v3 v13 <EOS>
+DOID:6639	pediatric cns choriocarcinoma central nervous system childhood germ cell tumor characterized extraembryonic differentiation along trophoblastic lines high serum csf levels hcg/_-hcg has_material_basis_in abnormally proliferating cells derives_from germ cells choriocarcinoma pediatric central nervous system	<SOS> v8 v1 v1 v10 v1 <EOS>
+DOID:4929	tubular adenocarcinoma adenocarcinoma derives_from epithelial cells originating glandular tissue tumor branched angular tubules embedded loose fibrous stroma tubular carcinoma	<SOS> v8 v1 v1 v7 v12 <EOS>
+DOID:9723	vitreous abscess	<SOS> v3 v9 v9 v2 v1 <EOS>
+DOID:7333	nephrogenic adenoma urinary bladder nephrogenic adenoma urinary bladder	<SOS> v3 v2 v8 v6 <EOS>
+DOID:6742	synchronous bilateral breast carcinoma	<SOS> v3 v7 v1 v4 v13 v10 <EOS>
+DOID:0070247	autosomal dominant emery-dreifuss muscular dystrophy 2 emery-dreifuss muscular dystrophy has_material_basis_in autosomal dominant mutation lmna chromosome 1q22 edmd2 emd2 emery-dreifuss muscular dystrophy 2 autosomal dominant emery-dreifuss muscular dystrophy autosomal dominant hauptmann-thannhauser muscular dystrophy muscular dystrophy early contractures cardiomyopathy autosomal dominant scapuloilioperoneal atrophy cardiopathy	<SOS> v4 v1 v2 v6 <EOS>
+DOID:0070246	x-linked emery-dreifuss muscular dystrophy 1 emery-dreifuss muscular dystrophy has_material_basis_in x-linked recessive mutation emd chromosome xq28 edmd1 emd1 emery-dreifuss muscular dystrophy 1 x-linked humeroperoneal neuromuscular disease muscular dystrophy tardive dreifuss-emery type contractures scapuloperoneal syndrome x-linked	<SOS> v4 v1 v5 v1 <EOS>
+DOID:0070242	primary coenzyme q10 deficiency 5 primary coenzyme q10 deficiency has_material_basis_in autosomal recessive mutation coq9 chromosome 16q21 coenzyme q10 deficiency primary 5 coq10d5	<SOS> v5 v2 v14 v16 <EOS>
+DOID:0080088	nonsyndromic congenital nail disorder 10	<SOS> v3 v3 v3 <EOS>
+DOID:0080086	nonsyndromic congenital nail disorder 8	<SOS> v3 v3 v3 <EOS>
+DOID:11638	presbyopia	<SOS> v3 v9 v9 v2 v3 v13 <EOS>
+DOID:0080082	nonsyndromic congenital nail disorder 4	<SOS> v3 v3 v3 <EOS>
+DOID:4327	marburg hemorrhagic fever viral infectious disease hemorrhagic fever has_material_basis_in marburgvirus transmitted_by contact body fluids infected person infection has_symptom fever has_symptom chills has_symptom headache has_symptom myalgia has_symptom maculopapular rash trunk has_symptom nausea has_symptom vomiting has_symptom chest pain has_symptom sore throat has_symptom abdominal pain has_symptom diarrhea has_symptom bleeding marburg disease marburg virus disease	<SOS> v6 v1 <EOS>
+DOID:0080080	nonsyndromic congenital nail disorder 2	<SOS> v3 v3 v3 <EOS>
+DOID:0060259	renal-hepatic-pancreatic dysplasia physical disorder characterized pancreatic fibrosis renal dysplasia hepatic dysgenesis usual fatal soon birth ivemark 's syndrome	<SOS> v1 <EOS>
+DOID:10648	acute inferoposterior infarction	<SOS> v3 v10 v2 v7 v10 v2 v1 <EOS>
+DOID:6448	vulvar apocrine adenocarcinoma vulva adenocarcinoma has_material_basis apocrine glands	<SOS> v8 v1 v2 v13 v1 v5 v6 v8 <EOS>
+DOID:6445	ovarian endometrioid malignant adenofibroma	<SOS> v3 v8 v4 v2 v2 v7 v8 v1 <EOS>
+DOID:3861	medullomyoblastoma medullomyoblastoma	<SOS> v8 v1 v2 v5 v4 v6 v11 v1 <EOS>
+DOID:2960	photosensitive trichothiodystrophy ibids syndrome sulfur-deficient brittle hair syndrome tay syndrome trichothiodystrophy trichothiodystrophy congenital ichthyosis	<SOS> v4 v1 v2 v6 <EOS>
+DOID:0110093	short-rib thoracic dysplasia 13 without polydactyly asphyxiating thoracic dystrophy has_material_basis_in homozygous mutation cep120 gene chromosome 5q23 srtd13	<SOS> v4 v1 v2 v5 v199 <EOS>
+DOID:14789	spondyloepiphyseal dysplasia congenita late spondyloepiphyseal dysplasia	<SOS> v3 v11 v3 v4 v1 v4 v17 <EOS>
+DOID:13109	bladder leiomyoma leiomyoma located_in bladder leiomyoma urinary bladder	<SOS> v3 v2 v8 v6 <EOS>
+DOID:0060420	chromosome 4q21 deletion syndrome 4q21 microdeletion syndrome monosomy 4q21	<SOS> v4 v2 v7 <EOS>
+DOID:0080143	congenital fibrosis extraocular muscles ocular motility disease characterized inability move eyes certain directions droopy eyelids eyes fixed abnormal position tukel syndrome	<SOS> v3 v9 v9 v2 v3 v16 <EOS>
+DOID:0080141	mosaic variegated aneuploidy syndrome 1	<SOS> v7 <EOS>
+DOID:9948	residual stage corticosteroid-induced glaucoma	<SOS> v3 v9 v9 v2 v3 v1 v7 <EOS>
+DOID:0080145	t-cell childhood acute lymphocytic leukemia childhood acute lymphoblastic leukemia has_material_basis t-cells	<SOS> v8 v1 v2 v6 v1 v12 v6 v4 <EOS>
+DOID:9945	constant exophthalmos	<SOS> v3 v9 v9 v2 v2 v2 <EOS>
+DOID:0110396	retinitis pigmentosa 50 retinitis pigmentosa has_material_basis_in mutation best1 gene chromosome 11q13 rp50	<SOS> v3 v9 v9 v2 v3 v19 v17 v2 <EOS>
+DOID:9534	tuberculous pneumothorax pneumothorax air enters pleural cavity	<SOS> v3 v4 v2 v3 v2 <EOS>
+DOID:0050046	far eastern spotted fever spotted fever has_material_basis_in rickettsia heilongjiangensis transmitted_by ticks haemaphysalis concinna infection has_symptom fever has_symptom eschar has_symptom maculopapular rash has_symptom regional adenopathy rickettsia heilongjiangensis spotted fever	<SOS> v6 v4 v2 v34 <EOS>
+DOID:14006	splenic artery aneurysm	<SOS> v3 v10 v2 v7 <EOS>
+DOID:0110565	autosomal dominant nonsyndromic deafness 3b autosomal dominant nonsyndromic deafness has_material_basis_in mutation gjb6 gene chromosome 13q12 autosomal dominant deafness 3b dfna3b	<SOS> v3 v9 v9 v1 v6 v1 <EOS>
+DOID:0060859	salmonellosis primary bacterial infectious disease caused bacteria genus salmonella sypmtoms diarrhea fever vomiting abdominal cramps 12 72 hours infection cases illness lasts four seven days people recover without treatment salmonella infection	<SOS> v6 v4 v2 <EOS>
+DOID:0050516	o'nyong'nyong fever viral infectious disease results_in infection located_in joint has_material_basis_in o'nyong-nyong virus transmitted_by anopheles gambiae transmitted_by anopheles funestus mosquitoes infection has_symptom fever has_symptom arthralgia has_symptom rash has_symptom lymphadenitis	<SOS> v6 v1 <EOS>
+DOID:9828	neonatal abstinence syndrome withdrawal disorder characterized group problems occur newborn exposed addictive illegal prescription drugs mother 's womb postnatally following discontinuance drug treatment drug withdrawal syndrome newborn	<SOS> v2 v9 v1 <EOS>
+DOID:0060853	potocki-lupski syndrome chromosomal duplication syndrome characterized hypotonia failure thrive mental retardation pervasive developmental disorders congenital anomalies has_material_basis_in duplication region chromosome 17p11.2 17p11.2 microduplication syndrome chromosome 17p11.2 duplication syndrome trisomy 17p11.2	<SOS> v4 v2 v2 <EOS>
+DOID:10031	compensatory emphysema	<SOS> v3 v4 v2 v1 v3 v1 v1 <EOS>
+DOID:0110006	3-methylglutaconic aciduria type 4 3-methylglutaconic aciduria characterized mild intermittent urinary excretion 3-methylglutaconic acid 3-methylglutaconic aciduria type iv mga type iv mga4 mgca4	<SOS> v5 v2 v13 v11 v1 <EOS>
+DOID:10033	cycloplegia ciliary muscle paresis cycloplegic paralysis accommodation paresis accommodation	<SOS> v3 v9 v9 v2 v3 v13 <EOS>
+DOID:0110164	charcot-marie-tooth disease type 2d charcot-marie-tooth disease type 2 has_material_basis_in mutation gene encoding glycyl trna synthetase gars autosomal dominant charcot-marie-tooth disease type 2d charcot-marie-tooth disease neuronal type 2d charcot-marie-tooth neuropathy type 2d cmt2d	<SOS> v4 v1 v4 v1 <EOS>
+DOID:0110161	charcot-marie-tooth disease type 2r charcot-marie-tooth disease type 2 has_material_basis_in homozygous compound heterozygous mutation trim2 gene chromosome 4q autosomal recessive axonal charcot-marie-tooth disease type 2r charcot-marie-tooth neuropathy type 2r cmt2r	<SOS> v4 v1 v4 v1 <EOS>
+DOID:0060556	kufor-rakeb syndrome disease characterized supranuclear gaze palsy spasticity dementia has_material_basis_in homozygous compound heterozygous mutation lysosomal type 5 atpase encoding gene atp13a2 chromosome 1p36 autosomal recessive juvenile onset parkinson disease 9 autosomal recessive parkinson disease 9	<SOS> v3 v9 v10 v18 v11 v3 v1 <EOS>
+DOID:0060223	agraphia acquired writing disorder causing loss ability communicate writing either due motor dysfunction inability spell	<SOS> v2 v5 v1 v12 v2 <EOS>
+DOID:0040017	suprofen allergy drug allergy has_allergic_trigger suprofen profenal allergy	<SOS> v3 v1 v1 v4 v3 <EOS>
+DOID:0040016	sulfamethoxazole allergy drug allergy has_allergic_trigger sulfamethoxazole smx allergy smz allergy sulphamethoxazole allergy	<SOS> v3 v1 v1 v4 v3 <EOS>
+DOID:0090108	autosomal dominant hypocalcemia 2 autosomal dominant hypocalcemia disease material_basis_in heterozygous mutation gna11 gene chromosome 19p13 hypoc2	<SOS> v4 v1 v2 v6 v178 <EOS>
+DOID:5362	focal epithelial hyperplasia viral infectious disease results_in infection located_in mouth has_material_basis_in human papillomavirus types 13 32 has_symptom papules nodules oral cavity heck disease heck 's disease multifocal epithelial hyperplasia	<SOS> v6 v1 <EOS>
+DOID:0110629	wolfram syndrome 1 autosomal recessive disease characterized diabetes mellitus optic atrophy deafness well various possible disorders has_material_basis_in autosomal recessive inheritance homozygous compound heterozygous mutation wfs1 gene chromosome 4p16.1 wfs1	<SOS> v7 v93 <EOS>
+DOID:4787	cerebellopontine angle primitive neuroectodermal cerebellopontine angle pnet	<SOS> v8 v1 v2 v5 v4 v6 v11 v2 v1 <EOS>
+DOID:4780	anti-basement membrane glomerulonephritis goodpasture syndrome characterized damage kidney capillaries anti-gbm glomerulonephritis	<SOS> v3 v1 v1 v3 v13 <EOS>
+DOID:11821	bladder lymphoma lymphoma urinary bladder	<SOS> v8 v1 v2 v6 v10 <EOS>
+DOID:2639	breast pericanalicular fibroadenoma breast fibroadenoma characterized stromal proliferation around epithelial structures pericanalicular fibroadenoma pericanalicular fibroadenoma breast	<SOS> v8 v3 v2 v4 v1 v3 <EOS>
+DOID:13036	tick-borne relapsing fever relapsing fever characterized relapsing recurring episodes fever has_material basis_in borrelia hermsii has_material basis_in borrelia parkeri has_material basis_in borrelia duttoni transmitted_by soft ticks ornithodoros parkeri ornithodoros hermsii infection has_symptom tachypnea has_symptom tachycardia has_symptom hepatosplenomegaly has_symptom lymphadenopathy relapsing fever tick-borne tick-borne relapsing fever	<SOS> v6 v4 v2 v43 <EOS>
+DOID:13038	cicatricial lagophthalmos	<SOS> v3 v9 v9 v2 v2 v1 v2 <EOS>
+DOID:2636	ovarian brenner tumor ovarian benign neoplasm has_material_basis_in surface epithelium ovary benign ovarian brenner tumor	<SOS> v8 v3 v2 v10 v4 v2 <EOS>
+DOID:10156	ileal neoplasm ileal tumor	<SOS> v8 v3 v2 v9 v12 v8 <EOS>
+DOID:2143	ovarian malignant mesothelioma ovarian cancer derives_from mesothelial tissue	<SOS> v3 v8 v4 v2 v2 <EOS>
+DOID:6841	flat ductal epithelial atypia breast intraductal proliferative lesion characterized columnar cell changes cytologic atypia flat ductal epithelial atypia	<SOS> v8 v3 v2 v4 v1 v11 v2 <EOS>
+DOID:180	ossifying fibroma bone benign neoplasm located_in mouth results_in overgrowth gingival tissue due irritation trauma fibro-osteoma peripheral ossifying fibroma	<SOS> v8 v3 v2 v7 v1 v2 <EOS>
+DOID:0070066	autosomal dominant non-syndromic intellectual disability 36 autosomal dominant non-syndromic intellectual disability has_material_basis_in autosomal dominant mutation ppp2r1a chromosome 19q13.41 autosomal dominant mental retardation 36 mrd36	<SOS> v4 v1 v2 v6 v153 <EOS>
+DOID:9541	osteosclerotic myeloma	<SOS> v8 v1 v2 v6 v3 v2 v4 <EOS>
+DOID:7040	uveal epithelioid cell melanoma	<SOS> v8 v1 v1 v2 v7 <EOS>
+DOID:7046	cervical basaloid squamous cell carcinoma cervical squamous cell carcinoma characterized nests immature basal-type squamous cells scanty cytoplasm	<SOS> v8 v1 v1 v7 v34 v5 <EOS>
+DOID:0110712	oguchi disease-1 congenital stationary night blindness characterized congenital static night blindness golden gray-white discoloration fundus disappears dark-adapted state typically normal function visual functions has_material_basis_in homozygous compound heterozygous mutation sag gene chromosome 2q37 congenital stationary night blindness oguchi type 1 csnbo1	<SOS> v3 v9 v9 v2 v3 v19 v12 v2 v1 <EOS>
+DOID:7045	basaloid lung carcinoma	<SOS> v8 v1 v1 v7 v34 v19 <EOS>
+DOID:0110309	hypertrophic cardiomyopathy 3 familial hypertrophic cardiomyopathy has_material_basis_in heterozygous mutation alpha-tropomyosin gene tpm1 chromosome 15q22 cardiomyopathy familial hypertrophic 3 cmh3	<SOS> v3 v10 v3 v7 v2 v4 v1 <EOS>
+DOID:7518	inhibited female orgasm female orgasmic disorder	<SOS> v3 v5 v4 <EOS>
+DOID:0110121	axenfeld-rieger syndrome type 2 axenfeld-rieger syndrome material basis deletions region 13q14 rieg2 rieger syndrome type 2	<SOS> v4 v1 v2 v6 v119 <EOS>
+DOID:9369	orbital plasma cell granuloma orbital myositis pseudotumor orbit	<SOS> v3 v9 v9 v2 v2 v2 v1 <EOS>
+DOID:0110437	dilated cardiomyopathy 1k dilated cardiomyopathy has_material_basis_in variation chromosome region 6q12-q16 cmd1k	<SOS> v3 v10 v3 v7 v2 v2 <EOS>
+DOID:14319	pleuropneumonia pneumonia accompanied inflammation pleura accumulation pus pleural space caused bacteria	<SOS> v3 v4 v2 v3 v1 <EOS>
+DOID:0110961	atypical gaucher 's disease due saposin c deficiency gaucher 's disease has_material_basis_in autosomal recessive mutation psap chromosome 10q22.1	<SOS> v5 v2 v8 v7 v2 v2 <EOS>
+DOID:11235	adhesive otitis media auditory system disease characterized thin retracted ear drum becomes sucked middle-ear space stuck i.e. adherent ossicles bones middle ear chronic adhesive otitis media	<SOS> v3 v9 v9 v1 <EOS>
+DOID:670	amphetamine abuse substance abuse involves recurring use amphetamines despite negative consequences	<SOS> v2 v9 v2 <EOS>
+DOID:5766	pulmonary sclerosing hemangioma pneumocytoma	<SOS> v8 v3 v1 v3 v7 v6 <EOS>
+DOID:0060138	autotopagnosia agnosia loss ability orient parts body	<SOS> v2 v5 v1 v1 v3 <EOS>
+DOID:13088	periventricular leukomalacia	<SOS> v3 v9 v10 v3 v12 <EOS>
+DOID:6244	familial renal oncocytoma	<SOS> v3 v2 v6 v19 v2 <EOS>
+DOID:0050460	wolf-hirschhorn syndrome chromosomal deletion syndrome characterized distinct craniofacial features hypotonia intellectual disability has_material_basis_in microdeletion short arm chromosome 4 4p deletion syndrome chromosome 4p16.3 deletion syndrome pitt syndrome pitt-rogers-danks syndrome	<SOS> v4 v2 v7 <EOS>
+DOID:13329	toxic optic neuropathy	<SOS> v3 v9 v6 v5 v1 v7 v2 <EOS>
+DOID:9091	rem sleep behavior disorder sleep disorder involves abnormal behavior including acting violent dramatic dreams sleep phase rapid eye movement rapid eye movement sleep behavior disorder	<SOS> v2 v12 <EOS>
+DOID:3924	main bronchus cancer ca main bronchus malignant neoplasm main bronchus	<SOS> v8 v1 v2 v11 v5 <EOS>
+DOID:5275	gallbladder leiomyosarcoma gallbladder sarcoma located_in soft tissues gallbladder leiomyosarcoma gallbladder	<SOS> v8 v1 v2 v1 v2 v2 v1 <EOS>
+DOID:4141	intraorbital meningioma meningioma site orbital neoplasm located_in area around eye sockets skull results_in pressure eyes giving bulging appearance	<SOS> v3 v11 v3 v4 v11 v14 <EOS>
+DOID:4283	anal margin basal cell carcinoma basal cell carcinoma located_in anal margin basal cell carcinoma anal margin basal cell carcinoma perianal skin	<SOS> v8 v1 v1 v7 v6 v1 <EOS>
+DOID:3852	peutz-jeghers syndrome colonic hamartomatous polyp gastric peutz-jeghers polyp peutz jeghers colon polyp peutz jeghers polyp peutz-jeghers polyp small intestine peutz-jeghers small bowel hamartoma	<SOS> v3 v12 v5 <EOS>
+DOID:8541	sezary 's disease sezary disease sezary syndrome	<SOS> v8 v1 v2 v6 v10 v7 v2 v1 v2 <EOS>
+DOID:0060884	renal hypomagnesemia 6 hypomagnesemia characterized autosomal dominant inheritance severely lowered serum magnesium levels without electrolyte disturbances abnormalities urinary magnesium excretion material_basis_in heterozygous mutation cnnm2 gene chromosome 10q24 homg6	<SOS> v5 v2 v17 v3 <EOS>
+DOID:7788	adult spinal cord ependymoma	<SOS> v8 v1 v1 v3 v3 v3 <EOS>
+DOID:4364	malignant breast melanoma breast cancer arises_from melanocytes breast melanoma malignant melanoma breast	<SOS> v3 v7 v1 v4 <EOS>
+DOID:7664	endometrial mixed adenocarcinoma endometrial adenocarcinoma composed type endometrioid type ii serous clear cell type tumors least 10 component	<SOS> v3 v5 v4 v12 v2 v4 v1 <EOS>
+DOID:0060728	ngly1-deficiency carbohydrate metabolic disorder has_material_basis_in homozygous compound heterozygous mutation ngly1 gene chromosome 1p24 characterized global developmental delay hypotonia abnormal involuntary movements alacrima poor tear production congenital disorder deglycosylation congenital disorder glycosylation type iv deficiency n-glycanase 1 ngly1-cddg	<SOS> v5 v2 v11 <EOS>
+DOID:0111089	fanconi anemia complementation group d1 fanconi anemia has_material_basis_in homozygous compound heterozygous mutation brca2 gene chromosome 13q13 fad1 fancd1	<SOS> v3 v6 v3 v5 v3 v1 <EOS>
+DOID:0090044	dystonia 9 dystonia characterized autosomal dominant inheritance paroxysmal choreoathetosis progressive spastic paraplegia episodes often precipitated alcohol fatigue emotional stress has_material_basis_in heterozygous mutation slc2a1 gene chromosome 1p34	<SOS> v3 v9 v10 v3 v11 v2 <EOS>
+DOID:10802	acute gonococcal epididymo-orchitis gonococcal epididymo-orchitis	<SOS> v3 v5 v3 v3 v1 <EOS>
+DOID:13822	tetanic cataract hypocalcaemic cataract	<SOS> v4 v1 v11 <EOS>
+DOID:7460	spindle cell variant squamous cell breast carcinoma breast squamous cell carcinoma characterized presence spindle-shaped malignant cells arises breast parenchyma	<SOS> v8 v1 v1 v7 v34 v38 <EOS>
+DOID:7463	childhood pleomorphic rhabdomyosarcoma childhood anaplastic rhabdomyosarcoma	<SOS> v8 v1 v2 v1 v2 v3 v2 v6 <EOS>
+DOID:0060504	apple allergy fruit allergy triggered malus domestica plant fruit food product malus domestica fruit allergy	<SOS> v3 v1 v1 v4 v4 v1 v1 <EOS>
+DOID:2297	leptospirosis primary bacterial infectious disease involves systemic infection material basis leptospira transmitted contact water food soil containing urine infected animals infection symptom jaundice symptom chills symptom fever symptom muscle pain symptom hepatomegaly fort bragg fever leptospirosis icterohaemorrhagica nanukayami fever rat catcher 's yellows spirochetal jaundice weil 's disease	<SOS> v6 v4 v2 <EOS>
+DOID:0080182	mixed fibrolamellar hepatocellular carcinoma fibrolamellar carcinoma characteirzed presence pure fibrolamellar hepatocellular carcinoma conventional hepatocellular carcinoma components	<SOS> v8 v1 v1 v7 v35 v1 v4 <EOS>
+DOID:0060509	melon allergy fruit allergy triggered cucumis melo plant fruit food product cucumis melo fruit allergy	<SOS> v3 v1 v1 v4 v4 v1 v1 <EOS>
+DOID:2981	kidney papillary necrosis necrotizing renal papillitis papillary necrosis renal papillitis necrotizing	<SOS> v3 v2 v6 <EOS>
+DOID:2982	perinephritis	<SOS> v3 v2 v6 <EOS>
+DOID:3516	adult fibrosarcoma	<SOS> v8 v1 v2 v1 v1 v11 <EOS>
+DOID:5999	apocrine adenosis breast non-proliferative fibrocystic change breast characterized sclerosing adenosis apocrine change apocrine adenosis breast	<SOS> v8 v3 v2 v4 v1 v14 v2 <EOS>
+DOID:5996	blunt duct adenosis breast	<SOS> v3 v7 v1 v5 <EOS>
+DOID:959	esophagus squamous cell papilloma	<SOS> v8 v3 v2 v9 <EOS>
+DOID:3457	invasive lobular carcinoma breast lobular carcinoma characterized infiltration tissue breast outside lobule originated lobular carcinoma lobular carcinoma breast lobular carcinoma breast	<SOS> v3 v7 v1 v4 v13 v6 <EOS>
+DOID:9861	miliary tuberculosis extrapulmonary tuberculosis results formation tiny lesions organs acute miliary tuberculosis disseminated tuberculosis generalized tuberculosis tuberculosis miliaris disseminata	<SOS> v6 v4 v2 v18 v1 <EOS>
+DOID:10773	bubonic plague plague results_in infection located_in lymph node producing bubo inflamed necrotic hemorrhagic lymphoid tissue infection has_symptom enlarged tender lymph nodes has_symptom fever has_symptom chills has_symptom prostration black death	<SOS> v6 v4 v2 v20 <EOS>
+DOID:0060812	syndromic x-linked intellectual disability siderius type syndromic x-linked intellectual disability characterized mild moderate intellectual disability long face broad nasal tip cases cleft lip/palate preaxial polydactyly cryptorchidism has_material_basis_in mutation phf8 gene chromosome xp11.22 mental retardation syndrome x-linked siderius type mrxssd siderius x-linked mental retardation syndrome siderius-hamel syndrome	<SOS> v2 v5 v1 v10 v2 v2 <EOS>
+DOID:0111023	cone-rod dystrophy 17 cone-rod dystrophy has_material_basis_in variation chromosome region 10q26 cord17	<SOS> v4 v1 v13 <EOS>
+DOID:0110125	bardet-biedl syndrome 3 bardet-biedl syndrome material basis homozygous mutation arl6 gene chromosome 3q11 bbs3	<SOS> v4 v1 v2 v5 v148 <EOS>
+DOID:1733	cryptosporidiosis coccidiosis involves parasitic protozoan infection intestine humans wide range animals caused cryptosporidium species contaminated water food symptoms include watery diarrhea dehydration weight loss abdominal pain fever nausea vomiting cryptosporidium infections also found digestive tract organs lungs conjunctiva immunocompromised persons greater risk developing infection cryptosporidial gastroenteritis infection cryptosporidium intestinal cryptosporidiosis	<SOS> v6 v3 v3 v4 <EOS>
+DOID:1328	rift valley fever viral infectious disease results_in infection has_material_basis_in rift valley fever virus transmitted_by aedes mosquitoes virus affects domestic animals cattle buffalo sheep goats camels humans infection has_symptom jaundice has_symptom vomiting blood has_symptom passing blood feces has_symptom ecchymoses caused bleeding skin has_symptom bleeding nose gums has_symptom menorrhagia has_symptom bleeding venepuncture sites	<SOS> v6 v1 <EOS>
+DOID:11394	adult respiratory distress syndrome respiratory failure results diffuse injury endothelium lung sepsis chest trauma massive blood transfusion aspiration gastric contents pneumonia characterized pulmonary edema abnormally high amount protein edematous fluid difficult rapid breathing hypoxemia adult rds ards non-cardiogenic pulmonary edema shock lung	<SOS> v3 v4 v2 v1 v15 <EOS>
+DOID:0080133	multiple mitochondrial dysfunctions syndrome 1	<SOS> v5 v2 v14 <EOS>
+DOID:0080130	mitochondrial dna depletion syndrome 12a	<SOS> v5 v2 v14 <EOS>
+DOID:0080137	multiple endocrine neoplasia type 4 multiple endocrine neoplasia type iv	<SOS> v4 v1 v2 v6 <EOS>
+DOID:0050642	hypochromic microcytic anemia microcytic anemia characterized paler normal blood cells	<SOS> v3 v6 v3 v6 <EOS>
+DOID:0110338	osteogenesis imperfecta type 17 osteogenesis imperfecta has_material_basis_in mutation sparc gene chromosome 5q33 oi17 osteogenesis imperfecta type xvii	<SOS> v3 v11 v3 v4 v1 v4 v26 <EOS>
+DOID:0110699	hypotrichosis 2 hypotrichosis has_material_basis_in autosomal dominant mutation cdsn chromosome 6p21.33 htss1 hypotrichosis simplex scalp 1 hypt2 spanish type hypotrichosis	<SOS> v3 v3 v1 v3 <EOS>
+DOID:0110752	type 1 diabetes mellitus 13 type 1 diabetes mellituss has_material_basis_in mutation locus chromosome 2q34 iddm13 insulin-dependent diabetes mellitus 13	<SOS> v5 v1 v8 v1 v1 v5 <EOS>
+DOID:0050523	adult t-cell leukemia t-cell leukemia results_in abnormal increase lymphocytes derives_from t-cells has_material_basis_in human t-lymphotropic virus 1 transmitted_by sexual contact transmitted_by contaminated needles used intravenous-drug users transmitted_by breast feeding infection results_in_formation_of skin lesions adult t-cell leukemia/lymphoma	<SOS> v8 v1 v2 v6 v1 v12 v5 <EOS>
+DOID:9503	loeffler syndrome eosinophilic pneumonia described form pulmonary eosinophilia characterized mild pneumonitis marked transitory pulmonary infiltration eosinophilia usually considered allergic reaction occur response parasitic infection loeffler 's pneumonia loffler 's syndrome	<SOS> v3 v4 v2 v1 v5 v5 <EOS>
+DOID:0111110	maturity-onset diabetes young type 13 maturity-onset diabetes young has_material_basis_in heterozygous mutation kcnj11 gene chromosome 11p15 mody type 13 mody13	<SOS> v4 v1 v2 v6 v50 <EOS>
+DOID:1614	male breast cancer breast cancer occurs males malignant neoplasm male breast neoplasm male breast	<SOS> v3 v7 v1 v4 <EOS>
+DOID:0111119	nephronophthisis 12 nephronophthisis has_material_basis_in homozygous compound heterozygous mutation ttc21b gene chromosome 2q24 nphp12	<SOS> v4 v1 v2 v5 v211 <EOS>
+DOID:0110570	autosomal dominant nonsyndromic deafness 47 autosomal dominant nonsyndromic deafness has_material_basis_in variation chromosome region 9p22-p21 autosomal dominant deafness 47 dfna47	<SOS> v3 v9 v9 v1 v6 v1 <EOS>
+DOID:12689	acoustic neuroma vestibular neurilemmoma vestibular schwannoma	<SOS> v8 v3 v2 v3 v4 v1 <EOS>
+DOID:0040024	ceftazidime allergy cephalosporin allergy has_allergic_trigger ceftazidime fortaz allergy tazicef allergy	<SOS> v3 v1 v1 v4 v3 v35 <EOS>
+DOID:5446	eccrine papillary adenoma eccrine papillary adenoma skin	<SOS> v3 v3 v2 v37 v5 v1 <EOS>
+DOID:0110673	congenital myasthenic syndrome 19 congenital myasthenic syndrome characterized autosomal recessive inheritance defects neuromuscular junction resulting generalized muscle weakness exercise intolerance respiratory insufficiency has_material_basis_in homozygous mutation col13a1 gene chromosome 10q22 cms19	<SOS> v3 v11 v1 v2 v1 <EOS>
+DOID:0110671	congenital myasthenic syndrome 6 congenital myasthenic syndrome characterized autosomal recessive inheritance presynaptic defect resulting onset muscle weakeness infancy early childhood tendency sudden apneic episodes has_material_basis_in homozygous compound heterozygous mutation chat gene chromosome 10q cms ia2 cms1a2 cms6 cmsea congenital myasthenic syndrome 6 presynaptic congenital myasthenic syndrome type ia2 congenital presynaptic myasthenic syndrome associated episodic apnea familial infantile myasthenia familial infantile myasthenia gravis 2 fim fimg2	<SOS> v3 v11 v1 v2 v1 <EOS>
+DOID:12271	aniridia aplasia iris	<SOS> v3 v9 v9 v2 v3 v21 v2 <EOS>
+DOID:10209	extrahepatic bile duct lipoma lipoma located_in extrahepatic bile duct lipoma extrahepatic bile duct	<SOS> v8 v3 v2 v9 v9 v1 <EOS>
+DOID:636	central pontine myelinolysis demyelination disease characterized severe damage myelin sheath pons nerve cells has_symptom acute paralysis has_symptom dysphagia has_symptom dysarthria osmotic demyelination syndrome	<SOS> v3 v9 v10 v18 v8 <EOS>
+DOID:5513	pediculus humanus corporis infestation lice infestation cutaneous condition caused parasitic infestation body lice pediculus humanus corporis feed human blood body lice spread epidemic typhus trench fever louse-borne relapsing fever body louse infestation pediculus corporis pediculus humanus infestation	<SOS> v6 v3 v2 v5 <EOS>
+DOID:10206	lipoma spermatic cord lipoma located_in spermatic cord lipoma spermatic cord spermatic cord lipoma	<SOS> v8 v3 v2 v10 v2 <EOS>
+DOID:2073	perinatal intestinal perforation perinatal intestinal perforation	<SOS> v3 v12 v5 v3 <EOS>
+DOID:0110706	hypotrichosis 9 hypotrichosis has_material_basis_in autosomal recessive mutation chromosome 10q11.23-q22.3 hypt9	<SOS> v3 v3 v1 v3 <EOS>
+DOID:0070155	hereditary sensory autonomic neuropathy type 2a hereditary sensory autonomic neuropathy type 2 characterized progressive sensory neuropathy onset childhood has_material_basis_in mutation hsn2 isoform wnk1 gene chromosome 12p13 hereditary sensory autonomic neuropathy type iia hsan2a	<SOS> v3 v9 v6 v5 v11 v8 <EOS>
+DOID:0110586	autosomal dominant nonsyndromic deafness 65 autosomal dominant nonsyndromic deafness has_material_basis_in mutation tbc1d24 gene chromosome 16p13 autosomal dominant deafness 65 dfna65	<SOS> v3 v9 v9 v1 v6 v1 <EOS>
+DOID:6476	clear cell variant infiltrating bladder urothelial carcinoma	<SOS> v8 v1 v1 v7 v29 v2 v2 <EOS>
+DOID:0070151	hereditary sensory autonomic neuropathy type 6 hereditary sensory neuropathy characterized neonatal hypotonia respiratory feeding difficulties impaired psychomotor development autonomic abnormalities has_material_basis_in homozygous mutation dst gene chromosome 6p12 hereditary sensory autonomic neuropathy type vi hsan6	<SOS> v3 v9 v6 v5 v11 <EOS>
+DOID:13575	non-renal secondary hyperparathyroidism	<SOS> v3 v8 v5 v3 <EOS>
+DOID:0110270	cataract 17 multiple types cataract has_material_basis_in heterozygous homozygous mutation beta-b1 crystallin gene crybb1 chromosome 22q12 autosomal recessive congenital nuclear cataract 3 catcn3 ctrct17	<SOS> v4 v1 v11 <EOS>
+DOID:0040051	hexahydrophthalic anhydride allergic asthma allergic asthma has_allergic_trigger hexahydrophthalic anhydride allergic asthma hhpa	<SOS> v3 v1 v1 v4 v7 v4 <EOS>
+DOID:7527	acute gonococcal endometritis acute endometritis caused gonorrhea acute gonorrhea uterus gonococcal endometritis uterus acute gonorrhoea	<SOS> v3 v5 v4 v4 v12 v1 v3 <EOS>
+DOID:4744	placenta accreta placenta disease characterized abnormally deep attachment placenta endometrium myometrium	<SOS> v3 v5 v4 v4 v7 <EOS>
+DOID:0050639	primary cutaneous amyloidosis amyloidosis characterized pruritus skin scratching deposits amyloid dermis familial primary localized cutaneous amyloidosis pca	<SOS> v3 v3 v2 <EOS>
+DOID:6514	polyvesicular vitelline pattern ovarian yolk sac tumor ovarian endodermal sinus tumor characterized polyvesicular vitelline pattern involves vesicular structures eccentric constrictions surrounded dense spindle cell stroma	<SOS> v3 v8 v4 v2 v2 v10 v3 v2 v3 <EOS>
+DOID:0050858	marshall-smith syndrome syndrome characterized advanced bone age failure thrive respiratory problems dysmorphic facial features variable mental retardation	<SOS> v7 <EOS>
+DOID:11949	creutzfeldt-jakob disease cjd creutzfeldt jacob syndrome creutzfeldt jakob disease creutzfeldt-jacob disease jakob-creutzfeldt disease subacute spongiform encephalopathy transmissible virus dementia	<SOS> v3 v9 v10 v3 v24 <EOS>
+DOID:7824	spinal multifocal clear cell meningioma multifocal clear cell meningioma spine	<SOS> v3 v9 v10 v12 v1 v10 <EOS>
+DOID:7825	chronic toxic polyneuropathy	<SOS> v3 v9 v6 v1 v4 <EOS>
+DOID:4553	thymus large cell carcinoma large cell carcinoma thymus	<SOS> v8 v1 v1 v7 v4 <EOS>
+DOID:7356	rectum sarcomatoid carcinoma sarcomatoid carcinoma rectum	<SOS> v8 v1 v2 v10 v10 v1 v2 v1 <EOS>
+DOID:11260	rabies viral infectious disease results inflammation located brain located spinal cord material basis rabies virus transmitted bite infected animal transmitted contact mucous membranes saliva infected animal infection symptom fever symptom headache symptom prickling itching sensation site bite symptom anxiety symptom confusion symptom agitation symptom delirium symptom difficulty swallowing symptom hydrophobia symptom paralysis lyssa	<SOS> v6 v1 <EOS>
+DOID:4557	oral leukoedema leukedema mouth	<SOS> v3 v12 v8 <EOS>
+DOID:873	anaerobic pneumonia aspiration pneumonia caused anaerobic bacteria like bacteroides fragilis peptostreptococcus anaerobic streptococci fusobacterium species fusobacterium nucleatum fusobacterium necrophoram lung abscess empyema diagnosed disease pneumonia due anaerobes	<SOS> v3 v4 v2 v1 v5 v2 v2 <EOS>
+DOID:876	pyomyositis tropical pyomyositis	<SOS> v3 v11 v4 v3 v3 v10 <EOS>
+DOID:11164	band keratopathy band-shaped keratopathy	<SOS> v3 v9 v9 v2 v3 v8 v5 <EOS>
+DOID:11240	appendiceal neoplasm appendix neoplasm neoplasm appendix	<SOS> v8 v3 v2 v9 v12 <EOS>
+DOID:11243	anemia prematurity anemia prematurity	<SOS> v3 v6 v3 v1 <EOS>
+DOID:10844	japanese encephalitis viral infectious disease results_in infection located_in brain has_material_basis_in japanese encephalitis virus transmitted_by culex tritaeniorhynchus mosquito bite infection has_symptom headache has_symptom high fever has_symptom neck stiffness has_symptom stupor has_symptom disorientation has_symptom coma has_symptom tremors has_symptom convulsions has_symptom spastic paralysis japanese b encephalitis	<SOS> v6 v1 <EOS>
+DOID:13356	senile ectropion involutional ectropion	<SOS> v3 v9 v9 v2 v2 v1 v1 <EOS>
+DOID:10488	imperforate anus anal atresia congenital atresia anus congenital infantile occlusion anus imperforate anus	<SOS> v1 <EOS>
+DOID:13866	multiple cranial nerve palsy multiple cranial nerve palsies multiple cranial nerve palsy	<SOS> v3 v9 v6 v5 v1 v8 <EOS>
+DOID:4486	malignant biphasic mesothelioma mesothelioma biphasic malignant mixed mesothelioma	<SOS> v8 v1 v1 v1 <EOS>
+DOID:0050458	juvenile myelomonocytic leukemia myelodysplastic/myeloproliferative neoplasm characterized uncontrolled growth monocytes	<SOS> v8 v1 v2 v6 v3 v2 v1 <EOS>
+DOID:4525	mediastinum angiosarcoma angiosarcoma sarcoma mediastinum located_in mediastinum hemangiosarcoma mediastinum	<SOS> v8 v1 v2 v12 v1 v2 <EOS>
+DOID:0050989	episodic ataxia type 1	<SOS> v3 v9 v10 v18 v15 v3 <EOS>
+DOID:5297	rectum leiomyosarcoma rectum sarcoma smooth muscle tumor located_in rectum leiomyosarcoma rectum	<SOS> v8 v1 v1 v5 v19 <EOS>
+DOID:12342	retroperitoneum carcinoma carcinoma retroperitoneum carcinoma retroperitoneum	<SOS> v8 v1 v1 v7 <EOS>
+DOID:0060218	crest syndrome syndrome characterized calcinosis raynaud 's phenomeno esophageal dysmotility sclerodactyly telangiectasia	<SOS> v7 <EOS>
+DOID:992	omsk hemorrhagic fever viral infectious disease hemorrhagic fever has_material_basis_in omsk hemorrhagic fever virus transmitted_by dermacentor transmitted_by ixodes species ticks infection has_symptom fever has_symptom chills has_symptom headache has_symptom pain lower upper extremities has_symptom stiff neck has_symptom papulovesicular rash soft palate has_symptom cervical lymphadenopathy has_symptom conjunctival suffusion has_symptom blood urine has_symptom blood sputum	<SOS> v6 v1 <EOS>
+DOID:2556	relapsing polychondritis chondromalacia systemic	<SOS> v3 v11 v3 v9 v3 v1 <EOS>
+DOID:6998	gallbladder mucinous carcinoma colloidal carcinoma gallbladder	<SOS> v8 v1 v1 v7 v18 <EOS>
+DOID:0050526	gamstorp-wohlfart syndrome syndrome characterized progressive weakness atrophy muscles feet legs hands patients syndrome also causes decreased sensitivity touch heat cold particularly lower arms legs autosomal recessive neuromyotonia axonal neuropathy myokymia myotonia muscle wasting	<SOS> v7 <EOS>
+DOID:4250	conjunctivochalasis	<SOS> v3 v9 v9 v2 v3 v7 <EOS>
+DOID:6993	iris mixed cell melanoma	<SOS> v8 v1 v2 v5 v1 v1 v2 v1 <EOS>
+DOID:0070278	primary autosomal recessive microcephaly 7 primary autosomal recessive microcephaly has_material_basis_in homozygous compound heterozygous mutation stil gene chromosome 1p33 mcph7	<SOS> v1 v4 v6 v1 v2 <EOS>
+DOID:0080092	myofibrillar myopathy 1 myofibrillar myopathy has_material_basis_in heterozygous homozygous compound heterozygous mutation desmin gene chromosome 2q35 desminopathy	<SOS> v3 v11 v4 v3 v3 v4 <EOS>
+DOID:8681	paraneoplastic polyneuropathy	<SOS> v3 v9 v6 v5 v5 <EOS>
+DOID:4310	smooth muscle tumor	<SOS> v8 v3 v2 v7 v2 <EOS>
+DOID:11014	anorectal stricture anorectal stricture stenosis rectum anus	<SOS> v3 v12 v5 v28 v5 <EOS>
+DOID:0060710	autosomal recessive congenital ichthyosis 2 autosomal recessive congenital ichthyosis characterized fine scales scalp face trunk limbs marked palmoplantar hyperlinearity hyperkeratosis acanthosis mild hypergranulosis thickened stratum corneum has_material_basis_in homozygous compound heterozygous mutation alox12b gene chromosome 17p13 arci2 brocq congenital ichthyosiform erythroderma nonbullous form ncie1 nonbullous congenital ichthyosiform erythroderma 1	<SOS> v4 v1 v2 v5 v135 <EOS>
+DOID:0060712	autosomal recessive congenital ichthyosis 4a autosomal recessive congenital ichthyosis characterized generalized ichthyosis ectropion has_material_basis_in homozygous compound hetrezogyous mutation abca12 gene chromosome 2q35 arci4a ichthyosis congenita iib icr2b lamellar ichthyosis 2	<SOS> v4 v1 v2 v5 v135 <EOS>
+DOID:0060713	autosomal recessive congenital ichthyosis 4b autosomal recessive congenital ichthyosis characterized severe neonatal ichthyosis bilateral ectropion eclabium flattened rudimentary nose ears constricting bands around extremities frequently lethality infancy has_material_basis_in homozygous compound heterozygous mutation abca12 gene chromosome 2q35 arci4b harlequin ichthyosis harlequin type ichthyosis congenita harlequin type ichthyosis fetalis	<SOS> v4 v1 v2 v5 v135 <EOS>
+DOID:0090039	torsion dystonia 6 characterized autosomal dominant inheritance early-onset generalised dystonia typically involing craniocervical region spasmodic dysphonia has_material_basis_in heterozygous mutation thap1 gene chromosome 8p11	<SOS> v3 v9 v10 v3 v11 v2 v17 <EOS>
+DOID:0110052	amelogenesis imperfecta type 1b amelogenesis imperfecta has_material_basis_in heterozygous mutation enamelin gene enam chromosome 4q13 ai1b aih2 amelogenesis imperfecta type ib autosomal dominant hypoplastic local amelogenesis imperfecta hereditary localized enamel hypoplasia	<SOS> v4 v1 v2 v6 <EOS>
+DOID:0060435	chromosome 1q21.1 duplication syndrome 1q21.1 microduplication syndrome trisomy 1q21.1	<SOS> v4 v2 v2 <EOS>
+DOID:5150	neurofibroma gallbladder neurofibroma gallbladder	<SOS> v3 v12 v11 v1 <EOS>
+DOID:1512	chronic gonorrhea cervix chronic cervicitis caused gonorrhea chronic gonococcal cervicitis gonococcal cervicitis chronic	<SOS> v3 v5 v4 v4 v2 v7 v1 <EOS>
+DOID:0080172	thiopurine s-methyltransferase deficiency inherited metabolic disease characterized significantly reduced activity enzyme helps body process drugs called thiopurines poor metabolism thiopurines-1 tpmt deficiency	<SOS> v5 v2 <EOS>
+DOID:5572	beckwith-wiedemann syndrome syndrome characterized overgrowth macrosomia increased risk childhood cancer congenital malformations	<SOS> v7 <EOS>
+DOID:14037	aorta atresia aortic disease characterized absence opening left ventricle heart aorta atresia stenosis aorta congenital atresia stenosis aorta	<SOS> v3 v10 v2 v7 v9 <EOS>
+DOID:268	liver angiosarcoma angiosarcoma sarcoma liver hemangioma intra-abdominal structure ca liver primary located_in liver angiosarcoma liver hemangiosarcoma liver	<SOS> v8 v1 v2 v12 v1 v2 <EOS>
+DOID:8428	breast apocrine carcinoma situ breast carcinoma situ characterized abundant eosinophilic apocrine cytoplasm large nuclei variant ductal carcinoma situ breast apocrine carcinoma situ breast	<SOS> v8 v2 v4 v4 <EOS>
+DOID:14784	olivopontocerebellar atrophy neurodegenerative disease characterized progressive cerebellar ataxia leading clumsiness body movements veering midline walking wide-based stance falls without signs paralysis weakness has_material_basis_in expansion cag triplet repeats glutamine resulting degeneration neuron cerebellum pons inferior olives dejerine-thomas syndrome thomas syndrome wadia-swami syndrome	<SOS> v3 v9 v10 v18 <EOS>
+DOID:0111150	autosomal dominant isolated ectopia lentis 1 isolated ectopia lentis has_material_basis_in heterozygous mutation fbn1 gene chromosome 15q21 ectol1	<SOS> v4 v1 v2 v6 <EOS>
+DOID:261	transverse colon cancer ca transverse colon malignant tumor transverse colon	<SOS> v3 v12 v5 v30 v5 <EOS>
+DOID:0110152	charcot-marie-tooth disease type 1b charcot-marie-tooth disease type 1 has_material_basis_in heterozygous mutation gene encoding myelin protein zero mpz autosomal dominant charcot-marie-tooth disease focally folded myelin sheaths type 1b charcot-marie-tooth disease slow nerve conduction type linked duffy charcot-marie-tooth neuropathy type 1b cmt1b hereditary motor sensory neuropathy ib hmsn ib hmsn1b peroneal muscular atrophy	<SOS> v4 v1 v4 v2 <EOS>
+DOID:0110150	charcot-marie-tooth disease type 1d charcot-marie-tooth disease type 1 has_material_basis_in mutation early growth response gene-2 egr2 charcot-marie-tooth neuropathy type 1d cmt1d hereditary motor sensory neuropathy 1d hmsn id hmsn1d	<SOS> v4 v1 v4 v2 <EOS>
+DOID:10442	hypopyon ulcer	<SOS> v3 v9 v9 v2 v3 v21 v1 v2 v2 v1 v2 <EOS>
+DOID:1172	hyperlipoproteinemia type iv endogenous hyperlipidaemia familial hypertriglyceridemia fredrickson type iv hyperlipoproteinemia fredrickson type iv lipidaemia fredrickson type iv lipidemia vldl hyperlipoproteinemia	<SOS> v5 v2 v4 v1 <EOS>
+DOID:5022	aflatoxins-related hepatocellular carcinoma	<SOS> v8 v1 v1 v7 v35 v1 <EOS>
+DOID:1209	nutritional optic neuropathy nutritional optic neuropathy	<SOS> v3 v9 v6 v5 v1 v7 v2 <EOS>
+DOID:0110637	muscular dystrophy-dystroglycanopathy type b6 congenital muscular dystrophy characterized autosomal recessive inheritance muscular dystrophy mental retardation structural brain abnormalities has_material_basis_in homozygous compound heterozygous mutation large gene chromosome 22q12 congenital muscular dystrophy large-related congenital muscular dystrophy type 1d mdc1d mddgb6 muscular dystrophy-dystroglycanopathy congenital mental retardation type b 6	<SOS> v3 v11 v4 v3 v3 v8 v5 <EOS>
+DOID:7577	pancreatic foamy gland adenocarcinoma	<SOS> v8 v1 v1 v7 v12 v3 <EOS>
+DOID:0110635	muscular dystrophy-dystroglycanopathy type b5 congenital muscular dystrophy characterized autosomal recessive inheritance muscular dystrophy variable penetrance intellectual disability structural brain abnormalities has_material_basis_in homozygous compound heterozygous mutation fkrp gene chromosome 19q13.3 congenital muscular dystrophy 1c fkrp-related congenital muscular dystrophy mdc1c mddgb5 muscular dystrophy-dystroglycanopathy congenital without mental retardation type b 5	<SOS> v3 v11 v4 v3 v3 v8 v5 <EOS>
+DOID:0040067	neomycin sulfate allergic contact dermatitis allergic contact dermatitis has_allergic_trigger neomycin sulfate allergic contact dermatitis neomycin sulphate	<SOS> v3 v1 v1 v4 v3 <EOS>
+DOID:10030	interstitial emphysema	<SOS> v3 v4 v2 v1 v3 v1 v1 <EOS>
+DOID:0110639	congenital muscular dystrophy due integrin alpha-7 deficiency congenital muscular dystrophy characterized autosomal recessive inheritance has_material_basis_in compound heterozygous mutation itga7 gene chromosome 12q13 congenital muscular dystrophy integrin alpha-7 deficiency congenital muscular dystrophy itga7 deficiency congenital myopathy due integrin alpha-7 deficiency	<SOS> v3 v11 v4 v3 v3 v8 v5 <EOS>
+DOID:5379	hemoglobin e disease hb-e disease hemoglobin e disease	<SOS> v3 v6 v3 v8 v1 v2 v2 <EOS>
+DOID:0110909	inflammatory bowel disease 25 inflammatory bowel disease characterized autosomal recessive inheritance has_material_basis_in homozygous mutation il10rb gene chromosome 21q22 early onset autosomal recessive inflammatory bowel disease 25 ibd25	<SOS> v3 v12 v5 v17 <EOS>
+DOID:2997	sertoli-leydig cell tumor	<SOS> v8 v3 v2 v10 v5 v2 <EOS>
+DOID:10320	asbestosis pneumoconiosis caused inhalation retention asbestos fibers	<SOS> v3 v11 v3 v5 v3 <EOS>
+DOID:0050773	paraganglioma pheochromocytoma arises extraadrenal sympathetic ganglia chemodectoma glomus body tumor	<SOS> v4 v1 v2 v6 <EOS>
+DOID:0050540	charcot-marie-tooth disease type 3 charcot-marie-tooth disease characterized motor sensory peripheral neuropathies caused demyelination dejerine-sottas neuropathy dejerine-sottas syndrome	<SOS> v4 v1 v4 <EOS>
+DOID:0070115	meckel syndrome 1 meckel syndrome has_material_basis_in autosomal recessive mutation mks1 chromosome 17q22 meckel-gruber syndrome type 1 mks1	<SOS> v7 v39 v1 <EOS>
+DOID:0070050	autosomal dominant mental retardation 20 autosomal dominant non-syndromic intellectual disability has_material_basis_in autosomal dominant mutation mef2c chromosome 5q14.3 mental retardation autosomal dominant 20 mrd20	<SOS> v4 v1 v2 v6 v153 <EOS>
+DOID:424	pulmonary immaturity primary atelectasis newborn primary atelectasis perinatal period	<SOS> v3 v4 v2 v1 <EOS>
+DOID:8635	uvula cancer malignant tumor uvula malignant uvular tumor	<SOS> v8 v1 v2 v10 v9 v1 <EOS>
+DOID:0110707	hypotrichosis 10 hypotrichosis has_material_basis_in autosomal recessive mutation chromosome 7p22.3-p21.3 hypt10	<SOS> v3 v3 v1 v3 <EOS>
+DOID:1394	urinary schistosomiasis schistosomiasis involves parasitic infection urinary tract caused digenetic trematode schistosoma haematobium causing cystitis ureteritis fibrosis bladder haematuria progress bladder cancer bladder schistosomiasis cystitis bilharziasis schistosoma haematobium schistosoma haematobium infection schistosoma hematobium infection schistosoma hematobium infectious disease schistosomiasis due schistosoma haematobium schistosomiasis bladder vesical schistosomiasis	<SOS> v6 v3 v1 v2 <EOS>
+DOID:1293	labia minora carcinoma vulva carcinoma located_in labia minora carcinoma labia minora labia minora cancer	<SOS> v8 v1 v2 v13 v1 v5 v1 <EOS>
+DOID:0110704	hypotrichosis 7 hypotrichosis has_material_basis_in autosomal recessive mutation liph chromosome 3q27.2 hypotrichosis localized autosomal recessive 2 hypt7 lah2 total mari type hypotrichosis	<SOS> v3 v3 v1 v3 <EOS>
+DOID:0110702	hypotrichosis 5 hypotrichosis has_material_basis_in mutation chromosome 1p21.1-q21.3 hypt5 marie unna hereditary hypotrichosis 2 muhh2	<SOS> v3 v3 v1 v3 <EOS>
+DOID:5976	occlusion precerebral artery occlusion stenosis multiple bilateral precerebral arteries occlusion stenosis precerebral artery	<SOS> v3 v10 v2 v3 <EOS>
+DOID:0111124	nephronophthisis 16 nephronophthisis has_material_basis_in homozygous mutation anks6 gene chromosome 9q22 nphp16	<SOS> v4 v1 v2 v5 v211 <EOS>
+DOID:0110708	hypotrichosis 11 hypotrichosis has_material_basis_in autosomal dominant mutation snrpe chromosome 1q32.1 hypt11	<SOS> v3 v3 v1 v3 <EOS>
+DOID:4517	skin angiosarcoma angiosarcoma hemangioma skin malignant skin vascular tumor sarcoma skin located_in skin results_in enlarged bruise blue-black nodule unhealed ulceration angiosarcoma skin hemangiosarcoma skin	<SOS> v8 v1 v1 v5 v1 <EOS>
+DOID:0110444	dilated cardiomyopathy 1x dilated cardiomyopathy material basis mutation fktn gene chromosome 9q31 cmd1x dilated cardiomyopathy mild proximal muscle weakness	<SOS> v3 v10 v3 v7 v2 v2 <EOS>
+DOID:0050799	guanidinoacetate methyltransferase deficiency cerebral creatine deficiency syndrome 2 gamt deficiency	<SOS> v5 v2 v13 v14 <EOS>
+DOID:0110527	autosomal recessive nonsyndromic deafness 8 autosomal recessive nonsyndromic deafness has_material_basis_in mutation tmprss3 gene chromosome 21q22 autosomal recessive deafness 10 autosomal recessive deafness 8 childhood-onset neurosensory autosomal recessive deafness 8 dfnb10 dfnb8 neurosensory nonsyndromic recessive deafness 8 nrsd8	<SOS> v3 v9 v9 v1 v6 v2 <EOS>
+DOID:10567	late yaws yaws appears five years initial infection characterized disabling consequences nose bones palmar/plantar hyperkeratosis gummata ulcers due yaws gummata yaws gummatous frambeside multiple papillomata due yaws wet crab yaws nodular late yaws ulcers yaws yaws gummata ulcers	<SOS> v6 v4 v2 v29 <EOS>
+DOID:0050793	short qt syndrome heart conduction disease characterized heart arrhythmia defined short qt interval ekg less 300 ms significantly change heart rate tall peaked waves structurally normal heart	<SOS> v3 v10 v3 v10 <EOS>
+DOID:3985	ostertagiasis trichostrongyloidiasis involves parasitic infection ruminant gastrointestinal tract nematodes genus ostertagia	<SOS> v6 v3 v1 v1 <EOS>
+DOID:1992	rectum malignant melanoma malignant melanoma rectum melanoma rectum	<SOS> v8 v1 v1 v2 <EOS>
+DOID:4687	mucoepidermoid thyroid carcinoma	<SOS> v8 v1 v2 v8 v4 v1 <EOS>
+DOID:14323	marfan syndrome connective tissue disease characterized tall stature elongated extremities mitral valve prolapse aortic dilatation aortic dissection subluxation lens marfan 's syndrome	<SOS> v3 v9 v9 v2 v3 <EOS>
+DOID:14325	mixed malaria malaria involves infection one species plasmodium time malaria one parasite malaria fever one parasite	<SOS> v6 v3 v3 v12 <EOS>
+DOID:10331	kaolin pneumoconiosis kaolinosis	<SOS> v3 v11 v3 v5 v3 <EOS>
+DOID:1999	chronic eustachian salpingitis otosalpingitis persistent long-lasting chronic eustachian tube salpingitis	<SOS> v3 v9 v9 v1 v3 v4 v2 v2 v1 <EOS>
+DOID:5776	cavernous hemangioma face	<SOS> v3 v6 v2 v5 v2 v2 <EOS>
+DOID:13094	branch retinal artery occlusion arterial retinal branch occlusion retinal arterial branch occlusion retinal arterial branch occlusion	<SOS> v3 v10 v2 v7 v14 <EOS>
+DOID:13099	moyamoya disease cerebral arterial disease characterized constriction certain arteries base brain blood flow blocked constriction also blood clots progressive intracranial arterial occlusion	<SOS> v3 v10 v2 v7 v13 <EOS>
+DOID:6316	bartholin 's gland adenocarcinoma bartholin 's gland carcinoma derives_from epithelial cells originating glandular tissue adenocarcinoma bartholin 's gland adenocarcinoma bartholin 's gland bartholin gland adenocarcinoma	<SOS> v8 v1 v1 v7 v12 <EOS>
+DOID:0110878	holoprosencephaly 5 holoprosencephaly has_material_basis_in heterozygous mutation zic2 gene chromosome 13q32 hpe5	<SOS> v1 v4 v2 <EOS>
+DOID:6313	clivus chondroid chordoma chondroid chordoma chordoma clivus located_in clivus chondroid chordoma clivus	<SOS> v3 v11 v3 v4 v11 v5 v1 v1 v1 <EOS>
+DOID:4175	rh isoimmunization rh incompatibility affecting management mother	<SOS> v3 v6 v7 <EOS>
+DOID:0040084	streptococcus pneumonia bacterial pneumonia has_material_basis_in streptococcus pneumoniae	<SOS> v3 v4 v2 v1 v5 v2 <EOS>
+DOID:0110200	charcot-marie-tooth disease dominant intermediate charcot-marie-tooth disease intermediate type has_material_basis_in heterozygous mutation myelin protein-zero gene mpz chromosome 1q23 autosomal dominant intermediate charcot-marie-tooth disease type charcot-marie-tooth neuropathy dominant intermediate cmtdid di-cmtd	<SOS> v4 v1 v4 v4 <EOS>
+DOID:0050251	coenurosis parasitic helminthiasis infectious disease involves infection metacestode larval stage coenurus taenia multiceps taenia serialis coenuri skin subcutaneous tissue present painless nodules manifest trunk sclera subconjuctiva neck shoulders head limbs coenuri central nervous system may cause headache fever vomiting nerve palsies jacksonian epilepsy pachymeningitis obstructive communicating hydrocephalus intracranial arteritis transient hemiparesis coenuri eye cause intraocular orbital infections	<SOS> v3 v9 v10 <EOS>
+DOID:13909	red-green color blindness deutan defect deuteranopia reduced red-green discrimination	<SOS> v3 v9 v9 v2 v3 v23 v1 <EOS>
+DOID:3933	anterior compartment syndrome anterior compartment syndrome	<SOS> v3 v10 v2 v10 v1 <EOS>
+DOID:3029	colon mucinous adenocarcinoma colonic mucinous adenocarcinoma	<SOS> v3 v12 v5 v30 v5 v8 v3 <EOS>
+DOID:0070234	loeys-dietz syndrome 2 loeys-dietz syndrome has_material_basis_in heterozygous mutation tgfbr2 gene chromosome 3p24 aat3 familial throacic aortic aneurysm 3 lds2 marfan syndrome type ii	<SOS> v4 v1 v2 v6 v17 <EOS>
+DOID:0050926	jejunal adenocarcinoma jejunal cancer located_in jejunum has_material_basis_in epithelial tissue glandular origin	<SOS> v8 v1 v2 v10 v10 v3 v2 <EOS>
+DOID:4299	infiltrative basal cell carcinoma skin infiltrating basal cell carcinoma	<SOS> v8 v1 v1 v7 v6 v1 <EOS>
+DOID:0050921	pharynx squamous cell carcinoma pharynx cancer material basis squamous cells	<SOS> v8 v1 v2 v10 v2 <EOS>
+DOID:6428	cervical adenoid basal carcinoma cervix carcinoma has_material_basis_in epithelium characterized presence small \nwell differentiated rounded nests basaloid cells	<SOS> v8 v1 v1 v7 v30 <EOS>
+DOID:5508	brain stem ependymoma brain stem glioma characterized abnormal growth neuroepithelial lining ventricular system has_material_basis_in abnormally proliferating cells derives_from ependymal cells ependymoma brainstem	<SOS> v8 v1 v1 v3 v9 <EOS>
+DOID:6951	telangiectatic osteogenic sarcoma telangiectatic osteosarcoma	<SOS> v3 v11 v3 v4 v11 v1 v11 v2 <EOS>
+DOID:6608	endobronchial leiomyoma	<SOS> v8 v3 v1 v14 v5 <EOS>
+DOID:0050856	oppositional defiant disorder	<SOS> v2 v5 v1 <EOS>
+DOID:0060332	mitochondrial complex v atp synthase deficiency nuclear type 3 mitochondrial complex v atp synthase deficiency material basis mutation atp5e gene chromosome 20q13 mc5dn3	<SOS> v5 v2 v14 v3 <EOS>
+DOID:0090077	hypogonadotropic hypogonadism 4 without anosmia hypogonadotropic hypogonadism has_material_basis_in heterozygous mutation prokineticin-2 gene prok2 chromosome 3p13 sometimes association mutation another gene	<SOS> v3 v8 v4 v4 v2 <EOS>
+DOID:0060832	griscelli syndrome type 1 griscelli syndrome characterized silvery gray sheen hair hypopigmentation skin neurological impairment without immunodeficiency has_material_basis_in mutations myo5a gene chromosome 15q21.2 griscelli syndrome neurological impairment griscelli syndrome cutaneous neurological type griscelli-pruniras syndrome type 1 gs1 hypopigmentation-neurologic impairment syndrome	<SOS> v4 v1 v2 v5 v106 <EOS>
+DOID:0090072	hypogonadotropic hypogonadism 12 without anosmia hypogonadotropic hypogonadism has_material_basis_in homozygous mutation gnrh1 gene chromosome 8p21 familial hypogonadotrophic eunuchoidism familial idiopathic gonadotrpin deficiency	<SOS> v3 v8 v4 v4 v2 <EOS>
+DOID:13269	hereditary coproporphyria coproporphyrinogen oxidase deficiency hereditary coproporphyria hereditary coproporphyria porphyria	<SOS> v5 v2 v3 v2 <EOS>
+DOID:1639	skeletal tuberculosis extrapulmonary tuberculosis results formation lesions located bone osteoarticular tuberculosis	<SOS> v6 v4 v2 v18 v1 <EOS>
+DOID:1638	central nervous system tuberculosis extrapulmonary tuberculosis results formation tuberculomas located_in brain located_in spinal cord intracranial tuberculoma tuberculoma brain tuberculosis meninges central nervous system tuberculosis meninges central nervous system tuberculous abscess brain	<SOS> v6 v4 v2 v18 v1 <EOS>
+DOID:12155	lymphocytic choriomeningitis viral infectious disease results infection located brain located meninges located brain meninges material basis lymphocytic choriomeningitis virus transmitted common house mouse mus musculus infection symptom fever symptom lack appetite symptom headache symptom muscle aches symptom malaise symptom nausea symptom vomiting lcm lymphocytic choriomeningitis virus encephalomyelitis lymphocytic meningitis lymphocytic meningoencephalitis	<SOS> v6 v1 <EOS>
+DOID:12156	arachnoiditis	<SOS> v3 v9 v10 v11 <EOS>
+DOID:13419	neurogenic bowel	<SOS> v3 v12 v5 <EOS>
+DOID:0060192	crohn 's colitis inflammatory bowel disease characterized inflammation located_in colon has_symptom diarrhea has_symptom rectal bleeding has_symptom skin lesions has_symptom formation ulcers fistulas abscesses around anus	<SOS> v3 v12 v5 v17 v19 <EOS>
+DOID:6725	spinal stenosis bone deterioration disease has_material_basis_in bony spurs disc degeneration thickened ligaments results_in narrowing located_in spinal cord cervical spinal stenosis lumbar spinal stenosis spinal stenosis lumbar region	<SOS> v3 v11 v3 v4 v2 v2 <EOS>
+DOID:0060577	3mc syndrome 3 3mc syndrome has_material_basis_in compound heterozygous mutation colec10 gene chromosome 8q24	<SOS> v4 v1 v2 v5 v198 <EOS>
+DOID:0060675	catecholaminergic polymorphic ventricular tachycardia 1 catecholaminergic polymorphic ventricular tachycardia characterized autosomal dominant inheritance has_material_basis_in heterozygous mutation ryr2 gene chromosome 1q43 cvpt1	<SOS> v4 v1 v7 <EOS>
+DOID:1214	tympanosclerosis	<SOS> v3 v9 v9 v1 v3 v2 <EOS>
+DOID:0080223	epidermolytic palmoplantar keratoderma	<SOS> v3 v3 v2 v43 v4 <EOS>
+DOID:0070306	post-cardiac arrest syndrome syndrome characterized four main components post-cardiac arrest brain injury post-cardiac arrest myocardial dysfunction systemic ischemia reperfusion response persistent precipitating pathologies post cardiac syndrome	<SOS> v7 <EOS>
+DOID:13405	cardiac sarcoidosis cardiac sarcoidosis	<SOS> v3 v1 v1 v1 v3 <EOS>
+DOID:8078	childhood central nervous system germinoma	<SOS> v8 v1 v2 v5 v4 v6 v9 v1 <EOS>
+DOID:0060827	x-linked intellectual disability-psychosis-macroorchidism syndrome syndromic x-linked intellectual disability characterized moderate intellectual deficit manic-depressive psychosis pyramidal signs macroorchidism has_material_basis_in mutation mecp2 gene chromosome xq28 lindsay-burn syndrome mental retardation psychosis pyramidal signs macroorchidism mental retardation x-linked syndromic 13 mrxs13 ppm-x x-linked mental retardation 79 x-linked mental retardation spasticity	<SOS> v2 v5 v1 v10 v2 v2 <EOS>
+DOID:0050709	early infantile epileptic encephalopathy neonatal period electroclinical syndrome characterized tonic spasms partial seizures early infantile epileptic encephalopathy burst-suppression ohtahara syndrome	<SOS> v3 v9 v10 v3 v13 v7 v3 <EOS>
+DOID:6034	heart malignant hemangiopericytoma heart sarcoma soft tissue sarcoma located heart malignant hemangiopericytoma heart	<SOS> v3 v10 v3 v4 v3 <EOS>
+DOID:2842	jervell-lange nielsen syndrome jervell lange-nielson syndrome	<SOS> v3 v10 v3 v7 v2 v7 <EOS>
+DOID:6032	juvenile type testicular granulosa cell tumor juvenile granulosa cell tumor juvenile granulosa cell tumour juvenile type granulosa cell neoplasm juvenile type granulosa cell tumor	<SOS> v8 v1 v2 v13 v2 v4 v1 <EOS>
+DOID:0060844	norrie disease x-linked recessive disease characterized degenerative proliferative changes neuroretina resulting congenital blindness along progressive mental disorders 50 patients sensorineural deafness 33 patients has_material_basis_in mutation ndp gene chromosome xp11 atrophia bulborum hereditaria episkopi blindness norrie-warburg disease	<SOS> v4 v1 v5 v1 <EOS>
+DOID:13169	spermatic cord cancer malignant tumor spermatic cord malignant tumor spermatic cord spermatic cord ca	<SOS> v8 v1 v2 v13 v3 <EOS>
+DOID:0060406	chromosome 18p deletion syndrome 18p- syndrome de grouchy syndrome monosomy 18p	<SOS> v4 v2 v7 <EOS>
+DOID:6425	eyelid carcinoma carcinoma eyelid	<SOS> v8 v1 v2 v5 <EOS>
+DOID:0110948	waardenburg syndrome type 1 waardenburg 's syndrome characterized autosomal dominant inheritance congenital deafness pigmentation anomalies eyes hair skin dystopia canthorum has_material_basis_in heterozygous mutation pax3 gene chromosome 2q36 waardenburg syndrome type ws1	<SOS> v4 v1 v2 v6 v13 <EOS>
+DOID:11428	endometriosis intestine female reproductive system disease characterized growth endometrial tissue located_in intestine	<SOS> v3 v5 v4 v12 <EOS>
+DOID:14250	syndrome chromosomal disease characterized flat-looking facial features weak muscle tone hypotonia infancy caused trisomy critical portion chromosome 21 associated intellectual disability complete trisomy 21 syndrome 's syndrome 's syndrome trisomy 21 downs syndrome g trisomy trisomy 21 syndrome	<SOS> v4 v2 <EOS>
+DOID:9277	primary cerebellar degeneration	<SOS> v3 v9 v10 v18 <EOS>
+DOID:11387	epidural abscess central nervous system disease characterized collection pus infected material outer covering brain spinal cord bones skull spine caused infection area bones skull spine membranes covering brain spinal cord meninges abscess epidural	<SOS> v3 v9 v10 <EOS>
+DOID:0080122	mitochondrial dna depletion syndrome 4a	<SOS> v5 v2 v14 <EOS>
+DOID:2768	transient tic disorder tic disorder consists multiple motor and/or phonic tics duration least 4 weeks less 12 months	<SOS> v2 v5 v1 v9 <EOS>
+DOID:13654	stenosis lacrimal passage stenosis lacrimal canaliculi	<SOS> v3 v9 v9 v2 v3 v38 <EOS>
+DOID:9682	yellow fever viral infectious disease results infection material basis yellow fever virus transmitted aedes transmitted haemagogus transmitted sabethes species mosquitoes infection symptom fever symptom muscle pain symptom backache symptom headache symptom shivers symptom loss appetite symptom jaundice symptom bleeding mouth nose eyes stomach leading vomitus containing blood jungle yellow fever sylvatic yellow fever urban yellow fever yellow fever sylvan	<SOS> v6 v1 <EOS>
+DOID:14146	ureterolithiasis calculus ureter ureteric calculus ureteric stone	<SOS> v3 v2 v1 <EOS>
+DOID:7033	anisakiasis parasitic helminthiasis infectious disease results_in infection located_in intestinal mucosa larvae nematodes transmitted_by ingestion raw poorly cooked saltwater fish has_material_basis_in anisakis simplex has_material_basis_in pseudoterranova decipiens has_symptom abdominal pain has_symptom nausea vomiting invasive anisakiasis results infection omentum pancreas liver lung infection anisakis larva	<SOS> v6 v3 v1 <EOS>
+DOID:11541	recurrent corneal erosion recurrent erosion cornea recurrent erosion syndrome	<SOS> v3 v9 v9 v2 v3 v8 v5 <EOS>
+DOID:0110742	type 1 diabetes mellitus 3 type 1 diabetes mellitus has_material_basis_in mutation locus chromosome 15q26 iddm3 insulin-dependent diabetes mellitus 3	<SOS> v5 v1 v8 v1 v1 v5 <EOS>
+DOID:468	intramuscular hemangioma intramuscular angioma intramuscular hemangioma	<SOS> v8 v3 v2 v7 v2 <EOS>
+DOID:5280	gastric leiomyosarcoma	<SOS> v8 v1 v2 v10 v4 <EOS>
+DOID:12064	mediastinum neurofibroma neurofibroma mediastinum	<SOS> v8 v1 v2 v3 v2 v4 <EOS>
+DOID:9212	pityriasis rubra pilaris devergie 's disease pityriasis rubra pilaris	<SOS> v3 v3 v2 v2 <EOS>
+DOID:0110069	ftdals4 amyotrophic lateral sclerosis material basis mutation tbk1 gene chromosome 12q14 frontotemporal dementia and/or amyotrophic lateral sclerosis 4	<SOS> v4 v1 v15 <EOS>
+DOID:0111042	glycogen storage disease ixa glycogen storage disease ix characterized hepatomegaly growth retardation elevation glutamate-pyruvate transaminase glutamate-oxaloacetate transaminase hypercholesterolemia hypertriglyceridemia fasting hyperketosis symptoms gradually disappear age has_material_basis_in x-linked inheritance mutation phka2 gene chromosome xp22 glycogen storage disease type 9a glycogen storage disease type ixa glycogenosis type 9a glycogenosis type ixa gsd type 9a gsd type ixa gsd9a	<SOS> v5 v2 v11 v10 v1 v9 <EOS>
+DOID:0060871	autosomal dominant keratitis-ichthyosis-deafness syndrome autosomal dominant disease characterized congenital deafness keratopachydermia constrictions fingers toes material_basis_in heterozygous mutation gjb2 gene chromosome 13q autosomal dominant kid syndrome	<SOS> v4 v1 v2 v6 <EOS>
+DOID:7191	ovarian endometrioid cystadenoma ovarian cystadenoma characterized presence endometrial tissue	<SOS> v8 v3 v2 v10 v4 v2 v2 <EOS>
+DOID:7192	hereditary conventional renal cell carcinoma	<SOS> v8 v1 v2 v15 v2 v8 v1 v9 <EOS>
+DOID:2518	orchitis inflammation testis orchititis	<SOS> v3 v8 v4 v3 <EOS>
+DOID:5309	epithelial-myoepithelial carcinoma	<SOS> v3 v12 v8 v11 v9 <EOS>
+DOID:0050692	brody myopathy neuromuscular disease characterized difficulty relaxing muscles muscle stiffness following exercise strenuous activity located skeletal muscles	<SOS> v3 v11 v4 v6 <EOS>
+DOID:5301	fallopian tube clear cell adenocarcinoma fallopian tube adenocarcinoma derives_from epithelial cells clear cytoplasm clear cell carcinoma fallopian tube	<SOS> v8 v1 v2 v13 v1 v6 v1 v3 <EOS>
+DOID:4424	juvenile xanthogranuloma multiple eruptive juvenile xanthogranuloma naevoxanthoendothelioma xanthoma neviforme	<SOS> v3 v1 v4 v7 v5 <EOS>
+DOID:1897	sigmoid disease	<SOS> v3 v12 v5 v30 <EOS>
+DOID:13197	nodular goiter goiter nodular nodular goitre	<SOS> v3 v8 v6 v2 <EOS>
+DOID:13195	nontoxic goiter goiter non-toxic goitre non-toxic nodule-thyroid non tox non-toxic goitre non-toxic simple goitre nontoxic goiter	<SOS> v3 v8 v6 v2 <EOS>
+DOID:11339	pneumocystosis opportunistic mycosis located lungs also occur eyes ears skin thyroid pituitary palate parathyroid esophagus pleura heart liver spleen small intestine adrenals kidneys bone marrow lymph nodes material basis pneumocystis jirovecii effects interstitial alveolar tissues symptom nonproductive cough symptom shortness breath symptom fever pneumocystis carinii pneumonia pneumocystis jirovecii pneumonia pneumocystis pneumonia pneumocystosis pneumocystosis pneumonia pulmonary pneumocystosis	<SOS> v6 v2 v1 v1 <EOS>
+DOID:0110248	cataract 30 cataract has_material_basis_in heterozygous mutation vim gene chromosome 10p13 cataract 30 pulverulent cataract coppock-like ctrct30 dusty cataract	<SOS> v4 v1 v11 <EOS>
+DOID:8596	scarlet fever upper respiratory tract disease described acute contagious disease caused group bacteria genus streptococcus especially various strains s. pyogenes characterized inflammation nose throat mouth generalized toxemia red rash scarlatina	<SOS> v3 v4 v4 <EOS>
+DOID:0050740	qazi markouizos syndrome syndrome characterized hypotonia congenital fiber type disproportion dysharmonic skeletal maturation dysharmonic skeletal maturation muscular fibre disproportion qazi-markouizos syndrome	<SOS> v7 <EOS>
+DOID:0070093	schizophrenia 18 schizophrenia has_material_basis_in mutation slc1a1 chromosome 9p24.2 chromosome 7q36.3 duplication syndrome 362-kb sczd18	<SOS> v2 v8 v5 v4 <EOS>
+DOID:0110377	retinitis pigmentosa 49 retinitis pigmentosa has_material_basis_in mutation cnga1 gene chromosome 4p12 rp49	<SOS> v3 v9 v9 v2 v3 v19 v17 v2 <EOS>
+DOID:0110365	retinitis pigmentosa 28 retinitis pigmentosa has_material_basis_in mutation fam161a gene chromosome 2p15 rp28	<SOS> v3 v9 v9 v2 v3 v19 v17 v2 <EOS>
+DOID:0110361	retinitis pigmentosa 75 retinitis pigmentosa has_material_basis_in mutation agbl5 gene chromosome 2p23 rp75	<SOS> v3 v9 v9 v2 v3 v19 v17 v2 <EOS>
+DOID:0110362	retinitis pigmentosa 58 retinitis pigmentosa has_material_basis_in mutation znf513 gene chromosome 2p23 rp58	<SOS> v3 v9 v9 v2 v3 v19 v17 v2 <EOS>
+DOID:11875	denture stomatitis denture sore mouth	<SOS> v3 v12 v8 v4 <EOS>
+DOID:11874	abnormal threshold rods abnormal dark adaptation curve	<SOS> v3 v9 v9 v2 v3 v19 v12 <EOS>
+DOID:0050199	whitewater arroyo hemorrhagic fever viral infectious disease hemorrhagic fever has_material_basis_in whitewater arroyo virus transmitted_by white-throated woodrats neotoma albigula infection has_symptom fever has_symptom headache has_symptom myalgia has_symptom hemorrhagic manifestations	<SOS> v6 v1 <EOS>
+DOID:4465	papillary renal cell carcinoma renal cell carcinoma characterized development multiple bilateral papillary renal tumors chromophil carcinoma kidney papillary kidney carcinoma papillary renal cell carcinoma sporadic papillary renal cell carcinoma	<SOS> v8 v1 v2 v15 v2 v8 v1 <EOS>
+DOID:11725	cornelia de lange syndrome syndrome characterized slow growth birth intellectual disability usually severe profound skeletal abnormalities involving arms hands distinctive facial features brachmann de lange syndrome de lange syndrome	<SOS> v7 <EOS>
+DOID:11724	limb-girdle muscular dystrophy muscular dystrophy characterized weakening muscles hip shoulders comprise limb girdle muscles erb 's muscular dystrophy leyden-mbius muscular dystrophy limb girdle muscular dystrophy	<SOS> v3 v11 v4 v3 v3 v8 <EOS>
+DOID:11723	duchenne muscular dystrophy muscular dystrophy material basis x-linked mutations dmd gene found x chromosome characterized rapidly progressing muscle weakness muscle atrophy initially involving lower extremities eventually affecting whole body affects males whereas females carriers symptoms start age six may appear infancy muscular dystrophy duchenne	<SOS> v4 v1 v5 v1 <EOS>
+DOID:9140	xeroderma eyelid	<SOS> v3 v9 v9 v2 v2 v1 v5 v3 <EOS>
+DOID:0110419	retinitis pigmentosa without situs inversus retinitis pigmentosa has_material_basis_in mutation arl2bp gene chromosome 16q13	<SOS> v3 v9 v9 v2 v3 v19 v17 v2 <EOS>
+DOID:0050846	hemidystonia multifocal dystonia involves arm leg side body	<SOS> v3 v9 v10 v3 v11 v2 v15 <EOS>
+DOID:4540	dysgraphia writing disorder involves deficiency ability write writing distorted incorrect spelling difficulty poor handwriting trouble putting thoughts paper	<SOS> v2 v5 v1 v12 v2 <EOS>
+DOID:4547	adult mesenchymal chondrosarcoma adult sarcoma soft tissue mesenchymal chondrosarcoma located_in cartilage	<SOS> v8 v1 v2 v1 v1 v8 v3 <EOS>
+DOID:0050841	focal hand dystonia focal dystonia affects single muscle small group muscles hand resulting involuntary muscular contractions organic writer 's cramp	<SOS> v3 v9 v10 v3 v11 v2 v14 <EOS>
+DOID:4008	fallopian tube transitional cell carcinoma fallopian tube carcinoma derives_from epithelial transitional cells	<SOS> v8 v1 v2 v13 v1 v6 v1 <EOS>
+DOID:13585	alveolar periostitis alveolar periostitis alveolitis jaw dry socket dry tooth socket	<SOS> v3 v11 v3 v16 <EOS>
+DOID:2743	pyeloureteritis cystica	<SOS> v3 v2 v6 v9 <EOS>
+DOID:7694	bladder urachal adenocarcinoma	<SOS> v3 v2 v8 v9 v9 <EOS>
+DOID:10303	sialadenitis sialoadenitis	<SOS> v3 v12 v8 v11 <EOS>
+DOID:4490	malignant peritoneal solitary fibrous tumor pleural peritoneal solitary fibrous tumor	<SOS> v8 v1 v2 v9 <EOS>
+DOID:0060012	recombinase activating gene 2 deficiency severe combined immunodeficiency result mutation chromosome 6 rag2 gene involving genetic rearrangement t- b-lymphocyte receptor genes	<SOS> v3 v1 v3 v7 v2 <EOS>
+DOID:4492	avian influenza influenza results infection located respiratory tract humans domestic wild birds material basis influenza virus transmitted contact infected poultry five strains avian influenza viruses h5n1 h7n3 h7n2 h7n7 h9n2 known cause human infections infection symptom fever symptom cough symptom sore throat symptom muscle aches symptom nausea symptom diarrhea symptom vomiting symptom neurologic changes symptom pneumonia symptom acute respiratory distress avian flu bird flu	<SOS> v3 v4 v1 <EOS>
+DOID:4550	anal gland neoplasm	<SOS> v8 v3 v2 v9 v12 v5 <EOS>
+DOID:8503	impetigo herpetiformis impetigo characterized form severe pustular psoriasis occurring pregnancy impetigo herpetiformis	<SOS> v3 v3 v2 v11 v3 v5 <EOS>
+DOID:0050448	hereditary mucosal leukokeratosis skin disease characterized defect normal process keratinization mucosa white sponge nevus white sponge nevus cannon	<SOS> v3 v3 v2 <EOS>
+DOID:6696	synchronous multifocal osteogenic sarcoma	<SOS> v3 v11 v3 v4 v11 v1 v10 <EOS>
+DOID:12294	atypical depressive disorder mood disorder characterized mood reactivity paradoxical anhedonia positivity significant weight gain increased appetite atypical depression	<SOS> v2 v8 v2 <EOS>
+DOID:2426	gangliocytoma central nervous system benign neoplasm has_material_basis_in mature neurons classified absence neoplastic glial cells	<SOS> v8 v3 v2 v3 v1 <EOS>
+DOID:7459	acantholytic variant squamous cell breast carcinoma breast squamous cell carcinoma characterized lack cohesiveness tumour cells resulting pseudovascular pseudoglandular appearance	<SOS> v8 v1 v1 v7 v34 v38 <EOS>
+DOID:0070267	congenital disorder glycosylation type iio congenital disorder glycosylation type ii has_material_basis_in autosomal recessive mutation ccdc115 chromosome 2q21.1 carbohydrate deficient glycoprotein syndrome type iio ccdc115-cdg cdg iio cdg syndrome type iio cdg2o cdgiido congenital disorder glycosylation type 2o	<SOS> v5 v2 v11 v4 v1 <EOS>
+DOID:9898	villonodular synovitis	<SOS> v3 v11 v3 v4 v10 <EOS>
+DOID:4267	akinetic mutism brain disease characterized marked reduction nearly motor functions including facial expressions gestures speech output degree alertness coma vigilans	<SOS> v3 v9 v10 v3 <EOS>
+DOID:8133	epiglottis cancer epiglottic cancer malignant neoplasm anterior aspect epiglottis malignant neoplasm anterior epiglottis malignant neoplasm anterior surface epiglottis malignant neoplasm epiglottis malignant tumor epiglottis	<SOS> v8 v1 v2 v11 v7 v2 <EOS>
+DOID:0080066	autosomal recessive spinocerebellar ataxia 20	<SOS> v4 v1 v2 v5 v64 <EOS>
+DOID:0080062	autosomal recessive spinocerebellar ataxia 13	<SOS> v4 v1 v2 v5 v64 <EOS>
+DOID:7843	female breast carcinoma breast carcinoma manifested female breast carcinoma female breast mammary carcinoma female breast	<SOS> v3 v7 v1 v4 v13 <EOS>
+DOID:384	wolff-parkinson-white syndrome anomalous a-v excitation anomalous atrioventricular excitation wolff-parkinson-white pattern	<SOS> v3 v10 v3 v10 <EOS>
+DOID:1742	drug psychosis drug-induced psychosis drug-induced psychotic disorder	<SOS> v2 v8 v5 v3 v2 <EOS>
+DOID:10587	krabbe disease beta galactocerebrosidase deficiency diffuse globoid body sclerosis galactosylceramide beta-galactosidase deficiency globoid cell leukodystrophy globoid cell leukoencephalopathy krabbe 's disease krabbe 's leukodystrophy	<SOS> v5 v2 v8 v7 v2 <EOS>
+DOID:11028	pseudopterygium	<SOS> v3 v9 v9 v2 v3 v8 <EOS>
+DOID:11029	pinguecula	<SOS> v3 v9 v9 v2 v3 v7 v5 <EOS>
+DOID:0050834	charge syndrome syndrome acterized pattern congenital anomalies including choanal atresia malformations heart inner ear retina charge association	<SOS> v7 <EOS>
+DOID:0060702	familial hypocalciuric hypercalcemia 3 familial hypocalciuric hypercalcemia has_material_basis_in heterozygous mutation ap2s1 gene chromosome 19q13 familial hypocalciuric hypercalcemia type 3 fhh type 3 hhc3 hypocalciuric hypercalcemia type iii	<SOS> v5 v1 v6 v1 v2 v1 <EOS>
+DOID:12124	episcleritis periodica fugax	<SOS> v3 v9 v9 v2 v3 v12 <EOS>
+DOID:6501	brain stem angioblastoma brain stem cancer characterized slow growing highly vascular tumors develops vascular system has_material_basis_in abnormally proliferating cells derives_from endothelial cells pericytes stromal cells hemangioblastoma brainstem	<SOS> v8 v3 v2 v3 v1 <EOS>
+DOID:10393	secondary hypertrophic osteoarthropathy bamberger-marie disease hpoa hypertrophic pulmonary osteoarthropathy hypertrophic pulmonary osteoarthropathy marie bamberger disease	<SOS> v3 v11 v3 v4 v10 <EOS>
+DOID:12120	pulmonary alveolar proteinosis lung disease characterized abnormal accumulation surfactant occurs within alveoli interfering gas exchange	<SOS> v3 v4 v2 v1 <EOS>

@@ -1,0 +1,110 @@
+PATO:0001773	monophasic quality inhering bearer virtue bearer 's one phase stage	<SOS> v3 v14 v3 v3 <EOS>
+PATO:0001477	retracted positional quality inhering bearer virtue bearer 's drawn pulled back given point moved retruded	<SOS> v2 v1 v32 <EOS>
+PATO:0001671	increased distribution distribution relatively high high distribution	<SOS> v2 v1 v32 v46 <EOS>
+PATO:0001675	decreased efficiency efficiency relatively low low efficiency	<SOS> v2 v1 v6 v1 <EOS>
+PATO:0002296	foveate texture quality inhering surface virtue bearer 's marked presence small shallow regular depressions called fovae foveolate pitted	<SOS> v2 v6 v6 <EOS>
+PATO:0001575	decreased pressure pressure relatively low low pressure	<SOS> v2 v1 v3 <EOS>
+PATO:0000644	hyperplastic increased size quality inhering organ tissue virtue bearer 's exhibiting increased number cells hyperplasia overdeveloped	<SOS> v2 v6 v11 v7 <EOS>
+PATO:0000403	cleft concave quality inhering bearer virtue bearer 's resembling groove fissure	<SOS> v2 v6 v8 v37 v2 <EOS>
+PATO:0002357	d-shaped shape quality inhering bearer virtue bearer 's strait side arched side giving bearer form letter	<SOS> v2 v6 v8 v67 v2 <EOS>
+PATO:0002400	fusiform spindle-like shape wide middle tapers ends	<SOS> v2 v6 v8 v67 v2 v2 <EOS>
+PATO:0001403	pluripotent cellular potency capacity produce differentiated cell types three primary germ layers extraembryonic cell types	<SOS> v2 v5 v5 <EOS>
+PATO:0001970	brochidodromous branched quality inhering bearer virtue bearer 's secondary branches joined together series prominent arches	<SOS> v2 v6 v8 v34 v2 <EOS>
+PATO:0001870	crescent-shaped shape quality inhering circular disk virtue bearer 's segment another circle removed edge remains shape enclosed two circular arcs different diameters intersect two points usually manner enclosed shape include center original circle bow-shaped crescentic lunate	<SOS> v2 v6 v8 v69 <EOS>
+PATO:0001874	discoid shape quality inhering bearer virtue bearer 's cylindrical height less diameter disc-shaped disk-shaped	<SOS> v2 v6 v8 v67 v2 v12 <EOS>
+PATO:0002230	subtriangular triangular shape quality inhering bearer virtue bearer 's nearly perfectly triangular	<SOS> v2 v6 v8 v69 v10 <EOS>
+PATO:0002492	anterolateral orientation orientation quality inhering bearer virtue bearer position directed anterolaterally anterolaterally directed	<SOS> v2 v1 v32 v17 <EOS>
+PATO:0010001	disconnected structural quality inhering bearer virtue bearer consisting multiple structures lacking physical connection	<SOS> v2 v6 v2 <EOS>
+PATO:0000413	square shape quality inhering bearer virtue bearer 's equal-sided rectangular form	<SOS> v2 v6 v8 v69 v2 v2 <EOS>
+PATO:0001432	decayed quality inhering bearer virtue bearer 's decomposition component parts	<SOS> v2 v9 v3 <EOS>
+PATO:0001436	sessile sensu botany attachment quality inhering flower virtue bearer 's lacking stalk flowers leaves grow directly stem	<SOS> v2 v6 v2 v59 <EOS>
+PATO:0001943	lilac purple color low saturation low brightness	<SOS> v2 v1 v9 v3 v1 v4 v13 <EOS>
+PATO:0002020	pale pink pink color high brightness low saturation	<SOS> v2 v1 v9 v3 v1 v4 v4 v4 <EOS>
+PATO:0002229	subrectangular quadrangular shape quality inhering bearer virtue bearer 's approximately rectangular	<SOS> v2 v6 v8 v69 v2 <EOS>
+PATO:0000963	opaque optical quality inhering bearer virtue bearer 's clear transmitting reflecting light radiant energy clouding cloudy non-transparent	<SOS> v2 v1 v9 v3 v1 v5 <EOS>
+PATO:0001853	hydrocephalic structural quality held bearer latter exhibits excessive accumulation cerebral spinal fluid	<SOS> v2 v6 v2 v45 v20 <EOS>
+PATO:0001021	energy physical quality inhering bearer virtue bearer 's capacity work	<SOS> v2 v1 <EOS>
+PATO:0001559	extra function functionality quality held bearer latter able perform additional different function supernumerary functions	<SOS> v2 v13 <EOS>
+PATO:0001327	zygomorphic symmetry quality inhering bearer virtue bearer 's capable division symmetrical halves one longitudinal plane passing axis	<SOS> v2 v1 v32 v58 v11 v1 <EOS>
+PATO:0000620	wholly dorsalized dorsalized quality inhering bearer virtue bearer 's gross morphology containing normally dorsal structures dorsalized	<SOS> v2 v6 v3 v1 v3 <EOS>
+PATO:0001554	decreased sensitivity process oxygen sensitivity process oxygen lower normal average low sensitivity occurrent oxygen	<SOS> v3 v14 v5 v1 v1 <EOS>
+PATO:0001552	decreased sensitivity process sensitivity process lower normal average decreased sensitivity occurrent low sensitivity occurrent	<SOS> v3 v14 v5 <EOS>
+PATO:0045065	normal fatigability fatigability relatively normal average	<SOS> v2 v1 v29 v3 <EOS>
+PATO:0045066	normal susceptibility toward susceptibility toward external stimulus relatively normal average	<SOS> v2 v9 v7 v5 v2 <EOS>
+PATO:0045069	normal threshold threshold relatively normal average	<SOS> v2 v9 v7 v3 <EOS>
+PATO:0001718	luminance quality exists virtue luminous intensity per unit area projected given direction	<SOS> v2 v1 v9 v3 v1 v1 <EOS>
+PATO:0002023	apical-basal polarity positional quality inhering bearer virtue bearer 's location features characteristics along apical-basal axis	<SOS> v2 v1 v32 v48 <EOS>
+PATO:0002036	axial spatial quality inhering bearer virtue bearer 's located towards central axis organism extremity	<SOS> v2 v1 v32 <EOS>
+PATO:0001818	progressive quality single process inhering bearer virtue bearer 's increasing time	<SOS> v3 v14 v3 v1 <EOS>
+PATO:0002039	biconcave concave quality inhering bearer virtue bearer 's curving inward sides surfaces	<SOS> v2 v6 v8 v37 v2 <EOS>
+PATO:0000771	aversion preference quality bearer virtue bearer 's disliking perceived stimulus	<SOS> v2 v9 v4 v2 v3 <EOS>
+PATO:0002125	nodular quality inhering bearer virtue bearer 's consisting knot-like mass	<SOS> v2 v6 v2 <EOS>
+PATO:0001522	sound speed physical quality inhering sound virtue bearer 's travelling speed given medium specified conditions	<SOS> v2 v1 v41 v4 <EOS>
+PATO:0040004	plush texture quality inhering bearer virtue bearer 's covered partially covered hair increased thickness softness	<SOS> v2 v6 v6 <EOS>
+PATO:0002470	transformed morphological quality two bearers inhering one bearer subject change nature function condition become	<SOS> v2 v6 <EOS>
+PATO:0002475	subterminal position quality inhering bearer virtue bearer 's existing near end another entity	<SOS> v2 v1 v32 <EOS>
+PATO:0001354	translucent optical quality inhering bearer virtue bearer 's exhibiting low opacity	<SOS> v2 v1 v9 v3 v1 v5 <EOS>
+PATO:0000941	vacuolated structural quality inhering cytoplasm contains fluid filled cavities	<SOS> v2 v6 v2 v20 <EOS>
+PATO:0001807	decreased sensitivity irradiation sensitivity irradiation relatively low low sensitivity irradiation	<SOS> v2 v9 v7 v6 <EOS>
+PATO:0001809	tight pattern quality inhering bearer virtue bearer 's compact dense arrangement	<SOS> v2 v1 v32 v58 v15 <EOS>
+PATO:0001168	undamaged structural quality inhering bearer virtue harmed injured spoiled	<SOS> v2 v6 v2 v1 <EOS>
+PATO:0001280	dark pale pink pink color medium brightness low saturation bright pink	<SOS> v2 v1 v9 v3 v1 v4 v4 v4 <EOS>
+PATO:0045089	normal sensitivity process oxygen sensitivity occurrent oxygen relatively normal	<SOS> v3 v14 v5 v1 v1 <EOS>
+PATO:0045083	normal wetness wetness relatively normal average	<SOS> v2 v1 v23 v1 <EOS>
+PATO:0002093	ballooning volume quality inhering degenerating cell virtue bearer 's exhibiting increase volume associated cytoplasmic abnormalities	<SOS> v2 v6 v11 v7 v9 <EOS>
+PATO:0000374	increased distance distance greater relative normal average long distance	<SOS> v2 v1 v37 <EOS>
+PATO:0000375	decreased distance distance lesser relative normal average short distance	<SOS> v2 v1 v37 <EOS>
+PATO:0001201	y-shaped concave 3-d shape quality inhering bearer virtue bearer 's shaped form letter	<SOS> v2 v6 v8 v34 v2 v5 <EOS>
+PATO:0001734	semi-deciduous plant quality inhering plant virtue bearer 's disposition evergeen deciduous	<SOS> v2 v9 v2 <EOS>
+PATO:0001737	gaseus configuration physical quality inhering bearer virtue bearer 's parts arrangement exhibits characteristics gases gas	<SOS> v2 v1 v18 v2 <EOS>
+PATO:0001831	increased female fertility female fertility relatively high high female fertility	<SOS> v2 v9 v8 v4 v3 v1 <EOS>
+PATO:0002443	level positional quality inhering bearer virtue bearer 's located level another entity	<SOS> v2 v1 v32 <EOS>
+PATO:0000609	closure incomplete morphological quality inhering bearer virtue bearer 's affording completed blocked passage view	<SOS> v2 v6 v4 v1 <EOS>
+PATO:0001635	necessary continuant necessity quality continuant inhering bearer virtue bearer 's essential indispensable	<SOS> v2 v13 v1 <EOS>
+PATO:0002396	mislocalized adaxially positional quality inhering bearer virtue bearer 's positioned towards axis organism	<SOS> v2 v1 v32 v69 v1 <EOS>
+PATO:0045004	normal affinity affinity relatively normal average	<SOS> v2 v12 v16 <EOS>
+PATO:0002010	looseness texture quality inhering bearer virtue bearer 's bing full small openings gaps	<SOS> v2 v6 v6 <EOS>
+PATO:0000937	disorganized structural quality inhering bearer virtue bearer 's lacking organisation	<SOS> v2 v6 v2 v54 <EOS>
+PATO:0001937	spatulate shape quality inhering bearer virtue bearer 's oblong lower end much attenuated spathulate	<SOS> v2 v6 v8 v69 v3 <EOS>
+PATO:0001936	obovate spheroid quality inhering bearer virtue bearer 's egg-shaped flat narrow end attached base obovoid	<SOS> v2 v6 v8 v67 v2 v7 v5 <EOS>
+PATO:0001504	complex complexity quality inhering bearer virtue bearer 's intricate compounded	<SOS> v2 v6 v2 v38 <EOS>
+PATO:0002148	increased virulence virulence relatively high	<SOS> v2 v9 v15 <EOS>
+PATO:0045036	normal permeability permeability relatively normal average	<SOS> v2 v6 v2 v23 v2 <EOS>
+PATO:0045037	normal phosphorylation quality inhering bearer virtue bearer 's phosphorylated normal average extent	<SOS> v2 v12 v5 v1 <EOS>
+PATO:0002141	irregular density density quality lacks pattern	<SOS> v2 v1 v19 <EOS>
+PATO:0001627	sufficient wholeness quality inhering bearer virtue bearer 's enough functionality adequate	<SOS> v2 v13 v2 <EOS>
+PATO:0000690	discontinuous quality single process inhering bearer virtue bearer 's marked breaks interruptions intermittent interrupted	<SOS> v3 v14 v3 v1 <EOS>
+PATO:0001824	dry wetness quality inhering bearer virtue bearer 's covered liquid	<SOS> v2 v1 v23 <EOS>
+PATO:0002260	semi erect quality inhering bearer virtue bearer 's partially upright position posture semi upright	<SOS> v2 v1 v32 v10 <EOS>
+PATO:0002307	isosceles triangular triangular quality inhering bearer virtue bearer 's two sides length	<SOS> v2 v6 v8 v69 v10 <EOS>
+PATO:0002060	absorption wavelength specific wavelength radiation retained bearer	<SOS> v2 v1 v9 v3 v3 v2 <EOS>
+PATO:0001382	tetraploid polyploidy quality inhering bearer virtue bearer 's containing four homologous sets chromosomes	<SOS> v2 v5 v1 v1 v2 <EOS>
+PATO:0001758	nerve conductivity conductivity quality inhering motor sensory nerves virtue bearer 's ability convey electricity	<SOS> v2 v1 v25 v1 <EOS>
+PATO:0002173	misaligned towards alignment quality inhering bearer virtue bearer 's improper spatial positioning towards additional entity	<SOS> v2 v1 v32 v6 v1 <EOS>
+PATO:0001518	blurry optical quality inhering bearer virtue bearer 's lacking focus	<SOS> v2 v1 v9 v3 v1 v6 <EOS>
+PATO:0001756	heat conductivity conductivity quality inhering bearer virtue bearer 's disposition spontaneous transfer thermal energy region higher temperature region lower temperature thermal conduction	<SOS> v2 v1 v25 <EOS>
+PATO:0001754	predisplaced growth peramorphic growth quality due earlier onset precocious growth	<SOS> v3 v4 v2 v2 <EOS>
+PATO:0001302	vermilion color consisting red orange hue slight amount gray	<SOS> v2 v1 v9 v3 v1 v4 <EOS>
+PATO:0000396	severe intensity intensity extremely bad unpleasant type degree effect force	<SOS> v1 v2 <EOS>
+PATO:0002420	amphiphilic hydrophilic hydrophobic lipophilic groups	<SOS> v2 v12 v16 <EOS>
+PATO:0002274	mottled multicolored quality inhering bearer virtue bearer 's dappled spots patches blotches different colors	<SOS> v2 v1 v32 v58 v7 v5 <EOS>
+PATO:0001698	increased photosensitivity photosensitivity relatively high high photosensitivity	<SOS> v2 v9 v7 v4 v2 <EOS>
+PATO:0001911	circling behavioral quality inhering bearer virtue bearer 's exhibiting movement circular course	<SOS> v2 v9 v4 v8 <EOS>
+PATO:0015013	degree illumination degree bearer exposed visible light	<SOS> v2 v1 v9 v3 <EOS>
+PATO:0002378	acinus shape resembles many-lobed	<SOS> v2 v6 v8 v12 <EOS>
+PATO:0045026	normal life span life span relatively normal average	<SOS> v2 v1 v35 v2 <EOS>
+PATO:0001695	increased fecundity fecundity relatively high high fecundity	<SOS> v2 v9 v8 v1 <EOS>
+PATO:0000309	young age relatively low	<SOS> v2 v1 v35 v1 <EOS>
+PATO:0001391	mosaic trisomy trisomy quality inhering bearer virtue bearer 's extra chromosomal material 's cells	<SOS> v2 v5 v1 v2 v1 <EOS>
+PATO:0002164	curved medial curvature quality inhering bearer virtue bearer 's curved towards middle	<SOS> v2 v6 v8 v76 v1 <EOS>
+PATO:0002205	capacitance quality inhering bearer virtue bearer 's ability hold electrical charge	<SOS> v2 v12 <EOS>
+PATO:0001742	increased radioactivity radioactivity relatively low high radioactivity	<SOS> v2 v1 v9 v1 v1 <EOS>
+PATO:0001259	dark purple color consisting purple color low brightness	<SOS> v2 v1 v9 v3 v1 v4 v13 <EOS>
+PATO:0002282	increased mobility mobility relative high	<SOS> v2 v1 v31 v2 <EOS>
+PATO:0001253	light magenta color consisting magenta color high brightness	<SOS> v2 v1 v9 v3 v1 v4 v7 <EOS>
+PATO:0045050	normal size size quality relatively normal average	<SOS> v2 v6 v11 <EOS>
+PATO:0001964	circinate curled quality inhering bearer virtue bearer 's edges surface rolled spirally downwards	<SOS> v2 v6 v8 v7 <EOS>
+PATO:0002043	increased anterior-posterior diameter anterior-posterior diameter quality relatively large high anterior-posterior diameter	<SOS> v2 v6 v11 v3 v1 v4 v1 <EOS>
+PATO:0000983	impermeable permeability quality inhering bearer virtue bearer 's incapable permeated pervaded gas liquid osmosis diffusion	<SOS> v2 v6 v2 v23 <EOS>
+PATO:0045034	normal osmolality osmolality relatively normal average odor	<SOS> v2 v12 v12 v4 <EOS>
+PATO:0001841	remittent intensity intensity characterized temporary abatement severity	<SOS> v1 v2 <EOS>

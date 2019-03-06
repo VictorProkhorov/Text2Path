@@ -1,0 +1,35 @@
+blue_lotus.n.02 <SOS> v28 v13 v23 <EOS>
+black_sage.n.01 <SOS> v28 v22 v12 v6 v50 <EOS>
+nimblewill.n.01 <SOS> v28 v3 v351 v3 <EOS>
+hydnocarpus_laurifolia.n.01 <SOS> v28 v22 v9 <EOS>
+umbrella_tree.n.01 <SOS> v28 v22 v12 <EOS>
+texas_snowbell.n.01 <SOS> v28 v22 v12 v102 <EOS>
+marsh_gentian.n.01 <SOS> v28 v2 v2 v1 v35 <EOS>
+hybrid_petunia.n.01 <SOS> v28 v2 v2 v1 v67 <EOS>
+silky_dogwood.n.02 <SOS> v28 v22 v9 v152 v1 <EOS>
+stream_orchid.n.01 <SOS> v28 v2 v2 v1 v71 v48 <EOS>
+dwarf_maple.n.01 <SOS> v28 v22 v9 v152 v17 <EOS>
+gentianopsis_detonsa.n.01 <SOS> v28 v2 v2 v1 v35 v9 <EOS>
+loquat.n.01 <SOS> v28 v22 v9 v152 v56 <EOS>
+wild_hydrangea.n.01 <SOS> v28 v22 v12 v127 <EOS>
+lady-of-the-night.n.01 <SOS> v28 v22 v12 <EOS>
+rose_chestnut.n.01 <SOS> v28 v22 v9 <EOS>
+american_beech.n.01 <SOS> v28 v22 v9 v157 <EOS>
+bearded_wheatgrass.n.01 <SOS> v28 v3 v351 v3 v40 <EOS>
+ragged_robin.n.01 <SOS> v28 v2 v2 v1 v26 <EOS>
+puttyroot.n.01 <SOS> v28 v2 v2 v1 v71 <EOS>
+felwort.n.01 <SOS> v28 v2 v2 v1 v35 <EOS>
+marang.n.01 <SOS> v28 v22 v9 v152 v56 <EOS>
+cape_marigold.n.01 <SOS> v28 v2 v2 v1 <EOS>
+tangle_orchid.n.01 <SOS> v28 v2 v2 v1 v71 <EOS>
+marsh_pink.n.01 <SOS> v28 v13 v13 v20 <EOS>
+cattley_guava.n.01 <SOS> v28 v22 v9 v152 v56 <EOS>
+chaparral_mallow.n.01 <SOS> v28 v22 v12 v260 <EOS>
+broom_sedge.n.01 <SOS> v28 v3 v351 v3 v29 <EOS>
+cushaw.n.01 <SOS> v28 v21 v50 v2 <EOS>
+marmalade_bush.n.01 <SOS> v28 v22 v12 <EOS>
+smooth-leaved_elm.n.01 <SOS> v28 v22 v9 v56 <EOS>
+dendrobium.n.01 <SOS> v28 v2 v2 v1 v71 <EOS>
+snag.n.02 <SOS> v28 v22 v9 <EOS>
+pink_fivecorner.n.01 <SOS> v28 v22 v12 <EOS>
+chinese_privet.n.01 <SOS> v28 v22 v12 v87 <EOS>

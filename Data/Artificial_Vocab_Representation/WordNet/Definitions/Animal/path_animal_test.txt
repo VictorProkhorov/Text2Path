@@ -1,0 +1,263 @@
+yellowtail_flounder.n.02 <SOS> v28 v3 v2 v1 v12 v1 v1 v17 v5 <EOS>
+boll_weevil.n.01 <SOS> v31 v14 v15 v21 v17 <EOS>
+bunny.n.02 <SOS> v28 v3 v5 v5 v4 v3 v2 <EOS>
+harvestman.n.01 <SOS> v31 v14 v11 <EOS>
+florida_pompano.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v24 v3 <EOS>
+bearded_seal.n.01 <SOS> v28 v3 v5 v5 v22 v3 v2 v2 <EOS>
+evening_grosbeak.n.01 <SOS> v28 v3 v10 v10 v1 v35 v3 <EOS>
+stocker.n.01 <SOS> v7 <EOS>
+roach.n.05 <SOS> v28 v3 v2 v1 v12 v1 v2 v15 v5 <EOS>
+black_duck.n.01 <SOS> v28 v3 v10 v9 v4 v1 v2 <EOS>
+toy_manchester.n.01 <SOS> v7 v1 v18 v1 v19 v1 <EOS>
+pigfish.n.02 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v14 <EOS>
+black-fronted_bush_shrike.n.01 <SOS> v28 v3 v10 v10 v1 v12 v3 <EOS>
+pony.n.02 <SOS> v28 v3 v5 v5 v24 v1 v3 v1 v21 <EOS>
+wood_pigeon.n.01 <SOS> v28 v3 v10 v24 v7 v4 <EOS>
+siberian_husky.n.01 <SOS> v7 v1 v2 v5 <EOS>
+common_mosquito.n.01 <SOS> v31 v14 v15 v12 v3 <EOS>
+tiger_cat.n.01 <SOS> v28 v3 v5 v5 v23 v2 v2 v1 <EOS>
+european_wood_mouse.n.01 <SOS> v28 v3 v5 v5 v27 v6 v1 <EOS>
+pademelon.n.01 <SOS> v28 v3 v5 v1 v1 v1 v4 <EOS>
+ichneumon.n.01 <SOS> v28 v3 v5 v5 v23 v3 v2 <EOS>
+citrus_whitefly.n.01 <SOS> v31 v14 v15 v10 v2 <EOS>
+leatherjacket.n.03 <SOS> v15 v4 <EOS>
+yorkshire_terrier.n.01 <SOS> v7 v1 v18 v1 <EOS>
+leatherjacket.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v19 v6 <EOS>
+little_auk.n.01 <SOS> v28 v3 v10 v9 v2 v3 <EOS>
+boatbill.n.01 <SOS> v28 v3 v10 v9 v1 v1 <EOS>
+okapi.n.01 <SOS> v28 v3 v5 v5 v24 v3 v1 v5 <EOS>
+leptocephalus.n.01 <SOS> v15 <EOS>
+bearded_vulture.n.01 <SOS> v28 v3 v10 v20 v6 v3 <EOS>
+hispid_pocket_mouse.n.01 <SOS> v28 v3 v5 v5 v27 v18 v3 v2 <EOS>
+click_beetle.n.01 <SOS> v31 v14 v15 v21 v18 <EOS>
+head_louse.n.01 <SOS> v31 v14 v15 v24 <EOS>
+mastotermes_electromexicus.n.01 <SOS> v31 v14 v15 v11 <EOS>
+harvest_mite.n.01 <SOS> v31 v14 v11 v6 v1 v7 <EOS>
+black-headed_snake.n.01 <SOS> v28 v3 v9 v4 v1 v6 <EOS>
+caiman_lizard.n.01 <SOS> v28 v3 v9 v4 v4 v1 v12 <EOS>
+corn_snake.n.01 <SOS> v28 v3 v9 v4 v1 v6 v9 <EOS>
+caecilian.n.01 <SOS> v28 v3 v3 <EOS>
+brazilian_trumpeter.n.01 <SOS> v28 v3 v10 v9 v1 v4 <EOS>
+great_pyrenees.n.01 <SOS> v7 v1 <EOS>
+hawfinch.n.01 <SOS> v28 v3 v10 v10 v1 v35 v3 <EOS>
+spotted_weakfish.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v45 v2 <EOS>
+carthorse.n.01 <SOS> v28 v3 v5 v5 v24 v1 v3 v1 v3 v3 <EOS>
+ostrich.n.02 <SOS> v28 v3 v10 v11 <EOS>
+red-necked_grebe.n.01 <SOS> v28 v3 v10 v9 v2 v4 v1 <EOS>
+minnow.n.01 <SOS> v28 v3 v2 v1 v12 v1 v2 v15 v5 <EOS>
+steeplechaser.n.01 <SOS> v22 <EOS>
+billy.n.02 <SOS> v28 v3 v5 v5 v24 v3 v1 v1 v10 <EOS>
+red_goatfish.n.01 <SOS> v28 v3 v2 v1 v11 v1 v1 <EOS>
+boarfish.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 <EOS>
+livestock.n.01 <SOS> v28 v3 v5 v5 <EOS>
+barren_ground_caribou.n.01 <SOS> v28 v3 v5 v5 v24 v3 v1 v4 v2 <EOS>
+tautog.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v49 <EOS>
+sand_lance.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 <EOS>
+european_bittern.n.01 <SOS> v28 v3 v10 v9 v1 v1 v7 <EOS>
+mediterranean_water_shrew.n.01 <SOS> v28 v3 v5 v5 v20 v5 v1 <EOS>
+koala.n.01 <SOS> v28 v3 v5 v1 v1 v8 <EOS>
+mole_rat.n.01 <SOS> v28 v3 v5 v5 v27 <EOS>
+norwich_terrier.n.01 <SOS> v7 v1 v18 v1 <EOS>
+persian_lamb.n.02 <SOS> v17 v1 v9 <EOS>
+midwife_toad.n.01 <SOS> v28 v3 v3 v6 <EOS>
+rhodesian_man.n.01 <SOS> v28 v3 v5 v5 v28 v5 v3 <EOS>
+ribbon_snake.n.01 <SOS> v28 v3 v9 v4 v1 v6 v24 <EOS>
+physa.n.01 <SOS> v31 v8 v5 <EOS>
+suslik.n.01 <SOS> v28 v3 v5 v5 v27 v4 v1 <EOS>
+jungle_cock.n.01 <SOS> v28 v3 v10 v24 v6 <EOS>
+black_bream.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v1 <EOS>
+cactus_mouse.n.01 <SOS> v28 v3 v5 v5 v27 v6 v3 <EOS>
+basking_shark.n.01 <SOS> v28 v3 v2 v1 v9 v2 v1 v7 <EOS>
+yellowtail.n.02 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v24 v2 <EOS>
+river_otter.n.01 <SOS> v28 v3 v5 v5 v23 v5 v4 <EOS>
+tody.n.01 <SOS> v28 v3 v10 v7 <EOS>
+horseleech.n.01 <SOS> v31 v4 v9 v1 <EOS>
+currawong.n.01 <SOS> v28 v3 v10 v10 v1 v2 <EOS>
+zinjanthropus.n.01 <SOS> v28 v3 v5 v5 v28 v5 v1 <EOS>
+common_mackerel.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v50 v1 <EOS>
+pocketed_bat.n.01 <SOS> v28 v3 v5 v5 v7 v1 v6 <EOS>
+ord_kangaroo_rat.n.01 <SOS> v28 v3 v5 v5 v27 v18 v3 v3 <EOS>
+attack_dog.n.01 <SOS> v7 v1 v2 v2 <EOS>
+angelfish.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v27 <EOS>
+canebrake_rattlesnake.n.01 <SOS> v28 v3 v9 v4 v1 v2 v2 v1 v5 <EOS>
+tarsius_glis.n.01 <SOS> v28 v3 v5 v5 v28 v3 <EOS>
+mudder.n.01 <SOS> v28 v3 v5 v5 v24 v1 v3 v1 v21 <EOS>
+solan.n.01 <SOS> v28 v3 v10 v9 v2 v5 v4 <EOS>
+giant_tortoise.n.01 <SOS> v28 v3 v9 v2 v1 v1 v9 <EOS>
+spouter.n.03 <SOS> v28 v3 v5 v5 v22 v1 v1 <EOS>
+budgerigar.n.01 <SOS> v28 v3 v10 v25 v2 <EOS>
+sinornis.n.01 <SOS> v28 v3 v10 <EOS>
+guppy.n.01 <SOS> v28 v3 v2 v1 v12 v1 v2 v15 v3 <EOS>
+gudgeon.n.02 <SOS> v28 v3 v2 v1 v12 v1 v2 v15 v5 <EOS>
+canada_porcupine.n.01 <SOS> v28 v3 v5 v5 v27 v34 v2 <EOS>
+chameleon_tree_frog.n.01 <SOS> v28 v3 v3 v6 v13 <EOS>
+harrier.n.02 <SOS> v7 v1 v18 v4 <EOS>
+finback.n.01 <SOS> v28 v3 v5 v5 v22 v1 v1 v2 v5 <EOS>
+zoril.n.01 <SOS> v28 v3 v5 v5 v23 v5 v10 v4 <EOS>
+durham.n.02 <SOS> v28 v3 v5 v5 v24 v3 v1 v1 v5 v3 v1 <EOS>
+african_crocodile.n.01 <SOS> v28 v3 v9 v4 v3 v3 <EOS>
+fallow_deer.n.01 <SOS> v28 v3 v5 v5 v24 v3 v1 v4 <EOS>
+painted_beauty.n.01 <SOS> v31 v14 v15 v25 v1 v3 <EOS>
+redbone.n.01 <SOS> v7 v1 v18 v4 <EOS>
+lesser_yellowlegs.n.01 <SOS> v28 v3 v10 v9 v1 v18 v13 v1 <EOS>
+kinkajou.n.01 <SOS> v28 v3 v5 v5 v23 v1 <EOS>
+spotted_antbird.n.01 <SOS> v28 v3 v10 v10 v3 v6 <EOS>
+blastocyst.n.01 <SOS> v33 v1 <EOS>
+lemon_shark.n.01 <SOS> v28 v3 v2 v1 v9 v2 v1 v5 <EOS>
+four-lined_plant_bug.n.01 <SOS> v31 v14 v15 v4 v3 v2 <EOS>
+biped.n.01 <SOS> <EOS>
+redheaded_woodpecker.n.01 <SOS> v28 v3 v10 v19 v1 <EOS>
+helminth.n.01 <SOS> v31 v4 <EOS>
+sparrow_hawk.n.02 <SOS> v28 v3 v10 v20 v3 <EOS>
+brood_bitch.n.01 <SOS> v28 v3 v5 v5 v23 v4 v3 <EOS>
+edmontonia.n.01 <SOS> v28 v3 v9 v4 v5 v5 v1 v2 v1 <EOS>
+shortfin_mako.n.01 <SOS> v28 v3 v2 v1 v9 v2 v1 v7 v3 <EOS>
+montagu's_harrier.n.01 <SOS> v28 v3 v10 v20 v3 v1 <EOS>
+purple_finch.n.01 <SOS> v28 v3 v10 v10 v1 v35 <EOS>
+pariah_dog.n.01 <SOS> v7 v1 v15 <EOS>
+south_american_sea_lion.n.01 <SOS> v28 v3 v5 v5 v22 v3 v2 v3 v3 <EOS>
+wood_tick.n.01 <SOS> v31 v14 v11 v6 v2 v2 <EOS>
+diving_duck.n.01 <SOS> v28 v3 v10 v9 v4 v1 v2 <EOS>
+desmodus_rotundus.n.01 <SOS> v28 v3 v5 v5 v7 v1 v5 <EOS>
+cat_shark.n.01 <SOS> v28 v3 v2 v1 v9 v2 v1 <EOS>
+japanese_spaniel.n.01 <SOS> v7 v1 v12 <EOS>
+dominique.n.01 <SOS> v28 v3 v10 v24 v1 v2 <EOS>
+burro.n.01 <SOS> v28 v3 v5 v5 v24 v1 v3 v6 v4 <EOS>
+rock_wren.n.01 <SOS> v28 v3 v10 v10 v1 v34 <EOS>
+european_bream.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v40 v1 <EOS>
+cygnet.n.01 <SOS> v17 v2 <EOS>
+appaloosa.n.01 <SOS> v28 v3 v5 v5 v24 v1 v3 v1 v26 <EOS>
+rock_wallaby.n.01 <SOS> v28 v3 v5 v1 v1 v1 v4 <EOS>
+colorado_potato_beetle.n.01 <SOS> v31 v14 v15 v21 v13 <EOS>
+exmoor.n.01 <SOS> v28 v3 v5 v5 v24 v3 v1 v1 v6 v1 <EOS>
+almond_moth.n.01 <SOS> v31 v14 v15 v25 v2 v4 <EOS>
+bluehead.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v49 <EOS>
+genet.n.03 <SOS> v28 v3 v5 v5 v23 v3 <EOS>
+potter_wasp.n.01 <SOS> v31 v14 v15 v32 v6 v2 <EOS>
+rottweiler.n.01 <SOS> v7 v1 v2 v13 <EOS>
+grey_fox.n.01 <SOS> v28 v3 v5 v5 v23 v4 v5 <EOS>
+boa_constrictor.n.01 <SOS> v28 v3 v9 v4 v1 v5 v1 <EOS>
+grey_snapper.n.01 <SOS> v28 v3 v2 v1 v8 v4 <EOS>
+ice_bear.n.01 <SOS> v28 v3 v5 v5 v23 v6 <EOS>
+macaw.n.01 <SOS> v28 v3 v10 v25 <EOS>
+electric_ray.n.01 <SOS> v28 v3 v2 v1 v9 v2 v2 <EOS>
+trilobite.n.01 <SOS> v31 v14 <EOS>
+border_terrier.n.01 <SOS> v7 v1 v18 v1 <EOS>
+fanaloka.n.01 <SOS> v28 v3 v5 v5 v23 v3 v4 <EOS>
+pea_weevil.n.01 <SOS> v31 v14 v15 v21 v17 v2 <EOS>
+japanese_oyster.n.01 <SOS> v31 v8 v3 v2 <EOS>
+spotted_sunfish.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v40 v1 <EOS>
+frogmouth.n.01 <SOS> v28 v3 v10 v12 <EOS>
+king_crab.n.03 <SOS> v31 v14 v2 v8 v6 <EOS>
+stone_marten.n.01 <SOS> v28 v3 v5 v5 v23 v5 v13 <EOS>
+charger.n.01 <SOS> v28 v3 v5 v5 v24 v1 v3 v1 v26 v17 <EOS>
+roller.n.07 <SOS> v28 v3 v10 v24 v7 v4 v1 <EOS>
+greater_swiss_mountain_dog.n.01 <SOS> v7 v1 v2 v7 <EOS>
+loggerhead_shrike.n.01 <SOS> v28 v3 v10 v10 v1 v12 <EOS>
+anopheline.n.01 <SOS> v31 v14 v15 v12 v3 <EOS>
+babirusa.n.01 <SOS> v28 v3 v5 v5 v24 v3 v3 <EOS>
+bengal_tiger.n.01 <SOS> v28 v3 v5 v5 v23 v2 v1 v5 <EOS>
+mourning_cloak.n.01 <SOS> v31 v14 v15 v25 v1 v3 <EOS>
+golden_oriole.n.01 <SOS> v28 v3 v10 v10 v1 v27 <EOS>
+black_and_gold_garden_spider.n.01 <SOS> v31 v14 v11 v3 <EOS>
+wood_thrush.n.01 <SOS> v28 v3 v10 v10 v1 v10 <EOS>
+rocky_mountain_whitefish.n.01 <SOS> v28 v3 v2 v1 v8 v10 <EOS>
+piddock.n.01 <SOS> v31 v8 v3 <EOS>
+western_ribbon_snake.n.01 <SOS> v28 v3 v9 v4 v1 v6 v24 <EOS>
+irish_setter.n.01 <SOS> v7 v1 v18 v3 v5 <EOS>
+secretary_bird.n.01 <SOS> v28 v3 v10 v20 <EOS>
+strymon_melinus.n.01 <SOS> v31 v14 v15 v25 v1 v2 v2 <EOS>
+english_springer.n.01 <SOS> v7 v1 v18 v3 v6 v3 <EOS>
+flashlight_fish.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 <EOS>
+angoumois_moth.n.01 <SOS> v31 v14 v15 v25 v2 v6 v2 <EOS>
+frosted_bat.n.01 <SOS> v28 v3 v5 v5 v7 v1 v4 <EOS>
+eastern_chimpanzee.n.01 <SOS> v28 v3 v5 v5 v28 v6 v1 v2 v1 <EOS>
+gopher_snake.n.02 <SOS> v28 v3 v9 v4 v1 v6 v20 <EOS>
+chinese_alligator.n.01 <SOS> v28 v3 v9 v4 v3 v2 <EOS>
+myxinikela_siroka.n.01 <SOS> v28 v3 v2 v3 v4 <EOS>
+whooper.n.02 <SOS> v28 v3 v10 v9 v5 <EOS>
+margate.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v14 <EOS>
+streptopelia_turtur.n.01 <SOS> v28 v3 v10 v24 v7 v4 v2 v1 <EOS>
+wireworm.n.01 <SOS> v15 <EOS>
+potoroo.n.01 <SOS> v28 v3 v5 v1 v1 v1 v1 <EOS>
+staffordshire_bullterrier.n.01 <SOS> v7 v1 v18 v1 v20 <EOS>
+plain_wanderer.n.01 <SOS> v28 v3 v10 v9 v1 <EOS>
+wood-frog.n.01 <SOS> v28 v3 v3 v6 v6 <EOS>
+white-throated_sparrow.n.01 <SOS> v28 v3 v10 v10 v1 v35 v6 <EOS>
+porbeagle.n.01 <SOS> v28 v3 v2 v1 v9 v2 v1 v7 <EOS>
+sea_trout.n.03 <SOS> v28 v3 v2 v1 v8 v3 v3 <EOS>
+australopithecus_robustus.n.01 <SOS> v28 v3 v5 v5 v28 v5 v1 <EOS>
+common_wasp.n.01 <SOS> v31 v14 v15 v32 v6 v2 <EOS>
+horned_pout.n.01 <SOS> v28 v3 v2 v1 v12 v1 v2 v7 v3 <EOS>
+water_beetle.n.01 <SOS> v31 v14 v15 v21 <EOS>
+flagfish.n.01 <SOS> v28 v3 v2 v1 v12 v1 v2 v15 v3 v1 <EOS>
+shovelhead.n.01 <SOS> v28 v3 v2 v1 v9 v2 v1 v10 <EOS>
+goldeneye.n.01 <SOS> v31 v14 v15 v6 v7 v1 <EOS>
+falcon-gentle.n.01 <SOS> v28 v3 v10 v20 v3 v6 v2 <EOS>
+yellow_goatfish.n.01 <SOS> v28 v3 v2 v1 v11 v1 v1 <EOS>
+auklet.n.01 <SOS> v28 v3 v10 v9 v2 v3 <EOS>
+conger.n.01 <SOS> v28 v3 v2 v1 v12 v1 v2 v8 <EOS>
+snowy_egret.n.01 <SOS> v28 v3 v10 v9 v1 v1 v6 <EOS>
+common_starling.n.01 <SOS> v28 v3 v10 v10 v1 v5 <EOS>
+bongo.n.02 <SOS> v28 v3 v5 v5 v24 v3 v1 v1 v7 <EOS>
+anomalopteryx.n.01 <SOS> v28 v3 v10 v11 v8 <EOS>
+white_wolf.n.01 <SOS> v28 v3 v5 v5 v23 v4 v2 <EOS>
+piping_crow.n.01 <SOS> v28 v3 v10 v10 v1 v2 <EOS>
+king_penguin.n.01 <SOS> v28 v3 v10 v9 v2 v7 v1 <EOS>
+grey.n.07 <SOS> v28 v3 v5 v5 v24 v1 v3 v1 v26 <EOS>
+megalosaur.n.01 <SOS> v28 v3 v9 v4 v5 v5 v3 v2 <EOS>
+hognose_bat.n.01 <SOS> v28 v3 v5 v5 v7 v1 v7 <EOS>
+bushbuck.n.01 <SOS> v28 v3 v5 v5 v24 v3 v1 v1 v7 v12 <EOS>
+by-catch.n.01 <SOS> v34 <EOS>
+indri.n.01 <SOS> v28 v3 v5 v5 v28 v7 <EOS>
+black_widow.n.01 <SOS> v31 v14 v11 v3 <EOS>
+raven.n.01 <SOS> v28 v3 v10 v10 v1 v4 <EOS>
+fairy_swallow.n.01 <SOS> v28 v3 v10 v24 v7 v4 v1 <EOS>
+winter_flounder.n.02 <SOS> v28 v3 v2 v1 v12 v1 v1 v17 v5 <EOS>
+comb-footed_spider.n.01 <SOS> v31 v14 v11 v3 <EOS>
+sharptail_mola.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v19 v2 <EOS>
+malayan_tapir.n.01 <SOS> v28 v3 v5 v5 v24 v1 v2 <EOS>
+proboscis_monkey.n.01 <SOS> v28 v3 v5 v5 v28 v9 v1 <EOS>
+allice_shad.n.01 <SOS> v28 v3 v2 v1 v8 v9 <EOS>
+mallard.n.01 <SOS> v28 v3 v10 v9 v4 v1 v2 <EOS>
+southeastern_pocket_gopher.n.01 <SOS> v28 v3 v5 v5 v27 v18 v3 v1 <EOS>
+bluebottle.n.02 <SOS> v31 v14 v15 v12 v10 v8 <EOS>
+red_underwing.n.01 <SOS> v31 v14 v15 v25 v2 v5 v3 <EOS>
+shrimpfish.n.01 <SOS> v28 v3 v2 v1 v12 v1 <EOS>
+jennet.n.01 <SOS> v28 v3 v5 v5 v24 v1 v3 v6 <EOS>
+chum_salmon.n.01 <SOS> v28 v3 v2 v1 v8 v12 <EOS>
+rock_python.n.01 <SOS> v28 v3 v9 v4 v1 v5 v1 v1 <EOS>
+banded_krait.n.01 <SOS> v28 v3 v9 v4 v1 v4 v2 <EOS>
+hellgrammiate.n.01 <SOS> v15 <EOS>
+northern_cricket_frog.n.01 <SOS> v28 v3 v3 v6 v13 v6 <EOS>
+lincoln.n.03 <SOS> v28 v3 v5 v5 v24 v3 v1 v1 v6 v1 <EOS>
+rough_fish.n.01 <SOS> v28 v3 v2 v1 <EOS>
+pitta.n.01 <SOS> v28 v3 v10 v10 v3 <EOS>
+vermin.n.02 <SOS> v20 <EOS>
+bullfrog.n.01 <SOS> v28 v3 v3 v6 v6 <EOS>
+komodo_dragon.n.01 <SOS> v28 v3 v9 v4 v4 v1 v4 <EOS>
+harbor_porpoise.n.01 <SOS> v28 v3 v5 v5 v22 v1 v1 v4 v1 v2 <EOS>
+whitetail_prairie_dog.n.01 <SOS> v28 v3 v5 v5 v27 v12 <EOS>
+sea_feather.n.01 <SOS> v31 v11 v2 v3 v2 <EOS>
+gastrula.n.01 <SOS> v33 <EOS>
+muscovy_duck.n.01 <SOS> v28 v3 v10 v9 v4 v1 v2 <EOS>
+rudd.n.01 <SOS> v28 v3 v2 v1 v12 v1 v2 v15 v5 <EOS>
+eastern_cottontail.n.01 <SOS> v28 v3 v5 v5 v4 v3 v2 v4 <EOS>
+shoveler.n.02 <SOS> v28 v3 v10 v9 v4 v1 v2 <EOS>
+mara.n.02 <SOS> v28 v3 v5 v5 v27 <EOS>
+muskrat.n.02 <SOS> v28 v3 v5 v5 v27 <EOS>
+greenwing.n.01 <SOS> v28 v3 v10 v9 v4 v1 v2 v9 <EOS>
+black-footed_albatross.n.01 <SOS> v28 v3 v10 v9 v2 v2 v2 <EOS>
+sand_fly.n.01 <SOS> v31 v14 v15 v12 v6 <EOS>
+apar.n.01 <SOS> v28 v3 v5 v5 v16 v1 <EOS>
+redhead.n.02 <SOS> v28 v3 v10 v9 v4 v1 v2 <EOS>
+fledgling.n.02 <SOS> v17 v2 <EOS>
+peahen.n.01 <SOS> v26 v1 v1 v1 v4 <EOS>
+missel_thrush.n.01 <SOS> v28 v3 v10 v10 v1 v10 <EOS>
+tussock_caterpillar.n.01 <SOS> v15 v1 <EOS>
+two-year-old_horse.n.01 <SOS> v28 v3 v5 v5 v24 v1 v3 v1 v21 <EOS>
+common_pond-skater.n.01 <SOS> v31 v14 v15 v22 v4 v1 <EOS>
+african_clawed_frog.n.01 <SOS> v28 v3 v3 v6 v4 <EOS>
+leveret.n.01 <SOS> v28 v3 v5 v5 v4 v3 v1 <EOS>
+european_water_shrew.n.01 <SOS> v28 v3 v5 v5 v20 v5 v1 <EOS>
+european_perch.n.01 <SOS> v28 v3 v2 v1 v12 v1 v1 v2 v2 <EOS>

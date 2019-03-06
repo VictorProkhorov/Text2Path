@@ -1,0 +1,110 @@
+PATO:0000403 cleft concave quality inhering bearer virtue bearer 's resembling groove fissure
+PATO:0002420 amphiphilic hydrophilic hydrophobic lipophilic groups
+PATO:0001302 vermilion color consisting red orange hue slight amount gray
+PATO:0001559 extra function functionality quality held bearer latter able perform additional different function supernumerary functions
+PATO:0001773 monophasic quality inhering bearer virtue bearer 's one phase stage
+PATO:0001635 necessary continuant necessity quality continuant inhering bearer virtue bearer 's essential indispensable
+PATO:0001671 increased distribution distribution relatively high high distribution
+PATO:0001675 decreased efficiency efficiency relatively low low efficiency
+PATO:0001280 dark pale pink pink color medium brightness low saturation bright pink
+PATO:0000375 decreased distance distance lesser relative normal average short distance
+PATO:0001742 increased radioactivity radioactivity relatively low high radioactivity
+PATO:0002010 looseness texture quality inhering bearer virtue bearer 's bing full small openings gaps
+PATO:0000644 hyperplastic increased size quality inhering organ tissue virtue bearer 's exhibiting increased number cells hyperplasia overdeveloped
+PATO:0001627 sufficient wholeness quality inhering bearer virtue bearer 's enough functionality adequate
+PATO:0001253 light magenta color consisting magenta color high brightness
+PATO:0000771 aversion preference quality bearer virtue bearer 's disliking perceived stimulus
+PATO:0001552 decreased sensitivity process sensitivity process lower normal average decreased sensitivity occurrent low sensitivity occurrent
+PATO:0001432 decayed quality inhering bearer virtue bearer 's decomposition component parts
+PATO:0001936 obovate spheroid quality inhering bearer virtue bearer 's egg-shaped flat narrow end attached base obovoid
+PATO:0002060 absorption wavelength specific wavelength radiation retained bearer
+PATO:0000309 young age relatively low
+PATO:0001201 y-shaped concave 3-d shape quality inhering bearer virtue bearer 's shaped form letter
+PATO:0000413 square shape quality inhering bearer virtue bearer 's equal-sided rectangular form
+PATO:0002230 subtriangular triangular shape quality inhering bearer virtue bearer 's nearly perfectly triangular
+PATO:0001436 sessile sensu botany attachment quality inhering flower virtue bearer 's lacking stalk flowers leaves grow directly stem
+PATO:0000396 severe intensity intensity extremely bad unpleasant type degree effect force
+PATO:0000963 opaque optical quality inhering bearer virtue bearer 's clear transmitting reflecting light radiant energy clouding cloudy non-transparent
+PATO:0001853 hydrocephalic structural quality held bearer latter exhibits excessive accumulation cerebral spinal fluid
+PATO:0002093 ballooning volume quality inhering degenerating cell virtue bearer 's exhibiting increase volume associated cytoplasmic abnormalities
+PATO:0001554 decreased sensitivity process oxygen sensitivity process oxygen lower normal average low sensitivity occurrent oxygen
+PATO:0015013 degree illumination degree bearer exposed visible light
+PATO:0001522 sound speed physical quality inhering sound virtue bearer 's travelling speed given medium specified conditions
+PATO:0001504 complex complexity quality inhering bearer virtue bearer 's intricate compounded
+PATO:0002164 curved medial curvature quality inhering bearer virtue bearer 's curved towards middle
+PATO:0001911 circling behavioral quality inhering bearer virtue bearer 's exhibiting movement circular course
+PATO:0001718 luminance quality exists virtue luminous intensity per unit area projected given direction
+PATO:0000620 wholly dorsalized dorsalized quality inhering bearer virtue bearer 's gross morphology containing normally dorsal structures dorsalized
+PATO:0001734 semi-deciduous plant quality inhering plant virtue bearer 's disposition evergeen deciduous
+PATO:0045026 normal life span life span relatively normal average
+PATO:0001518 blurry optical quality inhering bearer virtue bearer 's lacking focus
+PATO:0002043 increased anterior-posterior diameter anterior-posterior diameter quality relatively large high anterior-posterior diameter
+PATO:0001970 brochidodromous branched quality inhering bearer virtue bearer 's secondary branches joined together series prominent arches
+PATO:0040004 plush texture quality inhering bearer virtue bearer 's covered partially covered hair increased thickness softness
+PATO:0002400 fusiform spindle-like shape wide middle tapers ends
+PATO:0045050 normal size size quality relatively normal average
+PATO:0002357 d-shaped shape quality inhering bearer virtue bearer 's strait side arched side giving bearer form letter
+PATO:0045069 normal threshold threshold relatively normal average
+PATO:0001403 pluripotent cellular potency capacity produce differentiated cell types three primary germ layers extraembryonic cell types
+PATO:0001754 predisplaced growth peramorphic growth quality due earlier onset precocious growth
+PATO:0002307 isosceles triangular triangular quality inhering bearer virtue bearer 's two sides length
+PATO:0002260 semi erect quality inhering bearer virtue bearer 's partially upright position posture semi upright
+PATO:0045089 normal sensitivity process oxygen sensitivity occurrent oxygen relatively normal
+PATO:0002229 subrectangular quadrangular shape quality inhering bearer virtue bearer 's approximately rectangular
+PATO:0045037 normal phosphorylation quality inhering bearer virtue bearer 's phosphorylated normal average extent
+PATO:0001824 dry wetness quality inhering bearer virtue bearer 's covered liquid
+PATO:0001354 translucent optical quality inhering bearer virtue bearer 's exhibiting low opacity
+PATO:0001327 zygomorphic symmetry quality inhering bearer virtue bearer 's capable division symmetrical halves one longitudinal plane passing axis
+PATO:0001870 crescent-shaped shape quality inhering circular disk virtue bearer 's segment another circle removed edge remains shape enclosed two circular arcs different diameters intersect two points usually manner enclosed shape include center original circle bow-shaped crescentic lunate
+PATO:0002148 increased virulence virulence relatively high
+PATO:0002039 biconcave concave quality inhering bearer virtue bearer 's curving inward sides surfaces
+PATO:0045066 normal susceptibility toward susceptibility toward external stimulus relatively normal average
+PATO:0001737 gaseus configuration physical quality inhering bearer virtue bearer 's parts arrangement exhibits characteristics gases gas
+PATO:0001259 dark purple color consisting purple color low brightness
+PATO:0001391 mosaic trisomy trisomy quality inhering bearer virtue bearer 's extra chromosomal material 's cells
+PATO:0002282 increased mobility mobility relative high
+PATO:0010001 disconnected structural quality inhering bearer virtue bearer consisting multiple structures lacking physical connection
+PATO:0002023 apical-basal polarity positional quality inhering bearer virtue bearer 's location features characteristics along apical-basal axis
+PATO:0001807 decreased sensitivity irradiation sensitivity irradiation relatively low low sensitivity irradiation
+PATO:0002125 nodular quality inhering bearer virtue bearer 's consisting knot-like mass
+PATO:0045065 normal fatigability fatigability relatively normal average
+PATO:0001874 discoid shape quality inhering bearer virtue bearer 's cylindrical height less diameter disc-shaped disk-shaped
+PATO:0001575 decreased pressure pressure relatively low low pressure
+PATO:0002173 misaligned towards alignment quality inhering bearer virtue bearer 's improper spatial positioning towards additional entity
+PATO:0001758 nerve conductivity conductivity quality inhering motor sensory nerves virtue bearer 's ability convey electricity
+PATO:0045004 normal affinity affinity relatively normal average
+PATO:0000937 disorganized structural quality inhering bearer virtue bearer 's lacking organisation
+PATO:0002475 subterminal position quality inhering bearer virtue bearer 's existing near end another entity
+PATO:0001477 retracted positional quality inhering bearer virtue bearer 's drawn pulled back given point moved retruded
+PATO:0002020 pale pink pink color high brightness low saturation
+PATO:0000983 impermeable permeability quality inhering bearer virtue bearer 's incapable permeated pervaded gas liquid osmosis diffusion
+PATO:0000374 increased distance distance greater relative normal average long distance
+PATO:0001382 tetraploid polyploidy quality inhering bearer virtue bearer 's containing four homologous sets chromosomes
+PATO:0002036 axial spatial quality inhering bearer virtue bearer 's located towards central axis organism extremity
+PATO:0001943 lilac purple color low saturation low brightness
+PATO:0002396 mislocalized adaxially positional quality inhering bearer virtue bearer 's positioned towards axis organism
+PATO:0001698 increased photosensitivity photosensitivity relatively high high photosensitivity
+PATO:0001831 increased female fertility female fertility relatively high high female fertility
+PATO:0001756 heat conductivity conductivity quality inhering bearer virtue bearer 's disposition spontaneous transfer thermal energy region higher temperature region lower temperature thermal conduction
+PATO:0001809 tight pattern quality inhering bearer virtue bearer 's compact dense arrangement
+PATO:0001818 progressive quality single process inhering bearer virtue bearer 's increasing time
+PATO:0001021 energy physical quality inhering bearer virtue bearer 's capacity work
+PATO:0002141 irregular density density quality lacks pattern
+PATO:0002205 capacitance quality inhering bearer virtue bearer 's ability hold electrical charge
+PATO:0000690 discontinuous quality single process inhering bearer virtue bearer 's marked breaks interruptions intermittent interrupted
+PATO:0001964 circinate curled quality inhering bearer virtue bearer 's edges surface rolled spirally downwards
+PATO:0045036 normal permeability permeability relatively normal average
+PATO:0001841 remittent intensity intensity characterized temporary abatement severity
+PATO:0002470 transformed morphological quality two bearers inhering one bearer subject change nature function condition become
+PATO:0002378 acinus shape resembles many-lobed
+PATO:0002296 foveate texture quality inhering surface virtue bearer 's marked presence small shallow regular depressions called fovae foveolate pitted
+PATO:0002443 level positional quality inhering bearer virtue bearer 's located level another entity
+PATO:0045034 normal osmolality osmolality relatively normal average odor
+PATO:0002492 anterolateral orientation orientation quality inhering bearer virtue bearer position directed anterolaterally anterolaterally directed
+PATO:0001168 undamaged structural quality inhering bearer virtue harmed injured spoiled
+PATO:0000609 closure incomplete morphological quality inhering bearer virtue bearer 's affording completed blocked passage view
+PATO:0045083 normal wetness wetness relatively normal average
+PATO:0002274 mottled multicolored quality inhering bearer virtue bearer 's dappled spots patches blotches different colors
+PATO:0001695 increased fecundity fecundity relatively high high fecundity
+PATO:0000941 vacuolated structural quality inhering cytoplasm contains fluid filled cavities
+PATO:0001937 spatulate shape quality inhering bearer virtue bearer 's oblong lower end much attenuated spathulate
