@@ -7,8 +7,11 @@ import numpy as np
 import re
 import random
 import unicodedata
+import argparse
+import logging
 np.random.seed(1)
 import tensorflow as tf
+import networkx as nx
 tf.enable_eager_execution()
 tf.reset_default_graph()
 tf.set_random_seed(1)
@@ -20,8 +23,7 @@ from keras.layers import Bidirectional, concatenate
 from keras import initializers
 import keras.backend as K
 from sklearn.decomposition import PCA
-import argparse
-import logging
+
 
 
 def get_embeddings(path, data_w2index, embed_size):
@@ -168,7 +170,7 @@ class Encoder(tf.keras.Model):
     def __init__(self, vocab_size, embedding_dim, enc_units, W, is_word_pretraining=False):
         super(Encoder, self).__init__()
         self.enc_units = enc_units
-        if is_word_pretraining == True:
+        if is_word_pretraining == 1:
             logging.debug('Using Pretrained Word Embeddings')
             self.embedding = tf.keras.layers.Embedding(vocab_size, embedding_dim, mask_zero=True,embeddings_initializer=tf.keras.initializers.Constant(W), trainable=True)
         else:
@@ -372,6 +374,23 @@ def evaluate(sentence, encoder, decoder, inp_lang, targ_lang, max_length_inp, ma
     return result, sentence, attention_plot
 
 
+def identify_root_node(G):
+	for node in G.nodes():
+		if len(list(G.predecessors(node))) == 0:
+			return node
+
+
+def test_validity_of_sequence(G, sequence, start_node):
+    current_node = start_node
+    if '<EOS>' in sequence:
+        sequence.remove('<EOS>')
+    for seq_edge_label in sequence:
+        current_node_edges = {G.get_edge_data(current_node, neighbour)['labels']: neighbour for neighbour in G.successors(current_node)}
+        if seq_edge_label in current_node_edges:
+            current_node = current_node_edges[seq_edge_label]
+        elif seq_edge_label not in current_node_edges:
+            return 0
+    return 1
 
 
 
@@ -417,8 +436,17 @@ def calculate_f1(gold_edges, predicted_edges):
     return f1(gold_edges, predicted_edges)
 
 
+
+def get_graph(edge_list_f, directed=True):
+	if  directed == True:
+		G = nx.read_edgelist(edge_list_f, create_using=nx.DiGraph(), nodetype=str, comments='#')
+	else:
+		G = nx.read_edgelist(edge_list_f, create_using=nx.Graph(), nodetype=str, comments='#')
+	return G
+
+
 greedy_f1_scores = []
-is_train = False
+valid_seq = []
 if __name__ == '__main__':
     descr = "Tensorflow (Eager) implementation for text-to-path model. In all experiments Tensorflow (CPU) 1.11.0 and python 2.7 were used."
     epil  = "See: Generating Knowledge Graph Paths from Textual Definitionsusing Sequence-to-Sequence Models [V. Prokhorov, M.T. Pilehvar, N. Collier (NAACL 2019)]"
@@ -426,6 +454,11 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=descr, epilog=epil)
     parser.add_argument('--train_data', required=True,
                          help='File with training (text and path pairs) data')
+    parser.add_argument('--is_train', required=True, type=int, default=1,
+                         help='Train a new model or load existing one')
+    parser.add_argument('--graph', required=True,
+                         help='used to count a number of invalid sequences')
+    
     parser.add_argument('--augment_data', required=True,
                          help='File with path (only) data')
     parser.add_argument('--test_data', required=True,
@@ -443,14 +476,17 @@ if __name__ == '__main__':
     
     parser.add_argument('--embed_dims', type=int, default=64,
                         help='Number of embedding dimensions')
-    parser.add_argument('--is_pretrain_embed', type=bool, default=False,
+    parser.add_argument('--is_pretrain_embed', type=int, default=0,
                         help='Determines whether to use pretrained word embeddings or not')
-    parser.add_argument('--is_logging', type=bool, default=False,
+    
+    parser.add_argument('--is_logging', type=int, default=0,
                         help='logging')
     args = parser.parse_args()
-    if args.is_logging:
+    if args.is_logging == 1:
         logging.basicConfig(level=logging.DEBUG)
 
+    is_train = args.is_train
+    
     # Loading Training Data #
     training_data_file_name=args.train_data
     data_augmentation_file_name = args.augment_data 
@@ -465,11 +501,14 @@ if __name__ == '__main__':
     vocab_inp_size = len(inp_lang.word2idx)
     logging.debug('vocab_inp_size: %d', vocab_inp_size)
     vocab_tar_size = len(targ_lang.word2idx)
-    pretrained_embeddings_file = '../../../Data/Auxiliary_Data/Corpora/numberbatch-en.txt'
-    W = get_embeddings(pretrained_embeddings_file, inp_lang.word2idx, 300)
-    pca = PCA(n_components=embedding_dim)
-    W = pca.fit_transform(W)
-    logging.debug('W reduced: (%d, %d)', W.shape[0], W.shape[1])
+    if args.is_pretrain_embed == 1:
+        pretrained_embeddings_file = '../../Data/Auxiliary_Data/Corpora/numberbatch-en.txt'
+        W = get_embeddings(pretrained_embeddings_file, inp_lang.word2idx, 300)
+        pca = PCA(n_components=embedding_dim)
+        W = pca.fit_transform(W)
+        logging.debug('W reduced: (%d, %d)', W.shape[0], W.shape[1])
+    else:
+        W = None
     EPOCHS = args.epochs
 
     # Create Model #
@@ -506,6 +545,9 @@ if __name__ == '__main__':
     test_data_file_name=args.test_data
     dev_pairs = read_test_data(test_data_file_name)
     
+    G = get_graph(args.graph)
+    start_node = identify_root_node(G)
+    
     is_print_path = False # set to True to observe predicted path
     for dev_pair in dev_pairs:
         current_word = dev_pair[0]
@@ -521,7 +563,12 @@ if __name__ == '__main__':
             print(''.join(['-'for _ in range(10)]))
         greedy_f1_score = calculate_f1(gold_path, decoded_path)
         greedy_f1_scores.append(greedy_f1_score)
+        if args.is_train == 0:
+            # use only for text2edges model
+            valid_seq.append(test_validity_of_sequence(G, decoded_path, start_node))
     print('###F1###:', sum(greedy_f1_scores) / len(greedy_f1_scores))
+    if args.is_train == 0:
+        print('Pecentage of Invalid Sequences', (1 - sum(valid_seq)/len(valid_seq) )*100)
 
 
 
