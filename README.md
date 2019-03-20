@@ -1,11 +1,12 @@
 # Text2Path: model for mapping  unrestricted text to knowledge graph entities
 
 ## Table of contents
-1. [Replicate Results]
-1. [Usage](#markdown-header-usage)
-2. [Citing](#markdown-header-citing)
-3. [Licence](#markdown-header-licence)
-4. [Contact info](#markdown-header-contact-info)
+
+1. [Replicate Results](#markdown-header-replicated-results)
+2. [Usage](#markdown-header-usage)
+3. [Citing](#markdown-header-citing)
+4. [Licence](#markdown-header-licence)
+5. [Contact info](#markdown-header-contact-info)
 
 ## Replicate Results
 
