@@ -31,7 +31,7 @@ Code for the MS-LSTM model can be found [here](https://bitbucket.org/dimkart/ms-
 
 ## Usage
 ### Step 1: Graph Preprocessing
-Algorithms assumes that a graph is a tree graph and its represented as an edge list:
+Algorithm assumes that a graph is a tree graph and its represented as an edge list:
 
 ```
 node1 node5
