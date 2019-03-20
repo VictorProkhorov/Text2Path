@@ -2,11 +2,11 @@
 
 ## Table of contents
 
-1. [Replicate Results](#markdown-header-replicated-results)
-2. [Usage](#markdown-header-usage)
-3. [Citing](#markdown-header-citing)
-4. [Licence](#markdown-header-licence)
-5. [Contact info](#markdown-header-contact-info)
+1. [Replicate Results](#replicated-results)
+2. [Usage](#usage)
+3. [Citing](#citing)
+4. [Licence](#licence)
+5. [Contact info](#contact-info)
 
 ## Replicate Results
 
@@ -30,7 +30,6 @@ $ sh get_reported_results.sh
 Code for the MS-LSTM model can be found [here](https://bitbucket.org/dimkart/ms-lstm/src/master/)
 
 ## Usage
-(#markdown-header-usage)
 ### Step 1: Graph Preprocessing
 Algorithms assumes that a graph is a tree graph and its represented as an edge list:
 
@@ -74,7 +73,7 @@ $ python text_to_path_model.py --train_data <path_to_train_data> --augment_data 
 
 
 ## Citing
-(#markdown-header-citing)
+
 If you find this material useful in your research, please cite:
 
 ```
@@ -90,11 +89,11 @@ If you find this material useful in your research, please cite:
 ```
 
 ## Licence
-(#markdown-header-licence)
+
 The code in this repository is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation. The code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) for more details.
 
 
-## Contact info(#markdown-header-contact-info)
+## Contact info
 
 For questions or more information please use the following:
 * **Email:** vp361@cam.ac.uk 
