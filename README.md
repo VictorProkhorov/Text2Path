@@ -1,14 +1,14 @@
 # Text2Path: model for mapping  unrestricted text to knowledge graph entities
 
 ## Table of contents
-1. [Replicate Results](#markdown-header-replicate)
+1. [Replicate Results]
 1. [Usage](#markdown-header-usage)
 2. [Citing](#markdown-header-citing)
 3. [Licence](#markdown-header-licence)
 4. [Contact info](#markdown-header-contact-info)
 
 ## Replicate Results
-(#markdown-header-replicate)
+
 We provide pretrained models for text2edges(*)[last row of Table 2]. To replicate the results:
 
 ### Step 1:
@@ -26,7 +26,7 @@ $ cd ./Text2Path/Scripts/Model/
 $ sh get_reported_results.sh
 ```    
 
-Code for the MS-LSTM model can be found [here](ttps://bitbucket.org/dimkart/ms-lstm/src/master/)
+Code for the MS-LSTM model can be found [here](https://bitbucket.org/dimkart/ms-lstm/src/master/)
 
 ## Usage
 (#markdown-header-usage)
