@@ -94,7 +94,7 @@ If you find this material useful in your research, please cite:
 The code in this repository is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation. The code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) for more details.
 
 
-## Contact info
-(#markdown-header-contact-info)
+## Contact info(#markdown-header-contact-info)
+
 For questions or more information please use the following:
 * **Email:** vp361@cam.ac.uk 
