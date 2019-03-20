@@ -10,7 +10,7 @@
 
 ## Replicate Results
 
-We provide pretrained models for text2edges(*)[last row of Table 2]. To replicate the results:
+We provide pretrained models (all models were trained on a CPU) for text2edges(*)[last row of Table 2]. To replicate the results:
 
 ### Step 1:
 
