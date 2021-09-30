@@ -1,4 +1,4 @@
-# Text2Path: model for mapping  unrestricted text to knowledge graph entities
+# [Text2Path: Model for Mapping  Unrestricted Text to Knowledge Graph Entities](https://aclanthology.org/N19-1196/)
 
 ## Table of contents
 
